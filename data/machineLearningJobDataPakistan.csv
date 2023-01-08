@@ -1,0 +1,340 @@
+Job-Type,Date-Posted,Salary,Job-Title,Date-Scraped,Url,Company,Location,Description
+Full-time,2023-01-08,NA,Senior Software Engineer (Machine Learning),2023-01-08 13:37:01.747930 MDT,https://www.google.com/search?q=Machine+Learning+Jobs+Pakistan&ibp=htl;jobs&sa=X&ved=2ahUKEwjiw6Lm6bj8AhV0HjQIHbWdCysQutcGKAF6BAgIEAY#htivrt=jobs&htidocid=tldAUn-r8G0AAAAAAAAAAA%3D%3D&fpstate=tldetail,Afiniti,"Islamabad, Pakistan","Who are we?
+
+Afiniti is the world’s leading applied artificial intelligence and advanced analytics provider. Afiniti Enterprise Behavioral Pairing™ uses artificial intelligence to identify subtle and valuable patterns of human interaction in order to pair individuals on the basis of behavior, leading to more successful interactions and measurable increases in enterprise profitability. Afiniti operates throughout the world and has measurably driven billions of dollars in incremental value for our clients.
+
+Purpose
+
+Afiniti uses data science and operations research to enhance human interactions in large enterprises by efficiently pairing customers or tasks with company representatives. Our primary focus is improving contact center interactions for sales, service, retention, collections, and customer satisfaction in fields ranging from telecommunications to healthcare to banking to hospitality. To ensure we’re delivering value, we measure performance using a real-time control group –... routing a portion of calls using the client’s existing system and the majority of calls using our data-scientist-designed pairing and next best action recommendation strategies.
+
+Key Responsibilities
+
+As a member of the modeling development team within the R&D department, you’ll develop modeling, simulation, and validation tools to launch our cutting-edge self-service AI tool, which will allow customers to deploy Afiniti’s technology in their own call center. In addition, you will help develop tools and methods to allow our applied AI team to implement new strategies on our managed accounts. The particular challenges of our domain require applying a wide range of classical to cutting-edge techniques – often with extensive tailoring – to implement the training and validation of statistical models. The modeling research team members are extremely versatile, and own the full research process (problem discovery, scoping, strategy development and implementation).
+
+The ideal Candidate will have
+• Strong development skills in at least one programming language (Familiarity with at least one scripting language for data analysis such as R, Python, or Julia strongly preferred)
+• Familiarity with SQL, relational databases, version control, and tools for reproducibility such as git, Jupyter and R Markdown, make, or authoring custom packages
+• Experience with building and deploying machine learning models
+• Demonstrated ability to manage time independently and take projects to completion
+• Willingness to both teach others and learn new techniques
+• Familiarity with statistics
+• Comfort working in a collaborative environment with cross-team communication to bring projects into production
+• Ability to independently distill possibly vague requirements into actionable tasks
+
+Pluses
+• Experience with Cython and/or optimizing code in Julia
+• Strong statistics knowledge, especially Bayesian statistics.
+
+Education And Qualifications
+• Degree in Computer Science or another technical field (Post-graduate degree strongly preferred)
+
+Salary and Package
+
+As well as a competitive base salary dependent on the number of years of experience, we also offer corporate benefits"
+Full-time,NA,PKR 140K–PKR 200K a month,Machine Learning Engineer,2023-01-08 13:37:02.320081 MDT,https://www.google.com/search?q=Machine+Learning+Jobs+Pakistan&ibp=htl;jobs&sa=X&ved=2ahUKEwjiw6Lm6bj8AhV0HjQIHbWdCysQutcGKAF6BAgIEAY#htivrt=jobs&htidocid=2WoOu3WUbu0AAAAAAAAAAA%3D%3D&fpstate=tldetail,AxcelerateAI,"Lahore, Pakistan","We are looking for a Machine Learning Engineer
+
+The ML engineer will be responsible for the following tasks:
+• Coordinating with an in-house or external data team to design a strategy for collecting appropriate data for building a deep learning model for the required task
+• Designing, building and training deep learning models using state-of-the-art architectures including CNNs, LSTMs, attention networks and transformers. Training is either done on our on-premise servers or on the cloud (e.g., using AWS servers)
+• Deploying the final model on a server and providing an interface or APIs to interact with it
+
+Minimum Requirements
+• Bachelor’s or Master’s degree in EE, CS or Data Science
+• Ability to formulate a problem as a machine learning problem
+• A reasonable theoretical/mathematical understanding of various deep learning architectures
+• A reasonable theoretical/mathematical understanding of various objective/loss functions
+• Strong programming skills in Python
+• Extensive experience... in either TensorFlow or PyTorch
+• Prior experience of using deep learning either in research or industrial setting"
+Full-time,NA,NA,Remote Machine Learning Engineer - Head of ML/Data Jobs,2023-01-08 13:37:02.892539 MDT,https://www.google.com/search?q=Machine+Learning+Jobs+Pakistan&ibp=htl;jobs&sa=X&ved=2ahUKEwjiw6Lm6bj8AhV0HjQIHbWdCysQutcGKAF6BAgIEAY#htivrt=jobs&htidocid=wy_YYdd-EhoAAAAAAAAAAA%3D%3D&fpstate=tldetail,Turing,Pakistan,"A US-based startup committed to designing, building, and managing high-performing revenue operations for businesses is looking to hire a Machine Learning Engineer. The engineer will develop machine learning models to classify news/PR/industry articles based on category tags derived from a learning data of 5000+ data points. The company has assembled a dynamic group of sales, marketing, and technology experts with a track record of leading growth for some of the world’s largest and most successful companies. The selected candidate will create and leverage existing ML models for text summarization to enable rapid analyst understanding and context. This is an excellent opportunity for those who would like to join the team in pioneering the future of B2B growth.
+
+Job Responsibilities:
+• Understand the business objectives and develop models to achieve them, along with metrics for progress tracking
+• Design and develop scalable machine learning systems
+• Research and integrate appropriate... ML algorithms and tools
+• Manage and lead the team executing the bottoms up build of a sales insight engine
+
+Job Requirements:
+• Bachelor’s/Master’s degree in Engineering, Computer Science (or equivalent experience)
+• At least 3-5+ years of relevant Software, ML, or Data engineering experience
+• Baseline knowledge of full-stack development is desired
+• Nice to have some proficiency in Scala, Play-framework, HTML, Bootstrap, jQuery, JavaScript, and Python scripting
+• Have a keen interest in building from scratch rather than with frameworks
+• Competence in data science and algorithms to develop rules and scoring of quantitative information
+• Sound problem-solving aptitude
+• Familiarity with various machine learning frameworks and libraries
+• Ability to thrive in a fast-paced, collaborative environment"
+Full-time,NA,NA,AI / Data Science Engineer,2023-01-08 13:37:03.450760 MDT,https://www.google.com/search?q=Machine+Learning+Jobs+Pakistan&ibp=htl;jobs&sa=X&ved=2ahUKEwjiw6Lm6bj8AhV0HjQIHbWdCysQutcGKAF6BAgIEAY#htivrt=jobs&htidocid=cO63AEh1FvIAAAAAAAAAAA%3D%3D&fpstate=tldetail,Harri - Pakistan,"Islamabad, Pakistan","About Harri:
+
+Harri is all about Hospitality! Founded in 2013, Harri has positioned itself as the first Workforce Operating System of its kind. While Harri started as a talent marketplace for hospitality, the company has evolved to provide best in class human capital management and workforce resourcing solutions designed for the restaurant and hospitality industry.
+
+Harri is looking for an AI / Data Science Engineer with at least 2 years of experience in the AI / Data Science and Software Development fields to join our team.
+
+As an AI / Data Science Engineer you will be challenged to help build and optimize our AI-powered services for our workforce OS platform for the hospitality and retail industries while contributing to the overall culture, performance, and integrity of our established team.
+
+You will be preparing Data Sets, evaluating existing AI processes, performing statistical analysis to detect and resolve data set problems, and enhancing the accuracy of our AI models. Also... you will be asked to maintain a hygiene and reliable Data Structure and Object Oriented Programming, and develop APIs.
+
+Skills and Qualifications:
+• Have exceptional mathematical and statistical skills.
+• Have excellent data observation and analytical skills; Matplotlib, Seaborn, Plotly, ggplot.
+• Have hands-on experience in developing data products using Python.
+• Can verify the quality of data.
+• Have solid experience in data extraction and feature engineering techniques using Python Pandas.
+• Have comprehensive and deep knowledge of ML algorithms, frameworks, libraries, data structures, data modeling, and software architecture; scikit-learn, PyTorch, Keras, Tensorflow.
+• Can verify the quality of trained models; evaluation metrics, confusion matrix and validation curves.
+• Have practical NLP experience using embedding and Word2Vec models.
+• Can collaborate with data engineers to build data and model pipelines.
+• Can convert machine learning models into APIs; using Python Django and Flask frameworks.
+• Can test and deploy models to Production.
+• Can well communicate and explain processes/services to product managers and any not-technical experts.
+• Can research and implement best practices to improve the existing models in terms of algorithms and/or infrastructure.
+• Have a keen sense of the importance of Object-Oriented development and design patterns.
+• Have proven work experience in SQL and relational databases.
+• Experience with GIT repositories.
+• Experience with AWS components especially EC2, S3, SageMaker is a great plus.
+
+Requirements:
+• BA Degree in computer science, data science, mathematics, or a related field.
+• Professional team player with ability to work under pressure.
+• Ability to conduct code reviews.
+• Ability to participate effectively and proactively in solutions’ designs and problem solving.
+• Contribute to the overall culture of the company.
+
+Compensation: To Be discussed"
+Full-time,NA,NA,Lead Machine Learning Engineer,2023-01-08 13:37:04.015055 MDT,https://www.google.com/search?q=Machine+Learning+Jobs+Pakistan&ibp=htl;jobs&sa=X&ved=2ahUKEwjiw6Lm6bj8AhV0HjQIHbWdCysQutcGKAF6BAgIEAY#htivrt=jobs&htidocid=DuzWehrJQDsAAAAAAAAAAA%3D%3D&fpstate=tldetail,Quixel,"Islamabad, Pakistan","We are looking for an experienced Machine Learning Engineer who is passionate about applying Machine Learning to solve problems in the field of 3D Computer Graphics and Machine Vision. You will be working as part of a team to design, build and maintain pipelines for data processing, model training and evaluation. You will be managing and mentoring junior ML engineers as well as designing and running experiments to evaluate ML models for image recognition, segmentation, retrieval, texture synthesis and 3D shape generation.
+
+In this role, you will
+• Lead and mentor a team of ML engineers
+• Manage the development and deployment processes
+• Use hands-on, technical expertise to drive solutions for a range of challenges
+• Design, review and implement automated pipelines for model training and evaluation
+• Design, review and run experiments to evaluate state of the art research in the context of our specific problems
+• Collaborate with a team to explore data driven solutions for problems in... our internal pipelines and product features
+
+What we're looking for
+• 5+ years of professional coding experience with strong programming experience with Python
+• 3+ years of professional experience working in the domains of Deep Learning and Computer Vision
+• Experience of leading an engineering team
+• Experience of building and maintaining data pipelines
+• Experience of working with ML libraries such as TensorFlow, PyTorch, MatCovNet, MXNet etc. (experience with PyTorch is preferred)
+
+Nice to have skills
+• Experience with ML Ops and AWS
+• Programming experience in C/C++
+• Familiarity with 3D Computer Graphics and popular CG tooling
+• Knowledge of PBR and real-time rendering techniques
+
+Remaining knowledge, skills, and abilities needed
+• Ability to lead a team as well as work in a team
+• Strong contributor to the maintenance of a fantastic and transparent culture
+• Proactive and effective communication style
+
+About Quixel
+
+Quixel is the creator of Megascans, Bridge, and Mixer: the world’s largest library of 3D scans and two groundbreaking art applications. Our products standardize and accelerate workflows within the entire 3D industry and empower all artists to take control of their creative passions.
+
+We work with industry leaders in 3D art and have been integral to some of today’s biggest AAA games and blockbuster movies. We are also rapidly expanding into architectural visualization and product design spaces.
+
+We hire creative, passionate people, and give them the autonomy to do great work. We are building Quixel to be a remarkable place to work, learn, and grow. We are growing fast and would love to work with you!
+
+Quixel is proud to be an equal opportunity, non-discrimination and harassment free workplace. A diverse workforce with varied perspective and background strengthens us by creating and environment receptive to new ideas, alteration and innovation.
+
+Note to Applicants
+
+Please continue to visit our jobs website for future job and internship opportunities.
+
+If you don't see a fitting job listed, submit your application under General Applications.
+
+Please note that we do not accept applications via email or phone calls.
+
+Note to Recruiters and Placement Agencies
+
+Quixel does not accept unsolicited agency resumes or phone calls"
+Contractor,2023-01-08,NA,Machine Learning Engineer,2023-01-08 13:37:04.583319 MDT,https://www.google.com/search?q=Machine+Learning+Jobs+Pakistan&ibp=htl;jobs&sa=X&ved=2ahUKEwjiw6Lm6bj8AhV0HjQIHbWdCysQutcGKAF6BAgIEAY#htivrt=jobs&htidocid=GYi_lD30nYwAAAAAAAAAAA%3D%3D&fpstate=tldetail,iENGINEERING,Pakistan,"Job Information
+
+Industry
+
+IT Services
+
+Work Experience
+
+2+ years of experience, working in AI or similar domains.
+
+Created Time
+
+03/27/2020 12:36
+
+City
+
+Islamabad
+
+State/Province
+
+Islamabad
+
+Country
+
+Pakistan
+
+Zip/Postal Code
+
+44000
+
+Job Description
+
+iENGINEERING is looking for a Machine Learning Engineer for the Applied Research Group who is experienced in at least one of the frameworks like TensorFlow or PyTorch with strong programming skills in Python. The developer should be able to work independently and understand the entire flow of creating training data, data pre-processing as well as training, evaluating, and deploying models. Experience with AWS and Docker is a plus.
+
+The iENGINEERING Applied Research Group is a group of technology evangelists, software engineers, and data scientists working together to pursue game-changing advances in artificial intelligence and to develop cutting-edge tools for solving complex real-world problems for the US transportation... industry.
+
+Department: Applied Research
+
+Reports to: Product Manager
+
+Qualification: Bachelor’s/Master’s degree in Engineering or Computer Science
+
+Experience: 2+ years of experience, working in AI or similar domains
+
+Requirements
+• The candidate should have experience in building AI applications with robust architecture which are scalable as per project requirements.
+• Must have hands-on experience in implementing deep learning algorithms. Experience in NLP and traditional machine learning is a plus.
+• Design, develop and maintain scalable code based on Computer Vision.
+• Must be proficient in Python, PyTorch, TensorFlow, OpenCV, NumPy, scikit-learn, Pandas, and Matplotlib. Should also be comfortable working with object detection, image segmentation, and classification models.
+• Must be proficient in deploying production-scale models to AWS or Azure. Experience with Elastic BeanStalk or SageMaker is a plus.
+• Must be proficient in version control on Git or Azure DevOps.
+• Experience in deploying lightweight models to Edge Devices is a plus.
+• Must also be comfortable in quickly learning new things according to the requirements of the project. Demonstrable experience in research and development is a plus.
+• The ideal candidate will have strong leadership skills and is willing to take ownership of the projects"
+Full-time,NA,NA,Remote Machine Learning Engineer Jobs,2023-01-08 13:37:05.142568 MDT,https://www.google.com/search?q=Machine+Learning+Jobs+Pakistan&ibp=htl;jobs&sa=X&ved=2ahUKEwjiw6Lm6bj8AhV0HjQIHbWdCysQutcGKAF6BAgIEAY#htivrt=jobs&htidocid=hoLVyH3qMygAAAAAAAAAAA%3D%3D&fpstate=tldetail,Turing,Pakistan,"An emerging edtech startup building an initial team of talented individuals is looking for a Machine Learning Engineer. The engineer will be actively contributing to developing a computer adaptive testing solution that also employs machine learning for the education space. The company has recently raised a pre-seed fund and aims to implement an Adaptive Learning System. This would be an exciting opportunity for those who want to work in a fast-paced and customer-first environment. It requires an overlap with PST.
+
+Job Responsibilities:
+• Assist in building back-end infrastructure, data pipelines, and ML models for AI-backed products
+• Experiment with ML techniques to create and test new program features
+• Assist in extending and improving existing ML frameworks and libraries
+• Work alongside data engineers to create data and model pipelines, and embed AI and analytics into the business decision processes
+• Integrate ML models to end-users and run experiments
+• Run tests, perform... statistical analysis, interpret test results, and perform tuning and scaling
+
+Job Requirements:
+• Bachelor’s/Master’s degree in Engineering, Computer Science (or equivalent experience)
+• At least 3+ years of relevant experience as a Machine Learning Engineer
+• Must have hands-on experience in Adaptive Learning Systems
+• Should be well versed in MEAN and/or MERN stacks
+• Expertise in Machine Learning and Artificial Intelligence
+• Experience in data science projects and psychometrics is required
+• Must have excellent communication skills with proficiency in English"
+Full-time,NA,PKR 90K–PKR 250K a month,Machine Learning Engineer,2023-01-08 13:37:05.718184 MDT,https://www.google.com/search?q=Machine+Learning+Jobs+Pakistan&ibp=htl;jobs&sa=X&ved=2ahUKEwjiw6Lm6bj8AhV0HjQIHbWdCysQutcGKAF6BAgIEAY#htivrt=jobs&htidocid=u709soD3_woAAAAAAAAAAA%3D%3D&fpstate=tldetail,Plentys.pk,"Karachi, Pakistan","Machine Learning Engineer and Computer Vision specialist
+
+We are looking for Machine Learning Engineer and Computer Vision specialist to join our team.
+
+JOB BRIEF:
+
+We are looking for a Machine Learning and Computer Vision specialist who will be responsible for the leading designing and development of innovative deep learning systems capable of image classification, object detection, and face recognition.
+
+To do this job successfully, you need exceptional skills in statistics, programming, and graphical systems. If you also have the knowledge and are willing to take on an interesting challenge to reimage the retail industry, we’d like to meet you.
+
+Your ultimate goal will be to build efficient self-learning applications while leading a highly skilled and self-functional team.
+
+RESPONSIBILITIES:
+
+Some of our key responsibilities in this role will be:
+• Designing and developing machine learning and deep learning systems computer vision system
+• Leading the technical development of the... project
+• Delegating and managing a self-managed team
+• Design testing processes and help execute use cases
+• Firm understanding with machine learning frameworks such as Keras and PyTorch, and other libraries like OpenCV, Tensor Flow, Numpy, Pandas, yolo
+• Performing Tasks on Machine Learning on IDEs such as JupyterLab, Pycharm, Visual Code, Spyder
+• Implementing appropriate ML algorithms
+• Perform statistical analysis and fine-tuning using test results.
+• Ability to write robust code in Python, Java, and R
+• Excellent communication skills
+• Outstanding analytical and problem-solving skills.
+
+REQUIREMENTS:
+
+Education: BSc in Computer Science, Master’s degree in computer vision is a plus.
+
+Experience: 5+ years of hands-on experience with software design and development processes 3+ years of experience working with computer vision systems"
+Full-time,NA,NA,Sr. NLP (Natural language processing) Engineer (01 Position),2023-01-08 13:37:06.294567 MDT,https://www.google.com/search?q=Machine+Learning+Jobs+Pakistan&ibp=htl;jobs&sa=X&ved=2ahUKEwjiw6Lm6bj8AhV0HjQIHbWdCysQutcGKAF6BAgIEAY#htivrt=jobs&htidocid=lV0yHLrNwA0AAAAAAAAAAA%3D%3D&fpstate=tldetail,i2cinc,"Lahore, Pakistan","Job Description :
+• Research on creating state-of-the-art, scalable, and self-learning systems for our Business KPIs and their sub-components.
+• Design, train and tune a variety of Deep Neural Networks / Machine Learning Models.
+• Create models from varying levels of Data Quality and Quantity (Imbalanced, Multi-Domain and/or Multi-Class, Unlabeled) - here your ability to creatively apply Domain Knowledge will be important, such as driving existing model implementations from Supervised to Semi-Supervised Learning.
+• Help define and drive improvements related to Architectural Designs, Dialogue-Schemas, Data Acquisition, Feature Transformations and Model Evaluations.
+• Standardize and Automate Annotation Practices for efficient utilization for the acquired data.
+• Formulate general purpose solutions configurable to accommodate custom requirements for different clients.
+• Formulate general purpose solutions configurable to accommodate custom requirements for different clients.
+• Perform... Data and Error Analysis in order to Improve Models and Understand their Shortcomings.
+• Lead all NLP-based projects for AI involving NLP Engineers and Data Analysts.
+• Communicate and Work effectively with Team Members and Other Teams (on-site and/or remotely).
+
+We are looking for:
+• BS(CS) or MS(Computational Linguistics)
+• 5 years’ or more
+
+Skills:
+• Expert knowledge with a scripting language (preference: Python), an object-oriented language (e.g. C++, Java) and a query language (preference: SQL).
+• Expert knowledge and Experience of building ML Pipeline Architectures and the general lifecycle of an NLP Project.
+• Experience and/or demonstrable knowledge of manual and/or automated data analysis and its techniques for extracting meaningful insights and be able to communicate them effectively.
+• Expert knowledge and Experience of working on conventional ML/DL problems like: Supervised Classification and Unsupervised Clustering, as well as some optional knowledge about RL (Reinforcement Learning).
+• Expert knowledge and Experience with classic NLP Feature-Extraction techniques such as: n-grams, part-of-speech tagging, semantic distance metrics, search indexing, and corpus analysis etc.
+• Expert knowledge and Experience of working on conventional Computational Linguistics problems such as: Syntactic Processing, Word Sense Disambiguation, Context-Free Grammars, Lexical Semantics, Quantification and Plurality, etc.
+• Expert knowledge and Experience of working in conventional NLP problems like: Informational Retrieval, Relevance Ranking and Search, Question-Answer Generation, Natural Language Inference, Topic Modeling etc.
+• Experience and/or demonstrable knowledge of working in Conversational AI: particularly in its classical NLP problems like: Automatic Speech Recognition (ASR), Machine Translation, Chatbot Response Generation, Frame-wise Spoken Dialogue-Intent Recognition, Dialogue-Act Classification and Slot-Labeling, Turn Allocation and Dialogue State Tracking, etc.
+• Optional experience working with both Audio and Text Datasets on spoken language problems.
+• Experience working with Deep learning and ML API’s such as Tensorflow, PyTorch, XGboost, CatBoost, etc as well as a firm grip over modern state-of-the-art and otherwise NLP architectures such as BERT, GPT3, Reformer, RNNs, CNNs, LSTMs etc and vector space models such as GloVe, Word2vec, USE etc.
+• Ability to communicate technical concepts and solutions at a level appropriate for technical/non-technical audiences.
+• Have a decisive personality and ability to utilize past experience to derive ETAs, timelines, resource consumption and realistic result expectations.
+• Ability to define and structure project lifecycles: conceptualization, architectural and database design, skeletal construction, task delegation to inter and intra team developers, milestone deliverables and possible improvement tracks.
+• Ability to explain and justify research and analysis done for a cause and deliver acquired results to the higher management.
+• Ability to point out fallacies / pitfalls in implemented model architectures, algorithms and data processing.
+• Ability to understand the goals of the project and the end user and set the right expectations with higher management after analyzing AI and business constraints.
+• Experience working with Numerical Computing Tools like: NumPy, SciPy – using the standard Pandas API.
+• Experience working with ML/DL frameworks like: Scikit-Learn, Tensorflow, Keras, PyTorch, etc.
+• Familiarity with utilizing hardware acceleration concepts and tools such as Numba, PyCuda, TFX Runtime, etc.
+• Familiarity with Model Serving APIs like: Tensorflow Serving, TorchServe, Django & Flask, etc.
+• Good to haves: Familiarity with Model Serving APIs like: Tensorflow Serving, TorchServe, Django & Flask and Familiarity with Utilizing hardware acceleration concepts and tools such as Numba, PyCuda, TFX Runtime, etc.
+
+Job Location:
+• Lahore"
+Full-time,2023-01-08,NA,Machine Learning Engineer,2023-01-08 13:37:06.869934 MDT,https://www.google.com/search?q=Machine+Learning+Jobs+Pakistan&ibp=htl;jobs&sa=X&ved=2ahUKEwjiw6Lm6bj8AhV0HjQIHbWdCysQutcGKAF6BAgIEAY#htivrt=jobs&htidocid=JD1hKZsZL18AAAAAAAAAAA%3D%3D&fpstate=tldetail,ONE Technology Services,Pakistan,"ONE Technology Services: We are looking for a Machine Learning Engineer to join our team and help us develop and maintain various software products. Your central responsibility as Senior Data Scientist includes working on the proof of concepts, research, writing and testing code, debugging programs, and integrating applications with third-party web services. To be successful in this role, you should have experience in artificial intelligence, data science, machine learning, and IoT.
+
+Educational Qualification/ Requirement:
+• Bachelor’s Degree (Maters’ preferred )
+• BSc/BA in Computer Science, or relevant field; graduate degree in Data Science or another quantitative field is preferred
+• Minimum years of experience required 2+
+
+Job Description:
+• Work on the design and optimization of prediction algorithms,
+• Improve our capabilities in large-scale data mining, analysis, information retrieval, data visualization, ML and AI,
+• Assist in the development of predictive algorithms to solve... complex business challenges and extract information from data sets,
+• Work on data acquisition and mash-using process,
+• Support customers with necessary data analysis and metrics calculation,
+• Work closely with the engineering team on building and deploying data analysis systems for large data sets.
+• Design and build a smart system using ML/DL algorithms and cloud-based ML
+• Build AI plugin and hands-on experience with key Machine Learning concepts.
+
+Requirement and Skills:
+
+Python | Machine Learning | Deep Learning | NLP | Azure ML | Tensor Flow, Keras, Pytorch | Code Framework | Flask | Data Science | SQL | Pandas | Scikit-Learn | NumPy | R | GIS | Recursive Neural Network
+• Proven experience as a Data Scientist
+• Experience in data mining
+• Understanding of machine learning and operations research
+• Knowledge of SQL, Python, NumPy, Pandas, open CV, OCR, Regular Expression, OOP, and Image processing.
+• Experience working in GIS-based systems
+• Experience using business intelligence tools.
+• Strong math skills (e.g. statistics, algebra).
+• Problem-solving aptitude.
+
+What you can expect after?
+
+Once you've applied, applying? sit back and relax while we get to work on our side! You can expect to hear back from us within 3 working days. Our recruitment team will call you on the provided contact number for initial screening. Good luck!
+• Note:
+
+Fluency in spoken English is mandatory
+
+Monday to Friday
+• Location: Karachi (On-Site)
+
+Job Type: Full-time
+
+Ability to commute/relocate:
+• Karachi: Reliably commute or planning to relocate before starting work (Required"

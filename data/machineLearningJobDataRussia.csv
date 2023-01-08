@@ -1,0 +1,209 @@
+Job-Type,Date-Posted,Salary,Job-Title,Date-Scraped,Url,Company,Location,Description
+Full-time,2023-01-08,NA,Deep Learning Software Engineering Intern,2023-01-08 13:35:26.248399 MDT,https://www.google.com/search?q=Machine+Learning+Jobs+Russia&ibp=htl;jobs&sa=X&ved=2ahUKEwj_o8-46bj8AhXMFTQIHa86AvgQutcGKAF6BAgIEAY#htivrt=jobs&htidocid=sR4ZrYFYXSEAAAAAAAAAAA%3D%3D&fpstate=tldetail,Intel,Russia,"OpenVINO is a cutting-edge software package for efficient implementation of modern deep learning algorithms using the latest generations of Intel hardware (CPU, GPU, VPU, GNA, etc.). We are looking for an active and highly motivated student to join the OpenVINO GNA plugin team and contribute to extension of use cases supported by OpenVINO, especially related to audio processing (such as automatic language translation, speech recognition, audio classification, etc.). Your responsibilities will include developing, testing and optimizing of software components of GNA Plugin of OpenVINO Inference Engine. Qualifications - Experience with C/C++ software development - Good understanding of data structures and algorithms - Good problem solving and debugging/troubleshooting skills - English (intermediate or higher) - Basic understanding of deep learning methods would be a plus - Experience with deep learning frameworks (such as TensorFlow, PyTorch, Kaldi) would be a big plus Inside this... Business Group The Internet of Things Group (IOTG) consists of ~4700 dedicated employees across 25 locations across the world. IOTG drives significant growth in the Internet of Things (IoT) market, capitalizing on the inflection and creation of edge computing, leveraging smart, connected devices and artificial intelligence (AI) to enable partners to transform their businesses. IOTG's vision is to lead the industry and enterprises to enhance the way we live and work by making it easier to create exciting, new IoT/edge solutions. IOTG's strategy includes creating unique differentiated silicon to consolidate workloads at the Edge, investing in video and AI inference as the killer app for the Edge, creating new developer tools and ecosystems, and establishing a dedicated vertical consultative sales team to add value to our partners across many verticals"
+Full-time,2023-01-08,NA,Deep Learning Research Engineer (Full-body avatar project),2023-01-08 13:35:26.821151 MDT,https://www.google.com/search?q=Machine+Learning+Jobs+Russia&ibp=htl;jobs&sa=X&ved=2ahUKEwj_o8-46bj8AhXMFTQIHa86AvgQutcGKAF6BAgIEAY#htivrt=jobs&htidocid=YBgj1K1BoQgAAAAAAAAAAA%3D%3D&fpstate=tldetail,Samsung Research Russia,"Moscow, Russia","Мы вы Samsung AI Center находимся в поиске Deep Learning Research Engineer для проекта full-body avatar.
+
+Темы наших исследований включают генерацию человеческого изображения, оценку представления и моделирование одежды. Мы работаем над прикладными исследованиями, результаты нашей работы выражены в приложениях, исследовательских статьях на лучших конференциях и патентных заявках.
+
+Задачи:
+• Чтение и понимание научных документов и общедоступных реализаций;
+• Написание статей для ведущих мировых конференций в области компьютерного зрения;
+• Сбор и обработка датасетов;
+• Подготовка материалов для патентных заявок;
+• Вклад в доказательство концепций и демонстрационных приложений, следуя указанным;
+• API для интеграции кода с другими модулями;
+• Написание технических отчетов и представляя результаты коллегам или более широкой аудитории.
+
+Пожелания к кандидату:
+• 2 года в реализации нейронных сетей, опыт обучения и отладки;
+• Глубокое понимание слоев нейронных сетей компьютерного зрения;
+•... Сильные навыки Python и знания стандартных алгоритмов и структур данных;
+• Знакомство с современными тенденциями и последними достижениями в этой области.
+
+Будет плюсом:
+
+Опыт работы с:
+• Генерацией изображений с нейронными сетями;
+• GANs;
+• Нейронным рендерингом;
+• Компьютерной графикой;
+• Оценкой позы человека;
+• Мобильной разработкой и оптимизацией нейросетей для мобильных устройств;
+• Публикации на CV/ML конференциях;
+• Достижения на ML соревнованиях, например, Kaggle"
+Full-time,2023-01-08,NA,Software Developer (machine learning/algorithm/AI Engineer),2023-01-08 13:35:27.390710 MDT,https://www.google.com/search?q=Machine+Learning+Jobs+Russia&ibp=htl;jobs&sa=X&ved=2ahUKEwj_o8-46bj8AhXMFTQIHa86AvgQutcGKAF6BAgIEAY#htivrt=jobs&htidocid=oTCJqlfMB8QAAAAAAAAAAA%3D%3D&fpstate=tldetail,Gshopper,"Moscow, Russia","About this job Job type: Full-time Part-time Job location: Moscow, Russia Experience level: Mid-Level, Senior Role: Full Stack Eng ineer Company size: more that 200 people Technologies and Skills English skills, A I, Machine Learning, Deep Learning, python, java, sql Experienced in applying machine learning algorithms; Experienced in writing data processing code (pipes or python or java or C++); A participant of All-Russian math olympiad or equivalent. Job description As an engineer you will build out our A I operation centre. Operation centre must serve all automation tasks that our e-commerce operators do everyday. Our goal is to use minimum human resources solving entire process from purchasing step up to door-to-door delivery problems. There will be also some useful analysis stuff to find out related purchase products, market demands depending on regions and seasons. About Company Gshopper? aims to become the leading cross-border e-commerce platform for global consumers... merchants, and brands, and enable global customers to enj oy a truly global lifestyle wherever they are. Our ?Vision? is to become the leading cross-border e-commerce platform for global consumers, merchants, and brands. Our ? Mission? is to enable global customers to enj oy a truly global lifestyle wherever they are. Our ? Promise ? is to deliver a global lifestyle to customers with delightful / reliable / convenient shopping experiences on Gshopper’s platform"
+Full-time,NA,NA,Graph Analytics Lead Engineer,2023-01-08 13:35:27.953363 MDT,https://www.google.com/search?q=Machine+Learning+Jobs+Russia&ibp=htl;jobs&sa=X&ved=2ahUKEwj_o8-46bj8AhXMFTQIHa86AvgQutcGKAF6BAgIEAY#htivrt=jobs&htidocid=7Lc1ku4l7osAAAAAAAAAAA%3D%3D&fpstate=tldetail,Intel,Russia,"Intel oneAPI Data Analytics Library (oneDAL) team is looking for a Graph Analytics Machine Learning Engineer. oneDAL is a powerful machine learning library for data scientists that turns large data clusters into meaningful information with advanced analytics algorithms and is highly optimized for modern Intel hardware architectures. With the growth of models, data sets, and also computation resources availability at scale it is crucial to have capability to distribute workload across multiple devices and/or machines. Qualifications - Experience in C++ including templates and latest standards knowledge - Strong mathematical/stat background - Knowledge in machine learning and experience in graph analytics The following qualifications would be an added advantage: - Experience with parallelism in shared (Intel TBB, OpenMP) and distributed (MPI, SHMEM, Apache Spark, Dask) memory - Experience in Python Inside this Business Group Enable amazing computing experiences with Intel Software... continues to shape the way people think about computing - across CPU, GPU, and FPGA architectures. Get your hands on new technology and collaborate with some of the smartest people in the business. Our developers and software engineers work in all software layers, across multiple operating systems and platforms to enable cutting-edge solutions. Ready to solve some of the most complex software challenges? Explore an impactful and innovative career in Software. Other Locations Russia, Moscow"
+Contractor,2023-01-08,NA,Data Scientist,2023-01-08 13:35:28.525378 MDT,https://www.google.com/search?q=Machine+Learning+Jobs+Russia&ibp=htl;jobs&sa=X&ved=2ahUKEwj_o8-46bj8AhXMFTQIHa86AvgQutcGKAF6BAgIEAY#htivrt=jobs&htidocid=6D-iEbzkzu4AAAAAAAAAAA%3D%3D&fpstate=tldetail,Société Générale,"Moscow, Russia","Responsibilities
+
+Join the Data Analytics team of the Internal Audit Department in Russia and take your career to the next level!
+
+You will be a key Subject Meter Expert and contributor for data extractions and basis processing. During audit engagements and investigations you will collaborate with the audit team and provide support for data related topics, e.g. data extraction from CDWH or source system, data profiling, data enriching and (as a second priority) data analytics.
+
+You will be able to become familiar with audit methodology and approach as well as variety technologies such as OCR, Neural networks, RPA, Machine Learning and BI-tools.
+
+Our team daily works in accordance with agile-philosophy (Kanban). All team members are friendly and open minded to new ideas.
+
+Your responsibilities will consist of:
+• Data extraction and profiling from CDWH or bank core systems (50% of time)
+• Data Enriching (20% of time)
+• Consulting collogues for data processing related questions (5% of... time)
+• Additional works with Machine Learning, OCR, RPA and BI-tools (25% of time)
+
+Profile Required
+• Graduate Bac+5 with a specialization in Economics, Mathematics or Computer Science
+• A previous experience in Data Analytics, Data Engineering or Data Science would be appreciated
+• Excellent analytical skill and comfortable with complex data processing
+• Ready to work following the Kanban methodology in Jira
+• Open minded and responsive
+• Fluent in English
+
+To facilitate the examination of your application by our English-speaking managers, we thank you for applying in English.
+
+The VIE assignment in a nutshell:
+
+This VIE in Moscow is to begin as soon as possible but you need to plan 3 months between your application date and the beginning of your VIE assignment. It will last 18 months.
+
+The VIE is a specific contract, under Business France’s eligibility criteria, opened to candidates under 28 and from the member states of the European Economic Space. Please see Mon VIE-VIA Business France, in order to have more details regarding your financial indemnities.
+
+We would like to draw your attention to the fact that your VIE mission could potentially get postponed, depending on the evolution of the health crisis and subjects to the decision made by the Crisis and Support Centre of the Ministry of Europe and Foreign Affairs (MEAE). In addition, the selected candidate will only be paid upon confirmation from Business France and arrival in the country of assignment.
+
+Why join us
+
+As soon as you arrive, you will be integrated into our teams and will learn every day alongside our experts, who will support you in your tasks. Gradually, you will become more independent in your projects, making this experience a real career accelerator. You will also discover all the diversity of our businesses, in a sector that is constantly evolving and innovating.
+
+At the end of your VIE, various opportunities could be offered to you, in France and abroad.
+
+Business insight
+
+At Societe Generale, we are convinced that people are drivers of change, and that the world of tomorrow will be shaped by all their initiatives, from the smallest to the most ambitious.
+
+Whether you’re joining us for a period of months, years or your entire career, together we can have a positive impact on the future. Creating, daring, innovating and taking action are part of our DNA.
+
+If you too want to be directly involved, grow in a stimulating and caring environment, feel useful on a daily basis and develop or strengthen your expertise, you will feel right at home with us!
+
+Still hesitating?
+
+You should know that our employees can dedicate several days per year to solidarity actions during their working hours, including sponsoring people struggling with their orientation or professional integration, participating in the financial education of young apprentices, and sharing their skills with charities. There are many ways to get involved.
+
+We are an equal opportunities employer and we are proud to make diversity a strength for our company. Societe Generale is committed to recognizing and promoting all talents, regardless of their beliefs, age, disability, parental status, ethnic origin, nationality, gender identity, sexual orientation, membership of a political, religious, trade union or minority organisation, or any other characteristic that could be subject to discrimination.
+
+Reference: 220005AA
+
+Entity: ROSBANK
+
+Starting date: immediate
+
+Publication date: 2022/03/11"
+Full-time,2023-01-08,NA,Lead Data Scientist (Artificial Intelligence),2023-01-08 13:35:29.088900 MDT,https://www.google.com/search?q=Machine+Learning+Jobs+Russia&ibp=htl;jobs&sa=X&ved=2ahUKEwj_o8-46bj8AhXMFTQIHa86AvgQutcGKAF6BAgIEAY#htivrt=jobs&htidocid=19h9GCwyRmYAAAAAAAAAAA%3D%3D&fpstate=tldetail,Weatherford,"Moscow, Russia","Обязанности: ; Требования: ; Условия: ; Описание: Weatherford Company (International Oil & Gas service corporation, headquartered in Geneva, Switzerland (head office in Houston, USA, WFT U.S.: NYSE), global headcount 30 000. Russia & Central Asia Geozone has 2500 headcount and includes 5 countries: Russia, China, Kazakhstan, Turkmenistan and Uzbekistan. Now we are looking for a candidate for the role of a Lead Data Scientist, based in Moscow office (White Square Business Park). The project aims to develop artificial intelligence software and delivers a highly secure cloud infrastructure for analytics development and implementation in the field. The company currently is focused on the oil and gas sector, with goals to expand in the broader energy sector in the near future. The company offers working in the growing and innovative segment of the energy sector on biggest data sets using cutting edge technologies for gaining insights from vast amounts and various types of data, incl... traditional data sets, machine logs, sensor data and many more. Weatherford is recruiting for a Lead Data Scientist among the world’s top 1% of Data Scientists who have a proven record of advanced degrees coupled with experience across various sectors in implementation of artificial intelligence to support and develop products, and sales. JOB DESCRIPTION: Participate in some aspects of sales activities, including client facing sales, live demonstrations, and delivery of proof of concepts. Track, report, and follow-up on work performed and progress on activities. Support development of well-defined AI offerings. Serve as Pre-Sales AI Architect, AI SME, establishing credibility with our clients, helping them understand our capabilities in the areas of AI, IoT, and Intelligent Industry Solutions, as well as our capabilities as long-term strategic partner. Create solution plans including technical design and architecture, timelines, and deliverables. Contribute to the ongoing development and operations of AI, and advanced analytics solutions that enable transformation experiences, predictive insights, and increased efficiency. Clarify and translate business problems into Statement of Works or Work Orders while explain the technical requirements and solution design. Interpret and document the analysis and results, and communicate the information effectively to the customers and team members. Proactively research new technologies and trends that can enhance company’s offering and create new revenue opportunities. Excellent written and verbal communication skills in English for coordinating across teams. Ability to drive a project and work both independently and in a team. Smart, motivated, can do attitude, and seeks to make a difference. QUALIFICATIONS: PhD in Computer Science, Electrical Engineering, Statistics, or equivalent fields. Strong mathematical background (linear algebra, calculus, probability and statistics). Expertise (4+ years) in statistical modeling techniques such as linear regression, logistic regression, survival analysis, GLM, tree models (Random Forests and GBM), cluster analysis, principal components, feature creation, and validation. Expertise (4+ years) in regularization techniques (Ridge, Lasso, elastic nets), variable selection techniques, feature creation (transformation, binning, high level categorical reduction, etc.) and validation (hold-outs, CV, bootstrap). Experience with Java and/or C++ is a plus. Applied Machine Learning (4+ years) experience including (linear/non-linear) regression analysis, time series, probabilistic models, regression, simulation, scenario analysis, clustering, decision trees, neural networks, deep learning, etc., including unsupervised learning. Experience with scalable Machine Learning (4+ years) (MapReduce, streaming, etc.). Experience with JavaScript and prototyping languages (4+ years) such as Python and R. Experience with Java and Scala is a plus. Knowledge in electrical engineering and/or SCADA systems is a plus. A portfolio of projects (GitHub, papers, etc.) is a plus. Kaggle competition winners or participation a plus. WE OFFER: • Competitive salary and benefits. • Multinational and friendly environment"
+Full-time,2023-01-08,NA,Data Engineer,2023-01-08 13:35:29.661520 MDT,https://www.google.com/search?q=Machine+Learning+Jobs+Russia&ibp=htl;jobs&sa=X&ved=2ahUKEwj_o8-46bj8AhXMFTQIHa86AvgQutcGKAF6BAgIEAY#htivrt=jobs&htidocid=sJSPN6y-kV0AAAAAAAAAAA%3D%3D&fpstate=tldetail,Procter & Gamble,"Moscow, Russia","Job Location
+
+Moscow
+
+Job Description
+
+Information Technology (IT) at Procter & Gamble is where business, innovation, and technology integrate to create a driven advantage for P&G. Our mission is clear: we deliver IT to help P&G win with the over 5 billion consumers we serve worldwide.
+
+Our IT professionals are diverse business leaders who apply IT excellence to deliver groundbreaking business models and capabilities for our iconic, trusted brands.
+
+Are you ready to take your career to the next level?
+
+P&G's IT community is looking for a Data Engineer to join our team in Moscow! In this role, you will be responsible for building systems and solutions leveraging various Cloud components & tools.
+
+This is your chance to work on interesting, global projects with some highly skilled and fun people. We will provide you with all the necessary training and knowledge to perform well during your journey at P&G.
+
+Our stack
+
++ Azure Cloud: Azure Data Factory, SQL Database, etc.
+
++ Databricks... (Python/PySpark/SQL)
+
++ Data visualization with Power BI
+
++ Azure DevOps
+
+What can you expect?
+
+In this role, you will use cutting-edge technology, an industry-leading data solution architecture, and a governance model to solve real P&G business problems.
+
+You will have the opportunity to:
+
++ Design and implement technical solutions to obtain, process, and store data.
+
++ Automate and optimize internal ETL processes in MS Azure.
+
++ Get access to the comprehensive training portfolio, including MS Certifications, Coursera, and other professional courses.
+
++ Learn from the global P&G IT community to advance your skills.
+
++ Share the best practices with the local IT community by delivering training sessions and other learning opportunities.
+
+Compensation & benefits
+
++ Monthly salary starting from 130 000 rubles gross
+
++ Annual bonus
+
++ Monthly lunch & flexibility allowance 5 000 rubles gross
+
++ Medical, travel, and life insurance
+
++ Flexible work hours and the possibility to work from home
+
++ Access to P&G’s global comprehensive training portfolio
+
++ Relocation support in case you move to Moscow from another region
+
+Job Qualifications
+
++ The job requires you to be based in Russia
+
++ A university degree (DipHE) is required
+
++ Python and SQL programming skills
+
++ Cloud understanding
+
++ Good command of English (Upper-Intermediate or higher level)
+
+Nice to have (optional)
+
++ PySpark programming skills
+
++ Hands-on experience writing clean and effective code
+
++ Experience in implementing projects & solutions using MS Azure or any other cloud stack
+
++ Knowledge and/or experience with using or building CI/CD tools
+
++ Knowledge of SCRUM and DevOps methodologies
+
+Just so you know
+
++ All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability status, age, sexual orientation, gender identity and expression, marital status, citizenship, HIV/AIDS status, or any other legally protected factor.
+
++ No immigration sponsorship is available for this position.
+
+P&G is a leading global consumer goods company whose winning brands are built around the model of innovation.
+
+Whatever your passion is, we want to ignite your potential to become your very best self. We hold true to our purpose, values, and principles as we seek to make a difference in the world around us.
+
+You will engage in meaningful work that will touch the lives of others and have a real impact. Everything at P&G starts with understanding – understanding our consumers and our employees as we innovate to improve lives now and for generations to come.
+
+Job Schedule
+
+Full time
+
+Job Number
+
+R000066200
+
+Job Segmentation
+
+Recent Grads/Entry Level (Job Segmentation)
+
+P&G was founded over 180 years ago as a simple soap and candle company. Today, we’re the world’s largest consumer goods company and home to iconic, trusted brands that make life a little bit easier in small but meaningful ways.
+
+We’ve spanned three centuries thanks to three simple ideas: leadership, innovation and citizenship.
+
+The insight, innovation and passion of talented teams has helped us grow into a global company that is governed responsibly and ethically, that is open and transparent, and that supports good causes and protects the environment.
+
+This is a place where you can be proud to work and do something that matters"

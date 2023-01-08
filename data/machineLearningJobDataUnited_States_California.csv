@@ -1,0 +1,387 @@
+Job-Type,Date-Posted,Salary,Job-Title,Date-Scraped,Url,Company,Location,Description
+Full-time,2023-01-08,NA,Machine Learning Engineer,2023-01-08 13:32:17.732159 MDT,https://www.google.com/search?q=Machine+Learning+Jobs+United+States+California&ibp=htl;jobs&sa=X&ved=2ahUKEwjV2LXe6Lj8AhW9AzQIHQ5kBbgQutcGKAF6BAgIEAY#htivrt=jobs&htidocid=AWOSX3iqhVUAAAAAAAAAAA%3D%3D&fpstate=tldetail,Prudential Financial,"Sunnyvale, CA, USA","Job Classification:
+
+Technology - Engineering & Cloud...
+
+Prudential’s Global Technology team is the spark that ignites the power of Prudential for our customers and employees worldwide. Our organization plays a critical and highly visible role in delivering customer-driven solutions across every area of the company. The Global Technology team is made up of diverse, agile-thinking, and highly skilled professionals; we use our combined capabilities to enable the organization with innovation, speed, agility, scalability and efficiency.
+
+The Global Technology team takes great pride in our culture where digital transformation is built into our DNA. When you join the Global Technology organization at Prudential, you’ll unlock a challenging and impactful career – all while growing your skills and advancing your profession at one of the world’s leading financial services institutions.
+
+Data Tech team at Prudential Financial is looking for a ML Engineer to join a diverse team dedicated to providing best-in-class data services to our customers, stakeholders, and partners.
+
+As a part of our CDO organization, you will work with our Data Science and BUs to define solutions for operationalizing data-driven decision making in a cost effective and scalable manner. A full stack engineer with deep understanding of data science and software engineering practices.
+
+Responsibilities:
+• Strong computer science fundamentals such as algorithms, data structures, multithreading, object-oriented development, distributed applications, client-server architecture.
+• Design and implement Machine learning models and data ingestion pipelines.
+• Develop and support a platform that enables data scientists to rapidly develop, train, and experiment with machine learning models.
+• Expand and optimize data pipelines, data flow, and collection for cross functional teams.
+• Create and maintain optimal data pipeline architecture by assembling large, complex data sets to meet functional and non-functional business requirements.
+• Identify and implement internal process improvements including automating manual processes, optimizing data delivery, and redesigning infrastructure for greater scalability.
+• Support the building of machine learning, data platforms, and infrastructure required for optimal data extraction, transformations, and loading of data from a wide variety of data sources.
+• Work with architecture, data, and design teams to assist with data related technical issues and support data infrastructure needs.
+• Implement Machine Learning (ML) and Big Data platforms in Hybrid and multi-cloud environment specifically in AWS SageMaker environment
+• Experience in container, streaming and messaging technologies is a plus
+
+Skills / Qualifications:
+• Bachelor's degree in computer science, data science, mathematics, or a related field. Master’s degree preferred
+• At least two years' experience as a machine learning engineer.
+• Advanced proficiency with Python framework, Java and Scala
+• Extensive knowledge of ML frameworks, libraries, data structures, data modeling, and software architecture.
+• Good understanding of mathematics, statistics, and algorithms.
+• Excellent analytical and problem-solving abilities.
+• Great communication and collaboration skills.
+Note: Prudential is required by state specific laws to include the salary range for this role when hiring a resident in applicable locations. The salary range for this role is from $97,200.00 to $144,500.00. Specific pricing for the role may vary within the above range based on many factors including geographic location, candidate experience, and skills. Roles may also be eligible for additional compensation and/or benefits. Eligibility to participate in a discretionary annual incentive program is subject to the rules governing the program, whereby an award, if any, depends on various factors including, without limitation, individual and organizational performance. In addition, employees are eligible for standard benefits package including paid time off, medical, dental and retirement.
+
+Prudential Financial, Inc. of the United States is not affiliated with Prudential plc. which is headquartered in the United Kingdom.
+
+Prudential is a multinational financial services leader with operations in the United States, Asia, Europe, and Latin America. Leveraging its heritage of life insurance and asset management expertise, Prudential is focused on helping individual and institutional customers grow and protect their wealth. The company's well-known Rock symbol is an icon of strength, stability, expertise and innovation that has stood the test of time. Prudential's businesses offer a variety of products and services, including life insurance, annuities, retirement-related services, mutual funds, asset management, and real estate services.
+
+We recognize that our strength and success are directly linked to the quality and skills of our diverse associates. We are proud to be a place where talented people who want to make a difference can grow as professionals, leaders, and as individuals. Visit www.prudential.com to learn more about our values, our history and our brand.
+
+Prudential is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, national origin, ancestry, sex, sexual orientation, gender identity, national origin, genetics, disability, marital status, age, veteran status, domestic partner status , medical condition or any other characteristic protected by law.
+
+The Prudential Insurance Company of America, Newark, NJ and its affiliates.
+
+Note that this posting is intended for individual applicants. Search firms or agencies should email Staffing at staffingagencies@prudential.com for more information about doing business with Prudential.
+
+PEOPLE WITH DISABILITIES:
+
+If you need an accommodation to complete the application process, which may include an assessment, please email accommodations.hw@prudential.com .
+
+Please note that the above email is solely for individuals with disabilities requesting an accommodation. If you are experiencing a technical issue with your application or an assessment, please email careers.technicalsupport@prudential.com to request assistance"
+Full-time,2023-01-08,NA,Machine Learning Engineer,2023-01-08 13:32:18.321694 MDT,https://www.google.com/search?q=Machine+Learning+Jobs+United+States+California&ibp=htl;jobs&sa=X&ved=2ahUKEwjV2LXe6Lj8AhW9AzQIHQ5kBbgQutcGKAF6BAgIEAY#htivrt=jobs&htidocid=SiZowT-bjdQAAAAAAAAAAA%3D%3D&fpstate=tldetail,E-Space,"Los Gatos, CA, USA","Ready to make connectivity from space universally accessible, secure and actionable? Then you’ve come to the right place!
+
+At E-Space, we’re focused on bridging Earth and space with the world’s most sustainable low Earth orbit (LEO) satellite network. We’re a team of bold thinkers, ambitious leaders and dynamic doers—and we’re disrupting NewSpace by fundamentally changing the design of legacy LEO... space systems to deliver entirely new satellite capabilities at a fraction of the cost.
+
+We’re intentional, we’re unapologetically curious and we’re 100% committed—to saving space, to protecting our planet and to turning connectivity into actionable intelligence.
+
+What is the role?
+
+We are looking for people who like to solve complex problems and thrive in a fast-paced environment. The best candidates are passionate about advancing the use of space for humanity and solving some of earth’s biggest challenges.
+
+As a Machine Learning Engineer, you will be a critical member of the Autonomous Flight Systems and Simulations Team continuously improving our flight systems and simulations.
+
+This position will report to the Head of Simulations and will work closely with the engineering and regulatory team.  This position will be based in Los Gatos, CA.
+
+What You Will Do
+• Seamlessly integrate logged data replay and simulated agents 
+• Develop novel machine learning methods and algorithms that solve complex problems, including but not limited to, path planning, time-series, depth estimation, etc.
+• Filter and mine large scale simulated data to detect the most interesting issues 
+• Accelerate onboard software development with improved tools and visualization
+• Utilize your data modeling expertise
+
+Why you're the right candidate
+• You have at least 2 years' experience in a professional setting or equivalent experience working as a Machine Learning engineer  
+• You have a Bachelor's or Master's degree in Computer Science or a similar discipline or equivalent industry experience
+• You have experience developing novel machine learning methods and algorithms that solve complex problems, including but not limited to, path planning, time-series, depth estimation, etc.
+• You have proven experience navigating a large code base 
+• You have a passion for working with satellites and communications 
+• You have experience with scripting languages such as Python (must) or MATLAB (preferred) 
+• You have demonstrated effective communication skills and the ability to articulate ideas and timelines to cross-functional groups 
+
+Additional Experience We'd Like To See
+• Significant statistical experience in data-intensive on-line systems 
+• Experience building predictive models and machine learning principles (clustering analysis, failure prediction, anomaly detection) 
+• Demonstrated ability to own projects from start to completion 
+• Strong attention to detail 
+
+Please note that this role may require call for extended work hours during busy periods.
+
+Why E-Space is right for you
+
+We want you to make the most of your journey at E-Space. That’s why we support and invest in the physical, emotional and financial well-being of our team members and their families. Some of what you can expect when working at E-Space:
+• An opportunity to really make a difference
+• Sustainability at our core
+• Fair and honest workplace
+• Innovative thinking is encouraged
+• Competitive salaries
+• Continuous learning and development
+• Health and wellness care options
+• Financial solutions for the future
+• Optional legal services
+• Paid holidays
+• Paid time off"
+Full-time,2023-01-08,NA,"Machine Learning Engineer, Moderation",2023-01-08 13:32:18.893814 MDT,https://www.google.com/search?q=Machine+Learning+Jobs+United+States+California&ibp=htl;jobs&sa=X&ved=2ahUKEwjV2LXe6Lj8AhW9AzQIHQ5kBbgQutcGKAF6BAgIEAY#htivrt=jobs&htidocid=YvXcO1vMzw4AAAAAAAAAAA%3D%3D&fpstate=tldetail,OpenAI,"San Francisco, CA, USA","About The Team
+
+The Applied AI Research team works on innovative solutions to solve practical real-world problems with direct impact on users of the OpenAI API. We work on open-ended research projects to enable successful products. We care about solving real-world problems, while keeping our products up to a high safety standard. We care about applications driven by user feedback, as well as... long-term research with significant impacts on the product.
+
+About The Role
+
+To help API users monitor and prevent unwanted use cases, we developed the moderation endpoint, a tool for checking whether content complies with OpenAI's content policy. Developers can thus identify content that our content policy prohibits and take actions (e.g. block it). We seek a Machine Learning Engineer to help design and build a robust pipeline for data management, model training and deployment to enable a consistent improvement on the Moderation model.
+
+In This Role You Will
+• Design, develop and maintain a robust and scalable data management pipeline and set up standards for versioning and data quality control. The pipeline should be able to handle data relabeling requests due to content policy changes.
+• Build a pipeline for automated model training, evaluation and deployment, including active learning process, routines for calibration and validation data refresh etc.
+• Work closely with stakeholders from product, engineering, content policy on a long-term improvement over the moderation models, for both external release and internal use cases across a variety of projects on model safety.
+• Research on the latest techniques and methods in deep learning and natural language processing to improve the moderation model across a collection of unwanted content categories.
+• Experiment on data augmentation and data generation methods to enhance the diversity and quality of training data.
+• Experiment and design an effective red-teaming pipeline to examine the robustness of the model and identify areas for future improvement.
+• Conduct open-ended research to improve the quality of collected data, including but not limited to, semi-supervised learning and human-in-the-loop machine learning.
+
+You Might Thrive In This Role If You
+• Have 3+ years industry experience as a Machine Learning Engineer or Software Engineer, working on building data pipelines, training and deploying machine learning models in production on a daily basis.
+• Care deeply about AI safety and passionate about building the best deep learning empowered moderation model to effectively detect unwanted content.
+• Have a strong belief in the criticality of high-quality data and are highly motivated to work with the associated challenges.
+• Have experience working in large distributed systems, deep learning or/and natural language processing is a big plus.
+• Love working with a team.
+
+OpenAI US Applicant Privacy Policy"
+Full-time,2023-01-08,NA,Machine Learning Engineer,2023-01-08 13:32:19.478110 MDT,https://www.google.com/search?q=Machine+Learning+Jobs+United+States+California&ibp=htl;jobs&sa=X&ved=2ahUKEwjV2LXe6Lj8AhW9AzQIHQ5kBbgQutcGKAF6BAgIEAY#htivrt=jobs&htidocid=UV5ErQDdMf4AAAAAAAAAAA%3D%3D&fpstate=tldetail,Fortinet,"Sunnyvale, CA, USA","Job Description
+
+Responsibilities...
+• Design/Improve machine learning models/algorithms used in FortiWeb.
+• Develop data collection/visualization/extraction/classification tools in scripts.
+• Perform feature engineering and data processing in scripts.
+• Analyze/evaluate/refine the developed ML algorithms using collected data.
+• Work with R&D and QA throughout the product development lifecycle.
+
+Requirements
+• * Solid fundamental knowledge, including linear algebra, probabilities, calculus etc.
+• Experiences with data mining tools development, feature engineering tools, machine learning algorithms development (SVM, clustering/classification/regression, random forest, boosting, anomaly detection), deep learning is plus.
+• Knowledge of HTTP/HTTPs and its components.
+• Understanding of Web security issues, such as DDoS, Bot management, Anomaly detection, API protection, OWASP top 10.
+• Highly motivated and self-driven problem solver.
+• Good team player and good communication skills.
+
+Education Requirement
+• B.S. in Computer Science or Electrical Engineering with 4+ years of working experience; M.S. with 2+ years of working experience
+
+The US base salary range for this full-time position is $150,000-$215,000 USD. Fortinet offers employees a variety of benefits, including medical, dental, vision, life and disability insurance, 401(k), 11 paid holidays, vacation time, and sick time as well as a comprehensive leave program.
+
+Wage ranges are based on various factors including the labor market, job type, and job level. Exact salary offers will be determined by factors such as the candidate's subject knowledge, skill level, qualifications, experience, and geographic location.
+
+All roles are eligible to participate in the Fortinet equity program, Bonus eligibility is reviewed at time of hire and annually at the Company’s discretion.
+
+#GD
+
+About Us
+
+Fortinet (NASDAQ: FTNT) secures the largest enterprise, service provider, and government organizations around the world. Fortinet empowers its customers with intelligent, seamless protection across the expanding attack surface and the power to take on ever-increasing performance requirements of the borderless network - today and into the future. Only the Fortinet Security Fabric architecture can deliver security without compromise to address the most critical security challenges, whether in networked, application, cloud or mobile environments. Fortinet ranks number one in the most security appliances shipped worldwide and more than 500,000 customers trust Fortinet to protect their businesses.
+
+We are committed to providing reasonable accommodations for all qualified individuals with disabilities. If you require assistance or accommodation due to a disability, please contact us at accommadations@fortinet.com.
+
+Fortinet is an equal opportunity employer. We value diversity in our company, and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, age, military/veteran status or any other applicable legally protected characteristics in the location in which the candidate is applying"
+Full-time,2023-01-08,NA,Machine Learning Engineer,2023-01-08 13:32:20.052615 MDT,https://www.google.com/search?q=Machine+Learning+Jobs+United+States+California&ibp=htl;jobs&sa=X&ved=2ahUKEwjV2LXe6Lj8AhW9AzQIHQ5kBbgQutcGKAF6BAgIEAY#htivrt=jobs&htidocid=2DzXJHdqda8AAAAAAAAAAA%3D%3D&fpstate=tldetail,Collabera,"Mountain View, CA, USA","Client: Automotive R&D
+
+Location: Mountain View, CA (Hybrid-Onsite...
+
+Job Title: M/L Engineer
+
+Duration: 12 Months (Possible extension or conversion)
+
+Description:
+• As a M/L Engineer, you will contribute to state-of-the-art machine learning infrastructure and relevant software (e.g. supervised learning, reinforcement learning, data management, and evaluation at unparalleled scale).
+• Implement cutting-edge deep learning models accelerating model training performance for intelligent system applications and tackling open problems together with researchers.
+• Deploy your algorithms and models in our test vehicles platform.
+
+Responsibilities:
+• Implement machine learning/ deep learning models (supervised learning, reinforcement learning) for the following tasks: 2D/3D object detection, semantic segmentation, depth estimation, traffic (time or speed) prediction and driving behavioral learning etc.
+• Train and evaluate the developed machine learning model from large set of images/videos, build end-to-end training, testing, and evaluation pipelines.
+• Manipulate high-volume, high-dimensionality, structured data from the vehicles for training and testing deep networks.
+• Produce high quality tested code that enables large scale research and can be transferred to physical vehicles deployed in the real world.
+• Stay up to date on the state-of-the-art in Deep Learning ideas and software, in collaboration with our Researchers.
+Coding, proof-of-concept (POC) and demo deep learning applications with our test vehicle platform.
+• Work in a multidisciplinary team and collaborate with other teams across the research lab.
+
+Requirements:
+• Master's Degree in Computer Science/Electrical Engineering, Math, or related field.
+• Masters with at least 1-2 years of experience; Strong software engineering practices in Python with machine learning experience in a production setting.
+• Strong M/L background with deep understanding of different types of machine learning algorithms (e.g., CNN, RNN, LSTM, Transformer, and Reinforcement Learning).
+• Experience of training deep-learning models in an end-to-end fashion.
+• Project experience working with Pytorch, Tensorflow or other modern deep learning frameworks.
+• Computer Vision expertise.
+• Proficient in Python and Linux is a minimum. Additional knowledge of C++ / CUDA is a plus, experience with AWS as well.
+• Clear grasp on basic Linear Algebra, Optimization, Statistics, and Algorithms.
+• Familiar with Python development co-system including opencv, numpy, scipy, pandas, sklearn etc and comfortable with development in Linux and Windows.
+• Familiar with containers
+
+CNN/RNN/LSTM/Reinforcement Learning,Deep Learning,Python/Linux,Machine Learning,Pytorch/Tensorflow/Deep Learning Framework"
+Full-time,2023-01-08,NA,Senior Machine Learning Ops Engineer,2023-01-08 13:32:20.630855 MDT,https://www.google.com/search?q=Machine+Learning+Jobs+United+States+California&ibp=htl;jobs&sa=X&ved=2ahUKEwjV2LXe6Lj8AhW9AzQIHQ5kBbgQutcGKAF6BAgIEAY#htivrt=jobs&htidocid=OSIB5LUZwQsAAAAAAAAAAA%3D%3D&fpstate=tldetail,"Lytx, Inc.","San Diego, CA, USA","Why Lytx?:
+
+As our Machine Learning Ops Engineer you will join our Applied Machine Learning Team who develops machine learning and computer vision algorithms to monitor and assess the state of drivers and their environments to identify risk and improve safety for our clients. You will contribute to all aspects of the development cycle to optimize workflows, dataset generation, model performance... and code efficiency to help enhance and differentiate us as the leader in the Video Safety and Telematics industry. If this sounds like you, we encourage you to apply!
+
+What You'll Do
+• Build and maintain cloud deployment of ML models and surrounding infrastructure
+• Contribute to infrastructure and process improvements for data collection, labeling, model development and deployment
+• Design and implement R&D data engineering solutions for delivery of ML model value from device to cloud, including message payload design, data ingest and database architecture
+• Help prepare and automate builds for device model deployment
+• Assist on projects led by other team members via data processing, programming, monitoring of production applications, etc.
+• Other duties as assigned.
+
+What You'll Need
+• Bachelor’s degree in Computer Science or equivalent experience
+• 5+ years of experience with a Strong background in Python, C++, GNU/Linux CLI Utilities
+• Versatile and adaptable engineer who can address evolving needs of team
+• Experience with ML Ops; deploying and maintaining ML model lifecycle in cloud environments
+• Strong understanding of data engineering principles and architecture
+• Familiarity with big data processing frameworks, such as MapReduce, Spark, etc.
+• Knowledge of relational database modeling and integration. Experience with NoSQL is helpful.
+• Ability to manage cloud resources and technologies within AWS, including Sagemaker, EC2 and S3
+• Experience with software automation tools, e.g., Airflow, Ansible, Terraform, Jenkins
+• Understanding of Web application architecture and software patterns
+• Experience with automated unit testing and regression testing methodologies
+• Familiar with Linux software build toolchains and patterns. (e.g., Make, gcc)
+• Experience with source control and tracking (git)
+• Strong teammate who enjoys working in a collaborative, fast-paced team-focused environment
+
+Benefits
+• Medical, dental and vision insurance
+• Health Savings Account
+• Flexible Spending Accounts
+• Telehealth
+• 401(k) and 401(k) match
+• Life and AD&D insurance
+• Short-Term and Long-Term Disability
+• FTO or PTO
+• Employee Well-Being program
+• 11 paid holidays plus 1 inclusive holiday per year
+• Volunteer Time Off
+• Employee Referral program
+• Education Reimbursement Program
+• Employee Recognition and Appreciation program
+• Additional perk and voluntary benefit programs
+
+Expected hiring salary for this position is: $128,850 to $157,490. Salary is based on a number of factors including market location and may vary depending on job-related knowledge, skills, and experience. This position is also eligible for an incentive compensation plan.
+
+Innovation Lives Here
+
+You go all in no matter what you do, and so do we. At Lytx, we’re powered by cutting-edge technology and Happy People. You want your work to make a positive impact in the world, and that’s what we do. Join our diverse team of hungry, humble and capable people united to make a difference.
+
+Together, we help save lives on our roadways.
+
+Find out how good it feels to be a part of an inclusive, collaborative team. We’re committed to delivering an environment where everyone feels valued, included and supported to do their best work and share their voices.
+
+Lytx, Inc. is proud to be an equal opportunity/affirmative action employer and maintains a drug-free workplace. We’re committed to attracting, retaining and maximizing the performance of a diverse and inclusive workforce. EOE/M/F/Disabled/Vet"
+Full-time,2023-01-08,NA,Head of Machine Learning,2023-01-08 13:32:21.217482 MDT,https://www.google.com/search?q=Machine+Learning+Jobs+United+States+California&ibp=htl;jobs&sa=X&ved=2ahUKEwjV2LXe6Lj8AhW9AzQIHQ5kBbgQutcGKAF6BAgIEAY#htivrt=jobs&htidocid=M2h7e39tFs0AAAAAAAAAAA%3D%3D&fpstate=tldetail,FINESSE,"Los Angeles, CA, USA","About The Role
+
+As our Head of Machine Learning, you will direct our team of brilliant machine learning engineers & data scientists to creatively brainstorm new data sources, pipelines and strategies to improve our trend prediction and demand forecasting, creating the consumer industry’s first artificial brain. Working alongside a brilliant team, you will leverage the latest techniques in AI and... machine learning across computer vision, sentiment analysis, and recommendation systems to optimize our decisions on what to design, how much of it to produce, and which rising social media influencers to work with.
+
+About You
+
+You are deeply familiar with a broad and encompassing variety of machine learning areas, ideally across general ML, natural language processing, reinforcement learning, time series and network analysis. You have led and nurtured category-defining engineering teams in the past to create unique products and led data teams to extract brilliant insights that required a singular out-of-the-box approach. You have productionized machine learning and big data systems in the past and have led teams doing so. Most of all, you can’t wait to apply your data expertise to establish brilliant machine learning architecture to figure out what’s trending in culture and fashion in realtime and to eliminate the inefficiencies in fashion design and distribution that contribute to fashion being the second largest polluter in the world. You embrace the challenges of big data, performance and scalability and think for the long-term, setting up systems that benchmark progress, prevent regressions, and are easily maintainable. Above all, you’re excited to build something from the ground up that will touch the lives of millions of people worldwide and revamp an age-old industry from the ground up.
+
+Recommended Background
+• Deep experience working with heavily alternative and large data sets
+• Deep experience & success in scaling robust, highly performed and highly designed infrastructure across web, app and internal tools
+• Deep experience in building and scaling successful and highly performant engineering teams
+• A proven track record of innovation and leadership
+• Deep experience across NLP, sentiment analysis, network/graph analysis, time series analysis, reinforcement learning, computer vision with a deep specialization in two areas
+• Experience building leading production-level machine learning systems
+
+What You’ll Love At FINESSE
+• Being at the forefront of and working towards creating a culture-defining new product
+• A close-knit, extremely passionate & world class team excited about changing the face of fashion
+• A diverse team and culture that values inclusivity and individuality as highest priority
+• Company sponsored happy hours and outings
+• Comprehensive benefits: Medical, dental and vision insurance; 401k
+• Paid maternity and paternity leave
+• Sponsored weekly team lunches
+• Unlimited PTO
+
+Our Culture
+
+FINESSE has a dreamer & doer culture. We envision the next age of fashion & consumer and then get to work to implement it, always thinking creatively, innovatively and collaboratively to create real change. We are energetic, highly creative and hungry for change that is both revolutionizing as well as ethical.
+
+The salary range for this position is $120,000 - $165,000"
+Full-time,2023-01-08,NA,Senior AI Research Scientist – Perception and Machine Learning,2023-01-08 13:32:21.796109 MDT,https://www.google.com/search?q=Machine+Learning+Jobs+United+States+California&ibp=htl;jobs&sa=X&ved=2ahUKEwjV2LXe6Lj8AhW9AzQIHQ5kBbgQutcGKAF6BAgIEAY#htivrt=jobs&htidocid=lni_L0hW7bsAAAAAAAAAAA%3D%3D&fpstate=tldetail,Bosch,"Sunnyvale, CA, USA","Company Description
+
+The Bosch Research and Technology Center North America with offices in Sunnyvale, California, Pittsburgh, Pennsylvania and Cambridge, Massachusetts is part of the global Bosch Group (www.bosch.com), a company with over 70 billion euro revenue, 400,000 people worldwide, a very diverse product portfolio, and a history of over 125 years. The Research and Technology Center North... America (RTC-NA) is committed to providing technologies and system solutions for various Bosch business fields primarily in the areas of AI empowered Human Machine Interaction (HMI), Robotics, Energy Technologies, Internet Technologies, Circuit Design, Semiconductors and Wireless, and MEMS Advanced Design.
+
+The focus of our global research on Human Machine Collaboration includes Big Data Visual Analytics, Explainable AI, Audio Analytics, NLP, Conversational AI, Mixed Reality and Smart Wearables, etc. We develop intuitive, interactive and intelligent solutions to enable inspiring UX for Bosch products and services in application areas such as autonomous driving, car infotainment and driver assistance systems (ADAS), Industry 4.0 and Internet of Things (IoT), security systems, smart home and building solutions, health care, and robotics.
+
+As a part of our global research unit, our Mixed Reality and Autonomous System group is responsible for shaping the future user experience of Bosch products by developing cutting-edge technologies and prototype systems in the field of mixed reality and robotics, including object detection, segmentation, tracking and pose estimation, 3D reconstruction and understanding, visual localization, sensor fusion, reinforcement learning and adaptive robot control. We focus on developing innovative solutions to hard challenges in computer vision, mixed reality, and robotics, needed for human machine collaboration in intelligent and autonomous systems. We work with internal partners of different Bosch business units to transfer our solutions into future products. We also actively collaborate with leading groups in academia and industry to promote research ideas and publish research findings in internationally renowned conferences and journals, e.g. CVPR, ICCV, ICRA, IROS, RSS, ISMAR, ECCV, NeurIPS, ICLR, AAAI, and SIGGRAPH.
+
+Job Description
+
+The ideal candidate will passionately drive and further advance innovations in the field of computer vision but not limited to machine learning based approaches. The work includes conducting advanced research and development of novel algorithms and guiding business units to bring innovation ideas to products. Responsibilities include but not limited to:
+• Conduct advanced research and engineering in computer vision and machine learning to address challenges of mixed reality, visual sensing, and robotics for different Bosch application areas.
+• Work with an international team of experts to transfer the results of advanced research to Bosch business units. When necessary, build prototypes to verify research ideas.
+• Actively scout for the emerging technologies and predict market trends by monitoring tech news, events and seminars.
+• Provide expert opinions on relevant technology areas to facilitate strategic planning, R&D roadmap development, and business investment.
+• Summarize research findings in high-quality paper and/or patent submissions.
+
+Qualifications
+
+Basic Qualifications
+• M.S. or Ph.D. in Computer Science or Engineering
+• 2+ years of industry R&D experience for computer vision and machine learning algorithms (e.g., DNN, RNN, GNN, GAN, ViT, and NeRF-like techniques).
+• 4+ years hands-on experience in computer vision and deep learning topics with focus on at least two of the following areas: object detection/segmentation, 3D scene understanding, autonomous driving, mixed reality, localization, SfM, sensor fusion, and state estimation.
+• Programming experience in C++, Python, or Java and hands-on experience with libraries such as OpenCV, Tensorflow, and PyTorch.
+
+Preferred Qualifications
+• Publication record in top venues in computer vision and/or machine learning, e.g. CVPR, ICCV, ICRA, IROS, RSS, ISMAR, ECCV, NeurIPS, ICLR, and SIGGRAPH.
+• Experience in working with hardware systems including sensors such as RGBD cameras, depth sensors, IMU, LIDAR, event cameras, etc.
+• Experience in leading R&D project & team dealing with international customers.
+• Experience in product development in the above-mentioned areas for consumer/enterprise markets.
+• Strong leadership skills with excellent English communication & teamwork skills.
+
+Additional Information
+
+BOSCH is a proud supporter of STEM (Science, Technology, Engineering & Mathematics) Initiatives
+• FIRST Robotics (For Inspiration and Recognition of Science and Technology)
+• AWIM (A World In Motion)
+
+By choice, we are committed to a diverse workforce – EOE/Protected Veteran/Disabled.
+
+For more information on our culture and benefits, please visit:
+
+Culture and Benefits | Bosch in the USA
+
+The U.S. base salary range for this full-time position is $200,000 - $250,000. Within the range, individual pay is determined based on several factors, including, but not limited to, work experience and job knowledge, complexity of the role, job location, etc. Your Recruiter can share more details about the specific salary range for this position during the interview process.
+
+In addition to your base salary, Bosch offers a comprehensive benefits package that includes health, dental, and vision plans; health savings accounts (HSA); flexible spending accounts; 401(K) retirement plan with an attractive employer match; wellness programs; life insurance; short and long term disability insurance; paid time off; parental leave, adoption assistance; and reimbursement of education expenses. Learn more about our full benefits offerings by visiting: https://www.myboschbenefits.com/public/welcome. Pay ranges included in the postings generally reflect base salary; certain positions may include bonus, commission, or additional benefits"
+Full-time,2023-01-08,NA,Sr. Machine Learning Engineer,2023-01-08 13:32:22.373544 MDT,https://www.google.com/search?q=Machine+Learning+Jobs+United+States+California&ibp=htl;jobs&sa=X&ved=2ahUKEwjV2LXe6Lj8AhW9AzQIHQ5kBbgQutcGKAF6BAgIEAY#htivrt=jobs&htidocid=tcT9qbu0UNMAAAAAAAAAAA%3D%3D&fpstate=tldetail,Adobe,"San Jose, CA, USA","Our Company
+
+Changing the world through digital experiences is what Adobe’s all about. We give everyone—from emerging artists to global brands—everything they need to design and deliver exceptional digital experiences! We’re passionate about empowering people to create beautiful and powerful images, videos, and apps, and transform how companies interact with customers across every screen...
+
+We’re on a mission to hire the very best and are committed to creating exceptional employee experiences where everyone is respected and has access to equal opportunity. We realize that new ideas can come from everywhere in the organization, and we know the next big idea could be yours!
+
+The Opportunity
+• Adobe is looking for a Staff Machine Learning Engineer who has an expertise in software engineering and machine learning. In this role, you will partner with the business units to build and scale data products that address challenging business problems for Adobe’s enterprise customers.
+• Research, develop, and deploy large-scale machine learning solutions for business
+
+What you’ll Do
+• Work closely with data scientists, engineers, researchers, and product managers to implement AI/ML solutions into Adobe Experience Platform
+• Engage with customers to understand and anticipate how machine learning can solve their business problems
+• Work across organizational boundaries to align on priorities and drive projects forward
+• Promote accomplishments across the organization, blogs, and conferences
+
+What you need to succeed
+• Ph.D. or M.S. degree in Computer Science, Electrical Engineering, Statistics, Applied Mathematics, or related fields
+• Proficient in one or more programming languages such as Python, Java, or Scala
+• In-depth knowledge of machine learning algorithms and their applications to business problems
+• Proven ability in building, deploying, measuring, and maintaining machine learning models
+• Experience with scikit-learn, pandas, ml-lib
+Preferred Qualifications
+• Proven track record of delivering business solutions or production software
+• Experience with Apache Spark, CosmosDB, Cassandra or similar
+• Familiarity with a Deep Learning framework such as TensorFlow or PyTorch
+
+Our compensation reflects the cost of labor across several  U.S. geographic markets, and we pay differently based on those defined markets. The U.S. pay range for this position is $127,400 -- $238,700 annually. Pay within this range varies by work location and may also depend on job-related knowledge, skills, and experience. Your recruiter can share more about the specific salary range for the job location during the hiring process.
+
+At Adobe, for sales roles starting salaries are expressed as total target compensation (TTC = base + commission), and short-term incentives are in the form of sales commission plans. Non-sales roles starting salaries are expressed as base salary and short-term incentives are in the form of the Annual Incentive Plan (AIP).
+
+In addition, certain roles may be eligible for long-term incentives in the form of a new hire equity award"
+Full-time,NA,NA,Staff Machine Learning Engineer,2023-01-08 13:32:22.958093 MDT,https://www.google.com/search?q=Machine+Learning+Jobs+United+States+California&ibp=htl;jobs&sa=X&ved=2ahUKEwjV2LXe6Lj8AhW9AzQIHQ5kBbgQutcGKAF6BAgIEAY#htivrt=jobs&htidocid=Yoy_2DcxH_QAAAAAAAAAAA%3D%3D&fpstate=tldetail,Alldus,"San Francisco, CA, USA","Staff Machine Learning Scientist
+
+We are a next-generation Artificial Intelligence start-up who are creating world-class algorithms to predict consumer behavior. They leverage best-in-class models to build highly scalable products and services to deliver precise recommendations without infringing on consumer data privacy...
+
+As a Staff Machine Learning Scientist, you will play a pivotal role in building, deploying, and scaling their applied machine learning processes, models, algorithms, and team!
+
+Responsibilities:
+• Being involved in key strategic decision-making processes in areas like machine learning models, pipelines, internal tooling, etc.
+• Leading from the front as a hands-on scientist that builds robust models and coaches, supports, and mentors junior members of the team.
+• Owning projects end-to-end and being the driver behind building new features, models, and algorithms.
+
+Technical Qualifications:
+• B.S. in a highly quantitative field (e.g., Computer Science, Engineering, Physics, Mathematics, Operations Research, etc.) or equivalent experience (Advanced Degree preferred)
+• Technical expertise with Python and relevant libraries.
+• 3+ years of hands-on ML experience in cloud-native projects.
+• 2+ of Applied Machine Learning and Data experience
+• 1+ years of start-up experience
+
+Bonus:
+• Interest in Recommendation, Personalization, Search, and general eCommerce systems/engines
+
+17659"

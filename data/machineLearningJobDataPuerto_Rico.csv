@@ -1,0 +1,36 @@
+Job-Type,Date-Posted,Salary,Job-Title,Date-Scraped,Url,Company,Location,Description
+Full-time,NA,NA,Senior Data Engineer,2023-01-08 13:36:58.585404 MDT,https://www.google.com/search?q=Machine+Learning+Jobs+Puerto+Rico&ibp=htl;jobs&sa=X&ved=2ahUKEwjlzvPk6bj8AhWlFzQIHekrAZAQutcGKAF6BAgIEAY#htivrt=jobs&htidocid=kiVGya1NX1kAAAAAAAAAAA%3D%3D&fpstate=tldetail,Lockheed Martin Corporation,Puerto Rico,"Lockheed Martin Artificial Intelligence Center (LAIC) team is seeking a high energy team member with a strong working knowledge in Data Engineering and Infrastructure Design to support the Data Ops portfolio for the business. In this role you will be part of the AI Factory team consisting of colleagues possessing varying skill sets including; front-end and back-end developers, data scientists, machine learning / AI specialists, product managers, and other data engineers. The selected candidate will focus on Data Ops but will be included as part of a broader range of projects across the LAIC portfolio. The team is focused on exploiting small, innovative and agile teams to rapidly iterate and mature solutions from prototypes to deployment for utilization across the Lockheed Martin enterprise.
+The selected candidate will focus on…
+• Optimizing the use of Infrastructure as Code for automation of Data Ops deployments
+• Work across the Data Pipeline, Query, and ETL processes
+• Assess the... complete landscape of Data Ops Services (Discovery, Management, Validation, Transformation, Publication)
+• Developing CI/CD pipelines to manage effective changes to multiple infrastructure footprints supported by Kubernetes
+
+Basic Qualifications:
+• Bachelor’s Degree in Engineering, Computer Science, or other related discipline
+• 3+ Years of experience working with Kubernetes
+• 2+ Years of experience working with Big Data Technologies such as Spark, Kafka, & Presto
+• Experience with DevOps tools: Docker, Git [GitLab, GitHub], Continuous Integration [CI], Continuous Deployment [CD]
+• Knowledgeable in multiple programming languages (Python, Bash, etc.)
+• Strong organizational, analytical and problem-solving skills
+• U.S. Citizenship required
+
+Desired Skills:
+• Experience with agile development methodologies
+• Demonstrated understanding and experience with full life cycle development and sustainment, leveraging a disciplined engineering process for both implementation as well as Operations and Maintenance
+• Ability to focus on needed deliverables, working within a DevSecOps team
+• Has a strong teaming mentality, can work collaboratively to develop optimum solutions
+• Knowledge of various data processing architectural design patterns
+• Past experience working in a multi-functional team in an applied machine learning context involving streaming and batch processing
+• Ability to apply technical principles to complete assigned projects
+• Ability to manage and deliver multiple, critical business applications
+• Strong written and verbal communication skills
+• Demonstrated excellent interpersonal skills and team building abilities
+• Knowledge of configuration management tools and
+software deployment.
+• Track record of being a self-starter and strong independent contributor
+• Demonstrated ability to manage priorities and requirements
+• Proven ability to successfully operate in an interactive local and virtual team environment
+• Demonstrated ability to establish strong team relationships and deliver exceptional customer service
+
+Career Area: Artificial Intelligence | Job ID: 549833BR"

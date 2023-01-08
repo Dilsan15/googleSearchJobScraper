@@ -1,0 +1,315 @@
+Job-Type,Date-Posted,Salary,Job-Title,Date-Scraped,Url,Company,Location,Description
+Full-time,NA,NA,Senior Machine Learning Engineer,2023-01-08 13:36:40.386496 MDT,https://www.google.com/search?q=Machine+Learning+Jobs+Costa+Rica&ibp=htl;jobs&sa=X&ved=2ahUKEwi00Yvc6bj8AhVFJH0KHQJgDcMQutcGKAF6BAgIEAY#htivrt=jobs&htidocid=RhXn8q2pY1MAAAAAAAAAAA%3D%3D&fpstate=tldetail,Novacomp,"San José Province, San José, Costa Rica",Senior Machine Learning Engineer
+Full-time,2023-01-08,NA,Machine Learning Engineer,2023-01-08 13:36:40.959471 MDT,https://www.google.com/search?q=Machine+Learning+Jobs+Costa+Rica&ibp=htl;jobs&sa=X&ved=2ahUKEwi00Yvc6bj8AhVFJH0KHQJgDcMQutcGKAF6BAgIEAY#htivrt=jobs&htidocid=7bxtV8CXZI0AAAAAAAAAAA%3D%3D&fpstate=tldetail,Pfizer,"San José Province, San José, Costa Rica","Do you want to make an impact on patient health around the world? Do you thrive in a fast-paced environment that brings together scientific, clinical and commercial domains through engineering, data science, and analytics? Then join Pfizer Digital’s Artificial Intelligence, Data, and Analytics organization (AIDA) where you can leverage cutting-edge technology to inform critical business decisions and improve customer experiences for our patients and physicians. Our collection of engineering, data science, and analytics professionals are at the forefront of Pfizer’s transformation into a digitally driven organization leveraging data science and advanced analytics to change patient’s lives. The Industrialization team within Enterprise Data Science and Advanced Analytics leads the scaling of data and insights capabilities - critical drivers and enablers of Pfizer’s digital transformation.
+
+As an ML Engineer, you will be part of the Data Science Industrialization team charged with... building and automating high quality data science pipelines that power key business applications with advanced analytics/AI/ML. You will be a member of a global team that defines and maintains ML Ops best practices and deploys and maintains production analytics and data science modeling workflows.
+
+Role Responsibilities
+• Convert data/ML pipelines into scalable pipelines based on the infrastructure available (e.g. convert Python based data science code into PySpark/SQL for scalable pushdown execution)
+• Enable production models across the ML lifecycle
+• Implement model performance metrics and model monitoring dashboards
+• Implement model retraining trigger mechanisms
+• Implement champion/challenger model and A/B testing automation
+• Implement CI/CD orchestration for data science pipelines
+• Manage the production deployments and post-deployment model lifecycle management activities: drift monitoring, model retraining, and model technical evaluation & business validation
+• Work with stakeholders to assist with ML pipeline -related technical issues and support modeling infrastructure needs
+
+Basic Qualifications
+• Bachelor’s degree in ML engineering related area (Data Science, Computer Engineering, Computer Science, Information Systems, Engineering or a related discipline)
+• 2+ years of work experience in data science, analytics, or engineering for a diverse range of projects
+• Understanding of data science development lifecycle (CRISP)
+• Hands-on skills in ML engineering and data science (e.g., Python, R, SQL, industrialized ETL software)
+• Highly self-motivated to deliver both independently and with strong team collaboration
+• Ability to creatively take on new challenges and work outside comfort zone
+• Strong English communication skills (written & verbal)
+
+Preferred Qualifications
+• Advanced degree in Data Science, Computer Engineering, Computer Science, Information Systems or related discipline
+• Experience with data science enabling technology, such as Dataiku Data Science Studio, AWS SageMaker or other data science platforms
+• Hands on experience working in Agile teams, processes, and practices
+• Understanding of MLOps principles and tech stack (e.g. MLFlow)
+• Experience in CI/CD integration (e.g. GitHub, GitHub Actions or Jenkins)
+• Experience working in a cloud based analytics ecosystem (AWS, Snowflake, etc)
+
+Pfizer is an equal opportunity employer and complies with all applicable equal employment opportunity legislation in each jurisdiction in which it operates.
+
+Information & Business Tech"
+Full-time,2023-01-08,NA,Machine Learning Architect,2023-01-08 13:36:41.536182 MDT,https://www.google.com/search?q=Machine+Learning+Jobs+Costa+Rica&ibp=htl;jobs&sa=X&ved=2ahUKEwi00Yvc6bj8AhVFJH0KHQJgDcMQutcGKAF6BAgIEAY#htivrt=jobs&htidocid=1KMFkKr4XQcAAAAAAAAAAA%3D%3D&fpstate=tldetail,Concentrix,Costa Rica,"Responsibilities
+
+· Designing and developing Machine Learning use cases using appropriate ML Algorithms and Tools
+
+· Transform Business Requirements to working real life applications with Machine Learning modules and use cases
+
+· Understand the Data in Customer Experience domain and perform Feature Engineering and develop Machine Learning use cases
+
+· Create prototypes of ML Use Cases and present to stakeholders
+
+· Participate in Software Development life-cycle to productize the Machine Learning use cases
+
+· Keeping abreast of developments in the field of ML and AI. Helping in Training and Coaching others in the organization
+
+· Understand machine learning pipeline principles and make recommendations to support continual improvement.
+
+Essential skills:
+
+Professional Degree in Engineering or Computer Science (BE/BTech/ME/MTech/BSc/MSc)
+
+Preferably Academic Degree involving the field of Machine Learning or another closely related field
+
+· Familiar with classical algorithms and practical... experience are preferred, including but not limited to LR, SVM, GBDT, reinforcement learning, deep learning, etc
+
+· Working experience with Machine Learning and Deep Learning usecases and algorithms
+
+· Working experience with any of the MLOps frameworks - MLflow, Kubeflow, Vertex AI etc
+
+· ML Frameworks, Tools and Environment: Scikit, Tensorflow, PyTorch, Apache Spark and Spark ML
+
+· Python programming environment (Visual Studio Code, Jupyter Notebook/Lab, Anaconda etc)
+
+· View on the hardware and compute environment to run ML Use Case (use of GPU etc)
+
+Software Engineering:
+
+· Understanding of Software Development life-cycle process
+
+· Agile, Scrum, Kanban Methodologies
+
+· Ability to have a view on how ML Use Cases can be incorporated into Software Products
+
+#LATAMCNX"
+Full-time,2023-01-08,NA,Machine Learning Platform Engineer / ML-OPS,2023-01-08 13:36:42.111233 MDT,https://www.google.com/search?q=Machine+Learning+Jobs+Costa+Rica&ibp=htl;jobs&sa=X&ved=2ahUKEwi00Yvc6bj8AhVFJH0KHQJgDcMQutcGKAF6BAgIEAY#htivrt=jobs&htidocid=_BInCosg39oAAAAAAAAAAA%3D%3D&fpstate=tldetail,TransUnion,"Heredia Province, Heredia, Costa Rica","TransUnion's Job Applicant Privacy Notice
+
+What We'll Bring:
+At TransUnion, we have a welcoming and energetic environment that encourages collaboration and innovation we're - consistently exploring new technologies and tools to be agile. This environment gives our people the opportunity to hone current skills and build new capabilities, while discovering their genius.
+Come be a part of our team - you'll work with great people, pioneering products and cutting-edge technology.
+
+What You'll Bring:
+
+We are looking for an experienced ML Platform Engineer to help build scalable production systems to improve the capacity and speed on how we develop and deploy our fraud analytics models. The role requires close collaboration with internal data science community and solution architects to bring more automation and scalability to our machine learning efforts. The role is based in India with the following set of expectations and responsibilities:
+• Leadership in Architecture, Design, Development... and Deployment of large-scale analytics product and platforms
+• Create automation pipelines for continuous training, evaluation, and deployment of models.
+• Advance monitoring to identify model drift and active learning opportunities.
+• Establish scalable, efficient, automated processes for data analyses, model development, validation, and implementation.
+• Design and implement the data pipelines and engineering infrastructure to support our analytics platform at scale.
+• Writing and reviewing code in a programming language such as Python, PySpark, R etc.
+We'd Love to See:
+• Prior Experience in architecting, designing and development Data Management and Analytics tools and platforms, ETL & Data Warehouse systems is a plus.
+• Experience in Customer Data Platforms (CDP) associated Services and techs will be Plus.
+• Familiarity with one or more data-oriented workflow orchestration frameworks (KubeFlow, Airflow, Argo, etc.)
+• Experience in developing and maintaining ML systems built with open-source tools. (Feast, ML Flow is a big plus)
+• Experience participating and leading the scrum process in agile teams with documentation of product and platform releases, epics and user stories.
+Impact You'll Make:
+• Bachelor's degree in Computer Science or any other engineering discipline
+• Experience with a major cloud provider (AWS and/or GCP).
+• Experience building custom integrations between cloud-based systems using APIs.
+• Strong understanding of Analytics Toolkits, benchmarking, and continuous integration.
+• Open to learn and explore new toolsets and technology and innovative solutions.
+TransUnion Job Title
+
+Engineer I, Software Development"
+Full-time,2023-01-08,NA,Machine Learning Engineer,2023-01-08 13:36:42.684312 MDT,https://www.google.com/search?q=Machine+Learning+Jobs+Costa+Rica&ibp=htl;jobs&sa=X&ved=2ahUKEwi00Yvc6bj8AhVFJH0KHQJgDcMQutcGKAF6BAgIEAY#htivrt=jobs&htidocid=i6Wt1kvNDZkAAAAAAAAAAA%3D%3D&fpstate=tldetail,Western Union,"San José Province, Santa Ana, Costa Rica","Machine Learning Engineer – Santa Ana, Costa Rica
+
+Motivated by our values: purpose driven, globally minded, and trustworthy & respectful
+
+We're a FinTech that's using insight from customers and colleagues worldwide to improve financial services for families, small businesses, multinational corporations, and non-profit organizations. We're a team of over 8,000 employees serving 200 countries and territories. We believe when money moves, better things happen.
+
+Better requires process discipline and simplification
+
+We'll be looking to you to Operate within an Agile team and participates in all aspects of that team's work providing support for model implementation, performance monitoring, and calibration documenting and communicating modeling processes and model results to users & platform leads working within established guidelines such as coding standards, workflow, or tool standards.
+
+As an MLOps Data Engineer, you will join to support a team of passionate AI/ML developers who design... develop, test, and integrate models with applications of high complexity. We operate in a collaborative, open environment focused on using Agile development techniques to autonomously deliver solutions quickly and effectively.
+
+For such a detail-driven role, you will have 4+ years of experience in system design, software development, and APIs utilizing Java and/or Python, database, and data management, 2+ years of Working knowledge about containers (Docker) and container orchestration preferably Fargate (Openshift or Kubernetes), hands-on experience with any streaming frameworks (Spark / Kafka Streams), and experience with a batch processing system preferably Spark. Knowledge of Kafka ecosystem is a plus.
+
+3+ years of experience with Agile development processes including Test Driven Development and/or Test Automation, 3+ years of experience with infrastructure-as-code, automation, troubleshooting, and root cause analysis, 2+ years of experience leveraging DevOps and lean development principles such as Continuous Integration and Continuous Delivery tools and Monitoring tools like Splunk, Prometheus. 2+ years of experience working with Amazon Web Services (AWS) or GCP AI/ML technologies and frameworks.
+
+Ideally, you will have a degree or equivalent related work experience in the following:
+Bachelor's degree in Information Technology or Computer Science or equivalent discipline, also 5-8 years' experience in Executing and Delivering technology-focused projects, Advanced knowledge of software development life cycles (waterfall, agile, etc.) and must be a problem solver with demonstrated experience in solving difficult technology challenges, with a can-do attitude; possess strong leadership skills in guiding and directing teams throughout the SDLC process"
+Full-time,NA,NA,Machine Learning Engineer,2023-01-08 13:36:43.254252 MDT,https://www.google.com/search?q=Machine+Learning+Jobs+Costa+Rica&ibp=htl;jobs&sa=X&ved=2ahUKEwi00Yvc6bj8AhVFJH0KHQJgDcMQutcGKAF6BAgIEAY#htivrt=jobs&htidocid=QDdMb7x3yPQAAAAAAAAAAA%3D%3D&fpstate=tldetail,IBM Careers,"Heredia Province, Heredia, Costa Rica","We are seeking to hire an ML Engineer to join our growing team! This is a hands-on technical role where you will spend most of your time designing, coding, and implementing ML solutions to intent and understanding problems, along with ongoing evaluation of model performance both in isolation as well as using results from production use cases. As Data Engineer, you will develop, maintain, evaluate and test data solutions.
+
+Demonstrates an understanding of Machine Learning concepts and techniques in order to solve a business problem. The individual is able to interpret exploratory statistics and identify appropriate features and machine learning algorithms to use. In addition, the earner is able to use suitable metrics to understand an algorithm's performance and effectively communicate those results.
+
+Your primary responsibilities include:
+• Investigate and experiment with new model architectures to improve existing ML models, training pipelines, and run-time inference performance
+•... Expand the scope and capabilities of our models to enable multilingual use cases
+• Creatively balance the demands of production-level software engineering with exploratory research and development
+• Design, build, optimize and support new and existing data models and data flows based on our clients’ business requirements.
+• Build, deploy and manage data infrastructure that can adequately handle the needs of a rapidly growing data driven organization.
+• Develop quality controls, data cleansing, and transformations required to deliver desired datasets according to each use case.
+• Coordinate data access and security to enable application developers, data scientists and analysts to easily access to data whenever they need too"
+Full-time,2023-01-08,NA,Machine Learning Engineer,2023-01-08 13:36:43.828832 MDT,https://www.google.com/search?q=Machine+Learning+Jobs+Costa+Rica&ibp=htl;jobs&sa=X&ved=2ahUKEwi00Yvc6bj8AhVFJH0KHQJgDcMQutcGKAF6BAgIEAY#htivrt=jobs&htidocid=Y6RcUIvxrj0AAAAAAAAAAA%3D%3D&fpstate=tldetail,Pfizer,"San José Province, Escazu, Costa Rica","Do you want to make an impact on patient health around the world? Do you thrive in a fast-paced environment that brings together scientific, clinical and commercial domains through engineering, data science, and analytics? Then join Pfizer Digital's Artificial Intelligence, Data, and Analytics organization (AIDA) where you can leverage cutting-edge technology to inform critical business decisions and improve customer experiences for our patients and physicians. Our collection of engineering, data science, and analytics professionals are at the forefront of Pfizer's transformation into a digitally driven organization leveraging data science and advanced analytics to change patient's lives. The Industrialization team within Enterprise Data Science and Advanced Analytics leads the scaling of data and insights capabilities - critical drivers and enablers of Pfizer's digital transformation.
+
+As an ML Engineer, you will be part of the Data Science Industrialization team charged with... building and automating high quality data science pipelines that power key business applications with advanced analytics/AI/ML. You will be a member of a global team that defines and maintains ML Ops best practices and deploys and maintains production analytics and data science modeling workflows.
+
+ROLE RESPONSIBILITIES
+• Convert data/ML pipelines into scalable pipelines based on the infrastructure available (e.g. convert Python based data science code into PySpark/SQL for scalable pushdown execution)
+• Enable production models across the ML lifecycle
+• Implement model performance metrics and model monitoring dashboards
+• Implement model retraining trigger mechanisms
+• Implement champion/challenger model and A/B testing automation
+• Implement CI/CD orchestration for data science pipelines
+• Manage the production deployments and post-deployment model lifecycle management activities: drift monitoring, model retraining, and model technical evaluation & business validation
+• Work with stakeholders to assist with ML pipeline -related technical issues and support modeling infrastructure needs
+
+BASIC QUALIFICATIONS
+• Bachelor's degree in ML engineering related area (Data Science, Computer Engineering, Computer Science, Information Systems, Engineering or a related discipline)
+• 2+ years of work experience in data science, analytics, or engineering for a diverse range of projects
+• Understanding of data science development lifecycle (CRISP)
+• Hands-on skills in ML engineering and data science (e.g., Python, R, SQL, industrialized ETL software)
+• Highly self-motivated to deliver both independently and with strong team collaboration
+• Ability to creatively take on new challenges and work outside comfort zone
+• Strong English communication skills (written & verbal)
+
+PREFERRED QUALIFICATIONS
+• Advanced degree in Data Science, Computer Engineering, Computer Science, Information Systems or related discipline
+• Experience with data science enabling technology, such as Dataiku Data Science Studio, AWS SageMaker or other data science platforms
+• Hands on experience working in Agile teams, processes, and practices
+• Understanding of MLOps principles and tech stack (e.g. MLFlow)
+• Experience in CI/CD integration (e.g. GitHub, GitHub Actions or Jenkins)
+• Experience working in a cloud based analytics ecosystem (AWS, Snowflake, etc)
+
+#LI-PFE
+
+Pfizer is an equal opportunity employer and complies with all applicable equal employment opportunity legislation in each jurisdiction in which it operates.
+Information & Business Tech"
+Full-time,NA,NA,Data Scientist,2023-01-08 13:36:44.407546 MDT,https://www.google.com/search?q=Machine+Learning+Jobs+Costa+Rica&ibp=htl;jobs&sa=X&ved=2ahUKEwi00Yvc6bj8AhVFJH0KHQJgDcMQutcGKAF6BAgIEAY#htivrt=jobs&htidocid=0vapdz0gtFwAAAAAAAAAAA%3D%3D&fpstate=tldetail,Thermo Fisher,Costa Rica,"When you join us at Thermo Fisher Scientific, you’ll be part of a hard-working, driven team that shares your passion for exploration and discovery. With revenues of $22 billion and the largest investment in R&D in the industry, we give our people the resources and opportunities to make significant contributions to the world.
+
+If you are passionate about how the intersection of data science, analytics, and data visualization come together to tell a story and drive decision-making within a world-leading life science company, then this is the role for you! You are inquisitive by nature, and tend to always ask the “why” in every situation. Your curious demeanor fuels your insatiable appetite for learning and you have a fascination for data mining and building models and algorithms within a large, complex organization. You also need to be a critical thinker with the ability to work with imperfect data and continuously test/learn.
+
+Reporting into a new team in the Finance organization as a... Center of Excellence, the Data Scientist will be working closely across the entire matrix of divisions and functions. You will be responsible for data mining and algorithms that lead to core statistical models that identify new opportunities and useful insights that drive overall efficiency, productivity, and revenue. The ideal candidate will have strong intuition for business and communication skills, combined with experience in data mining, statistics and machine learning models, and excellent project management skills.
+
+Key Responsibilities:
+• Identify and present predictive drivers/leading indicators, trends, outliers, and patterns that uncover new insights to help guide enterprise-wide business insights
+• Perform AB & multi-variate testing to measure impact of identified initiatives
+• Build optimization models for scenario testing future business outcomes based on internal and external data
+• Be able to ‘tell a story’ using advanced analytics and data visualization techniques while independently exploring useful insights that identify incremental revenue and efficiency opportunities within the financial COE team
+• Derive data driven insights in close partnership with Finance, Operations, Commercial, and Data Science teams to expose opportunities for revenue and cost optimization with resource allocation
+• Leverage visualization tools such as Power BI, Tableau, and SAS Visual Analytics to perform interactive data exploration that help businesses and senior leaders understand impact of seen opportunities
+• Performs other duties as assigned
+
+Requirements/Qualifications:
+• Bachelor’s degree in Mathematics, Computer Science, Data Science, Applied Statistics, or a related field, Master’s preferred
+• 2-4 years’ experience building statistical modelling tools & underlying algorithms, optimization / machine learning, and data mining models
+• Experience analyzing large, complex data sets yielding opportunities for revenue and/or process improvement within an organization
+• Ability to problem solve and identify creative solutions.
+• Programming experience (SQL, R, Python) required. Databricks experiences a plus.
+• Understanding of data lakes and relational databases
+• Experience in data visualization tools (Power BI, Tableau, SAS Analytics) a plus
+• Interpersonal skills: exceptional verbal/written communication, listening and presentation skills with attention to detail
+• Proven track record of achieving desired results without direct report authority
+• Knowledge of Agile/Scrum methodology a plus
+• Minimal travel required <10%
+
+At Thermo Fisher Scientific, each one of our 70,000 extraordinary minds has a unique story to tell. Join us and contribute to our singular mission—enabling our customers to make the world healthier, cleaner and safer"
+Full-time,NA,NA,Data Scientist,2023-01-08 13:36:44.977411 MDT,https://www.google.com/search?q=Machine+Learning+Jobs+Costa+Rica&ibp=htl;jobs&sa=X&ved=2ahUKEwi00Yvc6bj8AhVFJH0KHQJgDcMQutcGKAF6BAgIEAY#htivrt=jobs&htidocid=7ONhi9lrowwAAAAAAAAAAA%3D%3D&fpstate=tldetail,Eurofins,"Heredia Province, Heredia, Costa Rica","Company Description
+
+Eurofins Scientific is an international life sciences company, which provides a unique range of analytical testing services to clients across multiple industries. The Group believes it is the world leader in food, environment, pharmaceutical and cosmetics products testing and in agroscience CRO services. It is also one of the global independent market leaders in certain testing and laboratory services for genomics, discovery pharmacology, forensics, CDMO, advanced material sciences and for supporting clinical studies. In addition, Eurofins is one of the leading global emerging players in specialty clinical diagnostic testing.
+
+In 2018, Eurofins generated 4.2 billion Euro proforma turnover in 800 laboratories across 47 countries, employing about 45.000 staff.
+
+Eurofins Technologies is a new International Business Line (IBL) within the Eurofins Group focused on the development, manufacturing and marketing of bioanalytical technologies and diagnostic test kits in... particular. The business if primarily focused on solutions in Food Safety and Environmental Safety but has recently expanded into Animal Health and Clinical Diagnostics. Eurofins Technologies serves both external customers (industrial laboratories, governmental laboratories, service laboratories) as well as customers within the Eurofins Group.
+
+Job Description
+
+Eurofins Discovery is highly motivated to apply computational sciences, data visualization, cheminformatics, bioinformatics, and other data-driven approaches within drug discovery & development at every level of the organization. Given the expanding scope of the Research Informatics group's operations, the successful candidate will have the opportunity to continue to build on the existing team to achieve this goal and be a champion of promoting data sciences as an integral part of our business.
+
+Research Informatics at Eurofins Discovery plays a fundamental part in building an understanding of the role targets & pathways play in disease as well as assessing and enabling decision-making around hits, leads, and their optimization towards Candidates. You will be working closely with our chemistry and biology scientists to develop innovative approaches that help drive projects and identify solutions for our clients.
+
+Qualifications
+
+Required Professional Expertise:
+• Bachelor's degree in Applied Mathematics, Statistics, Physics, Computer Science, Bioinformatics, Life Sciences or related fields.
+• 5-7 years of professional experience as data scientist
+• Proficient with Python and R is a must, Java, C++ are highly desired.
+• Experience with data visualization tools, non-SQL non-SQL databases.
+• Proficient with Tableau and Power BI
+• Proficient using advanced Excel
+• Demonstrated experience applying data science methods to real-world data problems.
+• Experience utilizing visualization tools to take advantage of the growing volume of available information.
+• Skilled with relational, non-relational, big data, and big data analytics databases.
+• Deep knowledge of math, probability, statistics, and algorithms.
+• Desired: machine learning.
+
+Skills:
+• Excellent interpersonal skills at all levels of the organization, with the capability to influence decisions and lead others to achieve results.
+• Experience with projects and teams that span multiple time zones and different cultures.
+• Excellent verbal, written, analytical, and presentation communication skills, namely in design rational, key experimental results, issues, and accomplishments; adept at communicating a clear vision effectively aligning resources, and motivating teams to achieve goals.
+• Proven ability to successfully influence cross-functionally and to be sought after as a technical expert within data science applied to the drug discovery domain.
+• Data-oriented.
+• Responsive problem solver and proactive to take action.
+• Details-oriented, analytical and investigation skills.
+• Ability to multitask with organization, manage own priorities and deliverables, both independently in a team setting.
+• Strong customer focus and ability to manage (internal or external) client expectations.
+• Ability to work in a complex international environment.
+• Demonstrates a positive attitude, and capacity for a team environment, and exhibits a genuine interest in drug discovery in support of advancing human health.
+
+Additional Information
+
+Essential Duties and Responsibilities:
+• Contributes to the investigation, implementation, adoption and utilization of state-of-the art data science methods and tools (custom, open-source or commercial) to help drive drug discovery activities.
+• Collects data through means such as analyzing large scientific datasets or by extending company‘s data with third party sources of information, and transfers data into a new format to make it more appropriate for analysis.
+• Creates new, experimental frameworks to collect data, transform and analyze data.
+• Enhances data collection procedures to include information that is relevant for building analytic systems.
+• Builds tools to automate data collection, synchronization and clean up.
+• Creates data visualization tools, reports and presentations for business and scientific purposes.
+• Searches through large data sets for usable information.
+• Correlate data to find actionable results.
+• Develops algorithms and data models that allow to execute predictive analytics.
+• Writes structured, tested, readable and maintainable code, as well as participate in code reviews to ensure code quality and distribute knowledge for existing and new tools that allow to extract, analyze, visualize and produce valued added insights of data for our customers.
+• Represents data science as the subject matter expert in cross-functional drug discovery projects involving internal and external scientists.
+• Independently pursue research projects, implement novel data science workflows and support a dynamic multi-disciplinary team focused on moving projects from the hit identification stage to the discovery of candidates.
+• Actively involved in digital transformation projects and data governance objectives working closely with IT and scientific teams.
+• Ensure proper documentation of workflows, reports, data structure, tools, and analyses of the Research Informatics’ team.
+• Provide transparency and regular communication on project status, potential roadblocks for execution, and new strategies with Technology Sciences leadership.
+• Owns the accountability and responsibility of delivering to client needs and timeliness.
+• Adjusts work hours as needed to meet client deadlines;
+• Performs other duties as assigned.
+• Contribute to documentation and review standards, operational procedures and infrastructures setups. Mindset to reduce alerts and optimization of workloads.
+• Work closely with stakeholders and clients globally.
+• Selects, coaches, and develops staff to form a project team. Measures performance, develops improvement plans, and implement solutions to drive continuous improvement of project(s) activities and resources. Sets clear expectations to inspire and motivate the team.
+• Reports on the project activities to the relevant stakeholders.
+• Identifies, assesses, and authors documentation and addresses ways to harmonize and improve current processes/systems, as well as introducing new ones"
+Full-time,NA,NA,Data Engineer,2023-01-08 13:36:45.540477 MDT,https://www.google.com/search?q=Machine+Learning+Jobs+Costa+Rica&ibp=htl;jobs&sa=X&ved=2ahUKEwi00Yvc6bj8AhVFJH0KHQJgDcMQutcGKAF6BAgIEAY#htivrt=jobs&htidocid=Lgyo2-tz8uwAAAAAAAAAAA%3D%3D&fpstate=tldetail,Hakkoda,"Heredia Province, Heredia, Costa Rica","ABOUT HAKKODA
+
+Hakkoda is a modern data consultancy empowering data driven organizations. We are experts in helping companies realize the full value of the Snowflake Data Cloud. We provide consulting and managed services in data architecture, data engineering, analytics and data science.
+
+We are renowned for bringing our clients deep expertise, being easy to work with and for our fun culture as a great place to work! We are looking for curious and creative individuals who want to be part of a fast-paced, dynamic environment, where everyone’s input and efforts are valued.
+
+We hire outstanding individuals and give them the opportunity to thrive in a collaborative atmosphere that values learning, growth, and hard work. Our team is distributed across the United States and Costa Rica. If you have the desire to be a part of an exciting, challenging, and rapidly-growing Snowflake consulting services company, and if you are passionate about making a difference in this world, apply now.
+
+ROLE... DESCRIPTION:
+
+A Hakkoda Data Engineer will work in the design and development of Snowflake Data Cloud solutions. This work includes data ingestion pipelines, data architecture, data governance and security.
+
+WHAT WE ARE LOOKING FOR:
+
+We are looking for people with consulting experience building data warehouses and analytics systems in the cloud (AWS, Azure, GCP). The ideal candidate will be responsible for expanding and optimizing our clients data and data pipeline architecture. You will have experience as a data pipeline builder and data wrangler who enjoys optimizing data systems and supporting other data experts, analysts, architects and data scientists.
+
+You’d be joining a team of passionate, forward thinking engineers and data scientists who are charting a new course. You will find a culture rich in collaboration, personal development and one that recognizes and pursues the zest for life.
+
+YOUR RESPONSIBILITIES WILL INCLUDE:
+• Create and maintain optimal data pipeline architecture
+• Assemble large, complex data sets that meet functional / non-functional business requirements
+• Build the infrastructure required for optimal extraction, transformation, and loading of data from a wide variety of data sources using SQL and other ‘big data’ technologies
+• Build analytics tools that utilize the data pipeline to provide actionable insights
+
+ON DAY ONE YOU WILL BE EXPECTED TO HAVE:
+• 2+yrs as a Data Engineer or in related technical roles
+• Bachelor’s Degree (BA/BS) in computer science, information systems, Mathematics, MIS or related field
+• Experience developing data warehouses
+• Experience building ETL / ELT ingestion pipelines, and optimizing ‘big data’ data pipelines, architectures and data sets
+• Experience with SQL scripting and working with relational databases
+• Experience with business intelligence / data analytics and strong analytic skills related to working with unstructured datasets
+• Cloud experience on AWS (Azure, GCP are nice to have as well)
+• Experience with Python ScriptingStrong consulting skills, project management and organizational skills
+• Advanced English
+
+NICE TO HAVE:
+• Experience working with Snowflake
+• Understanding of Snowflake design patterns and migration architectures is a major plus
+• Understanding of Snowflake roles and user security
+• Understanding of Snowflake capabilities like Snowpipe, ETC.
+• DATA Warehouse certifications (SnowPro, Data Vault 2.0 Practitioner, etc.)
+• Certification on a cloud platform ( AWS, Azure, GCP)
+
+Hakkoda is an exciting, high growth company, and we’re scaling our team. We are looking for exceptional people who share our values, challenge ordinary thinking, and push the pace of innovation while building a future for themselves and Hakkoda. We are a collaborative team of high achievers. We love to explore, challenge and have a lot of fun along the way. Are you ready for the adventure"

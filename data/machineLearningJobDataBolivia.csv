@@ -1,0 +1,234 @@
+Job-Type,Date-Posted,Salary,Job-Title,Date-Scraped,Url,Company,Location,Description
+Full-time,NA,NA,Machine Learning Engineer,2023-01-08 13:36:32.157687 MDT,https://www.google.com/search?q=Machine+Learning+Jobs+Bolivia&ibp=htl;jobs&sa=X&ved=2ahUKEwixl4XY6bj8AhWHATQIHQ0pA60QutcGKAF6BAg4EAY#htivrt=jobs&htidocid=RS3ZriYa5U4AAAAAAAAAAA%3D%3D&fpstate=tldetail,Eql,"Puerto Rico, Bolivia","Build the world’s fairest hype commerce platform with us!
+What’s hype commerce, we hear you ask?! It’s a fair question, especially since EQL is the first of its kind!
+Hype commerce happens when there’s a massive spike in demand for a limited-run product or one-off experience. If you’ve ever tried to get your hands on a pair of Jordans, coveted handbags and accessories that everyone lusts after, or a ticket to a footy final, you know what happens next.
+Fans and bots rush the retailer’s site. The thing you thought you had in your cart disappears. You desperately click ‘next’, and after staring at a spinner for the longest time, you get forcibly logged out and end up back on the homepage. Five minutes later, you’ve got a $500 hold on your credit card but nothing to show for it. Soon you’ll be turning to the resale market in desperation…
+This is where EQL comes in. We’re on a mission to build the world’s first and fairest hype commerce platform for both fans and retailers.
+Our platform... helps global brands and retailers maximize these high-intensity retail moments. We provide hype-scale infrastructure, bot and scammer detection and robust checkout management so that sites don’t crash, scammers are squeezed out, and REAL fans win. We do this using a bunch of extremely cool and innovative technologies, and we’re constantly iterating to improve the fan experience. We’ve raised capital from leading VCs and angel investors across the world who believe in our mission and who are as excited about solving this pain for our customers as we are.
+Who we are
+EQL is a place where people can thrive and bring their whole selves to work while solving some really cool challenges. It’s fun, it’s hard, it’s the bravest thing we’ve done, and we are looking for brilliant people to do it with us. We know that we’ll win by building a company of talented, curious people to help us tackle the gnarly hurdles we know are coming. Over the last 12 months we’ve already managed to find some of the best, brightest, and most importantly kindest out there and we want to continue that trend! If you think you might be one of these people, we’d love to have you on board.
+We know that when applying for jobs, it is very common for people, particularly women or those from minority groups, to focus on their gaps and weaknesses, rather than their strengths. If you’re passionate about EQL’s mission but you don’t feel totally confident you meet all our selection criteria, we strongly encourage you to apply anyway.
+What we value
+EQL was founded by three passionate fans who wanted to build a product and a company founded on fairness. The values that our product embodies are also part of our workplace culture:
+Fairness is our power: We’ve built fairness into our product, we live it in our work. We are creating a place where everyone is treated with respect and where we trust our teammates.
+We thrive when you thrive: We value an inclusive workplace that embraces everyone’s style. With a flexible work environment, we want you to work in the way that best suits you.
+Chaos is our opportunity: Opportunity is found in the world of chaotic online behaviours. That’s why we built EQL; that’s how together, we’ll find those next big wins.
+But truthfully, we’re most excited about working with awesome people to solve fan and retailer pain. If you’re one of those great people, please join us. The ride is just starting.
+What you’ll do
+- Design, develop and iterate machine learning models for use in various parts of the EQL platform
+- Identify gaps and opportunities where machine learning can further our product and customer experience, implement solutions in collaboration with our Dev and Product teams
+- Run experiments and tests to understand the impact of ML in our products
+- Work with the Data Engineering manager, Data Scientist and Product teams to propose, POC and productionise models
+- Design, build and maintain our machine learning infrastructure, using tools such as Sagemaker, ML flow etc
+- Identify, recommend and implement new approaches to infrastructure and tooling as you embed machine learning into our products
+- Create a culture of ‘open source’ machine learning within the broader engineering team by evangelising ML and providing coaching and guidance to engineers
+Who we look for
+We focus on hiring values-aligned people because we believe the right person can learn everything to be successful in their role. We know that self-belief plays a big part in what you apply for, so we encourage everyone to apply even if they feel nervous about doing so. We don’t require degrees for any roles and we won’t pass judgement on career gaps or changes!
+We believe you’ll succeed in this role if you have:
+- A background in Machine Learning; you’ve deployed and scaled models in production
+- Experience writing scalable machine learning models in Python
+- Exposure to cloud environments such as AWS, Azure or GCP
+- Familiarity with tools in the ML / Data Engineering stack such as; Scikit-learn, PyTorch, PySpark, Kinesis, Redshift or Sagemaker
+- Understanding of data structures, data warehousing, data modeling, batch / stream processing
+- Excellent communication skills and the ability to coach and educate others using various modes of communication
+What we offer
+Fairness is not just something for our fans and retailers - it’s part of who we are which is why:
+- We provide equity in EQL - we want our team to have skin in the game and to be as invested as we are in EQL’s success. We want the people that will make EQL successful to share in that success
+- We provide competitive compensation and evaluate the market to ensure that remains true
+- We provide a flexible work environment because we understand that everyone works differently and want to support our team to be their best
+- We provide generous time off above and beyond what we are required to because we know that well-rested people make better decisions and are more engaged - when you thrive we thrive
+- When you want to collaborate in person with other humans, we have a workplace that welcomes the whole team including their furry friends.
+At EQL, diversity, equity and inclusion are fundamental to how we grow and operate our business. We’re building a diverse workforce that cultivates and supports all individuals. We believe a culture of equality creates a stronger work environment for all employees and that we are all accountable for encouraging and celebrating diverse voices. We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, colour, gender, sexual orientation, age, disability status, marital status, caring responsibilities, pregnancy status, religion, political opinion, national or social origin"
+Full-time,NA,NA,Principal Machine Learning Engineer,2023-01-08 13:36:32.727324 MDT,https://www.google.com/search?q=Machine+Learning+Jobs+Bolivia&ibp=htl;jobs&sa=X&ved=2ahUKEwixl4XY6bj8AhWHATQIHQ0pA60QutcGKAF6BAg4EAY#htivrt=jobs&htidocid=9M-hqkt-YlMAAAAAAAAAAA%3D%3D&fpstate=tldetail,Xero,"Puerto Rico, Bolivia","Xero is a beautiful, easy-to-use platform that helps small businesses and their accounting and bookkeeping advisors grow and thrive. At Xero, our purpose is to make life better for people in small business, their advisors, and communities around the world. This purpose sits at the centre of everything we do. We support our people to do the best work of their lives so that they can help small businesses succeed through better tools, information and connections. Because when they succeed they make a difference, and when millions of small businesses are making a difference, the world is a more beautiful place. About the team Xero’s Machine Learning solutions operate as evolving products that are owned in cross functional pods made up of Applications engineers, Applied scientists, Data and Platform engineers. Our teams have been largely geographically co-located, however in today’s world of remote working we are now open to remote working. Our teams remain connected to the global guilds... of their specific discipline to leverage and share practices and tools. We are evolving and maturing constantly! How you'll make an impact Xero views the application of intelligent, data-driven products and services at scale as a key competitive advantage for our business, now and into the future. As a Principal Engineer in the Data Applications team you will lead the design and build of the data pipelines and Machine Learning applications that will enable Xero to bring smart, data-driven, personalized services to millions of customers around the world.As a professional, commercially experienced software engineer you will provide technical leadership for a group of talented and enthusiastic engineers. You will set technical standards, coach, mentor and develop individuals to create a high calibre delivery capability with a specialization in the design, build, operation and refinement of machine learning training and inference pipelines and frameworks at scale. You will lift the AI/ML capability of teams around Xero, working closely with the relevant Architecture and Engineering Practice teams to establish data processing ecosystems and development patterns that maximize the reach and impact of your teams and programs of work. You’ll help teams answer questions like:- When should we use CPUs vs GPUs to serve machine learning models in production?- How do we ensure our services are reliable and built to scale with Xero’s growth?- When is the best answer an ML model? And when is it a simple report?- How can we automate our transformation and training pipelines so they are reproducible and easy to operate?- What is the best way to receive feedback from our users to measure the accuracy of predictions?You can choose to perform this role:-Based In one of our #beautiful offices Brisbane, Canberra, Sydney or Melbourne -Flexibly, through a hybrid of in office and remote working styles-Permanently Remote The team of engineers that you will manage are based in our Auckland office or remote. There is an expectation to travel to NZ and Melbourne up to 4 times a year (following local government guidelines).
+
+Key responsibilities
+
+Still be hands on coding, including troubleshooting, proofs of concept and core project contributions.
+Be a manager of other engineers, hiring, coaching and growing them to be the best they can be.
+You will provide guidance for largely autonomous cross-functional teams to conceive, design, build and operate web-scale, data driven solutions to internal and customer facing Xero business challenges
+Define and lift our engineering standards, creating patterns and tools for our specialist teams as well as for the wider Xero product teams to be able to adopt.
+Keep a watching brief on adjacent roadmaps and upcoming technology challenges, guiding the team to navigate them successfully and integrate seamlessly with other teams
+Act as an educator and evangelist globally across the Xero business helping to raise the data and AI literacy of the Xero workforce with a particular focus on those in product and engineering roles
+Champion the ethical development of data processing systems which include ML/AI components and ensure your teams are always working with the best interests of our users in mindFrom ideation to production enable the development of easy-to-use infrastructure, tooling and monitoring for data applications and reproducible data science workflows
+Cultivate a fun, rewarding, agile and results-driven culture that lives and breathes our Xero values
+
+About you:
+
+Track record of innovating and delivering technology at scale
+Thorough understanding of the practices and components required to support machine learning pipelines in production
+Strong communication skills, both written and oral and the ability to translate between business and technical audiences
+Strong leadership skills with the ability to articulate & advocate the technical vision and direction for your programs of work
+The ability to exercise effective judgment, sensitivity and creativity to changing needs and situations within the business
+Can successfully build trust and credibility with stakeholders and working relationships across all levels of the business
+Excellent interpersonal skills with the ability to contribute meaningful and accurate advice
+
+What you’ll bring with you:
+
+Expert level hands on practitioner skills in a good selection of the following areas and the appetite to learn those which are unfamiliar:data architecture, solutions architecture, CI/CD, distributed computing, streaming data, machine learning pipelines, deep learning frameworks
+Comfortable at the ‘nix command line and with AWS, Kinesis/Kafka/SNS/SQS, Kubernetes and an expert programmer in at least one of Python/Scala/Java/.Net/Golang
+Demonstrable experience in developing both training and inference systems for machine learning pipelines at scale
+Good understanding and experience measuring and designing for non-functionals, like reliability, availability, security and performance
+Extensive building and maintaining solutions running in production environments at scale
+Extensive experience working on software development projects at scale at all stages of the SDLC
+Experience operating at a senior technical level, mentoring, leading and developing high performing teams within an agile delivery environment
+Why you should become a Xero It’s a diverse and inclusive environment, with people who will respect, challenge, support and mentor you to do the best work of your life. We’re a place where innovation and change are not only encouraged but also celebrated. We value our people and want them to enjoy and take pride in their work.We’re very supportive of flexible working arrangements and offer a competitive remuneration package including shares and life insurance, in addition to your base salary. We have a culture we’re proud of. Whether you're after a workplace with a social vibe, or a workplace which understands your family is priority - Xero is all of that and more.Why Xero?At Xero we support many types of flexible working arrangements that allow you to balance your work, your life and your passions. We offer a great remuneration package including shares plus a range of leave options to suit your well-being. Our work environment encourages continuous improvement and career development and you’ll get to work with the latest technology. Our collaborative and inclusive culture is one we’re immensely proud of. We know that a diverse workforce is a strength that enables businesses, including ours, to better understand and serve customers, attract top talent and innovate successfully. We are a member of Pride in Diversity, in recognition of our inclusive workplace. So, from the moment you step through our doors, you’ll feel welcome and supported to do the best work of your life.Xero strongly encourages employees and contractors to be vaccinated against COVID-19 in order to work from a Xero office, or engage in any face-to-face Xero business"
+Full-time,NA,NA,Data Scientist,2023-01-08 13:36:33.289416 MDT,https://www.google.com/search?q=Machine+Learning+Jobs+Bolivia&ibp=htl;jobs&sa=X&ved=2ahUKEwixl4XY6bj8AhWHATQIHQ0pA60QutcGKAF6BAg4EAY#htivrt=jobs&htidocid=17QJgIT0YK4AAAAAAAAAAA%3D%3D&fpstate=tldetail,Global Express,"Puerto Rico, Bolivia","JOB DESCRIPTION About the Role: This is an exciting period of transformation for our company, and we have a unique opportunity for a Data Scientist to join Team Global Express in Melbourne to support our separation and transformation journey.
+
+Permanent Full-Time Position
+Location: Melbourne
+
+Reporting to the Head of Customer Analytics the Data Scientist will be accountable for building predictive models, data mining, conducting deep dive analysis into structured and unstructured data, and working with senior stakeholders (Head of/GM/C-suite) to convert the insights from these models and analysis into actionable outcomes
+What will you accomplish?
+Deep dive analysis into the utilisation of origin-destination data to drive customer insights, cost insights, and revenue remediation
+Deep dive analysis into product and service categories to drive customer insights, cost insights, and revenue optimisation
+Build predictive models to drive churn reduction, new business targeting opportunities... and upsell and cross-sell opportunities
+Create dashboards that provide key metrics, drivers and insights to pricing, sales and senior management
+Work with data engineering and IT to scope out and source new datasets from the business that will drive analysis, new insights and business transformation
+Provide thought leadership to senior management on the data infrastructure architecture of the analytics and IT team
+Make refinements to the existing uprate strategy deployed at Team Global Express, by focusing predominantly on price elasticity of demand and customer stickiness studies
+Assist in improving & refining the current activity-based costing profitability models
+Work closely with senior stakeholders to provide best in class business improvement advisory backed by prudent commercial analysis
+Facilitate ad hoc activities that are required for the commercial excellence capability at Team Global Express, that range from churn analysis, CLV analysis, competitor intelligence gathering
+What do we need from you?
+
+Degree Qualified in either Business, Accounting, Computer Science or Engineering
+Strong business acumen with problem-solving creativity and commercial judgement
+Highly organised with the ability to work under pressure and within set deadlines
+Intermediate to advanced SQL, Power BI, R/Python skills
+Experience building predictive models using either machine learning or other techniques.
+Experience building presentations and board papers for senior executives and non -technical stakeholders
+Experience in driving projects end to end from analysis to experimentation to testing to execution
+Diversity and Inclusion
+We celebrate difference.
+Why Team Global Express - Team Global Express
+We believe nurturing a diverse and inclusive workplace, which celebrates different points of view and gives everyone the chance to contribute, as we build to a bigger and brighter future.
+
+As an Equal Opportunity Employer, all qualified applicants will receive consideration for employment without regard to race, religion, gender identity or expression, sexual orientation, age, marital or disability status.
+To be considered, you must be entitled to work in the specified country and be prepared to undertake pre-employment checks including a criminal history check and medical assessment.
+It’s never been a more exciting time to join our team.
+
+As we transform into a truly iconic Australian business, your opportunities for growth with us are limitless.
+
+To find out more about us, visit About - Team Global Express"
+Full-time,NA,NA,Data Engineer - Data Transformation Project,2023-01-08 13:36:33.850170 MDT,https://www.google.com/search?q=Machine+Learning+Jobs+Bolivia&ibp=htl;jobs&sa=X&ved=2ahUKEwixl4XY6bj8AhWHATQIHQ0pA60QutcGKAF6BAg4EAY#htivrt=jobs&htidocid=ULNDSyHHVPwAAAAAAAAAAA%3D%3D&fpstate=tldetail,Macquarie Group,"Puerto Rico, Bolivia","Our Commodities and Global Markets Data Transformation is an exciting program of work as we embark on our journey to build the innovative and future ready Data Platform that will help Macquarie businesses meet customer needs.As a Big Data Engineer, you will join our dynamic Engineering team developing cutting-edge applications. We are industry pioneers and we actively look for innovative ways to achieve great results, which do speak for themselves:To be successful in this role, you will have: Data warehousing experience with emphasis on Information management domainData modelling experience Linux/Unix skillsPrior working experience with AWS - any or all of EC2, S3, EBS, ELB, RDS, Dynamo DB, EMRSolid SQL experience, authoring complex queries and DDLBig data querying tools like Hive, Spark, PrestoWorking knowledge of Data Pipelines tools like Apache Oozie, LUIGI or AirflowExposure to working in an Agile environmentProven ability to troubleshoot and resolve production issues under a... DevOps model A track record of continuously identify opportunities to improve the performance and quality of your ecosystemExperience monitoring performance and ensuring infrastructure is appropriately matched to support workload and SLAsA broad knowledge of technical solutions, design patterns, and code for medium/complex applications deployed in clustered computing environment. Ideally you will also any of the have: Good experience in programming languages like (Scala or Java or Python) in context of Big data technologies like SparkData StreamingExperience working in environments with Docker, Kubernetes, OpenshiftExposure to security concepts and best practicesKnowledge of machine learning (E.g. Spark ML or R)Experience with real-time integration (using Kafka, Spark streaming or other technologies)Experience with Flink, BeamExperience with various messaging systems, such as Kafka, RabbitMQ, SolaceA critical understanding of Lambda ArchitectureExperience and knowledge of major Hadoop distribution such as Cloudera, MapR, Hortonworks HDPGood experience with build tools like Maven, Gradle, AntWorking knowledge of API-based integration for modern system If this role sounds like the right opportunity to further your career, please apply via the link.About the Corporate Operations GroupThe Corporate Operations Group brings together specialist support services in Digital Transformation & Data, Technology, Operations, Human Resources, Business Services, Business Improvement & Strategy, and the Macquarie Group Foundation. We deliver service excellence to ensure Macquarie is open for business, deliver on transformational change, invest in our people and have deep relationships with our customers.Our commitment to Diversity and Inclusion The diversity of our people is one of our greatest strengths, and in combination with our inclusive environment, it enables us to deliver innovative and sustainable outcomes for our people, clients, shareholders and communities. From day one, you'll be encouraged to be yourself and supported to perform at your best. If our purpose of ‘empowering people to innovate and invest for a better future’ is as inspiring to you as it is to us, please apply. With the right technology, support and resources, our people can work in a range of flexible ways.We are committed to providing a working environment that embraces and values diversity and inclusion. We encourage candidates to speak with a member of our recruitment team if you require adjustments to our recruitment process to support you, and the type of working arrangements that would help you thrive.#LI-hybrid"
+Full-time,NA,NA,Data Scientist,2023-01-08 13:36:34.424800 MDT,https://www.google.com/search?q=Machine+Learning+Jobs+Bolivia&ibp=htl;jobs&sa=X&ved=2ahUKEwixl4XY6bj8AhWHATQIHQ0pA60QutcGKAF6BAg4EAY#htivrt=jobs&htidocid=XZaVKWeL9IEAAAAAAAAAAA%3D%3D&fpstate=tldetail,David Jones,"Puerto Rico, Bolivia","As Country Road Group continues to significantly invest in its digital agenda, we are currently looking for a Data scientist to use their advanced analytical techniques to understand our customer. Reporting into our Digital Customer engagement division, the Data Scientist provides recommendations and strategic insight around customer behaviour using their AI and Machine learning capability.
+
+We’re looking for a Data Scientist to join our Advanced Analytics team and play a key role in establishing and facilitating predictive behaviour and modelling within our brands to optimise decision making. This unique role is integral in utilising advanced analytical techniques to assist in the delivery of strategic projects across the Country Road Group.
+
+Based in Richmond, with work from home flexibility, this role would suit an experienced Data Scientist with excellent stakeholder engagement skills looking to grow their career in an iconic retail business.
+
+In this role you will:
+Unlock... incremental value within existing and new data assets using advanced analytical technics such as statistical modelling for prediction and discovery.
+Advise and conduct analysis to support business decision making, including taking briefs, performing analysis and producing reports that enable effective decision making.
+Manage the complete predictive model life cycle.
+Stay abreast of the latest developments in analytics and identifying opportunities to utilise them.
+Assist with commercial analysis as and when required.
+
+Maintain data in Big Query and perform transformations in SQL to load it into Data Studio Dashboards.
+
+Work collaboratively across the business including Insights and loyalty
+Mentor and share knowledge of techniques, applications, and approaches with the wider analytical team.
+What are we looking for?
+Proven Data Scientist work experience
+Experience with other languages and platforms ( Python, SQL, C/C++, Matlab, AWS, GCP)
+Have demonstrated experience in successfully building, evaluating, deploying and monitoring statistical models with data
+Are adept in turning questions into testable hypotheses and presenting insights to key, non-technical stakeholders
+Possess experience in identifying new uses for data and its interaction with data design using a variety of techniques and applications
+Tertiary qualifications in quantitative or highly analytical disciplines (Mathematics, statistics)
+Why work for us?
+A competitive remuneration package, including an annual bonus incentive
+Generous employee discounts across David Jones and Country Road Group
+An additional day of leave for your birthday
+The opportunity to support community partnerships through our Good Business Journey program
+Be a member of a company committed to driving responsible business practices
+Ongoing training and development to pursue individual ambitions
+Want to know a bit more about us?
+
+The Country Road Group is Australasia’s largest department store and fashion retail group comprising of iconic brands such as David Jones, Country Road, POLITIX, Trenery, Witchery and MIMCO. Part of Woolworths Holding (SA) our values include being Customer Obsessed, Collaborative, Inspirational, Responsible and Dedicated to Quality.
+
+At the Country Road Group, we know we connect with our customers best when our people are representative of our community. As part of our commitment to providing a supportive working environment that values inclusion and diversity, we actively encourage applications across all cultural backgrounds, genders and abilities"
+Full-time,NA,NA,Senior Data Scientist,2023-01-08 13:36:34.984639 MDT,https://www.google.com/search?q=Machine+Learning+Jobs+Bolivia&ibp=htl;jobs&sa=X&ved=2ahUKEwixl4XY6bj8AhWHATQIHQ0pA60QutcGKAF6BAg4EAY#htivrt=jobs&htidocid=6Mpq-6GrJTUAAAAAAAAAAA%3D%3D&fpstate=tldetail,Catch.Com.Au,"Puerto Rico, Bolivia","What you'll be doing The Data Scientist will build forecasting solutions predicting the future values for the target variables, this will include analysing temporal features, contextual features, and the sequential nature of the data.
+
+This position will require good understanding of time series analysis methods in addition to AI/ML algorithms used for standard regression, classification, scoring and ranking target variables according to the business needs.
+
+You Could Expect Your Typical Day To Include Some Of The Following Things:
+The time is now to be part of the Catch team. No two days are alike, and we are embarking on remarkable growth.
+Analyse temporal, and sequential data, features, and target variables, then extract actionable insights out of the data and build models predicting the future.
+Develop forecasting model to analyse time series and predict future target variables
+Introduce new algorithms, methods and solutions using theoretical time series analysis
+Provide... scientific understanding contributing to technical and business discussions and communicate ideas, plans, and results to key stakeholders
+Document scientific ideas, proposed solutions, experimental results and conclusive findings
+Populating the data, develop the queries, build pipelines
+Process the data to build the feature set that is most likely to affect the target variables
+Researching, experimenting, and implementing appropriate algorithms to forecast target variables.
+Test your models and hypothesis to ensure the accuracy of your predictions and the statistical significance of the findings
+Deploy the model to production as an API or as a cron job that will extract batch data.
+Approach business needs with delivery mindset, where we understand the business, develop the solution, deliver the added value to our end-user and business clients
+Identify business opportunities that could be improved by utilising forecasting and machine learning
+Extract the requirements of the business use cases from stakeholders and formulate them as scientific problems and technical development projects.
+The skills you’ll have
+Tertiary qualified in relevant discipline (Statistics, Data Science, Mathematics, Computer Science)
+A postgraduate experience such as a PhD or MSc in forecasting, operation research or predictive modelling.
+3+ years of experience as a data scientist within the data and analytics domain. This includes having experience in scoping, development, and delivery of data science solutions and actionable insights.
+Experience in delivering and automating a range of bespoke data science, machine learning, and statistical modelling-led projects, with hands-on experience in forecasting (including predictive modelling), optimisation and operations research, personalisation modelling, clustering, and statistical insights.
+Practical experience with statistical analysis such as how, and when to use F-test, T-test, non-parametric test, and linear regression test and assess data distribution and anomaly detection.
+Highly proficient with Python, SQL, Excel, and visualisation tools such as Tableau
+Strong understanding of forecasting methods such as ARMA, ARIMA, GARCH, RNN, LSTM, Fourier Transform, Wavelet transform, Particle Filter, HMM, and Bayesian Networks.
+Familiarity with a range of ML techniques (e.g., regression, classification, clustering, scoring, ensembles, tree-based methods, dimensionality reduction, etc.), areas (Computer Vision, Natural Language Processing, Reinforcement Learning, etc.), and tools (SciKit-Learn, PyTorch, TensorFlow, etc.) and selecting the right such solution for the given problem.
+Familiarity with retail forecasting problems such as demand forecasting, revenue forecasting, supply forecasting, and profitability forecasting
+Strong communication skills to translate analytical solution outcomes in the context of business impacts and benefits to a non-technical audience.
+Join our team of Catchies
+
+There has never been a more exciting time to join the Catch Team!!
+
+Our people are at the heart of everything we do and will go above and beyond for our customers “To be the trusted place where Australians start their shopping journey”.
+
+Working at Catch, you’ll experience:
+Flexibility comes in all shapes and sizes at Catch, and as part of our commitment to flexibility, we offer all team members the opportunity to take control over when, where and how work is accomplished depending on your role.
+To help our team members juggle the demands of work and life, our health and wellbeing program aims to encourage positive morale and help employees reduce stress through the promotion of work/ life balance.
+To enable our team members to give back to our communities, we offer a day’s paid volunteer leave
+My Catch Perks - up to 5% discount off selected retailers including Kmart, Target, Bunnings and Officeworks
+An organization that is experiencing incredible growth
+Support and collaboration, not just with their immediate team, but with the broader organisation as well!
+Other unbelievable benefits and perks like free Club Catch membership, study support, in house learning and development, parental leave programs, plus loads more...
+Who are Catch?
+
+Back in 2006, Catch set out to shake up Australia’s online retail landscape. We’ve come a long way since!
+
+We’re not just one of the country’s top eCommerce players, with a proven track record of growth, an award-winning digital platform and second to none customer experience offering. Behind the scenes, we’re a world-class team of creatives, strategists, developers and innovators, and we’re on the hunt for like-minded people to jump on board.
+
+We don’t play by the rules. We push boundaries. We think big. We stay curious and driven. And we’re just getting started…"
+Full-time,NA,NA,Senior Consultant - Data And Ai,2023-01-08 13:36:35.555606 MDT,https://www.google.com/search?q=Machine+Learning+Jobs+Bolivia&ibp=htl;jobs&sa=X&ved=2ahUKEwixl4XY6bj8AhWHATQIHQ0pA60QutcGKAF6BAg4EAY#htivrt=jobs&htidocid=jXA4_e1MTxgAAAAAAAAAAA%3D%3D&fpstate=tldetail,Deloitte,"Puerto Rico, Bolivia","Senior Consultant - Data and AI Date: 18-Nov-2022 Location: Melbourne, VIC, AU #job-location.job-location-inline { display: inline; } Department: Consulting Description: Job Requisition ID: 32053 Why Data and AI? Deloitte Data and AI is changing the way that businesses leverage cloud-native technology to solve the toughest Data, Machine Learning and AI challenges faced by our customers! Our consulting team are thought leaders and specialists in cloud native software development, data engineering and Machine learning, enabling digital transformation by unlocking the value of core systems at the heart of organisations to the many and varied digital channels required by modern applications. We work with our customers to create modern Data and AI Platforms that can be transparently run and managed in the cloud, and/or hybrid architectures. Our Team. Our Team is united in their pursuit of technical excellence, passion for delivery, and aspirations to continuously improve. We are willing to... think and work differently, and ultimately thrive on winning as a Champion Team. Most important of all… we thrive on our focus on life-work balance and ensuring we have fun!! (This is what takes us from good to great!) As our team of 500+ consultants continue to grow and develop, we are now looking for Software Engineers who are eager to grow their skills in building cloud native Data and AI platforms! About You. Ultimately, we are looking for Consultants whose suite of capabilities include: 1-3 years’ experience in software development in Python, .NET or Java. Strong software development fundamentals including version control, unit testing and DI/CD practises. Experience in software design patterns and XP practices (pair programming, continuous delivery, TDD). Hands-on development experience in at least one of the major hyper scaler platforms - AWS, Google Cloud and/or Microsoft Azure. Experience designing and developing cloud-native, event-driven micro-services utilising FaaS is preferred. Exceptional interpersonal and communication skills. Comfort working in an Agile environment. Technical certifications will be highly regarded. We can’t wait to show you what is possible at Deloitte"
+Full-time,NA,NA,Senior Data Scientist,2023-01-08 13:36:36.130461 MDT,https://www.google.com/search?q=Machine+Learning+Jobs+Bolivia&ibp=htl;jobs&sa=X&ved=2ahUKEwixl4XY6bj8AhWHATQIHQ0pA60QutcGKAF6BAg4EAY#htivrt=jobs&htidocid=1Pq8ROOMBLsAAAAAAAAAAA%3D%3D&fpstate=tldetail,Talent Insights,"Puerto Rico, Bolivia","Greenfield environment A chance to create a meaningful impact to the business
+Bringing models into production and running end-to-end
+This is a Senior Data Scientist role with a heavy focus on mathematical optimisation applied to building data science products for the retail industry. You will work with extremely knowledgeable, experienced data science peers with a bit of a start-up vibe, with huge leading clients.
+
+The company in a nutshell:
+This is a boutique firm of data science consultants solving complex, high value problems for Australian and global retail GIANTS.
+The team in a nutshell:
+You will be part of the new Data Science Product team that will build data science products that will scale and provide significant value to clients. This is including proprietary algorithms, cutting-edge tech and a variety of optimisation and ML approaches.
+Your immediate team will be 3 Data Scientists. You will have a sister team of experienced client-facing data scientists and analysts. The... aim is to get the team growing - double in the next year and again the year after.
+
+A little about you in a nutshell:
+A minimum of 3-4 years of professional data science and machine learning experience, ideally where you built end-to-end productionised data science solutions
+You will be a very strong Python programmer (including common ML packages), understand modern data science and ML tools and concepts of ML Ops and generally how to build scalable, pragmatic models for the real-world. This might include working with data and ML engineers
+An academic background in Math/Optimisation/Statistics/ML/Computer Science or similar
+
+Benefits and salary:
+The salary range is dependent on your experience and skills
+For a strong mid-level data scientist you could expect $145K base up to $170K base for a strong Senior Data Scientist.
+In addition, standard superannuation, a very strong bonus (potential up to 30%) and other potential benefits.
+Hit APPLY below if you have the required experience and full Australian work rights or"
+Full-time,2023-01-08,NA,"Director Business Development - Banking, Financial Services, Insurance, AI",2023-01-08 13:36:36.689758 MDT,https://www.google.com/search?q=Machine+Learning+Jobs+Bolivia&ibp=htl;jobs&sa=X&ved=2ahUKEwixl4XY6bj8AhWHATQIHQ0pA60QutcGKAF6BAg4EAY#htivrt=jobs&htidocid=kJtANYUUCIAAAAAAAAAAAA%3D%3D&fpstate=tldetail,Xen.ai,Bolivia,"Descripción del puesto:
+
+Xen.AI is looking for Director of Sales & Business Development for Banking, Financial Services, Insurance, AI, Machine Learning and Data Science solutions, who.
+Características requeridas
+
+Amabilidad, Adaptabilidad, Comunicación, Iniciativa, Curiosidad, Flexibilidad, Competitividad, Agilidad
+Requisitos mínimos
+
+Descubrirá que el trabajo en equipo en la empresa puede ayudarlo a crecer con una capacitación de primer nivel, así como con nuestros programas educativos y las oportunidades que ofrecen. Llévelo a cualquier parte mientras brinda los beneficios que necesita. para su vida y carrera.
+Currículum
+
+Mire de cerca en la página de registro de trabajos cómo enviar el currículum."
+Full-time,NA,NA,Data Scientist - Lead,2023-01-08 13:36:37.251592 MDT,https://www.google.com/search?q=Machine+Learning+Jobs+Bolivia&ibp=htl;jobs&sa=X&ved=2ahUKEwixl4XY6bj8AhWHATQIHQ0pA60QutcGKAF6BAg4EAY#htivrt=jobs&htidocid=Gk_-RR8tpRUAAAAAAAAAAA%3D%3D&fpstate=tldetail,Bunnings Group,"Puerto Rico, Bolivia","At Bunnings, youll make an impact on the business and beyond. At Bunnings, theres so much going on behind the scenes that may come as a surprise. With millions of customer interactions occurring across our stores and online platforms, weve got so many opportunities to shape our trademark Bunnings experiences for our customers. About the role: A leadership position within the Advanced Analytics team, you will be working with key stakeholders across the business to identify key organisational challenges and deliver high quality analytics and prescriptive insights. You will provide technical guidance to the Data Science team ensuring that Bunnings develops a mature capability and is exposed to and incorporates leading / best practices and methodologies. What's involved: Use a variety of techniques such as machine learning, neural networks propensity/regression modelling, cluster analysis on sound mathematics and statistics basis. Solving problems across the spectrum, being able to solve... complex measurement pieces all the way through to personalisation, forecasting and predictive modelling. Develop the Data Science Craft, ensuring that Bunnings develops a mature capability, builds industry/research links, and is exposed to and incorporates leading practices and methodologies. Present key models and insights to key stakeholders across the business in everyday language Discover new opportunities to optimise the business through analytics and statistical modelling Proactively identify analytics and statistical learning opportunities and share knowledge across the team Who were looking for: You will build strong working relationships with technical and non-technical team members. You will welcome and value diversity to contribute to an inclusive working environment where differences are acknowledged and respected. Youll need: Postgraduate qualification in Statistics, Computer Science or Mathematics, or other quantitative discipline Working experience in data wrangling, visualisation, measurement, Regression and Machine Learning. Experience managing and leading Data Scientists and working directly with stakeholders. Advanced programming skills and proven experience in productionising models into business deliverables Experience with Cloud Platforms and working with fast moving transaction data is preferred Youll be part of a workplace where youll feel like you belong. Theres so much on offer when youre part of the team. Our flexible and informal work environment helps bring balance between work and home. Then theres the fun stuff like team discount at Bunnings and other Wesfarmers brands, incentives, discounts from corporate partners (such as private health insurance) and cost price food and drinks at the Bunnings caf. We also offer 12 weeks paid parental leave, regardless of gender, and you will have the opportunity to create a real difference in your community and environment. Join us and experience Bunnings from the other side of the counter. Please note that if your application progresses to the reference check stage, you may be required to submit a police check. If your search returns a criminal record, Bunnings will assess whether the record impacts your ability to perform the key requirements of the role"

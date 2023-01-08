@@ -1,0 +1,348 @@
+Job-Type,Date-Posted,Salary,Job-Title,Date-Scraped,Url,Company,Location,Description
+Full-time,NA,€35K–€45K a year,Machine Learning / Data Engineer,2023-01-08 13:34:00.743409 MDT,https://www.google.com/search?q=Machine+Learning+Jobs+Spain&ibp=htl;jobs&sa=X&ved=2ahUKEwiLluKP6bj8AhUbAzQIHa1BAX0QutcGKAF6BAgIEAY#htivrt=jobs&htidocid=je_QIJ1xx-oAAAAAAAAAAA%3D%3D&fpstate=tldetail,Nextail,"Madrid, Spain","We’re looking to add an experienced ML/Data Engineer to our Data Science team. This new team member will be instrumental in leading and developing data science solutions from the idea to maturity as we continue to make the retail world a better, more sustainable place.
+
+At Nextail, we empower retailers to create better experiences while using fewer of the world's resources. Nextail’s cloud-based platform uses artificial intelligence, prescriptive analytics, and optimization to deliver agile merchandising decisions. To date, we’re backed by more than $12M in funding from leading venture capital investors and are working with global retailers like Versace, River Island, and Pepe Jeans.
+
+Our team:
+
+You will be part of Nextail's Data Science team. In the short/medium term, the team has the following main areas of focus:
+• Data Science Techniques, AI, ML, Optimisation, Simulation, and Visualization, are the tools we always have at hand when we face a problem, but we will never use them in... vain. We work together with Product Managers, Developers, Data Scientists, ML Engineers, Data Engineers, and Business Experts to solve the end-to-end problem.
+• Our job is not finished when the model and the end-to-end solution are in production, or after the change management and operational details are closed, not even when we have strong evidence that the solution is solving the user problem and she is satisfied because after that we continue monitoring our models.
+• Discussion between pairs, working together, and challenging each other, is the fastest way to solve a problem and grow as a Machine Learning Engineer. We have a culture of sharing, transparency, meritocracy, caring, and trusting each other.
+
+The team is composed by:
+• Ricardo Guerrero (Sr Machine Learning Engineer)
+• Juan José Campaña (Machine Learning Engineer)
+• Antonio Martínez (Machine Learning Engineer)
+• Vlad Ustimenko (Machine Learning Engineer)
+
+You will:
+• You will participate in the development, deployment, and maintenance of the multiple Machine Learning models they are working with.
+• You will help to instrument the different models that the squad creates, to collect metrics and usage statistics.
+• You will implement mathematical algorithms or complex computations.
+• You will influence the whole model production flow, and take part in its improvement process.
+• You will encourage good technical practices in the squad.
+• You will work closely with the Data Science team, helping in the design of their models to ensure they are scalable.
+
+We offer:
+• A highly innovative and fast-paced environment. As in any startup, expect to find a team with an interesting mix of business profiles (without the slides), IT geeks, data scientists, and as a fashion tech startup, a few fashion victims.
+• The satisfaction of delivering something new to the world that will have a strong impact both on retailers’ top line and on customer satisfaction. Contribute to the development of cutting-edge artificial intelligence & machine learning technologies that will build the next generation of retail systems.
+• The opportunity to work with top client decision-makers in the fashion retail industry and sharpen your business reasoning and interpersonal skills. Learn from peers from top consulting firms and the best global business schools.
+• High flexibility: We’re strong believers that what matters most are results. Each Nextailer is empowered, through trust and ownership, to organize their time as they see fit without jeopardizing the time or work of their colleagues.
+• Remote and relationships first Nextail has been a remote first company since its beginnings. Yet we believe in the power of direct human interaction. Therefore teams gather in person on a quarterly basis and the Nextail house in the center of Madrid is open all year long to all Nextailers.Periodic company get-togethers to meet the rest of the team.
+• International environment: We operate across the globe, with recent operations reaching from Europe all the way to Australia, and our team alone consists of professionals of more than 23 different nationalities. While many of us are multilingual, our working language is English.
+• Diversity on all levels: United as a single team, we celebrate diversity at every dimension*. Professionally speaking, are you ready to work alongside tech geniuses, data science magicians, and fashionistas? You’ll have teammates with extensive experience in a wide variety of professional fields, including technology, retail, consulting and entrepreneurship.
+• Performance allowance: To let people perform at their best, each Nextailer has an annual performance allowance of 1,000 EUR as well as 2 days off for professional development. You’ll be provided with a laptop of your choice so you can work with the tools that are most comfortable for you!
+• Flexible compensation plan: We offer a fixed + variable salary as well as company equity.
+• Comfortable working in high-performance computational environments (Apache Spark, Databricks).
+• Theoretical and practical experience building pipelines for Data Science teams.
+• Experience with model productization tools (API rest, AWS Sagemaker, Docker, etc).
+• Experience developing and deploying scalable, high-quality code to production.
+
+And remember, even if you don't have some of the requirements, don't hesitate to contact and tell us what you would like to bring to the team, we are always open for the right person 😀
+• Nextail is an equal-opportunity employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status.
+
+To all recruitment agencies: Nextail does not accept agency resumes. Please do not forward resumes to our jobs alias, Nextail employees or any other organization location. Nextail is not responsible for any fees related to unsolicited resumes"
+Full-time,2023-01-08,NA,Machine Learning Developer MSH,2023-01-08 13:34:01.327569 MDT,https://www.google.com/search?q=Machine+Learning+Jobs+Spain&ibp=htl;jobs&sa=X&ved=2ahUKEwiLluKP6bj8AhUbAzQIHa1BAX0QutcGKAF6BAgIEAY#htivrt=jobs&htidocid=gdx_cPmOyysAAAAAAAAAAA%3D%3D&fpstate=tldetail,Vodafone,"Málaga, Spain","Job Responsibility
+
+#LIHybrid
+
+IoT OSS team is responsible for IoT monitoring tools for IoT services in Vodafone Global. As part of this team, you will be responsible to develop new monitoring solutions in agile culture, integrate them with different systems, be responsible for management and support and collaborating closely with different IoT areas (IT and core engineers, operations, business).
+
+What you bring?
+
+IoT OSS team is responsible of IoT monitoring tools for IoT services in Vodafone Global. As part of this team you will be responsible to develop new monitoring solutions in agile culture, integrate them with different systems, be responsible of management and support and collaborating closely with different IoT areas (IT and core engineers, operations, business).
+
+Main Responsabilities
+• Accountable and responsible of IoT OSS Tool catalogue.
+• Manage the relationships with the key stakeholders to ensure that system strategy and functionality is in line with the market... demands.
+• Design and implementation of Analytics and Big Data solutions
+• Team leading
+• Develop and drive OSS improvements projects including (architecture, design, implementation and maintenance)
+
+Skills
+• Engineering degree in telecommunications or computer science.
+• Good knowledge and understanding of the telecommunications industry specifically IoT
+• Familiar with Agile methodology.
+• Strong teamwork skill.
+• Data Science, Math & Statistics
+• Statistical analysis and Data Mining
+• Predictive analytics
+• Machine Learning engineering
+• Data Visualization
+• Big Data engineering
+
+Please, apply with an English version of your CV.
+
+Why Vodafone?
+
+At Vodafone we are concerned about being a company committed to diversity as an engine of change. We are proud to offer equal opportunities regardless of race, nationality, cultural origin, sex, age, marital status, sexual orientation, gender identity, disability and religious or political beliefs.
+
+Skills"
+Full-time,NA,NA,Machine Learning Engineer,2023-01-08 13:34:01.886530 MDT,https://www.google.com/search?q=Machine+Learning+Jobs+Spain&ibp=htl;jobs&sa=X&ved=2ahUKEwiLluKP6bj8AhUbAzQIHa1BAX0QutcGKAF6BAgIEAY#htivrt=jobs&htidocid=OuhmaBa9o-kAAAAAAAAAAA%3D%3D&fpstate=tldetail,Fever,Spain,"Hi, we’re Fever
+We’re excited you are checking out this job offer.
+
+We are the leading global live-entertainment discovery tech platform with a clear mission: to democratize access to culture and entertainment.
+
+How do we achieve our mission? Fever has developed a proprietary technology that inspires a global community of over 125M people through personalized and curated experiences in their local city whilst empowering entertainment and event creators to reach new audiences and enhance their experience.
+
+Sounds amazing, right?
+
+Behind the user-friendly iOS and Android apps and webpage that work across the world is the engineering team. We are in charge of creating, developing, improving, and maintaining all Fever services so that more people can have an amazing experience.
+
+About the role
+• You'll help shape how data science is done at Fever. You'll be responsible for creating and maintaining an end to end machine learning pipeline.
+• You'll work hand in hand with data scientists and... data engineers helping on the experiment setup and model design.
+• You'll bring to production models that will have a direct impact on the end user experience.
+• You'll enforce best practices in data usage and model building.
+
+On your first month in Fever:
+• You will be fully integrated into the team. During this month you will have already participated in onboarding, you'll get a deep dive in the current data science efforts and you will have met the different departments at Fever.
+• You'll get familiar with Fever's tech stack and frameworks.
+• You will attend some of the Fever Original’s experiences like Candlelight
+
+After 3 months in Fever:
+• You’ll be able to come up with solutions to new difficult problems and you'll be generating impact and creating new business opportunities.
+• You’ll have responsibilities and ownership over parts of our modeling pipeline or other critical tools.
+• You will participate in some of the hackdays or hackathons we organise with other teams, and you will mostly know everybody from the data and engineering communities.
+
+On your 6th month in Fever:
+• You’ll have deployed to production models that have a direct impact on user experience.
+• You'll be able to identify gaps in our platforms and processes and be a champion for continuous improvement
+• You’ll be mentoring other new joiners to the team
+• You will participate in some of the team buildings we organise for your team or the whole engineering team
+
+Key responsibilities
+• Deploy trusted models that power Fever's decision making
+• Design, build and support modern and scalable machine learning infrastructure, e.g.
+• - Build a reproducible, organized, end to end machine learning pipeline.
+• - Build model quality and usage monitoring systems.
+• - Automate model training.
+• Build tools to make our analysts and data scientists more efficient.
+• Understand the technical trade offs of different solutions, implement them and make them scalable
+
+About you
+• You’re smart, get stuff done, have great energy, and thrive in a fast paced environment
+• You have experience building reproducible, production-ready machine learning pipelines
+• You have experience productionizing models
+• You comply with defined coding standards, creating quality code
+• You're an expert in Python3 and its data ecosystem
+• Experience with AWS (S3, EC2, …)
+• You have experience in Docker
+• You are proficient in business English
+
+It would be a plus if you...
+• You have worked Kubernetes, you've deployed services with EKS
+• Have experience with SageMaker, MLFlow or similar frameworks.
+• You have worked with Django, FastAPI or other python web frameworks.
+
+It would be a plus if you...
+• You have worked with Airflow or similar tools.
+• You have worked in a multidisciplinary team working with roles such as data analysts, data scientists, marketing or product managers.
+• You are familiar with tools and processes for reproducible, production-ready ML applications (e.g. data logging, ML workflows, model serving).
+• You have worked with the API of the most popular marketing tools (Facebook, Google, Instagram, etc.)
+• You have built data-powered tools either in a professional setting or as passion projects.
+
+Benefits & Perks
+• Attractive compensation package consisting of base salary and the potential to earn a significant bonus for top performance.
+• Stock options.
+• Opportunity to have a real impact in a high-growth global category leader
+• 40% discount on all Fever events and experiences
+• Home office friendly
+• Responsibility from day one and professional and personal growth
+• Great work environment with a young, international team of talented people to work with!
+• Health insurance and other benefits such as Flexible remuneration with a 100% tax exemption through Cobee.
+• English Lessons
+• Gympass Membership
+• Possibility to receive in advance part of your salary by Payflow.
+
+Thank you for considering joining Fever. We cannot wait to learn more about you!
+
+If you want to learn more about us: Fever's Blog | Bloomberg | TechCrunch
+
+Fever is committed to creating an inclusive and diverse workspace where everyone's background and ideas count. Our main goal is to find the best possible talent regardless of place of birth, racial or ethnic origin, gender, gender identity, religion, opinion, sexual orientation, disability, pregnancy, marital status, age or caring responsibilities. We encourage everyone to apply!
+
+If you require any kind of accommodation during the selection process please contact our Talent team so we can help you by providing a welcoming and seamless journey"
+Full-time,2023-01-08,€90K–€100K a year,Data Scientist - Digital Health Machine Learning,2023-01-08 13:34:02.460553 MDT,https://www.google.com/search?q=Machine+Learning+Jobs+Spain&ibp=htl;jobs&sa=X&ved=2ahUKEwiLluKP6bj8AhUbAzQIHa1BAX0QutcGKAF6BAgIEAY#htivrt=jobs&htidocid=uAjn1QWVGWUAAAAAAAAAAA%3D%3D&fpstate=tldetail,Morgan Philips Executive Search,"Barcelona, Spain","Important Pharmaceutical comapany is looking for a Machine Learning Data Scientist to support a diverse range of projects including: developing, optimizing and scaling learning algorithms and models, prototyping applications, building tool and infrastructure to serve and monitor models, providing software design and programming support to research projects. The role will interact with product engineering, digital health platform teams, and research teams, and also work closely with the Digital Health R&D subject matter experts and collaborators to develop novel approaches that support the development of patient and HCP-facing digital products.
+• Design, develop, test, deploy and maintain ML infrastructure.
+• Optimize model training infrastructure, pipelines, and model/dataset versioning. Perform model training, hyper parameter tuning.
+• Release ML or statistical models into production using APIs or on-device inference. Monitor model performance and manage continuous learning... pipelines.
+• Set up multimodal data pipelines for ingesting and processing text, audio, images, and streaming events.
+• Build libraries and frameworks that support web or mobile applications.
+• Collaborate in a multidisciplinary environment with world leading clinicians, data scientists, biological experts, statisticians and IT professionals.
+
+Essential
+• Bachelor's Degree in a quantitative field (computer science, mathematics, statistics, etc.) with industry experience with machine learning infrastructure or a combination of data science/ML experience and Dev Ops experience.
+• Extensive experience with programming in Python and experience working with Pytorch and Tensorflow.
+• Research or industry experience in Artificial Intelligence, Machine Learning (ML) models, ML infrastructure, Natural Language Processing, Computer Vision or Deep Learning.
+• Experience with SQL and NoSQL databases (PostgreSQL, MongoDB, KSQL, etc.)
+• AWS or other cloud compute experience including SysOps.
+• Experience with ML pipeline orchestration and monitoring (bespoke or with tools such as Apache Airflow or Snowflake)
+• Residence: Barcelona"
+Contractor,2023-01-08,NA,AI/ML- ML Systems Evaluation Engineer Siri Language Technologies,2023-01-08 13:34:03.035042 MDT,https://www.google.com/search?q=Machine+Learning+Jobs+Spain&ibp=htl;jobs&sa=X&ved=2ahUKEwiLluKP6bj8AhUbAzQIHa1BAX0QutcGKAF6BAgIEAY#htivrt=jobs&htidocid=dnhed7A_HQQAAAAAAAAAAA%3D%3D&fpstate=tldetail,Apple,"Madrid, Spain","Key Qualifications
+• Proven ability to define/design/develop/maintain end-to-end advanced engineering systems to support automation using any combinations of Swift (XCTest), Objective-C, Python or Java
+• Hands-on experience in defining evaluation plans with clear understanding of quality gates and metrics
+• Solid experience with CI/CD automation tools such as TeamCity or Jenkins
+• Ability to think outside the box for solving complex problems and to explain proposals to stakeholders
+• Strong organizational skills and experience working on large multi-functional teams
+
+Additional Requirements
+• *Experience with Apple ecosystem
+• *Experience in end-to-end evaluation for machine learning models and products
+• *Experience with troubleshooting automation runs in 24/7 lab environment
+• *Experience with logging and debugging tools i.e., Grafana, Splunk, shell scripting
+• *Ability to debug issues specially in Unix base embedded software"
+Full-time,NA,NA,Machine Learning Engineer,2023-01-08 13:34:03.610288 MDT,https://www.google.com/search?q=Machine+Learning+Jobs+Spain&ibp=htl;jobs&sa=X&ved=2ahUKEwiLluKP6bj8AhUbAzQIHa1BAX0QutcGKAF6BAgIEAY#htivrt=jobs&htidocid=V0lehPYMq5UAAAAAAAAAAA%3D%3D&fpstate=tldetail,Adsmurai,"Barcelona, Spain","Adsmurai is growing fast and our Machine Learning and Applied Research team is looking for a ML Engineer to help us deliver our promise of providing awesome social media marketing tools. Adsmurai is transforming how companies create, optimize and scale advertising campaigns on social media. We are Facebook & Instagram, Twitter and Google Partners and we work for top customers in Spain, Europe and LATAM.
+
+We are looking for a hands-on ML Engineer who is interested in creating new disruptive solutions powered by Machine Learning and data for Social Media Marketing. We work with millions of data points, with many dimensions, and we are highly motivated at modelling systems and their data, and at predicting how systems are likely to behave in the future.
+
+We expect that you have experience with Data Science and Machine Learning to model real-world problems and that you have built production software in the past to implement systems that provide such functionality. But most importantly, we... expect you to be inquisitive and resourceful.
+
+You will be part of a cross-functional self-organized team of data engineers and machine learning specialists focused on creating (defining, building, deploying, testing and iterating) features and products that represent, model, analyze and predict how data behaves within our digital marketing platform. As part of a team, you will be expected to take part to some extent in all product development steps; from product discovery to monitorization of the solution, by way of data gathering, modelling, continuous delivery and integrations so that the team contributions have an impact in the real world.
+
+What we need from you:
+• College degree / Master in Computer Science, Engineering or similar
+• 3 years hands-on experience in machine learning or data engineering environments.
+• Working knowledge of different model architectures and ML approaches.
+• Hands-on experience in MLOps, such as data pipelines, data versioning, and model performance monitoring
+• Git, Docker and Python is a must
+• Familiarity working in cloud environments such as GCP, AWS, or Azure.
+• Experience training, building and deploying and serving ML models into production.
+• Experience with SOLID, REST APIs.
+• Well versed in tools and processes for delivering well-tested CI/CD pipelines (GitLab).
+• Experience with at least 1 of the following frameworks: TensorFlow, PyTorch, Scikit-Learn, etc.
+
+Will be a Plus:
+• Experience in data version (DVC) is a strong plus
+• Experience with Spark, and Redis is another plus
+• Experience with Javascript and Bash is a plus
+• Familiarity with relational and NoSQL Databases.
+• Knowledge of Google Cloud Platform services such as a Composer, BigQuery, Storage, Compute, and Kubernetes
+
+Other valuable skills or nice to have:
+• Experience with Data Studio, Tableau or similar tools.
+• Experience with TDD software development methodologies
+• Open source contributions.
+
+We offer:
+• Will make you feel at home in one of the best offices in the centre of Barcelona (Passeig de Gràcia) with roof terrace and barbecue.
+• You will be part of a team with a flat structure and Agile orientation that maximizes self-organization and team ownership.
+• Friendly and flexible working environment.
+• Control and responsibility of your developments.
+• Regular and fun team activities.
+• Choose your HW option.
+• English classes.
+• Gym Arrangement.
+• We cultivate and actively participate in internal and external training.
+• Fresh fruit and coffee.
+• Flexible compensation plan (transport, restaurant, day care vouchers...).
+• Permanent contract.
+
+We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, or disability status"
+Full-time,2023-01-08,NA,Senior Machine Learning Engineer,2023-01-08 13:34:04.180317 MDT,https://www.google.com/search?q=Machine+Learning+Jobs+Spain&ibp=htl;jobs&sa=X&ved=2ahUKEwiLluKP6bj8AhUbAzQIHa1BAX0QutcGKAF6BAgIEAY#htivrt=jobs&htidocid=YIElXnbEe8oAAAAAAAAAAA%3D%3D&fpstate=tldetail,MULTIVERSE COMPUTING SL,"Donostia-San Sebastian, Spain","Your mission
+
+As a Machine Learning Engineer, you will
+• Join a world-class team of Quantum experts with an extensive track record in both academia and industry.
+• Work with Fortune-500 customers from government and private sectors.
+• Collaborate with the founding team in a fast paced startup environment.
+• Tackle high value open problems from industry.
+• Collaborate with quantum experts to design and implement new machine learning models.
+
+This position is based in San Sebastián Spain and we work in Hybrid work environment requires 3 days a week from the office and up to 2 from home. Please apply if it works for you.
+
+Your profile
+
+Required Qualifications
+• Masters degree in Computer Science, Statistics, Operations Research, or related field.
+• 4+ years industry experience in similar roles.
+• Strong background in machine learning, both theoretical and practical.
+• Advanced knowledge of Python, Scikit, and TensorFlow.
+• Industry experience.
+• Experience using git, unit testing, and... docker.
+• Ability to work with a diverse team of people, both in-person and through online resources.
+• Perfect command of English language
+
+Preferred Qualifications
+• PhD degree in Computer Science, Statistics, Operations Research, or related field.
+• Expertise in unsupervised machine learning.
+• Ability to work independently and hit the ground running.
+
+Exceptional Qualifications
+• Knowledge of quantum physics / quantum computing.
+• Ability to write patent applications.
+• Ability to write grant proposals.
+
+Why us?
+
+Perks & Benefits
+• Potential to grow into long-term opportunities.
+• Working in a high paced environment, working on cutting edge technologies.
+• Opportunity to learn and teach.
+• A mix of remote and office work. A minimum of 3 days from the office work is required.
+• Relocation package. (minimum distance applies)
+• Private health insurance.
+• Progressive Company. Happy people culture.
+• Competitive salary.
+
+Multiverse is a well-funded deep-tech company. We are one of the few companies working with Quantum Computing. We provide hyper-efficient software to companies wanting to gain an edge with quantum computing and artificial intelligence. We work on finance, energy, manufacturing, cybersecurity and many more industries. You will be working alongside world leading experts to build solutions that tackle real life issues.We are proud to grow on an ethics driven environment, promoting sustainability and diversity. We aim to continue building our truly inclusive culture - come and join us"
+Full-time,NA,NA,Apple Media Products - Software Engineer,2023-01-08 13:34:04.753909 MDT,https://www.google.com/search?q=Machine+Learning+Jobs+Spain&ibp=htl;jobs&sa=X&ved=2ahUKEwiLluKP6bj8AhUbAzQIHa1BAX0QutcGKAF6BAgIEAY#htivrt=jobs&htidocid=m3aQVYl8pJkAAAAAAAAAAA%3D%3D&fpstate=tldetail,Apple,"Barcelona, Spain","Summary
+Posted: Oct 10, 2022
+Weekly Hours: 40
+Role Number:200377240
+
+The Apple Media Products Engineering team is one of the most exciting examples of Apple's long-held passion for combining art and technology! These are the people who power the App Store, Apple TV, Apple Music, Apple Podcasts, and Apple Books. And they do it on a massive scale, meeting Apple's high expectations with high performance to deliver a huge variety of entertainment in over 35 languages to more than 150 countries.
+
+These engineers build secure, end-to-end solutions. They develop the custom software used to process all the creative work, the tools that providers use to deliver that media, all the server-side systems, and the APIs for many Apple services. Thanks to Apple's outstanding integration of hardware, software, and services, engineers here partner to get behind a single unified vision.
+
+That vision always includes a deep dedication to strengthening Apple's privacy policy, one of Apple's core values... Although services are a bigger part of Apple's business than ever before, these teams remain small, forward-thinking, and multi-functional, offering greater exposure to the array of opportunities here.
+
+Key Qualifications
+
+Key Qualifications
+• Excellent programming skills, computational complexity knowledge and computer architecture awareness.
+• Experience crafting API and communication protocols between services.
+• Experience working with big data and horizontally scalable solutions.
+• Work-experience in analysing sophisticated problems and crafting and building highly scalable, robust and efficient solutions.
+• Experience in project-management in rapid environments with shifting priorities.
+• Experience with data analysis, extracting valuable insights from large amounts of data.
+• Good communication skills and a product-oriented attitude.
+
+Description
+
+Description
+We're building an AI-based system that is capable of achieving a profound understanding of different kinds of media, from movies and shows to podcasts, by using present and historic real-world knowledge, innovative DL recognition models and powerful NLP and graph algorithms.
+
+The main objective of this role is to be the bridge between the team’s services and the rest of teams at Apple, to be able to demonstrate our data and technology to improve Apple Media Products (such as search or recommendations) and create new user facing features. The day-to-day tasks might range from creating big data pipelines to designing and implementing system architectures and APIs, extracting insights from large amounts of data or interacting with engineering and product teams across Apple to gather requirements and specifications.
+
+Education & Experience
+
+Education & Experience
+• BS, MS or PHD degree in Computer Science, Computer Engineering, related technical field or equivalent meaningful experience.
+
+Additional Requirements
+
+Additional Requirements
+• Nice to have:
+• • Background in Machine Learning.
+• • Work-experience with Python.
+• • Experience working with Knowledge Graphs.
+• • This role may require occasional international travel/transatlantic travel.
+• Apple’s most important resource, our soul, is our people. Apple benefits help further the well-being of our employees and their families in meaningful ways. No matter where you work at Apple, you can take advantage of our health and wellness resources and time-away programmes. We’re proud to provide stock grants to employees at all levels of the company, and we also give employees the option to buy Apple stock at a discount — both offer everyone at Apple the chance to share in the company’s success. You’ll discover many more benefits of working at Apple, such as programmes that match your charitable contributions, reimburse you for continuing your education and give you special employee pricing on Apple products. Apple benefits programmes vary by country and are subject to eligibility requirements.
+• Apple is an equal opportunity employer that is committed to inclusion and diversity. We take affirmative action to ensure equal opportunity for all applicants without regard to race, colour, religion, sex, sexual orientation, gender identity, national origin, disability, Veteran status, or other legally protected characteristics. Apple is committed to working with and providing reasonable accommodation to applicants with physical and mental disabilities"
+Full-time,2023-01-08,NA,Machine Learning Project Manager,2023-01-08 13:34:05.328509 MDT,https://www.google.com/search?q=Machine+Learning+Jobs+Spain&ibp=htl;jobs&sa=X&ved=2ahUKEwiLluKP6bj8AhUbAzQIHa1BAX0QutcGKAF6BAgIEAY#htivrt=jobs&htidocid=286r9RZ7s78AAAAAAAAAAA%3D%3D&fpstate=tldetail,Avant Future Mobility,Spain,"RESPONSIBILITIES:
+• Experience in application of machine learning algorithms and digital twin tools.
+• Experience in data acquisition and management in industrial applications
+• Knowledge of algorithms for Machine Learning
+• Simulation and operation Interface design and implementation
+• Experience in industrial process*
+
+REQUIREMENTS:
+• Masters degree or similar in Artificial intelligence, machine learning, digital twin, data science
+• PMP degree
+• Advised electronic, process or engineering knowledge
+• 5 years in industrial process simulation projects"
+Contractor,2023-01-08,€50–€70 a year,Senior Machine Learning Engineer,2023-01-08 13:34:05.906476 MDT,https://www.google.com/search?q=Machine+Learning+Jobs+Spain&ibp=htl;jobs&sa=X&ved=2ahUKEwiLluKP6bj8AhUbAzQIHa1BAX0QutcGKAF6BAgIEAY#htivrt=jobs&htidocid=4CP0b8QijJgAAAAAAAAAAA%3D%3D&fpstate=tldetail,SmartBear,"Community of Madrid, Spain","Senior Machine Learning Engineer Madrid, Community of Madrid Senior Machine Learning Engineer
+Madrid
+Madrid, Community of Madrid, ES
+
+Computer Vision (regular) Cloud Computing (regular) Deep Learning (regular) Algorithms (advanced) Machine Learning (advanced) TensorFlow (advanced) PyTorch (advanced) Python (advanced) At SmartBear, we deliver the complete visibility developers need to make each release better than the last. Our award winning and industry favorite tools TestComplete, Swagger, Cucumber, ReadyAPI, Zephyr are trusted by over 16 million developers, testers, and software engineers at 32, 000+ organizations – including world-renowned innovators like Adobe, JetBlue, FedEx, and Microsoft. Senior Machine Learning EngineerYou will optimize machine learning solutions and lead the development of end-to-end machine learning pipelinesWork in a newly formed AI group with start-up-like freedom and big tech safetyTech Stack: Python, Deep Learning frameworks (PyTorch, Tensorflow), Cloud... ComputingAbout the role:As a Senior Machine Learning Engineer you will build and extend SmartBear’s success and growth and lead a newly formed AI group. The team will work on computer vision, natural language understanding, test data/code/case generation, test case prioritization, software quality prediction, as well as other AI and data analytics projects for all SmartBear products. Specify machine learning problems by analyzing product use cases and operation data. Optimize machine learning solutions by employing deep learning architectures, implementing advanced algorithms, processing relevant data and training machine learning models. Acquire state-of-the-art machine learning knowledge by following the latest development of the field. Contribute to the development of end-to-end machine learning pipelines, from data digestion to solution deployment, in collaboration with other R&D teams. Assist other staff members in the machine learning development process. We are looking for you if you have:Data science, electrical and computer engineering, or applied mathematics. 4+ years of working experience in the machine learning area. Experience in developing machine learning solutions using Python (or relevant programming language) and deep learning framework (PyTorch or Tensorflow). Hands-on experience in sequence-to-sequence modeling, GPT, deep-learning based natural language processing and/or computer vision. Hands-on experience in using cloud computing infrastructure in Google, Amazon or Microsoft. Excellent problem-solving skills and ability to dive into details of algorithms and experimental results. Comfortable to communicate and interact with ML engineers, software developers, and product managers about technical details. A Ph. D. degree in computer science would be a plus. SmartBear offers:Bonus 5% of annual salaryCopyrights deductible costs (creative tax)300 PLN of annual budget for fitness reimbursement Employee referral program – 9 300 PLN gross for recommendation Birthday Benefit – Employees will be given the day off on their birthday and can expense lunchPossibility of remote work, flexible working hoursVirtual Exercise Class with Fit Revolution Breakfasts on Wednesdays, Lunches on Fridays and many other stacks in the office during the whole weekBuddy programIntegration eventsSmartBear TalksAccess to PluralsightPrivate Medical Care and MultisportFor B2B contract: 27 days of paid annual leave and Private Medical Care (LuxMed)… and we are working on more ideas Why you should join the SmartBear crew:You can grow your career at every level. We invest in your success as well as the spaces where our teams come together to work, collaborate, and have fun. We love celebrating our SmartBears; we even encourage our crew to take their birthdays off. We are guided by a People and Culture organization - an important distinction for us. We think about our team holistically – the whole person. We celebrate our differences in experiences, viewpoints, and identities because we know it leads to better outcomes. Did you know? Our main goal at SmartBear is to make our technology-driven world a better place. SmartBear is committed to ethical corporate practices and social responsibility, promoting good in all the communities we serve. SmartBear is headquartered in Somerville, MA with offices across the world including Galway Ireland, Bath, UK, Wroclaw, Poland and Bangalore, India. We’ve won major industry(product and company) awards including B2B Innovators Award, Content Marketing Association, IntellyX Digital Innovator and BuiltIn Best Places to Work. SmartBear is an equal employment opportunity employer and encourages success based on our individual merits and abilities without regard to race, color, religion, gender, national origin, ancestry, mental or physical disability, marital status, military or veteran status, citizenship status, age, sexual orientation, gender identity or expression, genetic information, medical condition, sex, sex stereotyping, pregnancy (which includes pregnancy, childbirth, and medical conditions related to pregnancy, childbirth, or breastfeeding), or any other legally protected status"
