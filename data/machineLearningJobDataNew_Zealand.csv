@@ -1,0 +1,1406 @@
+Job-Type,Date-Posted,Salary,Job-Title,Date-Scraped,Url,Company,Location,Description
+Full-time,2023-01-08,NA,Machine Learning Tech Lead,2023-01-08 16:52:56.853304 MDT,https://www.google.com/search?q=Machine+Learning+Jobs+New+Zealand&ibp=htl;jobs&sa=X&ved=2ahUKEwjkyLbKlbn8AhVeIjQIHS5eCEEQutcGKAF6BAgTEAY#htivrt=jobs&htidocid=giKDJ7mBAZEAAAAAAAAAAA%3D%3D&fpstate=tldetail,Orion Health,"Auckland, New Zealand","Innovate with purpose
+
+Do you want to work for a company that is innovating and making a difference to the health and wellbeing of people all over the world? We’re not about selling meaningless, unnecessary products for corporate profitability. You’ll be working on technology that will revolutionise global health systems so that we can finally get the healthcare we all want - a basic human right.
+
+We like to think of ourselves as a community of start ups where you can be your true, genuine self. Each of our product teams have the freedom to choose how they operate and contribute towards our mission of providing each person with the right care at the right time and in the right place.
+
+Orion Health is excited to be expanding our galaxy by recruiting for a number of stellar individuals to join our team to help us deliver to our global customer base. If you want to climb aboard the rocketship and help us revolutionise global health systems, astronomical opportunities await.
+
+What will... you be doing?
+
+We’re on the hunt for a Tech Lead within our Machine Learning team. You will join a cross-functional, agile development team who are leading ground-breaking research in machine learning, exploring meaningful ways to minimise waste, reduce operating costs and help clinicians make more accurate decisions at the point of care.
+
+As a Machine Learning Tech Lead you will:
+• Make crucial design decisions and guide software development
+• Play an integral part in shaping the technical direction of new products
+• Translate customer and business objectives into technical solutions through effective design and architecture
+• Engage with a range of external customers and Orion Health product teams
+• Lead hands-on development, delivering software through to production
+• Coach and mentor engineers and data scientists
+• Manage one direct report with the opportunity for team growth over time.
+
+What will you bring to the role?
+• Experience: You have a minimum of 5-10 years commercial experience as a software developer, ideally with some being a Tech Lead, and working in cross-functional development teams.
+• Skills: You are proficient in Python and familiar with ML libraries/frameworks such as TensorFlow and PyTorch, modern data architecture, cloud computing and containers. NLP experience is a plus.
+• Characteristics: You’re passionate about keeping up with the latest technology, particularly in the world of machine learning. Product-oriented, you love solving real-world customer problems. Boasting a wealth of knowledge, you have a desire to share this to support the growth and development of a high-performing team.
+
+What’s in it for you?
+• You'll use the latest languages and platforms and will be joining the ranks of the most talented and experienced tech workers in the industry.
+• Our relaxed, open plan offices have a vibrant and energetic atmosphere. We also have a casual dress-code so you will feel as comfortable in the office as you would at home.
+• Flexibility is important. We encourage our people to design a workday that suits them by offering flexible working arrangements.
+• Love food and coffee? We provide free breakfast and fruit every day and have a barista coffee machine in the office - not to mention the onsite cafe discount!
+• With weekly Friday drinks and an active social club, Orionites are never short of good times and we pride ourselves on our fun community.
+• We support our Orionites keenness to learn and grow by providing unlimited access to LinkedIn Learning.
+• Summer Fridays!
+
+If this sounds like you, we would love to hear from you"
+Full-time,2023-01-08,NA,Data Scientist,2023-01-08 16:52:57.443948 MDT,https://www.google.com/search?q=Machine+Learning+Jobs+New+Zealand&ibp=htl;jobs&sa=X&ved=2ahUKEwjkyLbKlbn8AhVeIjQIHS5eCEEQutcGKAF6BAgTEAY#htivrt=jobs&htidocid=RLpXDFE8nwoAAAAAAAAAAA%3D%3D&fpstate=tldetail,Halter,"Auckland, New Zealand","At Halter, we're tackling the core issue of lifting production on farms for our growing population whilst decreasing emissions. We do this by turning real-world farming problems into software with the use of smart hardware, and a cloud-based system to more efficiently run these farms. Our world-first technology helps farmers break free from the time-intensive constraints of conventional farming and empowers a more sustainable future for farmers, their animals, and the land. Halter gives farmers the freedom to spend more time with their families, the technology to increase production and meet the growing demand for food, and the data to help them care for their animals.
+
+Founded in 2016, Halter has developed a revolutionary farm management system. We fit our solar-powered GPS-enabled smart collars to every cow on the farm. We then equip farmers with a simple app for managing their cows. This system enables farmers to remotely shift, virtually fence and proactively monitor their cow’s... health, feed and behaviour - all through their phones. Scaling rapidly onto farms across New Zealand, we have the privilege of working together with exceptional farmers including some of the largest farms in the country. We care deeply for our farmers and their animals, with our customers heavily involved in product development and animal welfare core to our culture.
+
+Our work is turning heads. In 2021, Halter won in two categories at the NZ Hi-Tech Awards. Our Board comprises tier 1 Silicon Valley investors who have backed the world's best technology companies such as SpaceX, Tesla, Airbnb and Spotify. We’re also fortunate to have Rocket Lab CEO, Peter Beck, as an investor and Board member. We hire the world's best people and provide an epic environment for them to thrive in. Our culture is unique; we care about high performance, about each other, and we're passionate about making a difference for our customers.
+
+About the role
+
+Each day we process millions of points of telemetry data from animals across the country on our customer farms. Our rich datasets and deep industry knowledge allows us to build market-leading models that continuously monitor and predict animal behaviour. The insights we provide transform the way farmers manage the health and movement of their animals.
+
+We are looking for a data scientist who can build models to predict animal behaviour and extend the way we apply data science across all areas of the business. We’re looking for people who are hungry to make an impact, are comfortable in a fast-paced environment, and love helping the people around them succeed.
+What your day could look like
+
+• Collaborating with data engineers, software developers and product managers to build models for behaviour classification, animal guidance, and pasture management
+• Building models, while considering risks, opportunities, and technical debt
+• Running experiments to explore areas where insights and predictions, powered by data science, could add value to our teams
+• Staying up to date with the state of the art in data science tools, techniques, models, and design best practices
+• Working as part of a cross-functional team, contributing to your teammates’ success, and encouraging collaboration and task sharing
+• And finally, as this is a start-up, you’ll be rolling up your sleeves and helping with whatever is required to succeed in our mission, knowing that the whole organisation is with you doing the same
+
+What we’re looking for
+
+• A solid track record working as a data scientist, with examples of outcomes you’re proud to have delivered
+• A comprehensive understanding of the fundamentals and design systems behind building reliable, scalable and fit-for-purpose machine learning models and infrastructure
+• Strong experience in Python and familiarity with development in a backend tech stack
+• A strong understanding of data engineering best practices and AWS infrastructure
+• Experience working in agile development practice, in a cross-functional development team
+• Understanding of common development processes such as version control, continuous integration/delivery, code reviews, and pair programming
+• Someone who is product oriented and cares about customer experience, being able to solve real-life customer problems
+• Evidenced-based reasoning and decision-making and the ability to make trade-offs against real-world constraints
+• Someone that takes responsibility for their projects and delivers complete work
+
+Why our team loves working at Halter
+
+• A genuine and shared connection to our mission to make a difference in the world.
+• The excitement, risk, and reward of a high-growth technology scale-up.
+• The pride of joining an iconic New Zealand technology company growing successfully on the global stage.
+• The opportunity to work with and grow alongside a dynamic, and highly talented team with diverse backgrounds.
+• The opportunity to supercharge your career in a supportive and caring environment.
+• Our ideas are truly valued, we are able to move fast, and our impact is real.
+• State-of-the-art, dog-friendly office that’s been thoughtfully designed right in the heart of Auckland city.
+• Delicious snacks and drinks are available for your daily flow.
+• Healthy body, healthy mind. We’re partnered with Southern Cross to support your well-being.
+• We offer 6 months of fully paid parental leave for primary caregivers, 4 weeks of fully paid secondary caregiver and many other parental benefits that support you and your family.
+• Our personal growth is important. Halter offers an annual $1000 self-development budget to be used for anything that fuels personal growth.
+• Our time to recharge is valued, we’re offered wellness leave & unlimited paid annual leave.
+• Importantly, we offer a competitive remuneration package made up of salary, benefits and an employee stock ownership plan.
+
+Halter is committed to promoting a diverse and inclusive workplace — a place where we can each be ourselves and do the best work of our lives. Research shows that while men apply to jobs when they meet an average of 60% of the requirements, women and under-represented groups of candidates tend to only apply when they meet every requirement. If you think you have what it takes but don’t necessarily tick every requirement on this job description, please still get in touch and apply to Halter. We’d love to chat to see if you’ll be an epic fit!
+
+If this opportunity sounds like you, please apply below by sending through your cover letter explaining why you’re excited about this role and working at Halter, along with your CV, and we’ll be in touch!
+
+Please also feel free to check out the careers and culture page for more information on working at Halter and don't forget to follow us on LinkedIn & Instagram"
+Full-time,NA,NA,Senior AI Engineer,2023-01-08 16:52:58.022776 MDT,https://www.google.com/search?q=Machine+Learning+Jobs+New+Zealand&ibp=htl;jobs&sa=X&ved=2ahUKEwjkyLbKlbn8AhVeIjQIHS5eCEEQutcGKAF6BAgTEAY#htivrt=jobs&htidocid=mnxRkMdOFIsAAAAAAAAAAA%3D%3D&fpstate=tldetail,Imagr,"Auckland, New Zealand","Senior AI Engineer
+
+Department: Engineering
+
+Employment Type: Permanent - Full Time
+
+Location: Auckland, New Zealand
+
+Reporting To: Konstantinos Raptis
+Description
+
+Who are we?
+
+The team at Imagr is growing and it's an exciting time to join us! Imagr is leading the charge in automated retail technology with our end-to-end, AI powered checkout solution. Our goal is to revolutionise modern retail and make life easier for everyday people, with no checkouts and no queues.
+
+Things all of our Imagr team do
+
+Imagr’s core values are really important to us, and speak to what we believe makes the experience with Imagr so unique. We use them to guide our behaviours, both within our team, and with the rest of the big wide world.
+• We make magic happen. We seek opportunities for extraordinary innovation in all that we do and challenge ourselves to be better today than we were yesterday.
+• We act as one. We play to each other's strengths, value the success of the team over the individual, celebrate... our differences and support each other to bring our whole selves to work.
+• We don’t stand still. We move fast, empower our team to have impact and use the data we have to drive direction.
+• We are all shoppers. We live and breathe the opportunity our product has to make a global impact on our retailers and shoppers; thinking big, but scalable.
+
+Our core values help us to ensure that we are building a successful company that
+provides value to our customers and a great environment for our team.
+
+How does this role fit in?
+
+Your role delivers impact by advancing the functionality of the focal point of our solution: The world’s most advanced, computer vision empowered shopping cart that delivers a frictionless experience for shoppers. You will play a critical role in building and refining this advanced vision system, overcoming challenging technical problems to maintain IMAGR’s best in class offering.
+
+In this role you will be researching and applying a range of software, computer vision and machine learning techniques to enable low-friction solutions to optimize the shopping experience. We have a number of novel challenges in the domains of object detection, segmentation, classification, and model lifecycle and sustainability.
+
+What will your days look like?
+• You will lead, mentor and work with the team to design, prototype, evaluate, optimize, implement and deploy CV/DL algorithms as an integral part of AI-powered retail technologies
+• You will translate product feature requirements to design inputs / specifications and come up with high-level algorithmic designs to meet requirements and guide design tradeoff decisions.
+• You will research and prototype state-of-the-art computer vision and deep learning methods to develop solutions that meet product requirements.
+• Develop creative computer vision solutions for our cutting edge AI powered product
+• Develop novel, performant solutions around topics like object detection, segmentation and classification
+• Apply machine learning to computer vision problems
+• Plan and execute cutting-edge research, ensuring that the company stays at the state of the art
+• Research and prototype techniques and algorithms for object detection, recognition, few shot learning, and open set recognition
+• Collaborate with HW and SW engineers to develop prototype solutions for future generations of our product
+
+The skills we're looking for
+• Master’s Degree with 6+ years of relevant industry experience OR 4+ years of relevant industry experience with a PhD Degree
+• A postgraduate degree in the field of computer vision, machine learning or similar
+• 3+ years experience with computer vision with deep learning. Specifically object detection, segmentation and classification
+• 2+ years of experience engineering in Python
+• Experience with machine learning libraries such as PyTorch or TensorFlow
+• Expertise in machine learning, Bayesian filtering and information theory
+• An academic publication in CV/AI conferences/journals such as CVPR, ICCP, ICCV, NeurIPS
+• Experience in designing and training and deploying production-grade deep learning architectures for computer vision application with a broad understanding of latest CV / DL methods and literature
+• Experience working with edge-based / embedded computer vision algorithms
+
+Engineers at IMAGR:
+• Care deeply about helping the team to excel
+• Demonstrate empathy for both their users and their coworkers
+• Have a hunger for learning and growing
+• Take pride in your work, and demonstrate a passion for your craft
+• Take the initiative to improve our system, platform and ways of working
+• Have energy and enthusiasm for the work you do
+• Excellent communication skills, both written and verbal
+• Self-manage your tasks, time and the expectations you have set
+• Share your time and knowledge generously with others and work openly and collaboratively.
+
+What can you expect from us?
+
+Not only do you get to work with a talented and passionate team on a groundbreaking product, but we'll also look after you. We can offer you a competitive salary, a comprehensive wellbeing programme that looks after your mental and physical health, shared lunch with the team on every Friday, and the opportunity to grow your career in a venture-backed tech company growing on an international scale.
+
+At Imagr, we celebrate unique backgrounds and experiences. While facing an exciting range of problems, we need a diverse team to solve them, so put your unique perspective forward and let's see where it takes us! If you're interested in this role, but feel you may not have the exact experience we're looking for, please still consider applying as we're keen to hear from curious, passionate people who are willing to learn"
+Full-time,NA,NA,Senior Machine Learning Engineer,2023-01-08 16:52:58.601454 MDT,https://www.google.com/search?q=Machine+Learning+Jobs+New+Zealand&ibp=htl;jobs&sa=X&ved=2ahUKEwjkyLbKlbn8AhVeIjQIHS5eCEEQutcGKAF6BAgTEAY#htivrt=jobs&htidocid=-5iUVppEHi4AAAAAAAAAAA%3D%3D&fpstate=tldetail,Cuusoo,New Zealand,"We’re a passionate bunch of data lovers and are searching for Senior Machine Learning Engineers to help us grow our ML Capabilities across Australia and New Zealand. At Eliiza we guarantee you will work with other smart, passionate and supportive people to deliver high quality data science and ML outcomes to clients.
+
+Our projects and clients vary a lot - but here’s a typical snapshot of what you could be doing:
+• selecting the best technology for a given data science use case
+• choosing the best operational architecture for an ML application
+• developing ML applications
+• applying MLOps principles to data science workflows, e.g. building reproducible training pipelines
+• standing up cloud services to run ML workloads
+• automating repeatable routines in ML workflows
+• architecting a machine learning system or platform
+• leading client projects
+• coaching junior team members
+
+If you’re the right Senior Machine Learning Engineer for us, you’ll have:
+• an undergraduate degree in maths or... engineering
+• fundamental modern software engineering skills (can design and implement a well structured code base and software development cycle, including CI/CD, TDD, monitoring/logging)
+• solid programming skills in at least one language, such as Python
+• cloud engineering skills to architect, use and deploy cloud services in at least one cloud stack
+• an understanding of key machine learning and data science concepts across different areas
+• good grasp of concepts in machine learning development cycle & MLOps, such as model development, model deployment, data versioning etc.
+• exposure to one or more ML technologies and/or frameworks such as Amazon Sagemaker, Google AI Platform, AI API Services, and/or TensorFlow, Pytorch, Scikit-Learn etc, with demonstrable production experience
+• ability to search and evaluate the best tool for a range of different technical problems
+• MLOps skills to design, develop and deploy machine learning workflows and standard frameworks
+• system design skills to architect, develop and deploy a large-scale machine learning system or platform
+• ability to plan and oversee a machine learning project end-to-end with different phases
+• great consultant / client skills, and / or the ability to coach junior members in the team
+• a genuine passion for and connection to the data science and ML community
+
+Our team is made up of a range of people, with different experience across a huge range of data driven skill sets. We value a diversity of skill-sets, and don’t necessarily require that you’re skilled with all of the above (we’re aware there’s a lot listed!). If you feel you don't fit all the experience/skills listed we still encourage you to apply or get in touch.
+
+Why join us?
+• We know you won’t have one job for life. That’s why we’re building a group of companies across Australia and New Zealand where we can support you to take on new skills and challenges. We want to help you develop in your role or diversify your career pathways via alternate brands.
+• We want each person to tailor their working conditions whether that be remotely every now and then, or on a permanent basis - we know how to actually do ‘flexibility’ not just talk about it.
+• You will get to build your experience and fine tune your skills by working on projects right across Mantel Groups portfolio of clients regardless of where you are based.
+• We’re a fast growing progressive company that centres its focus on a people first culture - did we mention we have just ranked #1 in the 2021 Australia’s Best Workplaces list!
+• You will help establish our destination hubs in New Zealand and influence and foster the development of its culture.
+• We hire smart people and get out of their way. By focusing on our five principles and not getting caught up in red tape, we trust you to get the job done.
+• Naturally, you’ll get all the tools you need - a new iPhone or Google phone, a new Macbook Pro or HP Elite, and a lot of branded swag!
+
+Who are we?
+
+Glad you asked! We are Eliiza. Data science. Engineered for scale.
+
+We are a passionate team of data scientists and engineers who apply data science and machine learning to solve real-world problems. Our mission is to create a bright future for businesses and society in a world increasingly influenced by intelligent technologies.
+
+More about us
+
+Mantel Group is an Australian-owned, 'house of brands' company with eight technology businesses; DigIO, Eliiza, Kasna, CMD Solutions, Pretzel Lab, Azenix, Cuusoo & Itty Bitty Apps. Since our inception in 2017, we have grown to a team of over 550 people (aka Mantelorians!) across Australia & New Zealand and have just ranked #1 in the 2021 Australia’s Best Workplaces list!
+
+We've built a hybrid approach to remote working where you can spend time in any (or all!) of our awesome hubs providing a space for collaboration across Melbourne, Sydney, Brisbane, Perth & & Magnetic island, (Auckland & Queenstown - watch this space!) meaning you can choose a work model that works best for you!
+
+We don't have a head office, instead have opted for a distributed and diverse leadership team that extends across Australia and New Zealand. We’re building both support and leadership roles in New Zealand which creates the opportunity for our people to grow, learn and accelerate career development through executing the Mantel Group NZ Strategy.
+
+Keen to chat?
+
+Click “Apply” to share your details with our talent team, and we’ll be in touch.
+
+In the meantime, check out ‘how we hire’ to find out what’s in store if you’re successful and get to know us better by visiting our website and following Eliiza on LinkedIn.
+
+Cuusoo focuses on Big Data, Cloud Data Services, and Data. Their company has offices in Australia and New Zealand. They have a small team that's between 1-10 employees.
+
+You can view their website at https://www.cuusoo.com.au"
+Full-time,NA,NA,Data Scientist,2023-01-08 16:52:59.194891 MDT,https://www.google.com/search?q=Machine+Learning+Jobs+New+Zealand&ibp=htl;jobs&sa=X&ved=2ahUKEwjkyLbKlbn8AhVeIjQIHS5eCEEQutcGKAF6BAgTEAY#htivrt=jobs&htidocid=7hoiqXbSA6UAAAAAAAAAAA%3D%3D&fpstate=tldetail,KPMG New Zealand,"Auckland, New Zealand","KPMG New Zealand is part of the international KPMG network, one of the world’s leading professional services organisations. We provide audit, tax, and advisory services to individuals, SMEs, not-for-profit organisations, multi-nationals and government agencies.
+
+KPMG Digital Lighthouse is comprised of several specialist chapters who combine to design, deliver and operate cutting edge digital solutions on a variety of architectures, supporting our cross-sector clients to digitally transform their organisations and thrive on a global scale. We are a passionate, inclusive and supportive team who care about our clients, our people and the work we do. Join us today and accelerate your digital career with KPMG.
+
+The opportunity:
+• As a Data Scientist, you will be responsible for applying advanced analytics to large data sets, developing and applying custom models and algorithms to obtain insights and drive strategic and tactical decisions
+
+Day to day you will:
+• Use advanced analytics ... statistical techniques such as predictive modelling, machine learning, clustering and natural language processing to solve challenging business questions in a novel way
+• Process and transform raw data, and enrich data by integrating it with disparate data sources
+• Review models and algorithms developed by your colleagues or by a client
+• Work with clients and stakeholders throughout the organisation to identify opportunities to leverage data and analytics to drive business solutions
+• Keep up with latest industry trends and contribute to thought leadership on trending topics that are relevant to our clients
+
+What you'll bring to the team:
+• Qualification in Computer Science, Engineering, Statistics, Mathematics, Physics, Information Science, or another quantitative field and a strong problem-solving aptitude
+• Experience using programming or scripting languages (e.g., Python, R, SQL, Scala etc.) and familiarity withy mainstream data science and visualisation frameworks and tools (e.g., Pandas/NumPy, Scikit-learn, Databricks, Power Bi, Tableau)
+• Prior experience preparing data for analysis, building predictive models and machine learning models on large scale platforms, and helping to drive innovation in the modelling process/offerings
+• Experience with Cloud Platforms (e.g., Azure, AWS, and/or Google Cloud)
+• Excellent written and verbal communication skills, with proven ability to work with cross-functional teams and bridge technical and non-technical audiences
+
+KPMG New Zealand has a summer shutdown period from the 23rd December 2022 to the 16th January 2023 (inclusive). During this time, please expect a delay in response to any new applications. Most recruitment processes will commence interviewing in February 2023.
+
+Life at KPMG
+
+We offer rewarding careers to talented individuals and a holistic range of benefits to support your life balance, whatever your circumstance. We want you to do Work That Matters, Thrive and Grow and know that you Belong here with us, at KPMG.
+
+As a KPMG employee, we will offer you:
+
+— Access to the firm's annual incentive scheme
+
+— Opportunities for local and international secondments
+
+— Hybrid working across a mix of office, client and home hubs to recognise that people have individual circumstances and preferences when it comes to where and how they work
+
+— A technology starter pack to get your 'home hub' set up
+
+— The ability to work from overseas and extend time connecting with friends and family outside New Zealand
+
+— Flexible leave options, including the ability to purchase additional annual leave.
+
+— Gender-neutral support for all stages of the parental journey, including access to 18 weeks of fully paid parental leave for all new parents
+
+— A paid professional association membership of your choice
+
+— Unlimited digital accreditations through our partnership with Microsoft, LinkedIn Learning, with bespoke learning pathways for all employees
+
+— A wide-range of special offers and discounts on insurances, banking services, and lifestyle goods and services.
+
+— The support, allyship and opportunity to join our many Inclusion, Diversity and Equity Affinity networks, including the Kiwa, Pride, Ethnicity, Accessibility and Wahine groups
+
+— The opportunity to participate in Green Team activities, as we work toward reducing the firm’s environmental footprint and become carbon zero by 2030
+
+— An invitation to join our local Social club and enjoy events aimed at bringing people together for social, sporting, cultural, family and fundraising activities
+
+— Paid time off for volunteering and involvement in citizenship activities
+
+— A paid professional association membership of your choice.
+
+— An array of health and wellness benefits such as free flu vaccinations, subsidised sporting events, free confidential counselling services, additional leave to support you and your family in the recovery from COVID-19, access to our Wellbeing portal with an extensive range of advice and resources and much much more!
+
+We believe that diversity of background and experience strengthens relationships and delivers meaningful benefits to our people, clients and communities. Our goal is to be recognised as an employer of choice for all, irrespective of gender, ethnicity, generation, flexible work status, family circumstances, sexual orientation or disability. Further info can be found on our website
+
+We are a 2022 Circle Back Initiative Employer – we commit to respond to every applicant"
+Full-time,NA,NA,Professor in Data Science,2023-01-08 16:52:59.761333 MDT,https://www.google.com/search?q=Machine+Learning+Jobs+New+Zealand&ibp=htl;jobs&sa=X&ved=2ahUKEwjkyLbKlbn8AhVeIjQIHS5eCEEQutcGKAF6BAgTEAY#htivrt=jobs&htidocid=DHnGVbhGKQAAAAAAAAAAAA%3D%3D&fpstate=tldetail,Maori Pacific Jobs,"Auckland, New Zealand","Job Description
+
+Professor in Data Science
+
+»Teach, research, lead and collaborate
+
+»Lead our computing disciplines in interdisciplinary analytics initiatives
+
+»Join AUT’s dynamic School of Engineering, Computer and Mathematical Sciences
+
+Auckland University of Technology (AUT)is vibrant, achievement-oriented and a compensateing place to work. Ranked in the top 250 of world universities, Information technology is also one of the world’s top 40 young universities and #1 for global research impact in Australasia. We’re poised for the next stage of growth and offer a stimulating teaching and research environment with strong connections to government, business and industry. AUT has close to 30,000 students and around 3,000 staff across our three teaching campuses and is located in New Zealand’s (NZ’s) largest city,Auckland– consistently ranked as one of the world’s most liveable cities.
+
+OurComputer Science and Software Engineering department (CSSE)is part of AUT’s large, unique, dynamic... and interdisciplinarySchool of Engineering, Computer and Mathematical Sciences (ECMS).The department constitutes world-leading research skills in AI/Machine Learning, Networks and Cybersecurity, Software Engineering, and Information Systems, with special emphasis on the discovery and application of expertise. Data Science has been an area of strength where we are expecting significant growth in our programmes and courses. Industry and academic interest in this area is high and is expected to continue to rise, our newData Science majoris part of our BCIS degree and We are seeking to expand to postgraduate offerings in the near future. We host the Data Science Research Group, whom along with other colleagues within the school have active research projects with a range of external stakeholders in the area.
+
+This is an exciting opportunity for a forward-thinking Professor of Data Science with skills in at least two of the following data science related areas – large databases and data warehousing, artificial intelligence, data mining, machine learning or data visualisation.
+
+Recognising the growth and increasing significance of data across a wealth of disciplines, AUT is looking at pan-university collaboration in analytics as a strategic direction. The appointee would be expected to take a leading function in representing the computing disciplines in these interdisciplinary initiatives. As we continue to grow our programmes, there are also opportunities to guide course development and build interdisciplinary linkages and models.
+
+Other key focus areas include:
+
+» Providing leadership abilities to the Data Science theme, including securing external research grants and leading teams of colleagues and students to achieve high-quality research results (grants, publications).
+
+» Providing leadership abilities to the planning and delivery of applied, innovative and theoretically underpinned Data Science curricula, which would include collaboratively working with internal and external stakeholders.
+
+» Providing leadership abilities to develop the department’s profile both internally and externally for its strengths and innovations in Data Science research and teaching.
+
+You will be recognised as a senior academic who displays attributes of tolerance, empathy, trustworthiness, confidence and kindness. Your capability to listen, connect, collaborate, communicate and influence will be critical – as is your level of strong respect for others coupled with an open and engaging attitude that is flexible to changing requirements. You’ll enhance the positive energy within AUT, value diversity and work inclusively. A resolute, robust and positive attitude is essential.
+
+NOTE: The School of ECMS is also currently advertising for a Head of Department and Professor of Mechanical Engineering to further bolster its academic leadership abilities, clickHEREFor more information.
+
+Applications and Selection Criteria
+
+Please submit a curriculum vitae (including full publication record), cover letter and a statement covering the following key selection criteria :
+
+» A record of distinguished academic achievement and research appropriate for appointment as a Professor. A PhD/Doctorate is required.
+
+» In-depth expertise of at least two of the following data science related areas – large databases and data warehousing, artificial intelligence, data mining, machine learning or data visualisation.
+
+» Evidence of an consciousness of the growing significance of issues such as security and privacy of data, big data and bias, and commitment to the ethical uses of data.
+
+» International standing in the area of data science research, leading and working within moderate to large size research teams.
+
+» Evidence of curriculum design and implementation.
+
+» Evidence of contributions in the mentoring and the career growth of academic colleagues, especially underrepresented groups
+
+» A demonstrated record of commitment to Te Tiriti o Waitangi and consciousness of New Zealand as a bi-cultural society.
+
+» candidates are welcome to add further comments they may feel of relevance.
+
+more information:
+
+» Start Date: The prosperous candidate will ideally join AUT in February 2022 (or earlier by negotiation).
+
+» A competitive remuneration package will be agreed with the prosperous applicant, commensurate with skills and practice.
+
+» Referees will only be engaged for shortlisted candidates and will not contacted without the prior consent of the applicant. When applying, candidates should provide names, contact details and clarification of relationship for at least three potential referees.
+
+For academic enquires: Contact Professor Aman Maung Than Oo (Head of School, Engineering, Computer and Mathematical Sciences) –aman.oo@aut.ac.nz. For recruitment information: Contact Mike Wood (AUT Executive Recruitment Partner) –mike.wood@aut.ac.nz.
+
+Advertising Closing date: Sunday, 17 October at 23:55pm (New Zealand standard time). We expect interviews to take place during November 2021.
+
+Listing reference: 79493
+
+Please note: In response to COVID-19, the New Zealand Government has imposed travel restrictions and are currently only allowing New Zealand residents, citizens and visa holders meeting a strict exception policy to enter the country, all of whom must currently enter Government approved isolation/quarantine for two weeks upon arrival. It’s uncertain when these border restrictions will change, and this may impact the manner in which an offshore candidate will be able to participate in the recruitment process although remote options will be in place. Visit the Immigration New Zealand website or the New Zealand Government’s official Covid-19 website For more information and updates on the border restrictions.
+
+At AUT we strive to be a place where people love to work and learn. We are committed to inclusivity and the Treaty of Waitangi and aspire to be the University of choice for M?ori and Pacific communities. We welcome people of all ethnicities, genders, sexual orientations, religious and political beliefs, socio-economic situations and accessibility needs.
+
+Please note that all applications must be submitted through the online application process. For more information, please send us an enquiryhereor call 921 9499. Please note we are happy to answer your questions but we do not accept applications by email. You will need to apply through the standard registration process.
+How to submit the application:
+
+Click Here to apply:https://careers.aut.ac.nz/jobdetails?ajid=dYWsb Advertising Closing date: Sunday, 17 October at 23:55pm (New Zealand standard time). We expect interviews to take place during November 2021. Listing reference: 79493
+
+Skills:
+
+Job Category:
+
+Language requirements:
+
+Employment type:
+
+Salary:
+Unspecified
+
+Degree:
+Unspecified
+
+Experience (year):
+Unspecified
+
+Job Location:
+Auckland
+
+Company Type
+Employer
+
+Post Date:
+2022/12/26 / Viewed 2921 times
+
+Contact Information
+
+Company:
+Maori Pacific Jobs
+
+Contact Email:
+aman.oo@aut.ac.nz"
+Full-time,NA,NA,Senior Machine Learning Platform Engineer,2023-01-08 16:53:00.337171 MDT,https://www.google.com/search?q=Machine+Learning+Jobs+New+Zealand&ibp=htl;jobs&sa=X&ved=2ahUKEwjkyLbKlbn8AhVeIjQIHS5eCEEQutcGKAF6BAgTEAY#htivrt=jobs&htidocid=iBPNyrD6lSsAAAAAAAAAAA%3D%3D&fpstate=tldetail,Tencent,"Auckland, New Zealand","About Us
+
+LightSpeed Studios is one of the world’s most innovative and successful game developers. With team across China, United States, Singapore, Canada, United Kingdom, France, Japan, South Korea, New Zealand, and United Arab Emirates. We are expanding to more countries.
+
+Founded in 2008, LightSpeed Studios has created over 50 games across multiple platforms and genres for over 4 billion registered users. It is the co-developer of worldwide hits PUBG MOBILE, Apex Legends Mobile, and League of Legends: Wild Rift (Chinese Version).
+
+LightSpeed Tech Center is a centralized platform for LightSpeed Studios, including game engine, audio, QA, AI, tech partnership, research & development, and other tech-related teams.
+
+Responsibilities
+- Participate in architecture design and coding around building a good AI platform for training and online service.
+- Bring AI capabilities to the gaming business by building ML Ops processes.
+
+Qualifications
+
+- Bachelor's degree or above in computer... science, engineering or a related field strongly preferred
+- Experience in end-to-end ML implementation，including data pre-processing, feature engineering, ML experimentation, and DevOps principles
+- Experience in Cloud native development, including docker, k8s
+- An ability to write good code in your favorite programming language (experience with C++/Python/Go may be helpful), and familiarity with common ML frameworks and tools
+- Passionate about learning and applying new, relevant technologies"
+Full-time,NA,NA,"Principal Applied Scientist, Machine Learning",2023-01-08 16:53:00.917880 MDT,https://www.google.com/search?q=Machine+Learning+Jobs+New+Zealand&ibp=htl;jobs&sa=X&ved=2ahUKEwjkyLbKlbn8AhVeIjQIHS5eCEEQutcGKAF6BAgTEAY#htivrt=jobs&htidocid=AoDwDaguR1sAAAAAAAAAAA%3D%3D&fpstate=tldetail,Xero,"Auckland, New Zealand","We are the Data Team. A collective of specialists driven by our shared mission to help establish Xero as the most insightful and trusted small business platform. Our backgrounds and work are diverse—we work on data platforms, data modelling, application development, applied research, ethics, literacy, and strategy, to name a few. At the heart of our mission is helping our colleagues and customers get value from data responsibly, on robust data platforms, with robust methods.
+
+Applied Scientists work in cross-functional teams (engineers, designers, product managers, etc) to create AI-powered experiences. We apply machine learning to develop products that reduce toil and provide insight, allowing small businesses to focus on what matters.
+
+There’s a myriad of job titles out there and the English language can only express so much in a couple of words. So role title aside, what we’re looking for is someone to:
+
+About the role:
+• Provide leadership to cross-functional teams that build... web-scale ML products
+• Work with your peers and the Data Leadership Team to define the roadmap for Applied Sciences
+• Identify cross-cutting opportunities to create frameworks / tooling and improve data quality
+• Work with other scientists to figure out the best practices for reproducible and robust science, before documenting and evangelising them
+• Keep up-to-date with the latest developments in ML, identifying opportunities for Xero to improve #beautiful products.
+• Be comfortable with pushing the frontiers of ML in the pursuit of delivering products, but only where absolutely necessary
+• Teach colleagues around Xero about how use data the right way
+• Make sure our work is always in the best interests of our customers
+• Align multiple programs of work so that they benefit each other
+• Identify new ML product opportunities and work with product teams to determine if they’re worth pursuing
+• Create the culture that makes people love working with us
+• Mentor, manage, and develop other scientists and colleagues
+
+About you:
+• You have extensive experience delivering web-scale production machine learning systems
+• You rejoice in identifying tough problems that can be solved with scientific thinking
+• You understand that solving worthwhile problems means covering all areas of the data lifecycle - finding it, understanding it, experimenting with it, despairing over it, fixing it, …
+• You’re comfortable reading ML research papers, keep abreast of new work on arXiv.org and have on occasion spent your time tinkering around with that interesting new framework you read about recently ... but when it comes down to it, you want to solve real business problems in the simplest and most robust way possible
+• You’re comfortable working with experts from all corners of the company to deeply understand the customer problem before getting your hands dirty with all that data and code
+• Experience as a hands-on practitioner building productionized machine learning pipelines which touch real human end users
+• You have a solid grasp of statistics and you have wrestled with the challenges inherent in actually measuring the impact of your machine learning pipelines in the wild
+• You’ve learned through experience that it’s important to write testable, repeatable code so you can debug it when something goes bump in the night
+• You know your way around the ‘nix command line, ssh your way happily around your multiple running AWS instances and are a competent programmer in Python, Scala or similar
+• You’ve mentored and grown teams of applied scientists, teaching the skills of scientific reasoning, collaboration, and effective program delivery.
+
+What you'll bring:
+• Ability to translate between the business and machine learning domains
+• Sound software engineering skills in Python, Scala, or similar
+• Expert level hands on practitioner skills in one or more of: time series forecasting, natural language processing, classical machine learning, deep learning
+• Ability to grasp and teach the mathematical concepts that underpin the domains outlined above
+• Comfortable with version control and command line
+• Strong communication skills and the ability to tailor a message for peers, senior stakeholders, and junior team members alike
+• Ability to mentor and grow junior scientists"
+Full-time,NA,NA,Computer Vision Developer,2023-01-08 16:53:01.512017 MDT,https://www.google.com/search?q=Machine+Learning+Jobs+New+Zealand&ibp=htl;jobs&sa=X&ved=2ahUKEwjkyLbKlbn8AhVeIjQIHS5eCEEQutcGKAF6BAgTEAY#htivrt=jobs&htidocid=qGv_PWpcYTIAAAAAAAAAAA%3D%3D&fpstate=tldetail,Fingermark,"Havelock North, New Zealand","About Fingermark
+
+Fingermark™ are a global tech company based in New Zealand with offices in Australia, Brazil, UAE and the United States. For over 15 years they have been a world leader in digital transformation and lead the way in the development of Artificial Intelligence (AI) and associated hardware products for the Quick Service Restaurant (QSR), Retail and Industrial sectors.
+
+Fingermark design, build and deploy leading-edge digital technology solutions enabling operational efficiency, revenue gains and enhanced customer experiences. From AI software with real-time business analytics and consultancy through to kiosks and menu boards - they design fit-for-purpose innovative solutions and ecosystems.
+
+Fingermark researches and develops game-changing, innovative technologies that support their vision: to revolutionise customer speed of service. To continue delivering to this vision around the world, Fingermark are looking for a talented Computer Vision Developer.
+
+About the... opportunity
+
+As the Computer Vision Developer, you will be working in a very dynamic team environment across multiple technologies and disciplines. Your primary role will be designing and applying computer vision and deep learning algorithms to solve complex data mining, pattern recognition and object detection problems. This is a key role helping to deliver outstanding products to our worldwide customers.
+
+We have an interest in the following areas of experience:
+• Breadth of knowledge across computer vision and deep learning development, and architecture
+• Research of recent deep learning, computer vision, and computer architecture developments
+• Ability to understand and implement cutting edge deep learning techniques
+• Experience delivering computer vision-based products including practical coding experience
+• Experience developing algorithms with computer vision technologies
+• Experience with DNN models and frameworks (e.g. Yolo, SDD, Darknet, Tensorflow, Caffe)
+• Serverless, Lambda, DynamoDB, RDS, CloudWatch
+• API design and build - REST, GraphQL
+• Microservices design and development
+• Containers, e.g. Docker, Helm
+• Terraform, Serverless
+• SSH tunnels, VPN
+• Continuous integration/deployment
+• Git, Bitbucket
+• Monitoring (Grafana, Prometheus)
+• Strong working knowledge of Linux
+• AWS, Google Cloud Platform
+• Data science and engineering, simulation/queue modelling experience desirable
+• Neural networks experience
+• Demonstrated programming skills with Python
+• Analytical and creative problem-solving skills
+• Team player and self-motivated
+• Ability to work in an Agile environment
+
+This is an exciting time join the Fingermark team - we are in a growth phase with customers and opportunities in multiple global markets. We are in the business of providing next generation connected experiences utilising an effective combination of hardware and software. We aim to make it easier for people to lead their busy lives"
+Full-time,NA,NA,Data Scientist,2023-01-08 16:53:02.118192 MDT,https://www.google.com/search?q=Machine+Learning+Jobs+New+Zealand&ibp=htl;jobs&sa=X&ved=2ahUKEwjkyLbKlbn8AhVeIjQIHS5eCEEQutcGKAF6BAgTEAY#htivrt=jobs&htidocid=1S-k1OeTT1EAAAAAAAAAAA%3D%3D&fpstate=tldetail,Partly,New Zealand,"Note: Partly is headquartered in Christchurch but has employees spread across NZ, AU and UK. If relocating to Christchurch, we would cover those costs. If working remote, we would pay for any visits to HQ (at least once per quarter).
+
+🚀 Our story
+
+Partly's mission is to connect the world's parts and we're doing that by building the first global platform for replacement parts, starting with auto parts. Our big vision is to accelerate the world towards a sustainable future where waste is eliminated and all replacement parts are universally searchable, accessible and available to all.
+
+We've more than tripled our team over the last 12 months and expect to double in size again over the coming 12 months. We're a global team spanning both Europe and Australasia. Founded by ex-Rocket Lab engineers, we utilise bleeding-edge technology to solve challenging but exciting problems that make a huge impact in a $1.9 trillion industry.
+
+We provide a scalable digital infrastructure solution to some... of the world's largest businesses and the most exciting startups. Partly's solutions are integrated across hundreds of companies globally, providing the backbone for cataloguing and managing parts online.
+
+Blackbird Ventures (Canva, CultureAmp etc.) led both our Pre-Seed and Seed rounds, alongside I2BF (NYC), Hillfarrance, Icehouse, Peter Beck (Rocket Lab), Akshay Kothari (Notion Co-Founder) and Dylan Field (Figma Co-Founder).
+
+We're continuing to build a world-class team and ensuring Partly is a place where people can do the best work of their lives. We're proud of the culture we've built at Partly, and our values are lived throughout every experience.
+
+🖍️ This role
+
+You will be joining a team of incredibly ambitious and talented engineers and data scientists to tackle hard and exciting problems using cutting-edge research.
+
+This is an opportunity to work in an extremely fast-paced environment and take on rewarding challenges and responsibilities. You will report to Tim Grunshaw (Director of Engineering).
+
+💻 What will you do
+• Data mining and modelling
+• Work with graph and text data
+• Automate data ingestion process
+
+🥷 Your skills
+• Experience in machine learning
+• Experience in data mining
+• Experience with structuring and processing unstructured data
+• Experience with data acquisition
+• (Strong bonus) Experience in the automotive parts industry
+• (Strong bonus) Experience with graph machine learning and algorithms
+• (Bonus) Experience with graph database
+• (Bonus) Experience with NLP
+
+🪅 Benefits
+• Competitive base salary plus equity. Even though we’re a small startup, we offer competitive salaries and great equity.
+• Parental leave and flexible return to work. After returning to work, primary carers can work 4-day weeks for 100% of their pay for the first twelve weeks. For secondary carers, we offer 10 days of leave at full pay.
+• Flexible working hours. We’re office-first, but are flexible  with hours and working from home when you need to.
+• A brand new architecturally designed office in Christchurch CBD. With free snacks, drinks on tap, two different coffee machines, social areas, and one of the best cafes in Christchurch 50m away.
+• Monthly team lunches to celebrate our wins and enjoy each other's company outside the office.
+• Ergonomic workspace. Sit-stand desks, ergonomic chairs, quiet spaces, and collaboration spaces to suit all kinds of working styles"
+Full-time,NA,NA,AI Research Scientist,2023-01-08 16:53:03.212433 MDT,https://www.google.com/search?q=Machine+Learning+Jobs+New+Zealand&ibp=htl;jobs&sa=X&ved=2ahUKEwjkyLbKlbn8AhVeIjQIHS5eCEEQutcGKAF6BAgTEAY#htivrt=jobs&htidocid=xVOOO3o8b-EAAAAAAAAAAA%3D%3D&fpstate=tldetail,Altered State Machine,"Auckland, New Zealand","Altered State Machine (ASM) are looking for world-class AI Research Scientists to work on our Core Research Track. We are welcoming applicants from anywhere in the world.
+
+As part of the Innovation team you will work in developing novel deep learning models towards solving and building the next generation of AI generative models. This team will solve the most challenging problems in AI innovation & aim to be first and top of the world.
+
+ASM are creating the world’s first protocol for decentralised and democratised Artificial Intelligence, owned and traded using NFTs, and interoperable across the Metaverse. Our protocol enables anyone to own AI, and the machine learning models that define what it learns over time. These are paired with artwork in the form of NFT's to create non-player agents.
+
+We're creating a world where everyone can own, understand, trust and benefit from their AI. Join us in building the #OpenMetaverse. Help to push the boundaries of future innovation.
+
+Key... responsibilities:
+• Design, implement, and evaluate models and software prototypes.
+• Report and present research findings and developments, including status and results, clearly and efficiently, both internally and externally, verbally and in writing.
+• Work with external collaborators and maintain relationships with relevant labs and partners and key stakeholders as appropriate.
+
+In order to set you up for success as a Research Scientist at ASM, we look for the following skills and experience:
+• Ph.D. in a related area, e.g. Computer Vision, Computer Graphics, VR/AR/MR.
+• Relevant experience to the position such as post-doctoral roles, a proven track record of publications from conferences e.g. Siggraph, ICCV, CVPR, ECCV, AAAI, NIPS.
+• Practical experience in research of AI models, e.g. transformers, diffusion models, VAE/GAN.
+• Real passion and experience in AI generative area
+• *Please submit your publications when applying.**
+
+We're a great place to work at
+• Experienced and wickedly talented team and growing
+• Venture funded by a consortium of leading crypto investors… and more every day
+• Plenty of opportunity
+• Real work-life balance
+
+We can offer
+• Great variety (no two days are the same)
+• Exciting international projects
+• Engaging with global AAA gaming companies, game platforms and investors
+• The right salary
+• Flexibility with WFH options
+• The chance to be part of the next generation of the internet… the decentralised Metaverse
+
+We’re looking for people to help us build the future of AI and gaming in Web3. If the above sounds like you and the idea of new technologies, gaming and the Metaverse excites you, we’d love to chat"
+Full-time,NA,NA,Data Scientist - QuantumBlack,2023-01-08 16:53:03.801306 MDT,https://www.google.com/search?q=Machine+Learning+Jobs+New+Zealand&ibp=htl;jobs&sa=X&ved=2ahUKEwjkyLbKlbn8AhVeIjQIHS5eCEEQutcGKAF6BAgTEAY#htivrt=jobs&htidocid=LkUTvVWeDQcAAAAAAAAAAA%3D%3D&fpstate=tldetail,McKinsey & Company,"Auckland, New Zealand (+3 others)","Who You'll Work With As a Data Scientist at QuantumBlack in Australia or New Zealand, you will work with other data scientists, data engineers, machine learning engineers, designers and project managers on interdisciplinary projects, using maths, statistics and machine learning to derive structure and knowledge from raw data across various industry sectors.
+
+Who you are
+
+You are a highly collaborative individual who is capable of laying aside your own agenda, listening to and learning from colleagues, challenging thoughtfully and prioritising impact. You search for ways to improve things and work collaboratively with colleagues. You believe in iterative change, experimenting with new approaches, learning and improving to move forward quickly.
+
+What You'll Do
+
+As a Data Scientist at QuantumBlack...
+
+You will work in multi-disciplinary environments harnessing data to provide real-world impact for organisations globally. You will influence many of the recommendations our clients need to... positively change their businesses and enhance performance.
+
+Role responsibilities
+• Work on complex and extremely varied data sets from some of the world’s largest organisations to solve real world problems
+• Develop data science products and solutions for clients as well as for our data science team
+• Write highly optimized code to advance our internal Data Science Toolbox
+• Work in a multi-disciplinary environment with specialists in machine learning, engineering and design
+• Add real-world impact to your academic expertise, as you are encouraged to write ‘black’ papers and present at meetings and conferences should you wish
+• Attend conferences such as NeurIPS and ICML as one global team as well as Data Science retrospectives where you will have the opportunity to share and learn from your co-workers.
+• Work within one of the largest and most advanced data science teams in London, support the Lead Data Scientists to develop data science products
+
+What you’ll learn
+• How successful projections on real world problems across a variety of industries are completed through referencing past deliveries of end to end machine learning pipelines
+• Build products alongside the Core engineering team and evolve the engineering process to scale with data, handling complex problems and advanced client situations
+• Be able to focus on modelling by working alongside the Data Engineering team which focuses on the wrangling, clean-up and transformation of data.
+• Best practices in software development and productionise machine learning by working with our Machine Learning Engineering teams which optimise code for model development and scale it
+• Work with our UX and Visual Design teams to interpret your complex models into stunning and user-focused visualisations
+• Using new technologies and problem-solving skills in a multicultural and creative environment
+
+You will work on the frameworks and libraries that our teams of Data Scientists and Data Engineers use to progress from data to impact. You will guide global companies through data science solutions to transform their businesses and enhance performance across industries including healthcare, automotive, energy and elite sport.
+• Real-World Impact– No project is ever the same; we work across multiple sectors, providing unique learning and development opportunities internationally.
+• Fusing Tech & Leadership– We work with the latest technologies and methodologies and offer first class learning programmes at all levels.
+• Multidisciplinary Teamwork- Our teams include data scientists, engineers, project managers, UX and visual designers who work collaboratively to enhance performance.
+• Innovative Work Culture– Creativity, insight and passion come from being balanced. We cultivate a modern work environment through an emphasis on wellness, insightful talks and training sessions.
+• Striving for Diversity– With colleagues from over 40 nationalities, we recognise the benefits of working with people from all walks of life.
+
+Our projects range from helping pharmaceutical companies bring lifesaving drugs to market quicker to optimising a Formula1 car’s performance. At QuantumBlack you have the best of both worlds; all the benefits of being part of one of the leading management consultancies globally and the autonomy to thrive in a fast growth tech culture:
+• Healthcare Efficiency– We helped a healthcare provider improve their clinical trial practices by identifying congestion in diagnostic testing as a key indicator of admissions breaches.
+• Environmental Impact– We designed and built the first data-driven application for a state of the art centre of excellence in urban innovation by collecting real-time data from environmental sensors across London and deploying proprietary analytics to find unexpected patterns in air pollution.
+• Product Development– We worked with the CEO of an elite automotive organisation to reduce the 18-month car development timeframe by improving processes, designs and team structures.
+
+Please submit your CV in English
+
+Visit our Careers site to watch our video and read about our interview processes and benefits.
+
+Qualifications
+• Outstanding academic record in Computer Science, Machine Learning, Applied Statistics, Mathematics; Masters, PhD are beneficial (Please include academic transcripts with application.)
+• Experience in statistical modelling and machine learning techniques
+• Programming experience in at least two of the following languages: R, Python, Scala, SQL
+• Experience in applying data science methods to business problems
+• Experience in applying advanced analytical and statistical methods in the commercial world
+• Good presentation and communication skills, with the ability to explain complex analytical concepts to people from other fields
+• Flexibility to travel to client locations across Australia & New Zealand"
+Full-time,NA,NA,Data Scientist,2023-01-08 16:53:04.530153 MDT,https://www.google.com/search?q=Machine+Learning+Jobs+New+Zealand&ibp=htl;jobs&sa=X&ved=2ahUKEwjkyLbKlbn8AhVeIjQIHS5eCEEQutcGKAF6BAgTEAY#htivrt=jobs&htidocid=c7PVETEaFnAAAAAAAAAAAA%3D%3D&fpstate=tldetail,New Zealand Transport Agency,"Auckland, New Zealand","Join the data science team at an exciting time of growthExplore modelling and machine learning techniques with large, complex datasetsWellington or Auckland-basedProvide data science, statistical and modelling expertise to help NZTA decision makers and those in the wider land transport sector solve complex problems and challenges. The opportunity | Te Whiwhinga mahi The Data Science team sits in and is part of the Research and Analytics team at the Agency. It aims to provide an evidence base to support and underpin smarter, evidence-based decisions, for NZTA decision makers and those in the wider land transport sector. As part of the Advanced Analytics and Modelling team you will be making a difference to everyday lives of New Zealanders. Working closely with the Transport Agency's delivery groups, you will provide data science, statistical and modelling expertise to solve complex problems and challenges. The role gives you the opportunity to build strong working relationships with... key stakeholders to identify opportunities that would benefit from data science or other advanced analytical techniques. Your relationship with these stakeholders will be key to success and you are seen as a though-leader by providing advice as well as solutions. The team is working in a number of emerging areas including real-time predictions; risk scoring through advanced analytical and modelling techniques; forecasting; modelling transport accessibility; graph analytics; and evaluating the effectiveness of road engineering initiatives. You will be a self-starter who is comfortable working with complex and often challenging data. We are looking for individual with a curious and inquisitive mind, looking to step into a position to explore and create an impact. About you | Ko wai koe To be successful in this role, you will bring: An advanced level of statistical programming (SQL, Python and/or R)Experience in statistical interpretation and complex analysis, including the ability to find stories and insights in dataKnowledge of ETL processes and experience working in a server-based environmentExperience in developing both training and inference systems for machine learning pipelinesComfortable working on cloud environments (preferably Azure)Familiarity with code versioning tools (Git, Github, Azure DevOps)An understand of information security and discretionAn ability to build and maintain relationshipsGood verbal and written communication skillsA relevant post graduate qualification in statistics or another discipline requiring the analysis of complex dataClick here to view the position description. About us | Ko wai mātou At Waka Kotahi, the NZ Transport Agency, it all starts with our people. The organisation's performance and success depends on the people who choose to make this a great place to work and make a difference for Aotearoa. The Transport Agency has a strong future focus, understanding that new technologies and changing customer expectations mean the transport system we know today will not be the one we deliver in ten years time. Along with our other benefits we also have new Waka Kotahi Life, Income Protection and Critical Illness Insurance scheme available for permanent employees. Rā Katinga | Applications close: 2 August 2022For further information, email: careers@nzta.govt.nzTo be considered for this position you must have a legal right to live and work in New Zealand.Waka Kotahi is an equal opportunity employer (EOE). At the Agency we recognise the importance of diversity and inclusion and are committed to providing a working environment that embraces these values. Please let us know if you need any support or have any access requirements that will help you through the recruitment process.Please note that we may begin shortlisting as we receive applications. We encourage early applications as we may withdraw the advertising at any time"
+Full-time,NA,NA,Data Scientist,2023-01-08 16:53:05.244793 MDT,https://www.google.com/search?q=Machine+Learning+Jobs+New+Zealand&ibp=htl;jobs&sa=X&ved=2ahUKEwjkyLbKlbn8AhVeIjQIHS5eCEEQutcGKAF6BAgTEAY#htivrt=jobs&htidocid=QI9qXH230EIAAAAAAAAAAA%3D%3D&fpstate=tldetail,AIA,"Auckland, New Zealand","At AIA, our promise is to help people live Healthier, Longer, Better Lives by encouraging them to make positive lifestyle changes one step at a time.
+
+Our firm belief is that by following our Operating Philosophy of doing the right thing, in the right way with the right people, the results will come.
+
+AIA Insurance for Life, Health and Wellbeing.
+
+The opportunity :
+
+We have a unique and exciting opportunity to join our Data Analytics team as a Data Scientist. We are on the lookout for someone to be responsible for designing and implementing advanced analytics, statistical, modelling and machine learning solutions supporting a variety of business challenges and opportunities.
+
+You will work intimately with the business to define, shape and implement proposition (product, pricing), distribution, digital, marketing operational and risk management strategies.
+
+About the role :
+
+Some of the key responsibilities include :
+
+Supporting strategy, planning and ideation processes with... stakeholders
+
+Supporting briefing and reverse briefing
+
+Undertaking data discovery and quality profiling
+
+Collating data from data warehouses, marts, disparate internal and external sources and preparation as required
+
+Model selection, recommendation, building, testing, training and execution
+
+Delivery of insights through written reports, visualisations, stakeholder engagement and presentations
+
+Model deployment
+
+Determination and measurement of appropriate KPIs for performance monitoring to measure the success of your insights
+
+Prototyping, experimenting and user experience work may be required from time to time
+
+About you :
+
+For this role, you will need the following skills and experience :
+
+2+ Years’ experience as a data scientist i.e. on the tools, building, deploying and managing models or 5+ Years’ experience as a data analyst with statistics / data science background and demonstrated ability to learn and grow quickly.
+
+Tertiary and post-graduate statistics or data science / analytics qualification preferred
+
+Technical certifications (e.g. SQL, R, Python, Tableau) an advantage.
+
+Experienced in data science, data engineering, statistical and financial modelling, supervised and unsupervised machine learning, visualization and model governance.
+
+Advanced technical skills with T-SQL, R, Python and Tableau
+
+Commercial acumen, business process understanding and financial services experience.
+
+Ability to consult with and influence senior business and technical stakeholders to optimize data solutions between both business and technical objectives.
+
+Inquisitive, problem solver and analytical commercial thinker.
+
+Ability to deliver business outcomes, create cut-through and deal with ambiguity. Be able to anticipate, plan for and overcome roadblocks;
+
+define and agree strategies for technical, project delivery, story telling, and change management.
+
+Why choose AIA :
+
+At AIA, we’ve made a promise to help people live healthier, longer, better lives. And it starts with our own people.
+
+We invest in training and development to build on your current skills
+
+Career development through internal mobility opportunities
+
+Work for a business helping make positive health and wellbeing changes to the lives of New Zealanders
+
+Access additional leave days to recharge and refresh yourself
+
+Enjoy wonderful Health and Wellbeing initiatives that support you
+
+Work with supportive and inclusive managers
+
+Flexible working arrangements
+
+What’s next?
+
+If you’re passionate about making a difference then click the Apply Now’ Button!
+
+Recruitment Agencies : Our Talent team does not require any recruitment agency support.
+
+Interested Candidates : Apply using the Apply ’ button. No emailed applications accepted. For general enquiries only, contact "
+Full-time,2023-01-08,NA,"Product Design Manager, Design System & Machine Learning",2023-01-08 16:53:05.902039 MDT,https://www.google.com/search?q=Machine+Learning+Jobs+New+Zealand&ibp=htl;jobs&sa=X&ved=2ahUKEwjkyLbKlbn8AhVeIjQIHS5eCEEQutcGKAF6BAgTEAY#htivrt=jobs&htidocid=bTT2A2VJT6MAAAAAAAAAAA%3D%3D&fpstate=tldetail,GitLab,New Zealand,"The GitLab DevOps platform empowers 100,000+ organizations to deliver software faster and more efficiently. We are one of the world’s largest all-remote companies with 2,000+ team members and values that guide a culture where people embrace the belief that everyone can contribute.
+
+Our handbook is public. You can find the details of our vision & direction , check out how we structure our R&D teams , and understand how our UX team operates .
+
+As a Product Design Manager at GitLab, you will be responsible for managing a team of 5 talented Product Designers. These Product Designers are embedded in groups with a focus on our design system, foundational experiences, integrations with our platform, or data science offerings.
+
+What you can expect in a Product Design Manager role at GitLab:
+• You’ll advocate for good product design practices, ensure the visibility of product design across functions, create space for collaboration, and develop a deep level of subject matter expertise in the... product areas your reports are operating in.
+• You'll mentor designers, engineers, and PMs on how to effectively contribute to our Pajamas design system.
+• You’ll work with your direct reports to build out a UX strategy for our design system, navigation experience, integrations, and Data Science capabilities that aligns with our mission, vision, strategy .
+• You’ll approach management in a way that is informed by our view on what is required of a Manager at GitLab . We default to asynchronous communication , so your management style will need to work in the context of our all-remote, global team .
+• You’ll collaborate with our R&D Leadership team to manage OKRs for our product design practice. These OKRs will shape your team’s process, define your responsibilities as a manager, and feed into the responsibilities of your direct reports while enabling our company to meet its goals.
+• You’ll play a key part in the evolution of our design culture and drive initiatives that enable Product Designers to achieve greater results.
+• You’ll champion the importance of participation in critiques, content creation, and speaking engagements.
+• You’ll foster a safe space for your team, where they’re comfortable sharing feedback and advocating for change they see as necessary.
+• You’ll play a big part in hiring a team of world-class Product Designers. You’ll need to be highly engaged in the recruiting process as we scale our global team.
+• You’ll work with cross-functional partners to identify and remedy pain points in our product development process , ensuring effective collaboration with our Product, Development, and Quality counterparts.
+• You'll mentor others in how to make contributions to our product through git-based workflows where you're working locally in the terminal and creating Merge Requests.
+
+You should apply if:
+• You’ve got, at minimum, a few years of experience managing Product or UX design teams of 3+ direct reports. Alternatively, you're able to demonstrate leadership skills and experiences impacting design quality at a team level as a Product Designer on a design system team.
+• You have worked on complex web applications, enterprise software, or developer tooling.
+• You’ve got hands-on experience leading a design system.
+• You have knowledge of accessibility requirements (for example, Web Content Accessibility Guidelines (WCAG)) and have experience leading a team to create accessible experiences.
+• Your knowledge, vision, and experience will enable you to play a key role in shaping the next evolution of developer tooling.
+• You enjoy advocating for user research and usability testing, and you continually look to improve your team’s user research and usability testing abilities.
+• You want to manage a team that is designing a complex product with cross-functional users and continually evolving needs.
+• You understand frontend code, Git, and the limitations of frontend technology. You are comfortable with Git-based workflows and bring experience with the command-line.
+• You’re comfortable with design reviews and occasionally being hands-on with design tools such as Figma.
+• Mentoring, leading, and growing your team is truly motivating to you.
+• Our values of collaboration, results, efficiency, diversity, iteration, and transparency resonate with you.
+• You'll thrive in an environment where self-learning and self-service are encouraged and instilled as a part of our culture.
+
+What it's like to work at GitLab :
+
+The culture at GitLab is something we're incredibly proud of. You'll spend your time collaborating with kind, talented, and motivated colleagues from across the globe.
+
+Some of the benefits you'll be entitled to vary by the region or country you're in. However, all GitLab team members are fully remote and are encouraged to put family and friends first with our paid time off policy that doesn't count the number of days you take off annually.
+
+You can work incredibly flexible hours, enabled by our asynchronous approach to communication. We'll also help you set up your home office environment , pay for your membership to a co-working space, and, every year or so, we'll invite you to our Contribute event .
+
+Our Hiring Process And Compensation
+
+The hiring process for this Product Designer position typically follows five stages. The details of this process can be found at the bottom of our job family page. Our compensation calculator will be shared with candidates selected for a team interview.
+
+Country Hiring Guidelines: GitLab hires new team members in countries around the world. All of our roles are remote, however some roles may carry specific location-based eligibility requirements. Our Talent Acquisition team can help answer any questions about location after starting the recruiting process.
+
+Privacy Policy: Please review our Recruitment Privacy Policy. Your privacy is important to us.
+
+GitLab is proud to be an equal opportunity workplace and is an affirmative action employer. GitLab’s policies and practices relating to recruitment, employment, career development and advancement, promotion, and retirement are based solely on merit, regardless of race, color, religion, ancestry, sex (including pregnancy, lactation, sexual orientation, gender identity, or gender expression), national origin, age, citizenship, marital status, mental or physical disability, genetic information (including family medical history), discharge status from the military, protected veteran status (which includes disabled veterans, recently separated veterans, active duty wartime or campaign badge veterans, and Armed Forces service medal veterans), or any other basis protected by law. GitLab will not tolerate discrimination or harassment based on any of these characteristics. See also GitLab’s EEO Policy and EEO is the Law . If you have a disability or special need that requires accommodation , please let us know during the recruiting process "
+Internship,NA,NA,Machine Learning Remote Fellowship-Australia AEST- (fellowship.ai/apply),2023-01-08 16:53:06.511701 MDT,https://www.google.com/search?q=Machine+Learning+Jobs+New+Zealand&ibp=htl;jobs&sa=X&ved=2ahUKEwjkyLbKlbn8AhVeIjQIHS5eCEEQutcGKAF6BAgTEAY#htivrt=jobs&htidocid=bqQsiKwD70sAAAAAAAAAAA%3D%3D&fpstate=tldetail,Fellowship.AI,New Zealand (+2 others),"If you want to jump-start your data science career by:
+• building scalable machine learning models with agile software development methodology
+• applying latest research in deep learning, ensemble learners, optimization techniques, etc.
+• working fully remotely with other fellows and professional mentors for 3 months
+• Accessing exclusive Machine Learning Bootcamp designed for fellows https://www.fellowship.ai/bootcamp-3
+• interfacing directly with commercial customers
+• working on enhancement to the solution portfolio https://lnkd.in/ewPKXyJZ
+
+This opportunity is for you!
+
+If you are interested, and want to be a part of our leading team, please apply at www.fellowship.ai/apply
+
+The number one qualification employers look for when hiring a data science candidate is previous experience. Fellows from previous cohorts are now in data science roles at Uber Advanced Technologies Center, Google Brain, Sentient Technologies, Yelp, Orange, etc.
+
+Check out https://platform.ai/blog which... showcases the work done by some of our fellows.
+• *Note: Fellowship is not a paid commitment.*
+
+Fellowship.AI focuses on Education and Machine Learning. Their company has offices in San Francisco and London. They have a small team that's between 1-10 employees.
+
+You can view their website at https://fellowship.ai or find them on Twitter and LinkedIn"
+Full-time,NA,NA,AI Researcher,2023-01-08 16:53:07.088628 MDT,https://www.google.com/search?q=Machine+Learning+Jobs+New+Zealand&ibp=htl;jobs&sa=X&ved=2ahUKEwjkyLbKlbn8AhVeIjQIHS5eCEEQutcGKAF6BAgTEAY#htivrt=jobs&htidocid=WwB4SHbLCzIAAAAAAAAAAA%3D%3D&fpstate=tldetail,Altered State Machine,"Auckland, New Zealand","Altered State Machine (ASM) are looking for world-class AI Researchers to work on our Product Feature Track. We are welcoming applicants from anywhere in the world.
+
+As part of the Innovation team you will work in applying novel deep learning models towards designing the next generation of AI generative features. You will use the models invented by the Core AI Research team, and any open-sourced AI projects from the rest of the world, e.g. stable diffusion to build advanced AI features.
+
+ASM are creating the world’s first protocol for decentralised and democratised Artificial Intelligence, owned and traded using NFTs, and interoperable across the Metaverse. Our protocol enables anyone to own AI, and the machine learning models that define what it learns over time. These are paired with artwork in the form of NFT's to create non-player agents.
+
+We're creating a world where everyone can own, understand, trust and benefit from their AI. Join us in building the #OpenMetaverse. Help to... push the boundaries of future innovation.
+
+Key responsibilities:
+• Implement, and evaluate models and software prototypes.
+• Report and present research findings and developments, including status and results, clearly and efficiently, both internally and externally, verbally and in writing.
+• Work with external collaborators and maintain relationships with relevant labs and partners and key stakeholders as appropriate.
+
+Requirements
+
+In order to set you up for success as an AI Researcher at ASM, we look for the following skills and experience:
+• M.S. / Ph.D. in a related area, e.g. Computer Science, Machine Learning, Artificial Intelligence.
+• Practical experience in AI models, e.g. transformers, diffusion models, VAE/GAN.
+• Real passion and experience in AI generative area
+
+Benefits
+
+We're a great place to work at
+• Experienced and wickedly talented team and growing
+• Venture funded by a consortium of leading crypto investors… and more every day
+• Plenty of opportunity
+• Real work-life balance
+
+We can offer
+• Great variety (no two days are the same)
+• Exciting international projects
+• Engaging with global AAA gaming companies, game platforms and investors
+• The right salary
+• Flexibility with WFH options
+• The chance to be part of the next generation of the internet… the decentralised Metaverse
+
+We’re looking for people to help us build the future of AI and gaming in Web3. If the above sounds like you and the idea of new technologies, gaming and the Metaverse excites you, we’d love to chat"
+Full-time,2023-01-08,NA,Data Scientist - QuantumBlack,2023-01-08 16:53:07.661700 MDT,https://www.google.com/search?q=Machine+Learning+Jobs+New+Zealand&ibp=htl;jobs&sa=X&ved=2ahUKEwjkyLbKlbn8AhVeIjQIHS5eCEEQutcGKAF6BAgTEAY#htivrt=jobs&htidocid=Zw7fip_QP5AAAAAAAAAAAA%3D%3D&fpstate=tldetail,McKinsey,"Auckland, New Zealand","As a Data Scientist at QuantumBlack in Australia or New Zealand, you will work with other data scientists, data engineers, machine learning engineers, designers and project managers on interdisciplinary projects, using maths, statistics and machine learning to derive structure and knowledge from raw data across various industry sectors.
+
+Who you are
+
+You are a highly collaborative individual who is capable of laying aside your own agenda, listening to and learning from colleagues, challenging thoughtfully and prioritising impact. You search for ways to improve things and work collaboratively with colleagues. You believe in iterative change, experimenting with new approaches, learning and improving to move forward quickly.
+
+As a Data Scientist at QuantumBlack...
+
+You will work in multi-disciplinary environments harnessing data to provide real-world impact for organisations globally. You will influence many of the recommendations our clients need to positively change their businesses... and enhance performance.
+
+Role responsibilities
+• Work on complex and extremely varied data sets from some of the world's largest organisations to solve real world problems
+• Develop data science products and solutions for clients as well as for our data science team
+• Write highly optimized code to advance our internal Data Science Toolbox
+• Work in a multi-disciplinary environment with specialists in machine learning, engineering and design
+• Add real-world impact to your academic expertise, as you are encouraged to write 'black' papers and present at meetings and conferences should you wish
+• Attend conferences such as NeurIPS and ICML as one global team as well as Data Science retrospectives where you will have the opportunity to share and learn from your co-workers.
+• Work within one of the largest and most advanced data science teams in London, support the Lead Data Scientists to develop data science products
+
+What you'll learn
+• How successful projections on real world problems across a variety of industries are completed through referencing past deliveries of end to end machine learning pipelines
+• Build products alongside the Core engineering team and evolve the engineering process to scale with data, handling complex problems and advanced client situations
+• Be able to focus on modelling by working alongside the Data Engineering team which focuses on the wrangling, clean-up and transformation of data.
+• Best practices in software development and productionise machine learning by working with our Machine Learning Engineering teams which optimise code for model development and scale it
+• Work with our UX and Visual Design teams to interpret your complex models into stunning and user-focused visualisations
+• Using new technologies and problem-solving skills in a multicultural and creative environment
+
+You will work on the frameworks and libraries that our teams of Data Scientists and Data Engineers use to progress from data to impact. You will guide global companies through data science solutions to transform their businesses and enhance performance across industries including healthcare, automotive, energy and elite sport.
+• Real-World Impact- No project is ever the same; we work across multiple sectors, providing unique learning and development opportunities internationally.
+• Fusing Tech & Leadership- We work with the latest technologies and methodologies and offer first class learning programmes at all levels.
+• Multidisciplinary Teamwork- Our teams include data scientists, engineers, project managers, UX and visual designers who work collaboratively to enhance performance.
+• Innovative Work Culture- Creativity, insight and passion come from being balanced. We cultivate a modern work environment through an emphasis on wellness, insightful talks and training sessions.
+• Striving for Diversity- With colleagues from over 40 nationalities, we recognise the benefits of working with people from all walks of life.
+
+Our projects range from helping pharmaceutical companies bring lifesaving drugs to market quicker to optimising a Formula1 car's performance. At QuantumBlack you have the best of both worlds; all the benefits of being part of one of the leading management consultancies globally and the autonomy to thrive in a fast growth tech culture:
+• Healthcare Efficiency- We helped a healthcare provider improve their clinical trial practices by identifying congestion in diagnostic testing as a key indicator of admissions breaches.
+• Environmental Impact- We designed and built the first data-driven application for a state of the art centre of excellence in urban innovation by collecting real-time data from environmental sensors across London and deploying proprietary analytics to find unexpected patterns in air pollution.
+• Product Development- We worked with the CEO of an elite automotive organisation to reduce the 18-month car development timeframe by improving processes, designs and team structures.
+
+Please submit your CV in English
+
+Visit our Careers site to watch our video and read about our interview processes and benefits.
+• Outstanding academic record in Computer Science, Machine Learning, Applied Statistics, Mathematics; Masters, PhD are beneficial (Please include academic transcripts with application.)
+• Experience in statistical modelling and machine learning techniques
+• Programming experience in at least two of the following languages: R, Python, Scala, SQL
+• Experience in applying data science methods to business problems
+• Experience in applying advanced analytical and statistical methods in the commercial world
+• Good presentation and communication skills, with the ability to explain complex analytical concepts to people from other fields
+• Flexibility to travel to client locations across Australia & New Zealand"
+Full-time,NA,NZ$70K a year,Data Scientist,2023-01-08 16:53:08.235927 MDT,https://www.google.com/search?q=Machine+Learning+Jobs+New+Zealand&ibp=htl;jobs&sa=X&ved=2ahUKEwjkyLbKlbn8AhVeIjQIHS5eCEEQutcGKAF6BAgTEAY#htivrt=jobs&htidocid=DMFbeNtwgPwAAAAAAAAAAA%3D%3D&fpstate=tldetail,Peloria Insights,"Auckland, New Zealand","Type of Contract: Full time
+
+Salary: $35,000 for 6 months
+
+Location: Remote work with availability to interact with the EST time zone
+
+Duration: 6 months with possible extension
+
+Deadline: October 5th
+
+Project Description
+
+The goal is to develop a predictive machine learning models for (upcoming) social unrest at the local/regional/subnational level the United States, beginning with New York city, and other region. There are several existing risk indices at either a country level or at a city level (e.g. Lloyd’s City Index https://cityriskindex.lloyds.com/). Most of these are based on economic factors, although recently political instability and other factors are being considered. However, they rarely use online language data, which Peloria has found to be highly associated with enhanced model predictive accuracy in its work elsewhere (see Peloria’s website for some examples). Such indices are used by government and businesses to decide where to locate or mainstream new and existing... operations as well as governments to better identify the location, scale, nature and timing of development activities. Insurance companies have developed their own risk indices based on claims paid out and other macro-economic data. For the most part, however, such indices reflect subjective interpretation, particularly in regard to issues surrounding governance, globalization, and social group specific exclusion.
+
+Preferred Competencies and Experience
+• Be about to complete, or have recently completed a PhD degree in Data Science, Computer Science, or related fields less than 12 months ago
+• Have undertaken the study at a New Zealand tertiary institution if you are not a New Zealand citizen
+• Be legally permitted to work in New Zealand
+• Not have been employed in the industry under a professional arrangement related to your area of study except temporary, part-time or at a tertiary organisation
+• Not have been previously employed at the business – unless this was short-term employment (eg over the summer break)
+• Experience working with deep learning models - including platforms such as Pytorch, Tensorflow, Colab
+• Experience with coding (including Python), cloud platforms (AWS), Solr/ElasticSearch
+• Experience in processing satellite imagery
+• Experience creating User Interfaces (UI) is a plus
+• Experience using APIs and web scraping tools, especially for Twitter and online news sources
+• Fluency in English. Other languages are a plus
+
+Job Types: Full-time, Fixed term contract
+Contract length: 6 months
+
+Salary: $70,000.00 per year
+
+Benefits:
+• Work from home
+
+Schedule:
+• Flexible hours
+• Monday to Friday
+
+Application Deadline: 05/10/2022"
+Full-time,NA,NA,Data Engineer,2023-01-08 16:53:08.803981 MDT,https://www.google.com/search?q=Machine+Learning+Jobs+New+Zealand&ibp=htl;jobs&sa=X&ved=2ahUKEwjkyLbKlbn8AhVeIjQIHS5eCEEQutcGKAF6BAgTEAY#htivrt=jobs&htidocid=rPZuT6iQXacAAAAAAAAAAA%3D%3D&fpstate=tldetail,Tribe Recruitment,"Auckland, New Zealand","About The Company
+
+Quantiful is a NZ-based SaaS company with a purpose to make things better for the world! They want to do our part to make better use of the world's precious resources – for now and for future generations.
+
+Their product is a demand planning portal that harvests data from hundreds of sources including Google Trends, Economic data and public social media sites.
+
+They then enhance it with their client’s sales data to significantly increase forecast accuracy using their cutting- edge model QU. Quantiful use cutting edge AI models deployed through the AWS ML stack.
+
+About The Role
+
+This role will be responsible for the ownership and management of the ETL infrastructure specifically building robust data pipelines. The role will also be responsible for:
+• Management of data flowing across all platforms and customer data bases
+• Enhancing and optimising of all ETL processes as and when required
+• Working collaboratively with the team to aid in the automation and... acceleration of software delivery.
+• Development and implementation of data collection systems and other strategies that optimise data quality
+• Supporting the team with any process optimisation and co-ownership of DevOps processes.
+
+About You
+
+You will be a data engineer with a minimum of 2 years commercial experience.
+
+You Will Have Experience In
+• Data integration, data manipulation and AWS as well as being able to maintain a strong data pipeline.
+• Data modelling and engineering track record that shows your ability to support data science and complex machine learning services.
+• You will be familiar with the technologies Docker, Amazon webservices, Git and GitHub.
+
+If you are from a computer science or IT background, have excellent communication skills and are keen to learn and develop your skills, this is the role for you! Bring your team spirit and problem solving attitude to this company….
+
+Apply Now!
+
+To find out more, please get in touch with Laura on 027 228 2856 for a confidential chat, or by email on Laura@tribegroup.com
+
+To apply for this vacancy you MUST be a New Zealand citizen, resident, or have already secured the right to work in New Zealand and therefore hold a valid visa.
+
+At the appropriate stage we will request your references, we ask that you do not include them on your CV when applying.
+
+At Tribe we have our guiding light to show us the way. We bring our whole selves to work. We encourage inclusion in every single interaction. We genuinely care about people and are curious about their stories. We celebrate all points of view. We will help you find your tribe, the same way we have. We’re all on a journey together so come along…"
+Full-time,NA,NA,Senior Data Consultant,2023-01-08 16:53:09.909252 MDT,https://www.google.com/search?q=Machine+Learning+Jobs+New+Zealand&ibp=htl;jobs&sa=X&ved=2ahUKEwjkyLbKlbn8AhVeIjQIHS5eCEEQutcGKAF6BAgTEAY#htivrt=jobs&htidocid=ooBmnD6hztQAAAAAAAAAAA%3D%3D&fpstate=tldetail,Eliiza,"Auckland, New Zealand","At Eliiza we’re creating a Data and Analytics practice (brand new team!) and we are searching for a Senior Data Consultant (Data & Analytics) to join. The Data and Analytics proposition sits across four key areas: Data Strategy, Machine Learning and Data Science Strategy, Data Governance and Data Storytelling.
+
+As a Senior Data Consultant with Eliiza you will work across the consulting and delivery areas of our business. The consulting aspect of the role will involve helping to define business problems that are based on data and shaping them into defined projects. Delivery will require managing these projects and building good relationships through stakeholder reporting and client engagement. The role will always be focused on working towards positive outcomes.
+
+Working within a new practice you will help create the most prominent brand in the market associated with data offerings.
+
+So you’re ready for something new?
+
+Along with a diverse range of clients and projects, we guarantee... you’ll have the opportunity to work with some of the best data scientists, ML engineers and developers in the industry (from across all of Mantel Group).
+No two days will look the same - but here’s a great snapshot of some of your responsibilities:
+
+If you’re the right Senior Data Consultant for us, you’ll have:
+• a strong background in working on data projects in commercial environments, and are able to manage projects with many moving parts
+• solid experience in technical writing and are able to prepare clear documentation for a range of audiences
+• solid experience working within a consultancy environment
+• the ability to communicate effectively with stakeholders at different levels of technical detail
+• an adaptable approach and methods based on project and customer needs, are comfortable with ambiguity and can provide guidance on scope and direction
+• some hands-on technical skills - data science is at the heart of what we do after all! This will allow you to carry out or supervise exploratory data analysis. Experience with SQL and/or BI tools such as PowerBI and Tableau is preferable, and basic understanding of a data science language such as R or Python is a plus!
+• exposure to ML/AI and cloud technologies is desirable, but an ability to familiarise yourself with new technologies and tools is more important
+• strong time management skills with ability to prioritise workloads under pressure and meet deadlines
+• a self-starting attitude, be hands on, and know how to find answers and work with ambiguity
+• a values driven and practical approach
+a genuine passion for and connection to the data science and analytics community
+
+Why join us?
+• We know you won’t have one job for life. That’s why we’re building a group of companies across Australia and New Zealand where we can support you to take on new skills and challenges. We want to help you develop in your role or diversify your career pathways via alternate brands.
+• We want each person to tailor their working conditions whether that be remotely every now and then, or on a permanent basis - we know how to actually do ‘flexibility’ not just talk about it.
+• You will get to build your experience and fine tune your skills by working on projects right across Mantel Groups portfolio of clients regardless of where you are based.
+• We’re a fast growing progressive company that centres its focus on a people first culture - did we mention we have just ranked #1 in the 2021 Australia’s Best Workplaces list!
+• You will help establish our destination hubs in New Zealand and influence and foster the development of its culture.
+• We hire smart people and get out of their way. By focusing on our five principles and not getting caught up in red tape, we trust you to get the job done.
+• Naturally, you’ll get all the tools you need - a new iPhone or Google phone, a new laptop, and a lot of branded swag!
+
+Who are we?
+
+Glad you asked! We are Eliiza - We Dig Data.
+
+We are a passionate team of data scientists and engineers who apply data science and machine learning to solve real-world problems. Our mission is to create a bright future for businesses and society in a world increasingly influenced by intelligent technologies.
+
+More about us:
+
+Mantel Group is an Australian-owned, 'house of brands' company with technology businesses; DigIO, Eliiza, Kasna, CMD Solutions, Pretzel Lab, Azenix, Cuusoo, Itty Bitty Apps & Aginic. We may be only 5 years old but we have already have ranked #1 in the 2021 & 2022 Australia’s Best Workplaces list!
+
+We've built a hybrid approach to remote working where you can spend time in any (or all!) of our awesome hubs providing a space for collaboration across Melbourne, Sydney, Brisbane Perth, Magnetic island & Auckland meaning you can choose a work model that works best for you!
+
+We don't have a head office, instead have opted for a distributed and diverse leadership team that extends across Australia and New Zealand. We’re building both support and leadership roles in New Zealand which creates the opportunity for our people to grow, learn and accelerate career development through executing the Mantel Group NZ Strategy.
+
+#LI-DNI"
+Full-time,NA,NA,Advisory Manager – AI & Data,2023-01-08 16:53:10.495137 MDT,https://www.google.com/search?q=Machine+Learning+Jobs+New+Zealand&ibp=htl;jobs&sa=X&ved=2ahUKEwjkyLbKlbn8AhVeIjQIHS5eCEEQutcGKAF6BAgTEAY#htivrt=jobs&htidocid=7R-85KkqvykAAAAAAAAAAA%3D%3D&fpstate=tldetail,Deloitte,"Auckland, New Zealand","What will your typical day look like:
+As a Manager within our Artificial Intelligence & Data team you will work with a team of great consultants, coached by Directors and Partners, working on some of our client’s and country’s most complex challenges.
+
+You will be working with client executives and key stakeholders across a wide range of exciting organisations to understand their challenges and enable their strategic direction through becoming insight driven. Working collaboratively is a core value practiced every day.
+
+You will be responsible for on the day-to-day leadership of interesting engagements and providing our clients with the insights and solutions they need to unlock greater value from their data assets and investments in technology to improve performance. You will help clients develop value driven strategies to sustainably build, organise and apply their capabilities to high value organisational endeavours – helping achieve transformational change.
+
+As well as taking... responsibility for projects, project work streams and guiding more junior team members on the day to day delivery of outcomes for clients, you will also contribute by developing client relationships, creating, and sharing eminence, identifying opportunities, and selling additional client work.
+
+We are a fun, caring and inclusive team who value people’s aspirations and connection to our purpose – to make an impact that matters.
+
+Enough about us, let’s talk about you! Please apply if you are someone who ticks a number of the boxes below:
+
+• Strong experience demonstrating, managing, and delivering data & analytics strategy development, execution and insight operating model design and implementation projects. Candidates will ideally have significant experience working in a Consulting or advisory environment.
+• Excellent working knowledge of Data Management, Artificial Intelligence, Advanced Analytics, Cloud Platforms & Data Visualisation concepts and leading practices. Certifications will be beneficial.
+• The ability to connect business challenges to underlying people, process, data & technology capabilities.
+• Strong quantitative and analysis skills, able to uncover the heart of problems, identify root causes, offer clear solutions, and drive change.
+• Ability to communicate, present and contextualize complex ideas concisely and accurately while adjusting style and tone to suit your audience.
+• Ability to understand client issues and work with a cross-functional team to meet these projects head-on.
+• Experience and passion for developing and mentoring a diverse and inclusive team, you enjoy seeing newer practitioners grow and develop.
+
+The opportunity:
+
+• We are ideally looking for a leader, and practice-builder, and can promise opportunities to grow your career in an inclusive culture that develops, connects, innovates, and inspires.
+• The broad nature of our client base means you have the opportunity to gain exposure to a range of industries and sectors, and a broad spectrum of complex projects.
+• We are committed to learning and development, and Directors and Partners will support your development and provide coaching, guidance, and direction. We will offer you training and career development that keeps our consulting team at the top of its game.
+• The future is working flexibly and we’re happy to accommodate that however we can.
+• You will be rewarded with a competitive salary, transportation allowance, healthcare, bonus, and a range of Manager benefits that you would expect from one of the world's leading professional services brands.
+
+About the team:
+We are a rapidly growing team based in Auckland, Wellington, and Christchurch. We are currently looking for talented people to join our Auckland or Wellington office. Our people have widely varied backgrounds but are united by a passion for creating a lasting impact for our clients.
+At Deloitte, the success of our business is founded on recruiting the best people who share our values and relish the opportunity to embrace change, making a difference on every engagement.
+We are committed to fostering a diverse and inclusive culture, and we are investing in growing the representation of women, LGBTQ+, Māori and Pacific people in our team and senior roles.
+
+Next Steps
+Sound like the sort of role for you? Apply now.
+Please note: you must be based and legally entitled to work in New Zealand from the time of application to be considered.
+
+____________________________________________________________________________________________________________________
+Kia ora
+
+The Deloitte NZ offices will be closed between the following dates: 5pm 23rd December 2022 – 15th January 2023.
+
+During this time there will be no movement or communication on any advertised roles. We will reconnect with you when the business reopens after 16 January 2023, and hope to give you an application update after this time.
+
+In the meantime, have a safe and happy festive season.
+
+Ngā mihi
+Deloitte Recruitment Team
+____________________________________________________________________________________________________________________
+
+From 11 April 2022 it is no longer a condition of our COVID Response policy that our people, clients, contractors and visitors be vaccinated to attend our premises, Deloitte events or client premises (except where a client has a vaccine pass mandate in place). However, given the changing nature of the pandemic, we do reserve the right, following a Health & Safety Risk Assessment, to require that a role be performed by a person vaccinated against COVID-19 to minimise the health and safety risk to our people therefore ongoing collection of vaccination status will be important for managing future risks.
+
+Deloitte is an equal opportunity employer (EOE) and we are committed to providing a working environment that embraces and values diversity and inclusion. Knowing that people work best in different ways, we are happy to discuss alternative arrangements if the working pattern you are looking for is not specifically indicated. If you have any support or access requirements, we encourage you to advise us at the time of application to assist you through the recruitment process.
+
+We understand there have been cases of phishing emails purporting to be recruiters for Deloitte. Any communication from Deloitte New Zealand regarding an employment application will come from a “@deloitte.co.nz” or from our Applicant Tracking System “@hire.lever.co” email address or our video interview platform deloittenz.hirevue.com. If you have received a suspicious email and would like to verify validity of any communications that appear to be from Deloitte New Zealand, please contact us on NZinfo@deloitte.co.nz"
+Full-time,NA,NA,Senior Consultant - Data Governance,2023-01-08 16:53:11.089942 MDT,https://www.google.com/search?q=Machine+Learning+Jobs+New+Zealand&ibp=htl;jobs&sa=X&ved=2ahUKEwjkyLbKlbn8AhVeIjQIHS5eCEEQutcGKAF6BAgTEAY#htivrt=jobs&htidocid=na2kDKwnB8oAAAAAAAAAAA%3D%3D&fpstate=tldetail,eliiza,"Queenstown, New Zealand","It's official! Eliiza has ranked as No 1 Best Workplace in Australia for 2 years in a row! (as part of Mantel Groups house of brands - named Best Medium sized workplace 2021 & 2022!).
+
+Eliiza is jam packed full of passionate data lovers! Our team consists of Data Consultant, Machine Learning Engineers, Data Engineers & Data Scientists all working together to deliver smart data and analytics solutions for our clients.
+
+Our team members are located all around Australia and New Zealand and we dont mind where you are located (within Australia & New Zealand). We've built a hybrid approach to working where you can access any (or all!) of our awesome hubs providing a space for collaboration across Melbourne, Sydney, Brisbane, Perth, Magnetic island & Auckland (and more to come!) meaning you can choose a work model (and location!) that works best for you and your individual needs!
+
+We don't have a head office, instead have opted for a distributed and diverse leadership team that extends... across Australia and New Zealand.
+
+Our approach is simple; we hire smart people and get out of their way. We don’t do policies, performance reviews, hierarchies or bureaucracy! By focusing on our five principles and not getting caught up in red tape, we trust you to get the job done.
+
+So you’re ready for something new?
+
+The Data and Analytics practice is a brand new team at Eliiza. We will be setting out to help our clients solve a broader set of analytics problems, which will complement both our expertise in ML and AI in Eliiza and our broader Mantel Group solutions.
+
+The Data and Analytics proposition sits across four key areas: Data Strategy, Machine Learning and Data Science Strategy, Data Governance and Data Storytelling. You will be instrumental in supporting the successful delivery of projects, helping build our reputation as one of the most impactful consultancies in the Data and Analytics space.
+
+With our diverse range of clients and projects, no day will look the same - but here’s a little snapshot of how you could spend your day:
+• working to quickly gain understanding of our clients’ data environment and culture to assess their data management capabilities and establish where they are at in their data journey
+• using your strong data management and strategy background, provide recommendations and options in uplifting the clients’ data management capabilities
+• with ease you will interact with both business and technical teams to understand how well-designed data governance framework can add values
+• working with regulators and internal teams in analysing gaps, proposing solution options and establishing roadmap to close out any audit items
+• Assist the clients in selecting the right tools and vendors and delivering proof of concepts / values in support of business case and procurement process
+• Advise clients on the best approach to expand data management capabilities to include privacy & ethics, data security or master data management
+
+If you’re the right Senior Consultant - Data Governance for us, you will have:
+• hands on experience developing and maintaining a data governance framework along with articulating and demonstrating the benefits to both business and technical teams
+• strong understanding of key data management concepts such as data quality, master data, metadata management & lineage, data architecture, data modelling and privacy & security
+• developed understanding of these concepts above through hands-on experience (desirable)
+• good understanding of a modern data platform and its various components such as data lakes, data pipelines / ETL, data warehousing, business intelligence and data science
+• familiarity with one or more of these data management toolsets: metadata management and lineage, data quality or master data management.
+• hands on experience developing data strategy in a large organisation or as part of a transformation program (desirable)
+• consulting experience, either with external clients or internally within an organisation
+• an analytical mind, keen attention to detail and not afraid to ask “why?”
+• self-starter attitude, hands on approach, know how to find answers and can work with ambiguity
+
+Our team is made up of a range of people, with different experience across a huge range of data driven skill sets. We value a diversity of skill-sets, and don’t necessarily require that you’re skilled with all of the above. If you feel you don't fit all the experience/skills listed we still encourage you to apply or get in touch.
+
+What's on offer/ Why Eliiza?
+• We make sure you’re always one step ahead by investing your learning and development, every year. We build our own training where it doesn’t exist yet - it’s in our best interest to teach you things you don’t already know.
+• You and your family’s health are most important to us. We know everyone is walking their own path in life, so we offer Flexible Leave for those times in your life when you need extra support.
+• We want each person to tailor their working conditions whether that be remotely every now and then, or on a permanent basis - we know how to actually do ‘flexibility’ not just talk about it.
+• You’ll be joining a passionate and supportive team who’ll move mountains to help you achieve your objective.
+• To support your work-from-anywhere set up we offer an allowance of up to $1,000 to make sure you're well equipped to do so
+• You’ll get all the tools you need - including the latest phone & laptop along with mobile & data allowance and a lot of swag!
+
+But hold on, you mentioned a house of brands?
+
+We certainly did! Mantel Group is an Australian-owned, 'house of brands' company with technology businesses (Eliiza being one of them!) across Australia and New Zealand. We know you won’t have one job for life so we’re building a group of companies with open borders so we can support you to take on new skills and challenges without leaving an awesome team!
+
+Being part of Mantel Group means it’s not just the Eliiza team you’ll work with, learn from and see at social events - there’s another bunch of us across DigIO, Kasna, CMD Solutions, Pretzel lab, Azenix, Cuusoo, Itty Bitty Apps & Aginic!
+
+Sounds like a good match for you?
+
+Click “Apply” to share your details with our talent team, and we’ll be in touch.
+
+In the meantime, check out ‘how we hire’ to find out what’s in store if you’re successful and get to know us better by visiting our website and following Eliiza on LinkedIn"
+Full-time,NA,NA,AI Solutions Group Leader,2023-01-08 16:53:11.689601 MDT,https://www.google.com/search?q=Machine+Learning+Jobs+New+Zealand&ibp=htl;jobs&sa=X&ved=2ahUKEwjkyLbKlbn8AhVeIjQIHS5eCEEQutcGKAF6BAgTEAY#htivrt=jobs&htidocid=N7KJSna4YAAAAAAAAAAAAA%3D%3D&fpstate=tldetail,UL Solutions,New Zealand,"At UL, we know why we come to work.
+
+Thousands of us around the world wake up every day with a common purpose to make the world a safer, more secure and sustainable place. Science is in our DNA; we are endlessly curious and passionate about seeking and speaking the truth. We take delight in knowing that our work makes a meaningful contribution to society, and we are proud that our culture is centered on integrity, collaboration, inclusion and excellence. UL stands at the forefront of technological advancement, and we are continually challenged to find new ways to foster innovation and positive change. Satisfying? Yes. Exciting? Absolutely!
+
+As our global footprint and customer base continue to grow, we are looking to hire a Data and AI Solutions Group Lead who will be responsible for the supervision of our global Data Science / Machine Learning teams.
+
+What You’ll Learn & Achieve
+• Day to day supervision of a team of data scientists, data engineers and/or machine learning engineers
+•... Analyze project requirements. 
+• Coordinate with stakeholders 
+• Assist in the clear definition of technical requirements 
+• Create project plans. 
+• Create backlog and assign resources. 
+• Plan sprints and execute projects. 
+• Ensure product quality through peer review, quality gate check, and comprehensive testing
+• Ensure project deliverable timelines are met. 
+• Monitor and manage the performance of staff. 
+• Mentor, direct and train colleagues in data science best practices
+• Lead data mining and collection procedures 
+• Ensure data quality and integrity
+• Interpret and analyze complex data problems.
+• Actively participate in the conception, planning and prioritization of data projects.
+• Align data projects with organizational goals.
+• Manage, monitor, troubleshoot cloud infrastructure
+• Manage automated continuous integration pipelines for applications
+• Manage end-to-end delivery of projects
+• Formulate, suggest, and manage data-driven projects which are geared at furthering the business's interests.
+• Produce and disseminate non-technical reports that detail the successes and limitations of each project.
+• Suggest ways in which insights obtained might be used to inform business strategies.
+• Perform other duties as directed.
+
+What Makes You a Great Fit
+• Minimum of bachelor’s degree in Data Analytics, Data Science, Computer Science or any other related field of science, Masters preferred
+• Excellent problem-solving skills with an emphasis on product development.
+• Experience querying databases and using statistical computer languages
+• Extensive experience using statistical computer languages to manipulate data and draw insights from large data sets.
+• Experience with a variety of machine learning techniques and their real-world advantages/drawbacks.
+• Experience with machine learning evaluation metrics and best practice.
+• Strong Python coding skills and problem-solving, good analytical & communication skills.
+• Experience with machine learning engineering end-to-end delivery process
+• Competent in machine learning design principles and techniques.
+• Experience with data visualization tools and techniques
+• Experience in large-scale software development
+• Experience in data design, transformation, and management
+• Experience in solution design and delivery
+• Experience of business case analysis (problem identification, quantitative modeling and problem solving)
+• Demonstrable history of devising and overseeing data-centered projects.
+• Experience of leading a team in an Agile environment for applied research.
+• Clear understanding of Agile principles, processes, and practices.
+• Experience with software delivery best practices.
+• Demonstrated effective interpersonal, influencing, collaboration and listening skills
+• Ability to articulate an idea with strong communication and presentation skills
+• Excellent supervision and mentorship abilities
+• Strong organizational and leadership skills 
+• Capability to foster a healthy, stimulating work environment that frequently harnesses teamwork
+
+What You’ll Experience Working At UL
+• Mission For UL, corporate and social responsibility isn’t new. Making the world a safer, more secure and sustainable place has been our business model for the last 125+ years and is deeply engrained in everything we do.
+• People Ask any UL employee what they love most about working here, and you’ll almost always hear, “the people.” Going beyond what is possible is the standard at UL. We’re able to deliver the best because we employ the best.
+• Interesting work Every day is different for us here as we eagerly anticipate the next innovation that our customers’ create. We’re inspired to take on the challenge that will transform how people live, work and play. And as a global company, in many roles, you will get international experience working with colleagues around the world.
+• Grow & achieve We learn, work and grow together with targeted development, reward and recognition programs as well as our very own UL University that offers extensive training programs for employees at all stages, including a technical training track for applicable roles.
+• Total Rewards Competitive remuneration, annual bonus, flexible working arrangements, annual paid leave, plus a strong commitment to corporate responsibility and sustainability efforts. All employees receive 2 Volunteer Days off per year to spend participating in an array of volunteer activitie
+
+Learn More
+
+Working at UL is an exciting journey that twists and turns daily. We thrive in the twists and revel in the turns. This is our every day. This is our normal.
+
+Curious? To learn more about us and the work we do, visit UL.com"
+NA,2023-01-08,NA,Linguist - Māori,2023-01-08 16:53:12.267423 MDT,https://www.google.com/search?q=Machine+Learning+Jobs+New+Zealand&ibp=htl;jobs&sa=X&ved=2ahUKEwjkyLbKlbn8AhVeIjQIHS5eCEEQutcGKAF6BAgTEAY#htivrt=jobs&htidocid=Ve6ZkzpSab8AAAAAAAAAAA%3D%3D&fpstate=tldetail,TELUS International AI Data Solutions,New Zealand,"Task description:
+
+We are looking for Māori linguists to review and annotate a list of words candidate for lexicalisation following provided guidelines.
+
+Requirements:
+• Native speaker of Māori
+• Fluency in written and spoken English
+• Degree in Linguistics
+• Background on linguistics, computational linguistics, lexicography or linguistic annotation is preferred
+
+Estimated start date: December 2022
+
+Estimated workload: 10 hours
+
+Estimated project duration: 1 month
+
+If interested, kindly fill in the registration form and upload your CV.
+
+We will review your registration and get back to you with the selection results and further instructions.
+
+If you have any questions or concerns, please do not hesitate to let us know by contacting us at aisourcing@telusinternational.ai
+
+About TELUS International AI
+
+We help companies test and improve machine learning models via our global AI Community of 1 million+ annotators and linguists. Our proprietary AI training platform handles all data types... (text, images, audio, video and geo) across 500+ languages and dialects. Our AI Data Solutions vastly enhance AI systems across a range of applications from advanced smart products to better search results, to expanded speech recognition, to more human-like bot interactions and so much more. Learn more at http://www.telusinternational.com"
+Full-time,2023-01-08,NA,Data Scientist,2023-01-08 16:53:12.849916 MDT,https://www.google.com/search?q=Machine+Learning+Jobs+New+Zealand&ibp=htl;jobs&sa=X&ved=2ahUKEwjkyLbKlbn8AhVeIjQIHS5eCEEQutcGKAF6BAgTEAY#htivrt=jobs&htidocid=VDOrnrnWf5kAAAAAAAAAAA%3D%3D&fpstate=tldetail,Xico India Management Private Limited,New Zealand,"""Greetings from Xico India Management Private Limited""
+
+Congratulations,
+
+Your resume has been shortlisted for abroad jobs for Canada, Australia and New Zealand.
+
+Kindly submit your updated resume within 2-3 days as we cannot hold your profile for a long time, if you are interested.
+
+Designation : Data Scientist.
+
+Starting Salary Range: Minimum 12 Lac-45 Lac INR/annum as per your negotiation with the employer.
+
+Job Description:
+
+We require a minimum of Graduation or Diploma (Full Time).
+
+A minimum of one year experience in the relevant field.
+
+Candidates will be shortlisted as per their current skills, role & the available job.
+
+Manage special projects end to end.
+
+Develop and expand business with an existing set of clients.
+
+Identify valuable data sources and automate collection processes.
+
+Undertake preprocessing of structured and unstructured data.
+
+Analyze large amounts of information to discover trends and patterns.
+
+Build predictive models and machine-learning... algorithms.
+
+Combine models through ensemble modeling.
+
+Present information using data visualization techniques.
+
+Propose solutions and strategies to business challenges.
+
+Collaborate with engineering and product development teams.
+
+Benefits:
+
+- 5-Days Working in a Week.
+
+- Competitive Rates of Pay.
+
+- Career Growth & Development Opportunities.
+
+- Free Meals on Work.
+
+- Education Subsidiaries.
+
+- Discounted Air Tickets.
+
+- Transportation Allowance.
+
+- Free Medical, Dental and Hospitalization Insurance.
+
+- Retirement savings plan.
+
+- Attractive annual bonus plan.
+
+- Long term incentive plans.
+
+- Personal Time-Off.
+
+- Comprehensive benefits package.
+
+- Other benefits-free fooding, accommodation, vacational air tickets, cab facility, allowances, free education for children, pensions, sponsor your relatives, migrate with your family, no bond with employer.
+
+Thanks & Regards,
+Xico India Management Private Limited
+Contact Person: Priyanka Singh
+Contact Number: +91-96675 41244
+Corp. Off.
+
+: Plot No.2A, First Floor, Kh.No.
+
+294, Kehar Singh Estate, Near Saket Metro Station, Saidulajab, Lane No.2, New Delhi, Pincode: 110030, Delhi, India
+Phone: 011-4984 9440
+Email : priyanka@xicoimmigration.com
+Office Timings: 10:00a.
+
+m. to 05.00p.
+
+m. (Mon- Fri"
+Full-time,NA,NA,R/D Internship - Machine Learning /New Zealand/ - Urgent Hire,2023-01-08 16:53:13.422614 MDT,https://www.google.com/search?q=Machine+Learning+Jobs+New+Zealand&ibp=htl;jobs&sa=X&ved=2ahUKEwjkyLbKlbn8AhVeIjQIHS5eCEEQutcGKAF6BAgTEAY#htivrt=jobs&htidocid=Rz9UNdwhhL8AAAAAAAAAAA%3D%3D&fpstate=tldetail,Lanzatech,"Auckland, New Zealand","We are looking to hire a creative R&D Internship - Machine Learning (New Zealand) to join our vibrant team at LanzaTech in Auckland.
+Growing your career as a Internship R&D Internship - Machine Learning (New Zealand) is an amazing opportunity to develop competitive skills.
+If you are strong in communication, project management and have the right initiative for the job, then apply for the position of R&D Internship - Machine Learning (New Zealand) at LanzaTech today!
+
+Welcome to the Post Pollution Future with LanzaTech
+
+A post-pollution world is inevitable, and people will either be part of it, or the planet will go on without us. At LanzaTech, our technology platform is transforming waste carbon into everyday products, to meet the needs of this moment. Our science is state-of-the-art, but the idea is simple. We use nature to heal nature. We capture carbon emissions which are then fed into bioreactors where trillions of carbon-hungry microbes go to work. These tiny dynamos consume the... waste gases and produce valuable raw material commodities. Pure enough to be resold, repurposed, and recycled again — from sustainable jet fuel to beverage bottles, to yoga pants.
+
+Founded in New Zealand, we are a global women-led company with an international footprint and a diverse employee population. Diversity, Equity & Inclusion are a key part of our mission and core values which we show through our hiring, our leadership, our efforts to educate internally and willingness to learn.
+
+In addition, we have announced our plan to merge with AMCI Acquisition Corp. II and expect to become a publicly traded company on Nasdaq. Come join the team as we strive to make a Post Pollution Future!
+
+- Exciting collaborations with LanzaTech (LT) CarbonSmart TM Products:
+
+- 2022 – Coty, Inc. – LT recycled carbon ethanol to be used in majority of fragrance portfolio by 2023
+- 2021 – ZARA – cutting edge, high fashion black dresses made from LT recycled carbon
+- 2021 – lululemon – yoga pants & running shorts made from LT Recycled carbon
+- 2021 – L’Oréal – partnership to make packaging with LT recycled carbon
+- 2021 – Biofuels Digest #1 Hottest Company in Renewable Fuels, Chemicals & Biomaterials
+- 2020 – Biofuels Digest #3 Best Company to work for in the Advanced Bioeconomy
+- 2020 – Fast Company World Changing Company
+- 2020 – CNBC #43 on Top 50 Disrupter Companies list
+
+Interested in learning more? Visit us at and download/stream our latest CarbonSmart TM Podcast on Apple , Google , Spotify or wherever you receive your podcasts!
+
+This position is open to candidates authorized to work in New Zealand on a full-time basis for any employer. LanzaTech is an Equal Employment Opportunity employer. All qualified applicants will receive consideration for employment without regard to race, colour, religion, gender, sexual orientation, gender identity or expression, national origin, age, genetic information, disability, or veteran status.
+
+Job description
+
+We have two exciting summer internship opportunities for a machine learning engineer in the Artificial Intelligence (AI) group at LanzaTech. The AI group uses artificial intelligence and computational modelling to design and control LanzaTech’s carbon-recycling microbes and processes. The group also tackles other important projects at LanzaTech. Colleagues in the group include scientists and software/machine learning/data engineers. The group owns the full stack from research to deployment, and you will collaborate closely with all these roles to deliver solutions.
+
+Project 1 : Applying Artificial Intelligence (AI) and Machine Learning (ML) in monitoring and automation of gas fermentation.
+
+LanzaTech’s fermentation processes generate large volumes of data. To achieve higher productivity under optimal resource utilization, we explore AI and ML-driven solutions for a variety of use cases including real-time time series prediction models, and anomaly detection.
+
+Our time series data streams inherit many challenges including engineering and wrangling large volume of data flow, coping with potential feature and concept drifts, and making real-time model predictions. In this project, we aim to design, build, and deploy ML models that assist in improving fermentation performance. Additionally, we propose a data and model monitoring system to ensure consistently well-performing models.
+
+Project 2 : Developing software for supporting protein engineering machine learning models.
+
+LanzaTech’s biocatalysts are constructed by borrowing genetic material from diverse microbial organisms. To achieve this task, it is necessary to adapt these genes so they can perform optimally in the host organism under the specific environmental conditions faced during LanzaTech processes. While this adaptation is traditionally performed through laboratory experiments, it is possible to make use of machine learning methods to design the best protein sequence variants to utilize.
+
+This project proposes to take part in the building of a python library to assess the potential for a given dataset to be successful for computer-based enzyme engineering. A focus will be given on the estimation and the quantification of the uncertainty of different modelling strategies.
+
+Skills required:
+
+Technical : Python Programming, Machine Learning, Statistics, Time Series Analysis, Code Documentation, Deep Learning (preferred), Predictive Analytics (preferred).
+
+General : Effective Communication and Collaboration skills, Time Management, Problem-solving skills and Curiosity.
+
+Program dates:
+
+A total of 10 weeks full-time work over summer 2022-2023.
+
+Location:
+
+Remote working within New Zealand, occasional meetings in Auckland.
+Company Benefits:
+● Learning opportunities
+● Advancement opportunities
+● Advantageous package
+
+● Remote Work opportunity"
+Full-time,2023-01-08,NA,Data Engineer,2023-01-08 16:53:13.995716 MDT,https://www.google.com/search?q=Machine+Learning+Jobs+New+Zealand&ibp=htl;jobs&sa=X&ved=2ahUKEwjkyLbKlbn8AhVeIjQIHS5eCEEQutcGKAF6BAgTEAY#htivrt=jobs&htidocid=RNFba-_lpKYAAAAAAAAAAA%3D%3D&fpstate=tldetail,Eliiza,New Zealand,"We’re growing our data engineering capabilities and are looking for awesome data engineers to join our team across Australia and New Zealand. If you are looking for an opportunity to work within a supportive team and collaborate with other smart people who are genuinely doing things differently then you’ve come to the right place! We may only be just 5 years old but Mantel Group has already been recognised #1 Best Workplace in Australia in 2021 and 2022!
+
+With our diverse range of clients and projects, no day will look the same - but here’s a great snapshot of what you could be doing:
+
+- collaborating with some of the best Data Scientists and Engineers to deliver production-grade AI and Machine Learning systems as we deliver client projects from inception to production.
+
+- consulting with our clients and working with them to build modern data systems using the ‘best of’ technologies and principles.
+
+- advising clients on data strategy, architecture and technology.
+
+- applying best... software engineering practices in coding, monitoring and alerting, using CI/CD, TDD and cloud architectures.
+
+- working with a wide range of big data tools and environments: not limited to; Apache Kafka, Spark, Python, Scala, Hive, Airflow, AWS EMR & Glue, GCP Dataproc & Dataflow, BigQuery, Snowflake, Redshift.
+
+So you’re ready for something new?
+
+Our team is made up of a range of people, with different experience across a huge range of data driven skill sets. We value a diversity of skill-sets, and don’t necessarily require that you’re skilled with all of the below. If you feel you don't fit all the experience/skills listed we still encourage you to apply or get in touch.
+
+We’d love if you have experience with:
+
+- one (or more) core language(s), ideally Scala, Python or Java
+
+- one (or more) cloud platforms, AWS, GCP, Azure
+
+- ETL/ELT concepts and technologies e.g. Data partitioning, Hive, Spark
+
+- streaming data concepts and technologies, ideally Kafka (Kinesis, Beam or Pubsub will do)
+
+We’d be over the moon if you already have:
+
+- experience with distributed/columnar databases (e.g. Snowflake, Big query, Redshift).
+
+- experience with any of a variety of databases e.g. RDMS, NoSql, Columar, Distributed, Time series, Graph.
+
+- knowledge of job orchestration and scheduling. Any experience with Airflow, Luigi or Oozie.
+
+- experience with containers and container orchestration (Docker, Docker Compose or Kubernetes).
+
+Why join us?
+
+- We know you won’t have one job for life. That’s why we’re building a group of companies across Australia and New Zealand where we can support you to take on new skills and challenges. We want to help you develop in your role or diversify your career pathways via alternate brands.
+
+- We want each person to tailor their working conditions whether that be remotely every now and then, or on a permanent basis - we know how to actually do ‘flexibility’ not just talk about it.
+
+- You will get to build your experience and fine tune your skills by working on projects right across Mantel Groups portfolio of clients regardless of where you are based.
+
+- We’re a fast growing progressive company that centres its focus on a people first culture - did we mention we have just ranked #1 in the 2021 and 2022 Australia’s Best Workplaces list, two consecutive years in a row!
+
+- You will help establish our destination hubs in New Zealand and influence and foster the development of its culture.
+
+- We hire smart people and get out of their way. By focusing on our five principles and not getting caught up in red tape, we trust you to get the job done.
+
+- To support your work-from-anywhere set up we offer an allowance of up to $1,000 to make sure you're well equipped to do so
+
+- Naturally, you’ll get all the tools you need - a new iPhone or Google phone, a new laptop along with mobile and data allowance, and a lot of branded swag!
+
+Who are we?
+
+Glad you asked! We are Eliiza. We Dig Data.
+
+We are a passionate team of data scientists and engineers who apply data science and machine learning to solve real-world problems. Our mission is to create a bright future for businesses and society in a world increasingly influenced by intelligent technologies.
+
+More about us:
+
+Mantel Group is an Australian-owned, 'house of brands' company with technology businesses; DigIO, Eliiza, Kasna, CMD Solutions, Pretzel Lab, Azenix, Cuusoo Itty Bitty Apps and Aginic. Since our inception in 2017, we have grown to a team of over 700 people (aka Mantelorians!) across Australia & New Zealand and have just ranked #1 in the 2021 and 2022 Australia’s Best Workplaces list!
+
+We've built a hybrid approach to remote working where you can spend time in any (or all!) of our awesome hubs providing a space for collaboration across Melbourne, Sydney, Brisbane Perth, Magnetic island and Auckland (and many more to come!) meaning you can choose a work model that works best for you! We don't have a head office, instead have opted for a distributed and diverse leadership team that extends across Australia and New Zealand. We’re building both support and leadership roles in New Zealand which creates the opportunity for our people to grow, learn and accelerate career development through executing the Mantel Group NZ Strategy.
+
+#LI-DNI"
