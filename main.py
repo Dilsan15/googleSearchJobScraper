@@ -6,7 +6,7 @@ from jobScraper import jobScraper
 num_of_jobs_needed = 1000
 
 # If we run out of coutries_states to scrape, then the program will stop, regardless of the number_of_jobs.
-countries_or_states = ["India", "United States California", "United Kingdom London", "Canada Toronto",
+countries_or_states = ["United States California", "India", "United Kingdom London", "Canada Toronto",
                        "Australia Sydney", "New Zealand", "Singapore", "Malaysia", "Hong Kong", "South Africa",
                        "Ireland", "Germany", "France", "Spain", "Italy", "Norway", "Denmark", "Finland",
                        "Netherlands", "Belgium", "Austria", "Switzerland", "Poland",

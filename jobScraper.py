@@ -21,6 +21,20 @@ class jobScraper:
         self.time_out = time_out
         self.timezone = timezone
 
+
+
+        # Get the country/state/city from the list of countries, set the URL, Scrape, then save
+
+        for country_state in countries:
+            if self.num_links_needed > self.links_collected:
+                self.driver = self.rebootDriver(broswer_vis)
+                self.driver.get(f"https://www.google.com/search?q={topic}+Jobs+{country_state.replace(' ', '+')}")
+                self.saveToCsv(self.getJobData(), country_state.replace(' ', '_'))
+                self.driver.quit()
+
+    def rebootDriver(self, broswer_vis):
+        """Reboots the driver to clear cookies and cache"""
+
         sel_service = Service(self.driver_path)
         option = webdriver.ChromeOptions()
 
@@ -32,13 +46,7 @@ class jobScraper:
         if not broswer_vis:
             option.add_argument("--headless")
 
-        self.driver = webdriver.Chrome(service=sel_service, options=option)
-
-        # Get the country/state/city from the list of countries, set the URL, Scrape, then save
-
-        for country_state in countries:
-            self.driver.get(f"https://www.google.com/search?q={topic}+Jobs+{country_state.replace(' ', '+')}")
-            self.saveToCsv(self.getJobData(), country_state.replace(' ', '_'))
+        return webdriver.Chrome(service=sel_service, options=option)
 
     def getJobData(self):
         """Scrolls down, gets a job postings data, and then continues until it reaches the end"""
@@ -54,8 +62,7 @@ class jobScraper:
 
         li_count = 0
 
-        # Will become false if we reach the specified number of jobs needed
-        while self.links_collected < self.num_links_needed:
+        while True:
 
             # Finds multiple lists of jobs in the scrollable div
             li_focus = self.driver.find_elements(By.CLASS_NAME, "nJXhWc")
@@ -66,6 +73,7 @@ class jobScraper:
 
             # Clicks on the job postings in the li and stores the data
             for li in li_focus[li_count].find_elements(By.TAG_NAME, "li"):
+
                 post_data = {}
                 li.click()
                 time.sleep(self.time_out)
@@ -124,6 +132,7 @@ class jobScraper:
             # Tracks progress
             print(f"{self.links_collected} / {self.num_links_needed}")
 
+        print(all_job_data)
         return all_job_data
 
     def saveToCsv(self, data, country):
