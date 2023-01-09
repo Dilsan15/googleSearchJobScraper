@@ -32,6 +32,9 @@ class jobScraper:
                 self.saveToCsv(self.getJobData(), country_state.replace(' ', '_'))
                 self.driver.quit()
 
+            else:
+                break
+
     def rebootDriver(self, broswer_vis):
         """Reboots the driver to clear cookies and cache"""
 
@@ -62,7 +65,7 @@ class jobScraper:
 
         li_count = 0
 
-        while True:
+        while self.num_links_needed > self.links_collected:
 
             # Finds multiple lists of jobs in the scrollable div
             li_focus = self.driver.find_elements(By.CLASS_NAME, "nJXhWc")

@@ -3,7 +3,7 @@ import os
 from jobScraper import jobScraper
 
 # Number of jobs needed to be scraped.
-num_of_jobs_needed = 1000
+num_of_jobs_needed = 10
 
 # If we run out of coutries_states to scrape, then the program will stop, regardless of the number_of_jobs.
 countries_or_states = ["United States California", "India", "United Kingdom London", "Canada Toronto",
