@@ -5,6 +5,7 @@ from datetime import datetime, timedelta
 
 import pandas as pd
 from bs4 import BeautifulSoup
+from pytz import timezone
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
@@ -20,8 +21,6 @@ class jobScraper:
         self.driver_path = driver_path
         self.time_out = time_out
         self.timezone = timezone
-
-
 
         # Get the country/state/city from the list of countries, set the URL, Scrape, then save
 
@@ -93,8 +92,7 @@ class jobScraper:
                 post_data["Salary"] = "NA"
 
                 post_data["Job-Title"] = bSoup.find("h2").text
-                post_data["Date-Scraped"] = f"{datetime.now()} {self.timezone}"
-
+                post_data["Date-Scraped"] = f"{datetime.now(timezone(self.timezone)).strftime('%Y-%m-%d %H:%M:%S')}"
                 # Gets the job type, date posted, and salary
                 for element in jobDetail:
 
@@ -104,15 +102,18 @@ class jobScraper:
 
                     elif "ago" in element.text:
 
-                        if "hour" or "minute" in element.text:
-                            post_data["Date-Posted"] = datetime.now().strftime("%Y-%m-%d")
+                        if "day" in element.text:
+
+                            post_data["Date-Posted"] = (
+                                (datetime.now() - timedelta(days=(int(element.text[0:2].strip())))).astimezone(
+                                    timezone(self.timezone)).strftime("%Y-%m-%d"))
 
                         else:
-                            post_data["Date-Posted"] = (
-                                    datetime.now() - timedelta(days=int(element.text[0:1].strip()))).strftime(
+                            post_data["Date-Posted"] = datetime.now().astimezone(timezone(self.timezone)).strftime(
                                 "%Y-%m-%d")
+                            print(post_data["Date-Posted"])
 
-                    elif "a" in element.text:
+                    elif "a year" in element.text:
                         post_data["Salary"] = element.text
 
                 post_data["Url"] = self.driver.current_url
@@ -141,7 +142,7 @@ class jobScraper:
     def saveToCsv(self, data, country):
         """"Saves the data to a csv file and overwrites any previous data"""
 
-        df = pd.DataFrame(data)
-        df.to_csv(f'data/machineLearningJobData{country}.csv', mode='w', index=False)
+        df = pd.DataFrame(data, columns=["Job-Title", "Date-Posted", "Date-Scraped", "Url", "Company", "Job-Type", "Salary", "Location", "Description"])
+        df.to_csv(f'data/unprocessedData/machineLearningJobData{country}.csv', mode='w', index=False)
         print("Data Saved")
         print(df)
