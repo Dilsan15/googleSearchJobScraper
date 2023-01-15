@@ -26,10 +26,10 @@ driver_path = r"C:\Users\dilsh\Downloads\chromedriver_win32\chromedriver.exe"  #
 time_out = 0.5
 
 # Boolean which controls if the browser activities will be shown on screen on or not.
-browser_visible = True
+browser_visible = False
 
 # Scrape/Process? or only process
-type = "process"
+type = "scrapeprocess"
 
 
 if __name__ == "__main__" and type == "scrapeprocess":

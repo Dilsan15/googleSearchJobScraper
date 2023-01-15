@@ -22,21 +22,6 @@ class jobScraper:
         self.time_out = time_out
         self.timezone = timezone
 
-        # Get the country/state/city from the list of countries, set the URL, Scrape, then save
-
-        for country_state in countries:
-            if self.num_links_needed > self.links_collected:
-                self.driver = self.rebootDriver(broswer_vis)
-                self.driver.get(f"https://www.google.com/search?q={topic}+Jobs+{country_state.replace(' ', '+')}")
-                self.saveToCsv(self.getJobData(), country_state.replace(' ', '_'))
-                self.driver.quit()
-
-            else:
-                break
-
-    def rebootDriver(self, broswer_vis):
-        """Reboots the driver to clear cookies and cache"""
-
         sel_service = Service(self.driver_path)
         option = webdriver.ChromeOptions()
 
@@ -46,9 +31,23 @@ class jobScraper:
 
         # Use chrome incognito
         if not broswer_vis:
+            option.add_argument("--window-size=1920,1080")
             option.add_argument("--headless")
+            user_agent = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36'
+            option.add_argument(f'user-agent={user_agent}')
 
-        return webdriver.Chrome(service=sel_service, options=option)
+        # Get the country/state/city from the list of countries, set the URL, Scrape, then save
+
+        for country_state in countries:
+            if self.num_links_needed > self.links_collected:
+                self.driver = webdriver.Chrome(service=sel_service, options=option)
+                self.driver.get(f"https://www.google.com/search?q={topic}+Jobs+{country_state.replace(' ', '+')}")
+                self.saveToCsv(self.getJobData(), country_state.replace(' ', '_'))
+                self.driver.delete_cookie("CONSENT")
+                self.driver.close()
+
+            else:
+                break
 
     def getJobData(self):
         """Scrolls down, gets a job postings data, and then continues until it reaches the end"""
@@ -142,7 +141,9 @@ class jobScraper:
     def saveToCsv(self, data, country):
         """"Saves the data to a csv file and overwrites any previous data"""
 
-        df = pd.DataFrame(data, columns=["Job-Title", "Date-Posted", "Date-Scraped", "Url", "Company", "Job-Type", "Salary", "Location", "Description"])
+        df = pd.DataFrame(data,
+                          columns=["Job-Title", "Date-Posted", "Date-Scraped", "Url", "Company", "Job-Type", "Salary",
+                                   "Location", "Description"])
         df.to_csv(f'data/unprocessedData/machineLearningJobData{country}.csv', mode='w', index=False)
         print("Data Saved")
         print(df)
