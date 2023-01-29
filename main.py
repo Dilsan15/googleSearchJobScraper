@@ -29,7 +29,7 @@ time_out = 0.5
 browser_visible = False
 
 # Scrape/Process? or only process
-type = "scrapeprocess"
+type = "process"
 
 
 if __name__ == "__main__" and type == "scrapeprocess":
