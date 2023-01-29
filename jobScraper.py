@@ -7,6 +7,7 @@ import pandas as pd
 from bs4 import BeautifulSoup
 from pytz import timezone
 from selenium import webdriver
+from selenium.common import ElementNotInteractableException, ElementClickInterceptedException
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
 
@@ -76,7 +77,14 @@ class jobScraper:
             for li in li_focus[li_count].find_elements(By.TAG_NAME, "li"):
 
                 post_data = {}
-                li.click()
+                try:
+                    li.click()
+
+                except (ElementNotInteractableException, ElementClickInterceptedException):
+                    self.driver.execute_script(
+                        f'arguments[0].scrollTop = arguments[0].scrollTop + arguments[0].offsetHeight;', job_list
+                    )
+
                 time.sleep(self.time_out)
 
                 # Get HTML of only specific job posting
