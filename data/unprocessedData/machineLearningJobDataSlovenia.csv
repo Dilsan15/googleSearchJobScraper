@@ -1,0 +1,260 @@
+Job-Title,Date-Posted,Date-Scraped,Url,Company,Job-Type,Salary,Location,Description
+Senior Machine Learning Engineer (f/m/d),2023-01-27,2023-01-30 12:36:26,https://www.google.com/search?q=Machine+Learning+Jobs+Slovenia&ibp=htl;jobs&sa=X&ved=2ahUKEwisvIGlhfD8AhXRADQIHX4kAWYQutcGKAF6BAgXEAU#htivrt=jobs&htidocid=MsP8ei99K1wAAAAAAAAAAA%3D%3D&fpstate=tldetail,LeanIX,Full-time,NA,"Ljubljana, Slovenia","POSITION
+
+We are looking for a Senior Machine Learning Engineer who will work in one of our engineering teams that implements Machine Learning features into our product. You will become a mentor not only for the new hires but also for the existing team members. You will lead and improve machine learning practices and processes within the team and potentially also across LeanIX. Your focus will also be in building and maintaining Microservices around ML solutions, as well as in training machine learning models and bringing them into production. This will include the design of the underlying data structures, continuous deployment and monitoring of the services. As member of a team developing smart product features, you will have the chance to directly contribute to one of the most exciting parts of the future of our product.
+
+WHY SHOULD YOU CARE? Well, there are multiple reasons:
+• We have invested a lot in a working environment that allows everyone to thrive. We believe in open access... to leadership, transparent communication, personal development and that our world-class team deserves the best software stack money can buy.
+• We're solving hard engineering challenges at a very large scale that are roughly comparable to building a search engine and require a lot of creativity and very strong engineering knowledge.
+• We have a culture of empowered engineering teams, which means you're not just executing a roadmap that someone hands to you but you actually get problems to solve where you can apply your creativity, find a solution, talk to the customers and own it. And from that, we value and reward outcomes not just output.
+• We try to learn and apply the best possible practices to the product, engineering, and people management. For that we're connected with some of the best engineering leaders in the world that built Atlassian, BigCommerce, MuleSoft, eBay, Symantec, ModuleQ and working tightly with the Silicon Valley Product group led by Marty Cagan.
+• We prioritize continuous improvement and sharing knowledge. Weekly training sessions, educational budgets, mentoring, hackathons, book clubs, meetups, you name it. We are constantly updating our tooling to stay at the cutting edge.
+• We value work-life balance, support working remotely or on-site and we believe a well-rested and well-rounded person with interests outside of their job is the best engineer. We offer flexible working hours, so you can adapt your job to your life.
+
+WHAT IS WAITING FOR YOU?
+• Contribute to and improve the team machine learning practices
+• Build ML models and pipelines that make our products even smarter
+• Implement, deploy scalable & secure Python microservices into our SaaS product landscape
+• Design and implement robust REST APIs
+• Monitor the microservices in production
+
+WHAT IS OUR STACK?
+• Python, Azure ML
+• FastAPI
+• Pandas, Scikit-Learn, PyTorch
+• Pytest, flake8, mypy
+• Postgres, MySQL
+• Github Actions, Docker, Kubernetes
+• Monitoring & Alerting, e.g. Instana
+
+WHO ARE WE LOOKING FOR?
+
+We are looking for someone who likes to:
+• Solve problems with a focus on delivering customer value
+• Continuously learn, is on top of the latest developments in the field
+• Be proactive and curious, apply new technologies to our problems
+
+Additionally :
+• 3+ years working experience the field of Machine Learning Engineering / MLOps
+• Fluent in Python and the related ecosystem (PyCharm, Jupyter, mypy, flake8, …)
+• Experience with Python webservice frameworks, ideally FastAPI
+• Knowledge of CI/CD and automated testing with Python
+• Proficiency in machine learning techniques and experience in model deployment
+• Write clean and maintainable code
+• Proficiency working with cloud environments, ideally Azure is a plus
+• Experience with Go programming language is a plus
+• Strong spoken and written communication skills in English
+
+LeanIX, The Continuous Transformation Platform® that efficiently organizes, plans and manages IT landscapes, supporting 850+ customers with our 3 solutions Enterprise Architecture Management, SaaS Management Platform and Value Stream Management.
+
+LeanIX is not just a product, in fact it‘s a great place to work. Colleagues (450+) from dozens of countries jointly make our vision reality. We believe in transparent communication, personal development, diverse workforce, innovation by creating ideas that prove useful and that our world-class team deserves the best software stack money can buy.
+
+At LeanIX we have a Connected Remote Work Mode which means you work remotely from your home office and from one of our offices. LeanIX teams and team members decide together on the work mode which suits them best. Next to that we have great benefits for you, CHECK OUT HERE WHAT´S IN FOR YOU!
+
+LeanIX is committed to being an equal opportunity employer. Diversity is vital to driving the growth and success of our company. If you need an equitable interview process alternative, please let our team know at people@leanix.net. You will be treated with the utmost respect and confidentiality.
+
+All applicants will receive consideration for employment based on experience, qualifications, and competencies. LeanIX will not discriminate based on race, color, religion, belief, political affiliation, union membership, age, sex, pregnancy, sexual orientation, gender identity, national or ethnic origin, genetic information, creed, citizenship, disability, protected veteran or marital status, or any other status protected by applicable laws or regulations"
+Sr. Applied Data Scientist - Edge Devices,NA,2023-01-30 12:36:26,https://www.google.com/search?q=Machine+Learning+Jobs+Slovenia&ibp=htl;jobs&sa=X&ved=2ahUKEwisvIGlhfD8AhXRADQIHX4kAWYQutcGKAF6BAgXEAU#htivrt=jobs&htidocid=oCJHAnj2yooAAAAAAAAAAA%3D%3D&fpstate=tldetail,Plume Design,Full-time,NA,"Ljubljana, Slovenia (+1 other)","Plume's Data Services team is looking for Machine Learning Engineers with a desire to innovate in building ML models on the edge. You will work cross-functionally with product, data science, software, and firmware development teams to tackle challenges around building and deploying ML algorithms. Due to the unique datasets and requirements that Plume has, you will be solving challenging problems on a daily basis using cutting edge technologies and advanced architectural patterns involving both distributed systems and edge devices. This is a high impact role with immense growth opportunities and will truly put your software and machine learning engineering skills to the test.
+
+What You’ll Do
+• Lead the development of machine learning algorithms on health/fitness data
+• Improve existing machine learning pipeline scalability, usability, and performance
+• Work closely with cross-functional teams to tackle challenges around time series data coming from sensors and edge devices
+• Connect... the gap between R&D and production and collaborate with our product managers, data scientists, and firmware engineers to ensure the delivery of high quality and robust solutions for our users
+
+What You’ll Bring
+• BS/MS/PhD in Computer Science, Electrical Engineering, or related technical field
+• 3+ years of industry experience in developing ML systems
+• Strong programming skills in Python
+• Proficiency manipulating big data with Apache Spark (PySpark)
+• Experience with leading machine learning product development on time-series data (sensor, IOT devices, health/fitness tracking, audio, etc.)
+• Strong knowledge in software architecture design, debugging, source control management, testing, performance, scaling, and operations.
+• Experience and demonstrated capability to handle challenges with vague or abstract problem definition
+
+Bonus If You Have
+• Knowledge in edge devices with limited computing power and memory size.
+• Experience building and deploying machine learning models that run efficiently on edge devices
+• Signal processing
+
+Please send your application in English language.
+
+#LI Remote
+
+Plume Design focuses on Internet Service Providers and Cloud Data Services. Their company has offices in Palo Alto. They have a mid-size team that's between 51-200 employees. To date, Plume Design has raised $37.5M of funding; their latest round was closed on June 2017.
+
+You can view their website at https://platform.plume.com or find them on Twitter, Facebook, and LinkedIn"
+APPLY NOW! : Personalized Web Analyst  Slovenian  Speakers,2023-01-26,2023-01-30 12:36:27,https://www.google.com/search?q=Machine+Learning+Jobs+Slovenia&ibp=htl;jobs&sa=X&ved=2ahUKEwisvIGlhfD8AhXRADQIHX4kAWYQutcGKAF6BAgXEAU#htivrt=jobs&htidocid=luzeAQkFTlAAAAAAAAAAAA%3D%3D&fpstate=tldetail,TELUS International AI Data Solutions,Part-time,NA,Slovenia,"TELUS International AI-Data Solutions partners with a diverse and vibrant community to help our customers enhance their AI and machine learning models. The work of our AI Community contributes to improving technology and the digital experiences of many people around the world. Our AI Community works in our proprietary AI training platform handling all data types (text, images, audio, video and geo) across 500+ languages and dialects. We offer flexible work-from-home opportunities for people with passion for languages. The jobs are part-time, and there is no fixed schedule. Whoever you are, wherever you come from, come join our global AI community. www.telusinternational.com
+
+We are hiring Personalized Internet Assessor in Slovenia (Slovenian Language)
+
+In this role you will be reviewing online search results in order to improve their content and quality. You will be required to provide feedback and analysis on content found in search engine results and provide ratings on their... relevance to the search terms used. Another aspect of this role will involve reviewing the language used in the search results by examining grammar, tone and cultural relevance.
+
+Through this work you will be making a valuable contribution by expressing your opinion on the quality and content of what is currently out there on the web. You will play a part in improving the quality of one of the largest search engines in the world using both your PC and Smartphone.
+
+Who is suitable for this role?
+
+We are currently seeking dynamic and creative people who have a strong interest in social media, specifically those who are an active daily user of their Gmail account. We also require suitable candidates to own & use a smartphone – Android or iPhone – and have a familiarity with other forms of social media and Google products. You should also be flexible, reliable and have the ability to interpret and follow established guidelines.
+
+You will have the flexibility and freedom to work from your own home, working your own hours. We are currently seeking people who have a specific smartphone device (Android V4.2 or higher or iPhone running iOS version 13.0 or higher) to complete tasks.
+
+What are the main requirements for the role?
+• You must have full professional proficiency in both written and verbal English & Slovenian
+• You must be living in Slovenia for the last 5 consecutive years
+• You must own and use a Smartphone (Android V4.2 or higher or iPhone running iOS version 13.0 or higher) to complete tasks
+• The majority of the task types will require both a desktop/laptop and a smartphone
+• Gmail must be your primary email
+• Active daily user of Gmail and other forms of social media
+• You must have familiarity with current and historical business, media, sport, news, social media and cultural affairs in Slovenia
+• Access to and use of a broadband internet connection and associated computer and software to perform the work, all provided at your own expense
+• Experience in use of web browsers to navigate and interact with a variety of content
+
+Working on this project will require you to go through a standard recruitment process (including passing an open book assessment). This is a long-term project and your work will occasionally be subject to quality assurance checks.
+
+Why Join the TELUS International AI Community?
+• Earn extra income
+• Access to our community wellbeing initiative
+• Remote work & Location Independence
+• Be your own boss
+• Flexible Hours to fit in with your lifestyle
+• Be a part of an online community
+
+What’s next?
+
+If this sounds like a role you’d be interested in taking on, please apply below.
+
+https://www.telusinternational.ai/cmp/contributor/jobs/available/105
+
+Important notice: TELUS International will never request a monetary deposit for any role or project with the company, and our recruitment and sourcing teams only use @telusinternational.com or @telusinternational.ai addresses when emailing candidates.
+
+If you are unsure as to whether a job offer is legitimate, please contact us at TI_AICommunitySupport@telusinternational.com for confirmation"
+Junior Data Scientist,2023-01-24,2023-01-30 12:36:27,https://www.google.com/search?q=Machine+Learning+Jobs+Slovenia&ibp=htl;jobs&sa=X&ved=2ahUKEwisvIGlhfD8AhXRADQIHX4kAWYQutcGKAF6BAgXEAU#htivrt=jobs&htidocid=OxYQrbf2rB4AAAAAAAAAAA%3D%3D&fpstate=tldetail,Evolven Software,Full-time,NA,Slovenia,"We are looking for a Junior Data Scientist with experience in Data Science, strong analytical skills, and a passion to take part in R&D. You will use Machine Learning to develop insightful and predictive solutions for our core products. You will gain experience working with large amounts of highly structured data, applied ML, and Anomaly Detection. You will be developing data-driven solutions to create algorithms while working closely with the engineering team to deliver ML models in production, as well as embedding the results into the product.
+
+Responsibilities:
+• Work with Product Managers, Engineers, and Customer Success to dive deep into data and user experience
+• Construct metrics and ML models to identify growth opportunities
+• Handle data annotation and data analysis efforts required to build ML models, help with the development of the annotation guidelines
+• Participate in integrating of ML models in the product
+• Participate in designing and integrating UX for working with... ML results
+• Qualifications:
+• Bachelor/master’s degree graduate/student pursuing degrees in data science, statistics, applied math, computer science, engineering or other quantitative fields providing sufficient data science foundations
+• Experience with data science modeling
+• Experience with writing code (Python preferred, Java is plus), collaboration (Git), developing ML models, and performing predictive analytics testing and evaluation (confusion matrix, confidence intervals, experimental design, etc.).
+• A hunger to learn and work on challenging problems"
+HIRING: Slovenian Data Analyst,2023-01-05,2023-01-30 12:36:28,https://www.google.com/search?q=Machine+Learning+Jobs+Slovenia&ibp=htl;jobs&sa=X&ved=2ahUKEwisvIGlhfD8AhXRADQIHX4kAWYQutcGKAF6BAgXEAU#htivrt=jobs&htidocid=t-Lc2DZTazAAAAAAAAAAAA%3D%3D&fpstate=tldetail,TELUS International AI Data Solutions,Part-time,NA,Slovenia,"TELUS International AI-Data Solutions partners with a diverse and vibrant community to help our customers enhance their AI and machine learning models. The work of our AI Community contributes to improving technology and the digital experiences of many people around the world. Our AI Community works in our proprietary AI training platform handling all data types (text, images, audio, video and geo) across 500+ languages and dialects. We offer flexible work-from-home opportunities for people with passion for languages. The jobs are part-time, and there is no fixed schedule. Whoever you are, wherever you come from, come join our global AI community. www.telusinternational.com
+
+We are hiring freelance English and Slovenian speaking Online Data Analyst for a project aimed at improving the content and quality of digital maps, which are used by millions of users globally. The job would suit someone who is detail-oriented, likes doing research and has a good knowledge of national and local... geography.
+
+This is a freelance position on a flexible schedule - you can work in your own time whenever work is available. You will be completing research and evaluation tasks in a web-based environment, eg verifying and comparing data, determining the relevance and accuracy of information. You will be provided with guidelines for each task, which need to be followed. The project offers a variety of tasks, and work is paid per task.
+
+Requirements
+• Full Professional Proficiency in English and Slovenian
+• You must be living in Slovenia for the last 2 consecutive years
+• Ability to follow guidelines and do research online using search engines, online maps and website information
+• You must have familiarity with current and historical business, media, sport, news, social media and cultural affairs in Slovenia
+• Being open to work across a diverse set of Task Types (e.g. News, Audio tasks, Relevance)
+• Applicants must be 18 years or over. ID verification must be attached when submitting your application.
+
+Working on this project will require you to go through a standard recruitment process (including passing an open book assessment).
+
+Why Join the TELUS International AI Community?
+• Earn extra income
+• Access to our community wellbeing initiative
+• Remote work & Location Independence
+• Be your own boss
+
+Apply here: https://www.telusinternational.ai/cmp/contributor/jobs/available/703"
+Sr. Applied Data Scientist - Edge Devices,NA,2023-01-30 12:36:28,https://www.google.com/search?q=Machine+Learning+Jobs+Slovenia&ibp=htl;jobs&sa=X&ved=2ahUKEwisvIGlhfD8AhXRADQIHX4kAWYQutcGKAF6BAgXEAU#htivrt=jobs&htidocid=fxdhQife6AgAAAAAAAAAAA%3D%3D&fpstate=tldetail,"Plume Design, Inc",Full-time,NA,"Ig, Slovenia","Life at Plume
+
+At Plume, we believe that technology isn't about moving faster, it's about making life's moments better. Which is why we've built the world's first, and only, open and hardware-independent service delivery platform for smart homes, small businesses, enterprises, and beyond. Our SaaS platform uses WiFi, advanced AI, and machine learning to create the future of connected spaces—and human experiences—at massive scale.
+
+We now deliver services to over 40 million locations globally and have managed over 2 billion devices on our platform. We're expanding rapidly, pioneering a new category, and we achieved our Series F funding in just four years. Our customers include many of the world's largest Communications Service Providers (CSPs) who look to Plume to help them evolve their smart home offerings while gleaning insights from their own data.
+
+With a bias for action and a love for being trailblazers, the team at Plume embodies a combination of relentless curiosity and... imaginative innovation. We challenge ourselves to think in ways that other companies don't, work to do what should be done (rather than what can), and if we can't do it exceptionally well, we don't do it. It's how we've assembled a team of world-class builders, thinkers, and doers. And it's how we're reinventing what's possible every day.
+
+Plume's Data Services team is looking for Machine Learning Engineers with a desire to innovate in building ML models on the edge. You will work cross-functionally with product, data science, software, and firmware development teams to tackle challenges around building and deploying ML algorithms. Due to the unique datasets and requirements that Plume has, you will be solving challenging problems on a daily basis using cutting edge technologies and advanced architectural patterns involving both distributed systems and edge devices. This is a high impact role with immense growth opportunities and will truly put your software and machine learning engineering skills to the test.
+
+What You'll Do
+• Lead the development of machine learning algorithms on health/fitness data
+• Improve existing machine learning pipeline scalability, usability, and performance
+• Work closely with cross-functional teams to tackle challenges around time series data coming from sensors and edge devices
+• Connect the gap between R&D and production and collaborate with our product managers, data scientists, and firmware engineers to ensure the delivery of high quality and robust solutions for our users
+
+What You'll Bring
+• BS/MS/PhD in Computer Science, Electrical Engineering, or related technical field
+• 3+ years of industry experience in developing ML systems
+• Strong programming skills in Python
+• Proficiency manipulating big data with Apache Spark (PySpark)
+• Experience with leading machine learning product development on time-series data (sensor, IOT devices, health/fitness tracking, audio, etc.)
+• Strong knowledge in software architecture design, debugging, source control management, testing, performance, scaling, and operations.
+• Experience and demonstrated capability to handle challenges with vague or abstract problem definition
+
+Bonus If You Have
+• Knowledge in edge devices with limited computing power and memory size.
+• Experience building and deploying machine learning models that run efficiently on edge devices
+• Signal processing
+
+Please send your application in English language.
+
+#LI Remote
+
+About Plume
+
+As the creator of the only open, hardware-independent, cloud-controlled experience platform for CSPs and their subscribers, Plume partners with over 250 CSP customers, including some of the world's largest such as Comcast, Charter, Liberty Global, and J:COM.
+
+Using OpenSync, the most widely supported open-source, silicon-to-cloud framework for smart spaces, Plume's software-defined network allows CSPs to decouple their service offerings from hardware and rapidly curate and deliver new services over a multi-vendor, open-platform architecture.
+
+Backed by investors such as Insight Partners and SoftBank Vision Fund 2, Plume is now valued at $2.6B, having added over $500M in funding in 2021 alone.
+
+Plume is an equal opportunity workplace that maintains a continuing policy of nondiscrimination in all employment practices and decisions, ensuring equal employment opportunities for all qualified individuals without regard to race, color, creed, religion, sex, national origin, age, physical or mental disability, sexual orientation, gender identity, marital status, pregnancy, childbirth or related individual conditions, medical conditions (as defined by state law), military or veteran status, or any other characteristic protected by federal, state or local law"
+Web Assistant,2023-01-12,2023-01-30 12:36:28,https://www.google.com/search?q=Machine+Learning+Jobs+Slovenia&ibp=htl;jobs&sa=X&ved=2ahUKEwisvIGlhfD8AhXRADQIHX4kAWYQutcGKAF6BAgXEAU#htivrt=jobs&htidocid=kS789PFCMOUAAAAAAAAAAA%3D%3D&fpstate=tldetail,TELUS International AI Data Solutions,Part-time,NA,"Celje, Slovenia","TELUS International AI-Data Solutions partners with a diverse and vibrant community to help our customers enhance their AI and machine learning models. The work of our AI Community contributes to improving technology and the digital experiences of many people around the world. Our AI Community works in our proprietary AI training platform handling all data types (text, images, audio, video and geo) across 500+ languages and dialects. We offer flexible work-from-home opportunities for people with passion for languages. The jobs are part-time, and there is no fixed schedule. Whoever you are, wherever you come from, come join our global AI community. www.telusinternational.com
+
+We are hiring Personalized Web Assistant in Slovenia (Slovenian Language)
+
+In this role you will be reviewing online search results in order to improve their content and quality. You will be required to provide feedback and analysis on content found in search engine results and provide ratings on their relevance... to the search terms used. Another aspect of this role will involve reviewing the language used in the search results by examining grammar, tone and cultural relevance.
+
+Through this work you will be making a valuable contribution by expressing your opinion on the quality and content of what is currently out there on the web. You will play a part in improving the quality of one of the largest search engines in the world using both your PC and Smartphone.
+
+Who is suitable for this role?
+
+We are currently seeking dynamic and creative people who have a strong interest in social media, specifically those who are an active daily user of their Gmail account. We also require suitable candidates to own & use a smartphone – Android or iPhone – and have a familiarity with other forms of social media and Google products. You should also be flexible, reliable and have the ability to interpret and follow established guidelines.
+
+You will have the flexibility and freedom to work from your own home, working your own hours. We are currently seeking people who have a specific smartphone device (Android V4.2 or higher or iPhone running iOS version 13.0 or higher) to complete tasks.
+
+What are the main requirements for the role?
+• You must have full professional proficiency in both written and verbal English & Slovenian
+• You must be living in Slovenia for the last 5 consecutive years
+• You must own and use a Smartphone (Android V4.2 or higher or iPhone running iOS version 13.0 or higher) to complete tasks
+• The majority of the task types will require both a desktop/laptop and a smartphone
+• Gmail must be your primary email
+• Active daily user of Gmail and other forms of social media
+• You must have familiarity with current and historical business, media, sport, news, social media and cultural affairs in Slovenia
+• Access to and use of a broadband internet connection and associated computer and software to perform the work, all provided at your own expense
+• Experience in use of web browsers to navigate and interact with a variety of content
+
+Working on this project will require you to go through a standard recruitment process (including passing an open book assessment). This is a long-term project and your work will occasionally be subject to quality assurance checks.
+
+Why Join the TELUS International AI Community?
+• Earn extra income
+• Access to our community wellbeing initiative
+• Remote work & Location Independence
+• Be your own boss
+• Flexible Hours to fit in with your lifestyle
+• Be a part of an online community
+
+What’s next?
+
+If this sounds like a role you’d be interested in taking on, please apply below.
+
+1. Create an account here: https://www.telusinternational.ai/cmp/contributor/jobs/available/105
+
+2. Click ""Sign Up"" and answer the necessary fields.
+
+3. Check your email inbox to confirm your email and set up your password and account.
+
+4. Select as your country and as your primary language. Please note that you must set up your country and primary language correctly in order to view this project.
+
+Once you complete the registration process, click the ""Apply"" button to start your application process for the project.
+
+Important notice: TELUS International will never request a monetary deposit for any role or project with the company, and our recruitment and sourcing teams only use @telusinternational.com or @telusinternational.ai addresses when emailing candidates.
+
+If you are unsure as to whether a job offer is legitimate, please contact us at TI_AICommunitySupport@telusinternational.com for confirmation"

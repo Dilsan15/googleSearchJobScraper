@@ -1,0 +1,285 @@
+Job-Title,Date-Posted,Date-Scraped,Url,Company,Job-Type,Salary,Location,Description
+Machine Learning Manager,NA,2023-01-30 12:15:12,https://www.google.com/search?q=Machine+Learning+Jobs+Chile&ibp=htl;jobs&sa=X&ved=2ahUKEwjnnLHFgPD8AhUJCTQIHVDXC7oQutcGKAF6BAgYEAU#htivrt=jobs&htidocid=_wJ5ja43RaAAAAAAAAAAAA%3D%3D&fpstate=tldetail,NotCo,Full-time,NA,"Santiago, Chile","¡Hola! Somos NotCo, una de las Startups latinoamericanas con mayor crecimiento del último tiempo, gracias a tres componentes mega importantes: ciencia, tecnología y por supuesto, talentos disruptivos. Trabajamos a diario para crear un futuro mejor. ¿Cómo lo hacemos? Creando productos hechos en base a plantas, deliciosos (brutalmente deliciosos), pero con menor impacto medioambiental y sacando al animal de la ecuación.
+
+En NotCo no somos ni buscamos ser la empresa perfecta, pero sí la correcta. Estamos aquí para producir cambios, y es por eso que nos atrevemos, fracasamos, y en ocasiones, logramos éxitos increíbles.
+
+Nos mueven las ganas constantes de mover la aguja, de cambiar las cosas con el propósito de cuidar y proteger nuestro planeta y lo que está por venir.
+
+Nuestro squad está en Chile, Brasil, Argentina, Colombia, México, USA y Canadá, trabajando incansablemente para conquistar paladares alrededor de todo el mundo, y seguir avanzando en esta revelación Plant-Based.
+
+As an ML... Engineering Manager in the NotCo AI group, you will work with a multifaceted team of ML & Software Engineers, UI/UX Designers, Experimental Chefs, and Food Scientists to revolutionize the way plant-based and sustainable foods are created. Your main responsibilities would be to lead a group of Machine Learning Engineers to deliver on the Giuseppe Platform - our internal Machine Learning system that assists in product formulation for novel plant-based foods. Our tech platform utilizes predictive & generative models, optimization algorithms, as well as in-house data warehousing infrastructure that allows us to relate nutritional, physicochemical & molecular data to find new discoveries for novel plant-based products.
+
+This position will be based in Santiago de Chile.
+
+Role & Responsibilities:
+• Lead the core Machine Learning group in Santiago which is responsible for researching, proposing, and implementing new models and algorithms into our ML Platform.
+• Work closely with Product Management and tangential groups, such as our Experimental Chef and Food Science groups to organize and execute on multidisciplinary projects.
+• Workshop new research ideas into actionable proposals and engineering roadmaps.
+• Strategize technology externalization strategy for the existing tech platform with the management team.
+• Mentor direct reports to develop long term career roadmaps. Direct hiring for new open positions within the group.
+• Foster a transparent and open culture of innovation and knowledge sharing.
+
+Requirements:
+• BS/MS in Computer Science or a related field with a focus on machine learning.
+• 5+ years of experience in an IC role with hands-on Machine Learning experience.
+• 3+ years of Engineering Management or Tech Lead experience preferred.
+• Familiarity with model packaging & deployment (Docker, Kubernetes, Google Cloud Platform)
+• Strong background in software engineering, unit & functional testing (Python, unittest, nose) and a focus on best practicesStrong understanding of optimizers (blackbox optimizer, gradient-based/gradient descent, Bayesian Optimization) packages.
+• Prior experience with implementing & training Deep Learning models (Pytorch, TensorFlow); prior experience with training models on cloud infrastructure on GPU/TPU preferred.
+• In-depth knowledge in one or several of the following areas preferred: Representational Learning, Generative Models, Transformers, bandit algorithms & convex optimizers
+
+Cambiar el mindset del mercado masivo no es una misión fácil, y para eso buscamos personas inspiradoras, innovadoras, con espíritu, y que realmente quieran hacer el cambio.
+
+¡Aquí todxs son bienvenidxs y pueden ser quienes son! Somos un grupo de gente muy poco común, bajo un objetivo y propósito que nos convoca e identifica.
+
+Súmate a esta deliciosa historia para seguir haciendo el cambio, ¡un delicioso bocado a la vez!
+
+WHY NOT"
+MLOps and Data Engineer - Chile,NA,2023-01-30 12:15:12,https://www.google.com/search?q=Machine+Learning+Jobs+Chile&ibp=htl;jobs&sa=X&ved=2ahUKEwjnnLHFgPD8AhUJCTQIHVDXC7oQutcGKAF6BAgYEAU#htivrt=jobs&htidocid=ipjgDW0FG0gAAAAAAAAAAA%3D%3D&fpstate=tldetail,Xe,Full-time,NA,"Santiago, Chile","PLEASE READ: If you are interested in applying to the role, we ask that you kindly complete the application in English and attach an English version of your resume. Thank you.
+
+At Xe, we live currencies. We provide a comprehensive range of currency services and products, including our Currency Converter, Market Analysis, Currency Data API and quick, easy, secure Money Transfers for individuals and businesses. We leverage technology to deliver these services through our website, mobile app and by phone. Last year, we helped over 300 million people access information about the currencies that matter to them and over 225,000 people used us to send money overseas.
+
+We are proud to be part of Euronet Worldwide (Nasdaq: EEFT), a global leader in processing secure electronic financial transactions. Under their Money Transfer division, Xe and Ria Money Transfer have been brought together to help establish the third largest money transfer business in the world.
+
+Our principles
+• AMBITION - We... dream big, try things out and always ask “why not?” and “what if?” We’re ambitious in our thinking and our delivery
+• RESPONSIBILITY - We get involved, bring our perspective and are always open to new ideas. We take personal responsibility
+• COMMUNITY - We value a sense of belonging, trusting each other and encouraging authenticity. We contribute to our community
+
+XE is looking for an experienced MLOps and data Engineer to join the XE Data Science team. As a MLOps and Data Engineer you’ll be responsible for designing, building, and maintaining the infrastructure and processes required to successfully deploy and manage machine learning models in a production environment. This includes tasks such as building and maintaining feature store, delivery pipelines, automating model training and evaluation, and monitoring model performance.
+
+The MLOps and Data Engineer will work closely with data scientists and software engineers to ensure that machine learning models can be seamlessly integrated into existing systems and processes. They will also be responsible for identifying and implementing best practices for managing and optimizing machine learning models in production.
+
+The ideal candidate for this role will have strong experience in both software engineering and machine learning, as well as a deep understanding of the challenges and best practices involved in deploying machine learning models in production. Having experience working with cloud computing platforms such as AWS or GCP is a plus.
+
+What You'll Do:
+• Build and maintain: real-time machine learning features using production level programming techniques
+• Design, Develop, and maintain: a central feature store
+• Automation: Automate the training, evaluation, and deployment of machine learning models
+• Monitor and optimize: the performance of machine learning models in production
+• Team Involvement: Work closely with data scientists and software engineers to ensure the successful integration of machine learning models into existing systems and processes
+• Identify and implement: best practices for managing and optimizing machine learning models in production
+
+What You Possess:
+• Relevant Degree: in Computer Science, Software Engineering, or related discipline
+• Knowledge on API Services: Strong knowledge of developing and maintaining API services in a cloud environment
+• Python Programming Skills: Strong OO and SO programming skills in Python to write effective, scalable codes.
+• Knowledge of modern containerization techniques: Docker, Docker Compose
+• Data Expert: Experience with relational and unstructured databases and data lakes
+• Business and Field-Related Acumen: An understanding of business goals and how data policies can affect them. A strong understanding of the concepts associated with privacy and data security
+• Team Collaboration: Effective communication and collaboration skills
+
+1. Annual salary increase review
+
+2. End of the year bonus (Christmas bonus)
+
+3. ESPP (Employee Stock Purchase Plan)
+
+4. Paid day off for birthday
+
+5. 15 day vacation per year
+
+6. Insurance guaranteed for employees ( Health, Oncological , Dental , Life Insurance)
+
+6. No fee when using RIA service/wire transfers"
+Data Scientist,2023-01-30,2023-01-30 12:15:13,https://www.google.com/search?q=Machine+Learning+Jobs+Chile&ibp=htl;jobs&sa=X&ved=2ahUKEwjnnLHFgPD8AhUJCTQIHVDXC7oQutcGKAF6BAgYEAU#htivrt=jobs&htidocid=Hf3G-Jhi4EYAAAAAAAAAAA%3D%3D&fpstate=tldetail,LaPieza,Full-time,NA,Chile,"North american company looks for a Data Scientist based in Chile, Costa Rica or Colombia
+
+About the Company
+
+Join the largest mobile marketplace for local buyers and sellers in the U.S., the company offers iOS and Android apps that make selling an item as easy as snapping a picture from your mobile device. We're reinventing local commerce by helping consumers uncover value through simplicity and trust.
+
+About the Role
+
+As a Senior Data Scientist, you will partner with all product areas, adding insights and intelligence to support Personalization, Trust & Safety, and Search & Discovery. As an engineering leader you will direct and influence technology and design decisions, and partner with our product leaders on building and delivering on the Data & Personalization roadmap.
+
+What you will do
+• Lead a team of Data/Applied Scientists in achieving state of the art applied machine learning solutions.
+• Own, oversee, and delegate the design, architecture, development, testing, deployment... and delivery of large-scale NLP, CV, and classical machine learning solutions capable of making real time and batch decisions.
+• Develop members on the team, helping them advance in their careers
+• Champion operational excellence, establishing metrics and process for regular assessment and improvement of models and solutions which are tightly aligned with rest of the engineering systems
+• Keep the team up to-date with latest applied research solutions in NLP and CV Establish standards of model updates, detecting model drift and performance and setting up benchmarks of excellence Operate strategically and tactically
+• Collaborate with Product and Engineering leaders to scope, identify, and refine data science requests
+
+To be successful in this position, you will need
+• 5+ years of building and shipping ML models and data solutions with quality
+• 3+ years of professional software development in languages such as Python, Java Experience and API development
+• Expertise in querying and retrieving data using SQL from large data systems Ph.D. or Master's Degree in Computer Science, Mathematics, Statistics or a related technical field OR Bachelor's degree and relevant work experience
+• Expertise in classical NLP methods (POS tagging, NER, n-grams, keyword extraction) as well as deep learning methods (semantic analysis, RNNs, LSTMs/GRUs, transformers)
+• Knowledge of large language models (BERT family) and their applications preferred
+• Working knowledge of deep learning methods applied to images highly preferred (CNNs, Transfer Learning)
+• Expertise in open source deep learning frameworks (Tensorflow/Keras)
+• Experience in creating microservices and deployment on cloud infrastructure (AWS, Azure, GCP)
+• Experience in using GPUs for model training desired, deeper knowledge preferred Actively coached and mentored team members in their careers
+• Advanced-Fluent English Skills
+
+What we offer
+• 100% remote position
+• Negociable salary
+• Law benefits
+
+This recruitment is 100% free of bias, every decision is made based on your experience and knowledge. You are the most important person for us and we will be side by side with you every step of the way. A little piece of advice: Every client of ours is looking for happy people"
+Data Scientist,NA,2023-01-30 12:15:13,https://www.google.com/search?q=Machine+Learning+Jobs+Chile&ibp=htl;jobs&sa=X&ved=2ahUKEwjnnLHFgPD8AhUJCTQIHVDXC7oQutcGKAF6BAgYEAU#htivrt=jobs&htidocid=qOeEy-LNfUcAAAAAAAAAAA%3D%3D&fpstate=tldetail,Especialistas de Reclutamiento,Full-time,NA,"Santiago, Chile","We are looking for a Data Science. Our website offers companies advanced tools for the management of selection processes and provides professionals with access to new employment opportunities, with more than 100 million visits per month and more than 1000 million page views.
+
+Your main responsibilities:
+
+• Extraction y selection of different features, building and optimizing classifiers using machine learning
+
+• Enhancing data pipelines
+
+• Processing, cleansing and verifying data integrity used for the analysis processes
+
+• Creating automated ml-systems and constant performance tracking
+
+You will bring:
+
+• University degree in Mathematics, Computer science, Physics or similar
+
+• Strong experience in machine learning (SVM, KNN, Naive Bayes, Random Forests...)
+
+• Experience with frameworks like MatplotLib, Scikit, Pandas, TensorFlow, Keras (Python Stack)
+
+• Proficiency in using query languages such as SQL
+
+• Knowledge of Natural Language Processing
+
+• Good applied statistics skills... such as distributions, statistical testing...
+
+• Proficiency in Python
+
+Desirable but not mandatory skills:
+
+• Knowledge on Big Data tools (Hadoop, Hive, NoSQL, Spark...)
+
+• Familiarity with Linux or other Unix-based operating systems.
+
+Soft Skills:
+
+• Team worker; ability to work with teams
+
+• Proactive, motivated and willing to consolidate and develop a professional career
+
+• Analytical, logical and critical thinking. Solid problem-solving skills: ability to identify problems and suggest mitigating and contingency actions
+
+• Expert ability to work independently and manage one's time
+
+• Ability to deal with ambiguous situations
+
+• Committed and positive.
+
+• Advisory skills"
+Machine Learning for Coarse Grained Molecular Dynamics Postdoc,2023-01-27,2023-01-30 12:15:13,https://www.google.com/search?q=Machine+Learning+Jobs+Chile&ibp=htl;jobs&sa=X&ved=2ahUKEwjnnLHFgPD8AhUJCTQIHVDXC7oQutcGKAF6BAgYEAU#htivrt=jobs&htidocid=tcyu_q4cxgkAAAAAAAAAAA%3D%3D&fpstate=tldetail,Los Alamos National Security LLC,Full-time,NA,Chile,"What You Will Do Come join the brightest minds at the most innovative R&D facility supporting our national security The Computer, Computational, and Statistical Sciences Division at Los Alamos National Laboratory (LANL) is seeking outstanding candidates for a postdoctoral research associate position in machine learning and coarse-grained molecular dynamics.
+The position is available immediately. As the postdoc, you will work in conjunction with a small team of Ph.
+D.
+
+staff scientists as part of a multi-disciplinary research project focused on build a new class of models for the computational representation of mesoscale systems using statistical physics and machine learning with neural networks.
+
+You should have a strong publication record, open mind to explore boundaries of scientific fields, and ability to effectively communicate with researchers with varied backgrounds.
+
+As the postdoctoral research associate, you would be expected to publish results of the work in high-impact... peer-reviewed journals and present at well-known conferences.
+The position is for two years, with a third year possible contingent on excellent performance.
+
+What You Need Minimum Job Requirements:
+
+Publications Strong track record of peer-reviewed publications within chemical physics, machine learning, statistical physics, computational science, or related disciplines.
+Communication Excellent presentation, oral and written communication skills Technical Experience Experience with computer programming Education/Experience :
+Ph.
+D. in physics, chemistry, computer science, physics, applied mathematics, or a related discipline completed within the last 5 years. Applications from candidates who will earn their degree by the time of appointment are accepted.
+
+Desired Qualifications:
+• Expertise in statistical physics and/or dynamical systems
+• Expertise in graph neural networks, particularly for point clouds or atomistic systems
+• Expertise in small-systems thermodynamics and/or theory of coarse-grained representations
+• Experience with molecular dynamics, in particular for chemical physics with coarse-graining
+• Strong experience with python programming and machine learning frameworks for neural networks
+• Demonstrated experience in interdisciplinary science, especially in the areas mentioned above
+Location: This position will be located in Los Alamos, NM
+
+COVID Vaccine: The COVID vaccine is mandatory for all Laboratory employees, on-site contractors, and on-site subcontractors unless granted an accommodation under applicable state or federal law. This requirement will apply to those working on-site, those teleworking, and all new hires.
+
+Note to Applicants: The application package consists of a CV and a cover letter. In addition to applying online, applicants may email their CV and cover letter to Nicholas Lubbers , 505-665-3916) and Galen Craven ). No applicant is expected to have all of the desired skills. Anyone who meets the education and minimum job requirements is encouraged to apply.
+Where You Will Work Located in beautiful northern New Mexico, Los Alamos National Laboratory (LANL) is a multidisciplinary research institution engaged in strategic science on behalf of national security.
+
+Our generous benefits package includes:
+§ PPO or High Deductible medical insurance with the same large nationwide network § Dental and vision insurance § Free basic life and disability insurance § Paid childbirth and parental leave § Award-winning 401(k) (6% matching plus 3.5% annually)§ Learning opportunities and tuition assistance § Flexible schedules and time off (paid sick, vacation, and holidays)§ Onsite gyms and wellness programs § Extensive relocation packages (outside a 50 mile radius)
+Additional Details Directive 206.2 - Employment with Triad requires a favorable decision by NNSA indicating employee is suitable under NNSA Supplemental Directive 206.2. Please note that this requirement applies only to citizens of the United States. Foreign nationals are subject to a similar requirement under DOE Order 142.3A.
+Position does not require a security clearance. Selected candidates will be subject to drug testing and other pre-employment background checks.
+
+New-Employment Drug Test: The Laboratory requires successful applicants to complete a new-employment drug test and maintains a substance abuse policy that includes random drug testing. Although New Mexico and other states have legalized the use of marijuana, use and possession of marijuana remain illegal under federal law. A positive drug test for marijuana will result in termination of employment, even if the use was pre-offer.
+
+Equal Opportunity: Los Alamos National Laboratory is an equal opportunity employer and supports a diverse and inclusive workforce. All employment practices are based on qualification and merit, without regard to race, color, national origin, ancestry, religion, age, sex, gender identity, sexual orientation or preference, marital status or spousal affiliation, physical or mental disability, medical conditions, pregnancy, status as a protected veteran, genetic information, or citizenship within the limits imposed by federal laws and regulations. The Laboratory is also committed to making our workplace accessible to individuals with disabilities and will provide reasonable accommodations, upon request, for individuals to participate in the application and hiring process. To request such an accommodation, please send an email to or call 1-505-665-4444 option 1.
+Employment StatusFull Time"
+Práctica Profesional Data Analyst & Documentation,2023-01-02,2023-01-30 12:15:14,https://www.google.com/search?q=Machine+Learning+Jobs+Chile&ibp=htl;jobs&sa=X&ved=2ahUKEwjnnLHFgPD8AhUJCTQIHVDXC7oQutcGKAF6BAgYEAU#htivrt=jobs&htidocid=_G1PFAw3O-0AAAAAAAAAAA%3D%3D&fpstate=tldetail,SimpliRoute,Full-time,US$65K–US$136K a year,Chile,"SimpliRoute🚀 está cambiando el mundo de la logística en Latinoamérica: Nuestra plataforma permite a cualquier empresa llevar su logística al siguiente nivel al poder conectar a sus clientes, sus repartidores y administradores en una plataforma de inteligencia que permite reducir sus costos logísticos en hasta un 30% al utilizar algoritmos de optimización avanzados y Machine Learning.Por lo anterior, en SimpliRoute🚀 apostamos fuertemente en las nuevas tecnologías, siempre con un mindset agile, pero por sobre todo a las personas. Creemos que el éxito de nuestra empresa está dado en el foco en las personas y colaboraciones que la componen.Revisa acá un artículo que habla más en detalle de nuestra visión y de cómo estamos escalando a toda Latinoamérica.¡Sé un Simplirouter! 🚀Buscamos un/a alumna/o en practica de la carrera de Ingeniería Civil Industrial/Mención informática, Ingeniería en Control de Gestión o Ingeniería Comercial, que brinde apoyo en el área de Operations... específicamente en el equipo de CS Corp.¿Cuáles serán tus responsabilidades?- Documentar clientes- Realización de diagramas de flujo - Análisis de data - Manejar Información en Notion ¿Qué deberías saber/tener? 😎- Habilidades tecnológicas- Manejo de Microsoft- Manejo de Excel - Manejo de recursos Google Te amaremos sí...- Nivel de Inglés Intermedio/avanzado - Experiencia en SQl"
+"Open Application: Puerto Montt, Chile",NA,2023-01-30 12:15:14,https://www.google.com/search?q=Machine+Learning+Jobs+Chile&ibp=htl;jobs&sa=X&ved=2ahUKEwjnnLHFgPD8AhUJCTQIHVDXC7oQutcGKAF6BAgYEAU#htivrt=jobs&htidocid=5d0oMv2LCScAAAAAAAAAAA%3D%3D&fpstate=tldetail,Aquabyte,Full-time,NA,"Puerto Varas, Chile","We're always looking for talented people, whether they're experienced in business, software, data analysis, biology, aquaculture, or something else entirely. If you think your skills or experience will help us on our quest of bringing machine learning to the aquaculture industry, we'd love to talk to you.
+
+We're happy to announce the completion of our Series B round of funding to continue our mission of transforming aquaculture to meet the world’s demand for sustainable protein!
+
+Watch a short documentary on Aquabyte with Amazon's CTO at a Norwegian fish farm here! https://youtu.be/YZ_qJ5JFD3I
+
+Our mission
+
+Aquabyte is on a mission to revolutionize the sustainability and efficiency of aquaculture. It is an audacious, and incredibly rewarding mission. By making fish farming cheaper and more viable than livestock production, we aim to mitigate one of the biggest causes of climate change and help prepare our planet for impending population growth. Aquaculture is the single fastest... growing food-production sector in the world, and now is the time to define how technology is used to harvest the sea for generations to come.
+
+We are a diverse, mission-driven team that is eager to work alongside kindred spirits. If this vision makes you smile, gives you goosebumps, or otherwise inspires you please get in touch.
+
+Our product
+
+We are currently focused on helping Norwegian salmon farmers better understand their fish populations and make environmentally-sound decisions. Through custom underwater cameras, computer vision, and machine learning we are able to quantify fish weights, detect sea lice infestations, and generate optimal feeding plans in real time. Our product operates at three levels: on-site hardware for image capture, cloud pipelines for data processing, and a user-facing web application. As a result, there are hundreds of moving pieces and no shortage of fascinating challenges across all levels of the stack.
+
+Above all, Aquabyte is a customer-driven company. Our product development is dictated by the needs of fish farmers and we prioritize customer delight in everything we do.
+
+Qualifications
+• Bachelor's degree equivalent in a relevant field.
+• Interest in or work experience from aquaculture.
+• Excellent problem solving and analytical skills.
+• Ability to work across timezones.
+
+Benefits
+• Competitive salaries and generous equity
+• Potential travel
+• Evolve in a fast-paced environment
+• Be able to shape a business in its early days
+• Get ideas, feedback, and suggestions from other best-in-their-field colleagues
+• Mentorship opportunities, we'll be dedicated to investing in you and supporting you as you grow
+
+Aquabyte is a private company headquartered in San Francisco, and is supported by NEA, Costanoa Ventures, and many others.
+
+At Aquabyte, we admire interesting people with unique backgrounds. We strongly encourage you to apply even if you don’t satisfy all the requirements. We will get back to you as soon as possible"
+"Machine Learning, Bioinformatics, and Uncertainty Quantification...",2023-01-27,2023-01-30 12:15:14,https://www.google.com/search?q=Machine+Learning+Jobs+Chile&ibp=htl;jobs&sa=X&ved=2ahUKEwjnnLHFgPD8AhUJCTQIHVDXC7oQutcGKAF6BAgYEAU#htivrt=jobs&htidocid=_s9cb2b9FKEAAAAAAAAAAA%3D%3D&fpstate=tldetail,Los Alamos National Security LLC,Full-time,NA,Chile,"What You Will Do The T-5 Applied Mathematics and Plasma Physics Group in Theoretical Division at Los Alamos National Laboratory (LANL) has an immediate opening for a creative, resourceful, and highly motivated post-doctoral research associate.
+
+The successful candidate will develop cutting-edge methods in machine learning and data science and apply them to biological systems, with an emphasis on inference and optimization of protein structure and binding.
+
+The fundamental research will involve development of efficient and robust data-driven methods for (1) identifying potential binding molecules for peptides from available libraries; and (2) inferring the most effective assay experiments to augment the dataset.
+
+This position is part of a larger research program that focuses on developing machine-learning methods for learning complex biological systems.
+
+The successful candidate will be expected to work in an interdisciplinary team environment and interact with scientists working in... data science, statistical physics, machine learning, optimal control, as well as theoretical and experimental biophysics in different organizations of the Laboratory (B-10: Biosecurity and Public Health; CCS-3: Information Sciences Group; A-1: Information Systems and Modeling).
+What You Need Minimum Job Requirements:
+• A PhD in Physics, Data Science, Machine Learning, Bioinformatics, Applied Mathematics, Applied Statistics, Computer Science, or related fields completed within the last four years
+• Hands-on experience in either modern machine-learning or bioinformatics
+• Proficiency in probabilistic reasoning and uncertainty quantification
+• Ability to conduct independent and collaborative research
+• Scientific/numerical programming experience in Julia, C++, Python, or MATLAB
+• Ability to meet the tight schedules, organize and prioritize tasks for effective achievements of project goals
+• Excellent interpersonal, oral, and written communication skills
+• Strong track record in data science, machine learning, or quantitative biology
+Desired Qualifications:
+• Proficiency in Python, in particular, TensorFlow or PyTorch
+• Ability to adapt to new requirements for projects and be flexible to learn new computational tools
+• Experience in applying data-driven methods on real biological datasets
+• Ability to meet the tight schedules, organize and prioritize tasks for effective achievements of project goals
+Location: This position will be located in Los Alamos, NM
+
+COVID Vaccine: The COVID vaccine is mandatory for all Laboratory employees, on-site contractors, and on-site subcontractors unless granted an accommodation under applicable state or federal law. This requirement will apply to those working on-site, those teleworking, and all new hires.
+
+Note to Applicants: Candidates may be also nominated for a Director's Fellowship and outstanding candidates may be considered for the prestigious Darleane Christian Hoffman, Richard P. Feynman, J. Robert Oppenheimer, or Frederick Reines Fellowships. For general information refer to the Postdoctoral Program page at
+Where You Will Work The Applied Mathematics & Plasma Physics (T-5) group maintains mathematical, theory, modeling, and simulation capabilities in a broad set of areas. Current activities in the group include nonlinear partial differential equations with many applications; application of recent discoveries in mathematics and physics to the analysis of large data sets; computational neuroscience; computational biology & biophysics, network analysis; plasma physics; software engineering; and algorithm development for scalable scientific computing on novel parallel architectures. The Advanced Network Science Initiative (ANSI) is a focal point for the Laboratory's optimization, machine learning, and control capabilities. ANSI is collaboration between the LANL Analytics, Intelligence and Technology (A), Computer, Computational and Statistical Sciences (CCS), and Theoretical (T) divisions, and the Center for Nonlinear Studies (CNLS), which facilitates interdisciplinary research on nonlinear and complex systems phenomena. Located in beautiful northern New Mexico, Los Alamos National Laboratory (LANL) is a multidisciplinary research institution engaged in strategic science on behalf of national security. LANL enhances national security by ensuring the safety and reliability of the U.S. nuclear stockpile, developing technologies to reduce threats from weapons of mass destruction, and solving problems related to energy, environment, infrastructure, health, and global security concerns.
+
+Our generous benefits package includes:
+§ PPO or High Deductible medical insurance with the same large nationwide network § Dental and vision insurance § Free basic life and disability insurance § Paid childbirth and parental leave § Award-winning 401(k) (6% matching plus 3.5% annually)§ Learning opportunities and tuition assistance § Flexible schedules and time off (paid sick, vacation, and holidays)§ Onsite gyms and wellness programs § Extensive relocation packages (outside a 50 mile radius)
+Additional Details Directive 206.2 - Employment with Triad requires a favorable decision by NNSA indicating employee is suitable under NNSA Supplemental Directive 206.2. Please note that this requirement applies only to citizens of the United States. Foreign nationals are subject to a similar requirement under DOE Order 142.3A.
+Position does not require a security clearance. Selected candidates will be subject to drug testing and other pre-employment background checks.
+
+New-Employment Drug Test: The Laboratory requires successful applicants to complete a new-employment drug test and maintains a substance abuse policy that includes random drug testing. Although New Mexico and other states have legalized the use of marijuana, use and possession of marijuana remain illegal under federal law. A positive drug test for marijuana will result in termination of employment, even if the use was pre-offer.
+
+Equal Opportunity: Los Alamos National Laboratory is an equal opportunity employer and supports a diverse and inclusive workforce. All employment practices are based on qualification and merit, without regard to race, color, national origin, ancestry, religion, age, sex, gender identity, sexual orientation or preference, marital status or spousal affiliation, physical or mental disability, medical conditions, pregnancy, status as a protected veteran, genetic information, or citizenship within the limits imposed by federal laws and regulations. The Laboratory is also committed to making our workplace accessible to individuals with disabilities and will provide reasonable accommodations, upon request, for individuals to participate in the application and hiring process. To request such an accommodation, please send an email to or call 1-505-665-4444 option 1.
+Employment StatusFull Time"

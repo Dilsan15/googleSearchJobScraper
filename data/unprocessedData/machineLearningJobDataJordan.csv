@@ -1,0 +1,486 @@
+Job-Title,Date-Posted,Date-Scraped,Url,Company,Job-Type,Salary,Location,Description
+Artificial Intelligence and Machine learning engineer,NA,2023-01-30 12:27:21,https://www.google.com/search?q=Machine+Learning+Jobs+Jordan&ibp=htl;jobs&sa=X&ved=2ahUKEwjisomhg_D8AhVZAzQIHU4-BmUQutcGKAF6BAgUEAU#htivrt=jobs&htidocid=r_aYzoIfLEoAAAAAAAAAAA%3D%3D&fpstate=tldetail,APCO Worldwide LLC,Full-time,NA,"Amman, Jordan","The Company
+
+Founded in 1984, APCO Worldwide is an award-winning, independently owned global communication and business strategy firm with more than 30 offices in major cities throughout North America, Europe, the Middle East, Africa and Asia – with a diverse global team of more than 800 experts.
+
+APCO combines a global perspective with local expertise to help clients around the world manage challenges, opportunities, perceptions and reputations. APCO clients include corporations and governments; industry associations and nonprofit organizations; and six of the top 10 companies on the Fortune 500. The firm is a majority women-owned business and has been named the “Best EMEA Network to Work For, 2017” and “Public Affairs Agency of the Year, 2017” by the Holmes Report.
+
+The Role:
+
+As a Data Scientist/ ML Engineer you will be responsible for supporting our clients on data-driven insights and working closely with colleagues across all regions to identify cases of data science. The... successful candidate will bring a good knowledge of analytics and AI and a great grasp of digital transformation.
+
+Key Responsibilities:
+• Work closely with colleagues from different departments to identify AI/ML use cases for data science that adds value to our business and our clients
+• Stay up to date on the latest innovation in AI/ML/NLP space
+• Support on the daily development of client deliverables and analysis of the client’s data that requires analytics and data science know-how
+• Support the development of new business proposals for the clients with special focus on the analytics and AI/ML workstreams
+• Supporting the digital team in several tasks such as data extraction, preparation, cleaning, analysis, visualizations, and reports generations
+• Converting complicated data science and analytics aspects into simple to understand concepts presented in a PowerPoint presentation form
+• Look for opportunities to use insights/datasets/code/models/libraries/etc across the clients
+• Conduct research from which you'll develop prototypes and proof of concepts using new AI/NLP libraries
+• Performing analysis on requirements to identify potential gaps and dependencies and determine feasibility and time/effort required for designing, implementing, and testing individual components
+• Following an internal software development process with best engineering practices
+• Documenting detailed technical requirements and detailed products documentation.
+• Writing good unit, integration, and end-to-end tests
+• Providing technical support to clients when requested
+• Monitoring and fixing issues that are reported by clients.
+
+Required Skills & Experience:
+• 2-3 years of experience in a similar role.
+• Knowledge of the basics of statistics and hypothesis testing.
+• Solid understanding of data science and AI/machine learning/NLP algorithms (e.g., linear regression, Doc2Vec, Transformers, etc.)
+• Good understanding of system architecture and ability to design systems with ML services.
+• Strong Python expertise (e.g., Jupyter Notebook, FastAPI, SciKit-Learn, Pandas, NumPy, and SciPy)
+• Statsmodels for time-series data analysis and forecasting
+• Solid experience in Exploratory Data Analysis (EDA) with Pandas, Plotly, or Seaborn
+• Solid experience in NLP libraries: SpaCy, HuggingFace, NLTK, BERT, etc.
+• Fine-tuning pre-trained models for specific use cases using PyTorch and HuggingFace.
+• Solid experience in MLOps for production: Deploy ML models, continuous/active learning (e.g., prodigy) & ML observability (e.g., GCP or other platforms)
+• Strong expertise and solid understanding in at least 3 of the following:
+• Knowledge of headless analytics (e.g., CubeJS or Tinybird)
+• Knowledge of React for front-end web applications development
+• Basic understanding of web development principles and architectures.
+• DevOps: Git & CI/CD, Containerization, & Deployment
+• SQL Databases (e.g., BigQuery, SQL Server)
+• NoSQL Databases (DynamoDB, Firebase, etc.)
+• Re-usable software architecture (i.e., follows a framework)
+• Data ETL & ML pipelines orchest.io or similar platforms.
+
+Education
+• A bachelor’s degree in Computer Science, Software Engineering, Computer Engineering, or other relevant disciplines (preferably with knowledge in Digital Communications) OR a portfolio of high-quality projects.
+
+Languages
+• Fluency in Arabic would be an advantage.
+
+APCO IN THE MIDDLE EAST
+
+Home to some of the fastest growing economies in the world, the Middle East and Africa region has a pivotal role to play in driving global conversations – from environmental policies to religion and pop culture. The UAE and Saudi Arabia are clear leaders in this equation, although the wave of innovation continues to transcend borders.
+
+APCO launched its regional operations in 2006 in Dubai. Growing from a team of less than 30 consultants, APCO today has over 200 people from 32 countries working in teams across Dubai, Abu Dhabi, Riyadh, Manama and Kuwait. Our projects also take us to Cairo, Amman, Muscat, Beirut and other markets in the Levant.
+
+With a portfolio of over 100 clients, APCO’s MEA offices deliver public relations and digital communication support across health, food, consumer & retail, finance, technology, real estate & hospitality, non-profit and public affairs practices. The region also offers specialized services, created for the Middle East, such as our Build-Operate-Transfer (BOT) model and our Compass and License to Operate offerings. In addition, APCO’s global AI Comms Lab, a first-of-its-kind innovation center which utilizes artificial intelligence to build and protect the reputations of major global brands, governments and organizations is driven from the Dubai office.
+
+From helping governments connect with the private sector and civil society, to supporting the Pope’s historic visit to the region and launching iconic brands and destinations, we understand the nuances of the Middle East and pride ourselves on making an impact"
+Unstructured Data Scientist (Computer Vision),NA,2023-01-30 12:27:21,https://www.google.com/search?q=Machine+Learning+Jobs+Jordan&ibp=htl;jobs&sa=X&ved=2ahUKEwjisomhg_D8AhVZAzQIHU4-BmUQutcGKAF6BAgUEAU#htivrt=jobs&htidocid=e1s8Sy7sKGIAAAAAAAAAAA%3D%3D&fpstate=tldetail,Beyond Limits,Full-time,NA,"Amman, Jordan","Position Overview
+
+Our machine learning team in EMEA is seeking a machine learning engineer with a solid background and focus on unstructured data applied science in Computer Vision (CV). The team needs someone who is a skilled software engineer and proficient in ML libraries, system design, and pipelines. In this role, you will be building state-of-the-art models for our products, using test-driven development, and working with the software engineering team to deploy and maintain the models in production.
+
+Job Duties and Responsibilities
+• Design, train and deliver machine learning solutions to a wide range of datasets: from small datasets to big data, both unlabeled and labeled.
+• Collaborate with the development team and ML engineers to implement, test, and validate new algorithms and integrate the algorithms with the existing front-end and back-end systems.
+• Build state-of-the-art models for various modeling tasks (e.g., speech recognition, optical character recognition... text-to-speech, facial recognition, time series forecasting, … etc.)
+• Optimize and automate model training and testing, experimentation tracking, development, and production.
+• Skilled in breaking down problems, documenting problem statements and estimating efforts.
+• Mentor junior engineers, perform code reviews and document design decisions.
+• Create web services/APIs for serving ML/AI model results.
+• Familiar with MLOps Tools (e.g., MLFlow, Kubeflow, … etc.).
+• Familiar with unsupervised, semi-supervised, and self-supervised techniques.
+
+Minimum Qualifications
+• 4+ years of experience with one modern language such as C++, Python including object-oriented design.
+• 4+ years of experience with machine learning tools and deep learning algorithms and techniques, including but not limited to:
+• PyTorch, TensorFlow, Keras, Kaldi
+• CNN, LSTM, RNN
+• Scikit-learn, pandas, NumPy
+• Optimization techniques and fine-tuning models
+• State-of-the-art Machine Learning algorithms and techniques (e.g., Transformers).
+• 2+ years of experience contributing to the architecture and design (architecture, design patterns, reliability, and scaling) of new and current systems.
+• Experience with MLOps and other production level implementation frameworks and pipelines
+• Experience with Docker, Kubernetes, and cloud platforms
+• Able to work independently on problems and in highly collaborative team environments.
+
+Preferred Qualifications
+• PhD or MS in Computer Science, Electrical Engineering, or similar field
+• Team management and mentoring junior members
+• Research experience with high impact publications
+• Application of ML in industrial projects
+
+Please note: This position is located in Amman, Jordan and is eligible to participate in the company's hybrid 3/2 work model.
+
+About Beyond Limits
+
+Beyond Limits is a pioneering Artificial Intelligence engineering company creating advanced software solutions that go beyond conventional AI. Founded in 2014 with a legacy in space exploration, Beyond Limits is transforming proven technologies from Caltech and NASA’s Jet Propulsion Laboratory into advanced AI solutions, hardened to industrial strength, and put to work for forward-looking companies on earth. We leverage this unparalleled innovation portfolio, along with proprietary cognitive technologies, to help companies solve tough, complex, mission-critical problems and transform their business. We apply a unique hybrid approach to AI, combining numeric AI techniques like machine learning with higher-order symbolic AI and expert human knowledge to deliver intuitive cognitive reasoning and information. Our cognitive computing technology mimics human thought processes and provides explainable reasoning to aid human-like decision-making.
+
+Beyond Limits provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, sex, national origin, age, disability or genetics. In addition to federal law requirements, Beyond Limits complies with applicable state and local laws governing nondiscrimination in employment in every location in which the company has facilities. This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation, and training.
+
+Beyond Limits expressly prohibits any form of workplace harassment based on race, color, religion, gender, sexual orientation, gender identity or expression, national origin, age, genetic information, disability, or veteran status. Improper interference with the ability of Beyond Limit’s employees to perform their job duties may result in discipline up to and including discharge"
+Principal Machine Learning Engineer,2023-01-25,2023-01-30 12:27:22,https://www.google.com/search?q=Machine+Learning+Jobs+Jordan&ibp=htl;jobs&sa=X&ved=2ahUKEwjisomhg_D8AhVZAzQIHU4-BmUQutcGKAF6BAgUEAU#htivrt=jobs&htidocid=daWnyvhRVEsAAAAAAAAAAA%3D%3D&fpstate=tldetail,Vytalize Health,Full-time,NA,"Amman, Jordan","About Our Company
+
+Vytalize Health is a leading value-based care platform for seniors that has raised over $70 million in financing from top healthcare investors. We partner with primary care practices and power them through bold financial incentives and smart technology. We combine a Medicare ACO, virtual and in-home doctors' office, and a digital health platform to equip our network of physicians with everything they need to be successful in caring for their patients and staying ahead in a rapidly changing healthcare system. Our private equity-backed company works with over 500 providers and manages more than $2 billion in annual medical spending.
+
+About our Growth
+
+Vytalize Health has grown its patient base over 100% year-over-year and is now partnered with over 1,000 providers across 36-states. Our all-in-one, vertically integrated solution for value-based care delivery is responsible for $2 billion in medical spending. We are expanding into new markets while increasing the... concentration of practices in existing ones.
+
+Visit www.vytalizehealth.com for more information.
+
+Why you will love working here
+
+We are an employee first, mission driven company that cares deeply about solving challenges in the healthcare space. We are open, collaborative and want to enhance how physicians interact with, and treat their patients. Our rapid growth means that we value working together as a team. You will be recognized and appreciated for your curiosity, tenacity and ability to challenge the status quo; approaching problems with an optimistic attitude. We are a diverse team of physicians, technologists, MBAs, nurses, and operators. You will be making a massive impact on people’s lives and ultimately feel like you are doing your best work here at Vytalize.
+
+What You Will Do
+
+As a Principal Machine Learning Engineer, you will have the opportunity to improve the health and wellness of hundreds of thousands of lives. You will bring your deep technical expertise and enthusiasm for open-ended problems to innovate on behalf of our patients. These innovations will have a direct impact on the patient's quality of care, satisfaction, and overall health and longevity, the providers ability to provide the best quality healthcare of their careers, and Vytalize Health to become the gold standard of what a technology enables healthcare company can be. We are in a very unique position in the industry to have both access to a wide variety of data sets and also incent activities that will provide a feedback loop on your models.
+
+Examples of potential work include: ensure individuals are being screened appropriately to identify major health issues early; identify gaps in care that, if addressed, have potential for major impact; learn and apply knowledge for most effective ways to change behavior of both physicians and patients for better health outcomes.
+
+If you are a highly motivated and experienced data scientist with a passion for healthcare or a deep interest in learning the healthcare domain, we would love to hear from you.
+
+Essential Responsibilities and Experience
+• Lead AI and data science activities to develop new and innovative approaches to improve the value of care received by Vytalize‘s Medicare patients.
+• Be the organizational thought leader in the application of machine learning, predictive models, statistical analyses, NLP and other data-driven solutions applied to healthcare improvement.
+• Match solution approaches to problem domain and iterate from simpler to more complex as needed.
+• Collaborate with cross-functional teams to understand business objectives and develop data-driven strategies to support them.
+• Help organizational leaders understand the risks and capabilities in application of AI to organizational priorities.
+• Stay current with the latest machine learning and data science techniques and technologies and apply them to improve the company's data-driven capabilities
+• Communicate complex technical concepts to non-technical stakeholders.
+• Collaborate with the data engineering staff to develop architectures and pipelines to accelerate the speed of development and to ensure reliable, scalable AI operations.
+
+Qualifications:
+• Ph.D. or Master's degree in a relevant field such as Computer Science, Statistics, Mathematics, or a related field
+• 10+ years of experience in applied machine learning, with a minimum of 5 years in a lead role
+• High levels of curiosity and eager enthusiasm for open-ended problem
+• Experience and interest in problem formulation based on relatively abstract information
+• Strong experience with machine learning, statistical modeling, and data visualization
+• Deep understanding of the basic classes of ML algorithms and their underlying assumption
+• 5+ years experience writing production-quality, scalable code using Python, R, or similar
+• Experience with healthcare data is a plus
+• Strong communication and leadership skills
+
+Perks/Benefits
+• Competitive base compensation
+• Annual bonus potential
+• Health benefits effective on start date; 100% coverage for base plan, up to 90% coverage on all other plans for individuals and families
+• Health & Wellness Program; up to $300 per quarter for your overall wellbeing
+• 401K plan effective on the first of the month after your start date; 100% of up to 4% of your annual salary
+• Company paid STD/LTD
+• 5 sick days and unlimited paid 'Vytale Time' after your first 90 days
+• Technology setup
+• Ability to help build a market leader in value-based healthcare at a rapidly growing
+
+We are interested in every qualified candidate who is eligible to work in the United States. However, we are not able to sponsor visas.
+
+Please note at no time during our screening, interview, or selection process do we ask for additional personal information (beyond your resume) or account/financial information. We will also never ask for you to purchase anything; nor will we every interview you via text message. Any communication received from a Vytalize Health recruiter during your screening, interviewing, or selection process will come from an email ending in @vytalizehealth.com"
+machine learning engineer jobs in Jordan 2023,NA,2023-01-30 12:27:22,https://www.google.com/search?q=Machine+Learning+Jobs+Jordan&ibp=htl;jobs&sa=X&ved=2ahUKEwjisomhg_D8AhVZAzQIHU4-BmUQutcGKAF6BAgUEAU#htivrt=jobs&htidocid=l8cNuQLpFEMAAAAAAAAAAA%3D%3D&fpstate=tldetail,personal company,Full-time,NA,"Russeifa, Jordan","Applicants are required to meet the following criteria for vacant positions, We will not care who does not do this following conditions:
+• to receive passage Diwan Jobs.
+• Full job file registration in the link above.
+• Bachelor’s Degree in Engineering
+• 3 to 5 years of relevant experience
+• Making plans using detailed drawings
+• There are allowances and bonuses"
+Title- AI Engineer (Python),NA,2023-01-30 12:27:22,https://www.google.com/search?q=Machine+Learning+Jobs+Jordan&ibp=htl;jobs&sa=X&ved=2ahUKEwjisomhg_D8AhVZAzQIHU4-BmUQutcGKAF6BAgUEAU#htivrt=jobs&htidocid=cn-aDQ7NbwQAAAAAAAAAAA%3D%3D&fpstate=tldetail,مستودع القصواء للادويه,Full-time,NA,Jordan,"3 + years of overall experience
+Have experience in AI/ML and chatbot/ NLP technologies
+Experience in integration with enterprise system using rest and SOAP protocol
+Good to have experience with healthcare domain
+Technical Skill
+
+(Primary- Must to Have)
+
+· 2+ years of experience in solution management and service delivery in Artificial Intelligence and Digital Transformation.
+
+· Experience in deployment of ML models.
+
+· Excellent at Python programming with Django experience.
+
+· Proficiency with frameworks such as TensorFlow and basic libraries for machine learning such as scikit-learn and pandas
+
+· Experience in using and having an in-depth understanding of AI/ML Algorithms.
+
+· Developing solutions in virtualized environments such as Amazon Web Services, Azure and Google Cloud Platform
+
+· Experience in Application programming interface (API) and integration with enterprise systems
+
+Good at building data pipelines while data ingestion from multiple sources (static or streaming)"
+Data Scientist,NA,2023-01-30 12:27:23,https://www.google.com/search?q=Machine+Learning+Jobs+Jordan&ibp=htl;jobs&sa=X&ved=2ahUKEwjisomhg_D8AhVZAzQIHU4-BmUQutcGKAF6BAgUEAU#htivrt=jobs&htidocid=c8XfqMRmpHYAAAAAAAAAAA%3D%3D&fpstate=tldetail,Nuqtat Al Taknalojia,Full-time,NA,"Amman, Jordan","Are you interested in building the next generation shopping platform in Middle East We are disrupting the local shopping experience and looking for talented Data scientist to design and build machine learning solutions.We are looking for Data scientist to be based in Amman, Jordan with 3 years of solid experience in solving complex problems using machine learning and data science. As a data scientist, you will provide machine learning expertise that helps accelerate the business. You will build various data and machine learning models that help us innovate different ways to enhance customer experience. You will need to be entrepreneurial, wear many hats, and work in a highly collaborative environment. We like to move fast, experiment, iterate and then scale quickly, thoughtfully balancing speed and quality. Responsibilities include:Design, implement, test, deploy and maintain innovative data and machine learning solutions to accelerate our business.Create experiments and prototype... implementations of new learning algorithms and prediction techniquesCollaborate with scientists, engineers, product managers, and stockholders to design and implement software solutions for science problemsUse machine learning best practices to ensure a high standard of quality for all of the team deliverables"
+Data Science,NA,2023-01-30 12:27:23,https://www.google.com/search?q=Machine+Learning+Jobs+Jordan&ibp=htl;jobs&sa=X&ved=2ahUKEwjisomhg_D8AhVZAzQIHU4-BmUQutcGKAF6BAgUEAU#htivrt=jobs&htidocid=ScUqLhxOpjMAAAAAAAAAAA%3D%3D&fpstate=tldetail,Data Science,Full-time,NA,"Amman, Jordan","Be The First To Apply To Data Science Jobs
+
+Required Skills
+• Python
+• Data Engineer
+• R Developer
+
+Job Details
+• Location: Amman - Jordan
+• Industry: Data Science
+• Job Type: Full-Time
+• Degree: Bachelor
+• Experience: 0-3
+• Nationality: Unspecified"
+Senior Data Science,2023-01-11,2023-01-30 12:27:24,https://www.google.com/search?q=Machine+Learning+Jobs+Jordan&ibp=htl;jobs&sa=X&ved=2ahUKEwjisomhg_D8AhVZAzQIHU4-BmUQutcGKAF6BAgUEAU#htivrt=jobs&htidocid=KPJDCchDKxgAAAAAAAAAAA%3D%3D&fpstate=tldetail,مستودع القصواء للادويه,Full-time,NA,Jordan,"Fast growing Al & Insurtech Startup with offices in 4 countries is looking for 'Senior Data Scientist' to start working immediately.
+
+Responsibilities
+• Designing, building, and implementing APIs into data pipelines.
+• Creating accurate, practical, and repeatable models to predict key metrics or derive critical insights that impact business performance.
+• Developing solutions for the real-world, large-scale problems.
+• Designing the product interfaces that customers will use to obtain predictions and input training data.
+
+Key Requirements
+• Proven experience as a Data Scientist or Machine Learning Engineer.
+• Proven experience using AWS cloud framework.
+• Strong experience in data mining & and data processing.
+• Strong experience in leading projects.
+• Strong experience in machine learning algorithms.
+• Strong experience in Python.
+• Proficient in data science libraries (e.g. NumPy, Pandas, Scikit-Learn, SciPy, Keras).
+• Experience with MS Power BI.
+• Analytical mind and business... acumen.
+• Strong math skills (e.g. statistics, algebra).
+• Problem-solving aptitude.
+• Excellent communication and presentation skills.
+• Ability to work under-pressure and meet deadlines.
+• Ability to start working immediately.
+• Willingness to work flexibly to include evenings and weekends whence necessary.
+
+Qualifications
+• 3+ years of industry experience, including software development experience.
+• 3+ years of experience in modern tools for building ML pipelines, including data processing, training, inference, evaluation and deployment.
+• Experience with Machine learning and Deep Learning framework, e.g. PyTorch, Keras, or TensorFlow.
+• Hands-on modeling and complex analysis using Python, SQL, NoSQL.
+• Experience with inference APIs, machine learning, and prediction and classification models.
+• BSc in Computer Science, Engineering or relevant field; graduate degree in Data Science or other quantitative field is preferred.
+
+Skills
+• Python (Programming Language)
+• Team Leadership
+• Java
+• Machine Learning
+• Time Management
+• Networking
+• Teamwork
+• Communication
+• Time management
+• English
+
+Key Benefits
+• You will learn what it takes to develop an Al deep-tech solution.
+• You will receive a salary inline with your experience level and equity in the business.
+
+If you believe you could be a good fit for the above, please apply to the job and the recruitment department will contact you soon as possible.
+
+Company Overview
+
+DESAISIV is a B2B company offering a state-of-the-art AI SaaS product for medical insurance companies & TPAs. DESAISIV started in the UK nearly 3 years ago and then expanded to Jordan, KSA, and UAE.
+
+DESAISIV solution takes into account all data coming from clients' information systems for the aims of:
+
+- Reducing insurance loss-ratio by predicting forthcoming developing diseases and costs associated
+
+- Optimising underwriting using bespoke artificial intelligence engine
+
+- AI-powered population health and personalizing treatment plans
+
+- Fraud and policy abuse detection
+
+DESAISIV currently works with a few major insurance players in the MENA and covers nearly 70% of Jordan's insurance market"
+Machine Learning Software Developer,NA,2023-01-30 12:27:24,https://www.google.com/search?q=Machine+Learning+Jobs+Jordan&ibp=htl;jobs&sa=X&ved=2ahUKEwjisomhg_D8AhVZAzQIHU4-BmUQutcGKAF6BAgUEAU#htivrt=jobs&htidocid=FL4GZa388dgAAAAAAAAAAA%3D%3D&fpstate=tldetail,Acacus Group,Full-time,NA,Jordan,"Designing, developing and maintaining software code using different frameworks and toolsAbility to write efficient software code for enterprise environmentsExcellent grasp of current best practice database and software methodologiesDevelop software solutions using industry standards based on the needs of the customer and feedback provided by the client account manager and stakeholders"
+Sr. Data Scientist,2023-01-25,2023-01-30 12:27:24,https://www.google.com/search?q=Machine+Learning+Jobs+Jordan&ibp=htl;jobs&sa=X&ved=2ahUKEwjisomhg_D8AhVZAzQIHU4-BmUQutcGKAF6BAgUEAU#htivrt=jobs&htidocid=6EEqDL8Vb6YAAAAAAAAAAA%3D%3D&fpstate=tldetail,Human Resources M.E,Full-time,NA,"Amman, Jordan","Job Description
+
+Job Responsibilities
+• Perform advanced data mining/analysis using state-of-the-art methods
+• Establish and schedule the data analysis approach in conjunction with the business unit
+• Develop data extraction (reduction) and analysis techniques for data from the company's repositories
+• Develop and apply complex statistical models and innovative data visualizations to discover hidden insights and reveal business value
+• Expose comprehensive results, advise on way forward to a senior management/executive audience by translating data-driven insights into clear decisions and action plans
+• Create and deliver data driven products (like automated decision systems, AI based anomaly detection, etc) and execute corresponding performance monitoring until industrializing phase
+• Provide expertise to foster the adoption of advanced data analysis techniques (analytics) for all types of data with the company and work with the professions to co-construct the work tools of the... future
+• Experience in at least one of the Data visualization package, library or tools, such as , GGplot, Qlick, Elastic, ect, or Query languages sucha s SQL, Hive
+• Experience in Common data science toolkits, such as R, Python Data Science Libraries, MatLab, etc
+
+RequirementsJob Specifications
+• 5+ years of experience in Software IT sector
+• Excellent understanding of machine learning techniques and algorithms, such as k-NN, Naive Bayes, SVM, Decision Forests, etc.
+• Experience with common data science toolkits, such as R, Weka, NumPY, MatLab, etc
+• Excellent communication skills
+• Experience with data visualization tools, such as , GGplot, etc
+• Proficiency in using query languages such as SQL, Hive, Pig, etc
+• Experience with NoSQL databases such as MongoDB, Cassandra, HBase, etc
+• Experience with SQL databases such as Oracle, SQL Server, MySql, etc
+• Good applied statistics skills such as distributions, statistical testing, regression, etc
+• PowerBI experience is a plus
+• Experience with cloud based platforms (AWS, GCP, Azure) is a plus
+• Data-oriented personality"
+Artificial Intelligence Engineer,2023-01-23,2023-01-30 12:27:25,https://www.google.com/search?q=Machine+Learning+Jobs+Jordan&ibp=htl;jobs&sa=X&ved=2ahUKEwjisomhg_D8AhVZAzQIHU4-BmUQutcGKAF6BAgUEAU#htivrt=jobs&htidocid=Wry5GPeO8psAAAAAAAAAAA%3D%3D&fpstate=tldetail,Migrate,Contractor,NA,"Amman, Jordan","• Strong knowledge in Machine Learning/Deep Learning models.
+• Solid experience with TensorFlow or Pytorch
+• Experience in data augmentation, pre-processing, and feature engineering
+• Good knowledge in OOP (Object Oriented Programing), Web services, and Restful API
+• Previous experience in CI/CD for ML/AI, and Git.
+• Experience from 4 to 10 years."
+Data Scientist,NA,2023-01-30 12:27:25,https://www.google.com/search?q=Machine+Learning+Jobs+Jordan&ibp=htl;jobs&sa=X&ved=2ahUKEwjisomhg_D8AhVZAzQIHU4-BmUQutcGKAF6BAgUEAU#htivrt=jobs&htidocid=1dzLo43s6F8AAAAAAAAAAA%3D%3D&fpstate=tldetail,مستودع القصواء للادويه,Full-time,NA,Jordan,"Data Scientist
+
+Location: Jordan
+
+Duration: Contract / Permanent
+
+Industry: Consultancy
+
+The Role:
+
+We are working with a global consultancy who who are building a delivery hub in Jordan.
+
+They need Data Experts who can support their Middle Eastern clients remotely from Jordan.
+
+The right candidates should have the following:
+• Arabic and English Speaking
+• Able to design, develop and execute the required analytical algorithms, techniques, and statistical methods to address BU use cases
+• Great Analytical Skills
+• Understand the algorithms/methodologies related implications of advanced analytics solutions, and assist in defining the solutions to support any future business requirements
+• Problem solver
+• Ideally has experience within consulting
+
+Technical Skills:
+• SQL /Oracle
+• R
+• Python
+• Machine Learning
+• DASH
+• GIT
+• Mathematical thinker
+
+APPLY NOW to find out more! Or if this isn’t quite the role for you but you know someone who would be great, get a reward by referring someone... here https://sgp.technology/referrals"
+Junior data science - Analytics assistant,NA,2023-01-30 12:27:26,https://www.google.com/search?q=Machine+Learning+Jobs+Jordan&ibp=htl;jobs&sa=X&ved=2ahUKEwjisomhg_D8AhVZAzQIHU4-BmUQutcGKAF6BAgUEAU#htivrt=jobs&htidocid=oSTRVfluumQAAAAAAAAAAA%3D%3D&fpstate=tldetail,APCO Worldwide,Full-time,NA,"Amman, Jordan","APCO IN THE MIDDLE EASTHome to some of the fastest growing economies in the world, the Middle East and Africa region has a pivotal role to play in driving global conversations from environmental policies to religion and pop culture. The UAE and Saudi Arabia are clear leaders in this equation, although the wave of innovation continues to transcend borders.APCO launched its regional operations in 2006 in Dubai. Growing from a team of less than 30 consultants, APCO today has over 200 people from 32 countries working in teams across Dubai, Abu Dhabi, Riyadh, Manama and Kuwait. Our projects also take us to Cairo, Amman, Muscat, Beirut and other markets in the Levant.With a portfolio of over 100 clients, APCO s MEA offices deliver public relations and digital communication support across health, food, consumer retail, finance, technology, real estate hospitality, non profit and public affairs practices. The region also offers specialized services, created for the Middle East, such as our... Build Operate Transfer (BOT) model and our Compass and License to Operate offerings.In addition, APCO s global AI Comms Lab a first of its kind innovation center which utilizes artificial intelligence to build and protect the reputations of major global brands, governments and organizations is driven from the Dubai office.From helping governments connect with the private sector and civil society, to supporting the Pope s historic visit to the region and launching iconic brands and destinations, we understand the nuances of the Middle East and pride ourselves on making an impact.The Role:As a junior data science/analytics assistant you will be responsible for supporting our clients on data driven insights and working closely with colleagues from the MENA region to identify and implement different data science solutions that will add value to our business. The successful candidate will bring good knowledge of analytics and AI and a great grasp of digital transformationKey Responsibilities: Work closely with colleagues from different departments to identify use cases for data science that adds value to our business and our clients Support on the daily development of client deliverables and analysis of the client s data that requires analytics and data science know how Support the development of new business proposals for the clients with special focus on the analytics workstreams Supporting the digital team in several tasks such as data extraction, preparation, cleaning, analysis, visualizations and reports generations Converting complicated data science and analytics aspects into simple to understand concepts presented in a PowerPoint presentation form Look for opportunities to use insights/datasets/code/models across the clients Conduct research from which you ll develop prototypes and proof of conceptsEducation and Experience: A bachelor or master s degree in computer science (preferably with knowledge in Digital Communications) Knowledge of the basics of statistics and hypothesis testing Knowledge of a programming language (preferably R or Python) Basic knowledge of data science and AI/machine learning algorithms (e.g., linear regression) Basic understanding of web development principles including but not limited to post and get requests, REST API, etc.The CompanyFounded in 1984, APCO Worldwide is an award winning, independently owned global communication and business strategy firm with more than 30 offices in major cities throughout North America, Europe, the Middle East, Africa and Asia with a diverse global team of more than 800 experts.APCO combines a global perspective with local expertise to help clients around the world manage challenges, opportunities, perceptions and reputations. APCO clients include corporations and governments industry associations and nonprofit organizations and six of the top 10 companies on the Fortune 500. The firm is a majority women owned business and has been named the Best EMEA Network to Work For, 2017 and Public Affairs Agency of the Year, 2017 by the Holmes Report"
+Senior Data Analytics Engineer,NA,2023-01-30 12:27:26,https://www.google.com/search?q=Machine+Learning+Jobs+Jordan&ibp=htl;jobs&sa=X&ved=2ahUKEwjisomhg_D8AhVZAzQIHU4-BmUQutcGKAF6BAgUEAU#htivrt=jobs&htidocid=QoPAMRqAh0YAAAAAAAAAAA%3D%3D&fpstate=tldetail,مستودع القصواء للادويه,Full-time,NA,Jordan,"Our Mission is to Simplify Life. We are looking to Simplify and automate complex decision-making for customer centric industries, like Utilities, Financial Services, Logistics, and commerce, that drive the world's economies and you have the chance to join the revolution. We are trying to solve huge challenges in today's enterprise that are directly impacting the employee and customer experience.
+
+What can we promise you:
+• You’ll join a global family of awesome, passionate people that are working together to build a sustainable, scalable ecosystem committed to using logic to create a better experience.
+• We want you to help us become better. You will be empowered to drive change and innovate.
+• That we will invest in you. We will give you the opportunity to master your domain and drive excellence.
+
+Our team helps clients navigate various analytics applications to get the most value out of their technology investment and foster confidence in their business intelligence. As part of our... team, you’ll help implement enterprise data products and data management applications that improve operational effectiveness and provide actionable data analytics and insights.
+
+Main Job Responsibilities:
+• Implementation of data products for the
+• Provide data architecture and technical delivery knowledge
+• Utilize DevOps software team to create innovative applications.
+• Execute data-science and machine-learning efforts
+• Implement exploratory data analysis of sample data sets to advise the Data Lab leads on the incorporation of AI into their labs and applications
+• Analyze requirements, estimate production time, design solutions, code solutions, test solutions, and document work.
+• Assist in the definition of application architecture.
+• Mentor team of data scientists and provide algorithmic recommendations depending on the data set, acting as SME.
+• Ensure adherence to best practices, management processes, and technical constraints.
+• Design and conduct training on AI/ML, NLP techniques.
+• Assist in the drafting of business cases, project plans, test reports, risk assessments, and other project specific documentation.
+• Acts as client liaison in the development of application functional documentation, including technical specs document, technical data sheets, operational manuals, and training materials.
+
+Needed Competencies:
+• Leadership skills
+• Communication skills
+• Time management
+• Creativity
+• Analytical skills
+
+Education:
+
+Bachelor's degree in Mathematics, Computer Science or similar engineering discipline.
+
+Experience:
+
+Minimum 5+ years of relevant work experience in agile/scrum software development, data science settings with a focus on developing projects using Data warehousing and cloud environments (e.g. Azure, Google Cloud, Digital Ocean)
+
+Knowledge, Skills, and Abilities:
+• Must be functional in a Senior Software Developer role.
+• Experience in Design Thinking workshops and all related activities, designing solutions that balance user needs, commercial interests, and technological constraints, including design strategy, service design, and design research.
+• Strong Experience in Microsoft Development Toolkit (SSIS, SSAS, Azure Data Factory, Azure Synapse, Visual Studio)
+• Experience with Databricks
+• Experience with NoSQL, Relational, Multimodal, and Graph databases.
+• Experience in designing and implementing User Interfaces at an Enterprise Level.
+• Strong system architecture and design experience including deploying production
+• enterprise applications in cloud environments that use AI/ML.
+• Experience with Enterprise Data Modeling, including the use of EA Sparx
+• Experience with scripting and programming languages in Python, R, and Java.
+• Experience planning and executing customer design projects through a holistic understanding of problem areas, iterative solution design, executive stakeholder management, and integration of business and technical experts.
+• Experience conducting qualitative and quantitative research and synthesizing to provide insights, identify opportunities, and generate conceptual frameworks.
+
+Preferences:
+• Strong experience with Machine Learning algorithms, techniques and tools.
+• Experience with Jira, Confluence, Visio, MS DevOps, and MS Project.
+• Experience with Amazon Web Services deployments.
+• Master’s degree in Data Science
+• Experience with open source development tools (GitHub, GitLab, etc.).
+
+Travel:
+
+No travel
+
+Work Schedule:
+
+Local office schedule"
+NLP Data Scientist,2023-01-02,2023-01-30 12:27:27,https://www.google.com/search?q=Machine+Learning+Jobs+Jordan&ibp=htl;jobs&sa=X&ved=2ahUKEwjisomhg_D8AhVZAzQIHU4-BmUQutcGKAF6BAgUEAU#htivrt=jobs&htidocid=D029newcP4cAAAAAAAAAAA%3D%3D&fpstate=tldetail,مستودع القصواء للادويه,Full-time,NA,Jordan,"We are looking for an independent, creative, driven problem solver who is passionate about data science and applying NLP techniques to understand and extract information from text.
+
+RESPONSIBILITIES
+• Supporting requirements generation and providing guidance on statistical methods to be applied.
+• Defining analytical cohorts using self-service data platforms or retrieving cohort data using REST APIs or SQL statements.
+• Conducting statistical analyses / generating analyses and visualizations using Python.
+• Developing, testing, and documenting new analytical algorithms within a best-practice software engineering framework using Python.
+• Writing up, presenting, and supporting the dissemination of results.
+• Identify relevant data sources and sets to mine for client business needs, and collect large structured and unstructured datasets and variables
+• Devise and utilize algorithms and models to extract data from big-data stores; perform data and error analysis to improve models; clean... and validate data for uniformity and accuracy
+• Analyze data for trends and patterns, and interpret data with clear objectives in mind
+• Implement analytical models in production by collaborating with software developers and machine-learning engineers
+
+SKILLS REQUIRED
+• BSc degree in Data Science, Computer Science, Computer Engineering, or any related field.
+• 3+ years of experience in Data Science.
+• Proven experience with Python or another programming language.
+• Understanding and previous experience with classic statistical methods (such as distributions, statistical testing, regression, and survival methods).
+• Understanding software engineering with hands-on experience and with the usage of software development tools (such as Git, APIs, etc.).
+• Experience in manipulating and analyzing medium-sized to large real-world data sets.
+• Able to communicate effectively; fluent in English – both spoken and written
+• Strong analytic mindset and logical thinking capability.
+
+WHAT'S IN IT FOR YOU?
+• A friendly and growth-encouraging environment.
+• A suitable salary with other incentives.
+• Flexible working hours with an option of working remotely
+
+Capella is a leading data company trusted by industry-leading firms. For more information, visit: Capella.io
+
+The position is based in Capella’s offices in northern Amman, Jordan. Capella has a strong corporate culture of innovation and trust and is committed to excellence in everything we do. We offer a competitive compensation and benefits package with great career opportunities for professional growth.
+
+We are a business built by software developers around software developers. Our goal is to grow both as individuals and as a company. We have a trusting independent working structure, and we need people who are continuously learning and improving themselves"
+"Lead Data Scientist, Totogi (Remote) - $200,000/year USD",2023-01-04,2023-01-30 12:27:27,https://www.google.com/search?q=Machine+Learning+Jobs+Jordan&ibp=htl;jobs&sa=X&ved=2ahUKEwjisomhg_D8AhVZAzQIHU4-BmUQutcGKAF6BAgUEAU#htivrt=jobs&htidocid=nvhHZX0OMAYAAAAAAAAAAA%3D%3D&fpstate=tldetail,مستودع القصواء للادويه,Full-time,NA,Jordan,"Crossover is the world's #1 source of full-time remote jobs. Our clients offer top-tier pay for top-tier talent. We're recruiting this role for our client, Totogi. Have you got what it takes?
+
+Are you a data science expert who excels at using data to answer critical business questions? Are you tired of wasting your time in endless stakeholder meetings where no one speaks ‘your language’? Does it feel like your company never makes full use of your valuable insights? If you’ve answered ‘yes’, we might have a role for you!
+
+Totogi is a software company redefining the rules of the telecommunications industry by lifting it into the public cloud. We empower CSPs through 100% cloud-native, API-driven solutions that facilitate integration with legacy systems, implement new features and services in minutes instead of months, and deliver a BSS that generates 10x performance at a tenth of the cost.
+
+This is not a job where you passively wait for data streams to answer one-off questions. We’re... looking for a take-charge data wizard to establish a high-impact data science practice at Totogi. In this role, you will have full ownership and governance and be responsible for building models from the ground up. You will not only have the freedom to implement ideas, but you will also be encouraged to do so.
+
+Your work will directly help us disrupt the telecommunications industry, so if you enjoy predicting and steering the future based on hard evidence hidden behind mountains of data, then this role is for you!
+
+What You Will Be Doing
+• Designing the product interfaces that customers will use to obtain predictions and input training data
+• Designing, building, and implementing APIs into data pipelines
+• Creating accurate, practical, and repeatable models to predict key metrics or derive critical insights that impact business performance
+
+What You Won’t Be Doing
+• Wasting your time explaining how your models work to non-technical stakeholders
+• Working on unfeasible ideas because executives have no understanding of what is and isn’t possible
+
+Lead Data Scientist Key Responsibilities
+• Delivering new data products and insights that enable Totogi to achieve key business goals
+
+Basic Requirements
+• 5+ years of experience in data science using public cloud services for development
+• Hands-on modeling and complex analysis using Python, SQL, and/or R
+• Experience with inference APIs, machine learning, and prediction and classification models
+
+About Totogi
+
+Totogi is focused on building telco software for the public cloud and is completely redefining how carriers engage with their subscribers to drive customer love! We are a product-driven telco software company made up of some of the best minds from the telecoms industry and the brightest engineering talent across the globe. Change the game with us.
+
+There is so much to cover for this exciting role, and space here is limited. Hit the Apply button if you found this interesting and want to learn more. We look forward to meeting you!
+
+Working with Crossover
+
+This is a full-time (40 hours per week), long-term position. The position is immediately available and requires entering into an independent contractor agreement with Crossover. The compensation level for this role is $100 USD/hour, which equates to $200,000 USD/year assuming 40 hours per week and 50 weeks per year. The payment period is weekly. Consult www.crossover.com/help-and-faqs for more details on this topic.
+
+What to expect next:
+• You will receive an email with a link to start your self-paced, online job application.
+• Our hiring platform will guide you through a series of online “screening” assessments to check for basic job fit, job-related skills, and finally a few real-world job-specific assignments.
+
+Important! If you do not receive an email from us:
+• First, emails may take up to 15 minutes to send, refresh and check again.
+• Second, check your spam and junk folders for an email from Crossover.com, mark as “Not Spam” since you will receive other emails as well.
+• Third, we will send to whatever email account you indicated on the Apply form - by default, that is the email address you use as your LinkedIn username and it might be different than the one you have already checked.
+• If all else fails, just reset your password by visiting https://www.crossover.com/auth/password-recovery if you already applied using LinkedIn EasyApply.
+Crossover Job Code: LJ-4907-JO-Amman-LeadDataScient"

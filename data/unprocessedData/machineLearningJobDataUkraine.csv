@@ -1,0 +1,554 @@
+Job-Title,Date-Posted,Date-Scraped,Url,Company,Job-Type,Salary,Location,Description
+"Machine Learning Engineer, Ukraine",2023-01-06,2023-01-30 12:40:30,https://www.google.com/search?q=Machine+Learning+Jobs+Ukraine&ibp=htl;jobs&sa=X&ved=2ahUKEwjTwo6ZhvD8AhXXFzQIHbBaBvMQutcGKAF6BAgeEAU#htivrt=jobs&htidocid=-6QaKEDOoBAAAAAAAAAAAA%3D%3D&fpstate=tldetail,Lyft,Full-time,NA,Ukraine,"At Lyft, our mission is to improve people’s lives with the world’s best transportation. To do this, we start with our own community by creating an open, inclusive, and diverse organization.
+
+With over half a billion rides and counting, Lyft is solving hard problems in a rapidly growing domain with a lot of data and creative solutions in multiple domains, including Mapping and Search. While traditional approaches to optimization and problem decomposition are sufficient to disrupt transportation, building next-generation platform for low-cost, ultra-immersive transportation to improve people’s lives warrants modern ML utilizing peta-byte scale data. We are building an in-house search engine to help our riders and drivers find the right spots and places to efficiently get to their destinations.
+
+If you are a critical thinker with experience in machine learning workflows, passionate about solving business problems using data and working in a dynamic, creative, and collaborative... environment, we are searching for you.
+Responsibilities:
+• Design, build, train, evaluate and test Machine Learning models, focusing on Search applications
+• Write production-level code to convert your ML models into working pipelines
+• Work closely with Product Managers, Data Scientists, and fellow ML Engineers to frame Machine Learning problems within the business context
+• Analyze experimental and observational data, communicate findings, and facilitate launch decisions
+• Participate in code reviews to ensure code quality and distribute knowledge
+Experience:
+• B.S., M.S. or Ph.D. in Computer Science, related technical field or relevant work experience
+• 3+ years of industry or research experience developing ML models
+• Deep knowledge of ML libraries like scikit-learn, Tensorflow, PyTorch, Keras, MXNet, etc
+• Proven ability to quickly and effectively turn research ML papers into working code
+• Practical knowledge of how to build efficient end-to-end ML workflows
+• “Engineer at heart” with a high degree of comfort in designing software systems and producing high-quality code
+• Strong oral and written interpersonal skills
+• Nice to have: Search experience
+Benefits:
+• Health insurance, life and personal accident insurance benefits
+• Mental health benefits
+• 28 days of paid time off in addition to 12 observed holidays
+• 1 Friday per month is company-wide Recharge day
+• Family building benefits
+• 18 weeks of paid parental leave. Biological, adoptive, and foster parents are all eligible"
+Data scientist,NA,2023-01-30 12:40:31,https://www.google.com/search?q=Machine+Learning+Jobs+Ukraine&ibp=htl;jobs&sa=X&ved=2ahUKEwjTwo6ZhvD8AhXXFzQIHbBaBvMQutcGKAF6BAgeEAU#htivrt=jobs&htidocid=5hIQQ6rpeAcAAAAAAAAAAA%3D%3D&fpstate=tldetail,Playtech,Full-time,NA,"Kyiv, Ukraine","Company Description
+
+We are Playtech, market leaders in the gambling and financial trading industries.
+
+Leaders in next generation technology and content; regulated markets and responsible gambling.
+
+Pioneers of Omni-channel gambling offering seamless, anytime, anywhere gameplay; of the ultimate gaming experience; and the best-performing content.
+
+Innovators in games design; software and services; and data-driven optimisation.
+
+We deliver the complete solution and game changing results for the world’s biggest brands.
+
+Job Description
+
+Playtech BI and data team are responsible for collecting, organizing, presenting & utilizing data across all PT product and services. The team is growing, accounting almost 30 developers, data scientists and product managers.
+
+BI in Playtech isn’t just used internally but also offered to licensee as a product alongside its casino, poker & other gaming portfolio.
+
+The data science team is currently comprised of 5 professionals, busy at developing... sophisticated algorithms and statistical models for personalized recommendations, detecting fraudulent behavior, identifying player churn probability and life time value, and most importantly turning Playtech products into data driven ones by replacing business rules configuration with real-time models that control every major aspect of the player user experience.
+
+Responsibilities:
+
+· Develop and maintain components in data science production systems.
+
+· Perform predictive and statistical modeling.
+
+· Research, invent and adapt machine learning algorithms for dedicated business needs.
+
+· Perform ad-hoc analyses as required.
+
+Qualifications
+
+· This position is for an experienced Data Scientist.
+· A minimum of 4 years in a role as business-oriented data scientist or data analyst.
+· A minimum of 2 years in writing Python code.
+· Proven experience in predictive modeling, preferably in data science production services.
+· Business orientation.
+· High level of English
+
+Additional Information
+
+• Possibility to cooperate with a product company
+• Professional growth
+• Educational possibilities
+• Competitive compensation
+• Fully-equipped perfect office space located in the city center (“Palats Sportu” metro station)
+• Warm and friendly attitude to every specialist"
+Senior Machine Learning Engineer / Python Developer,2023-01-18,2023-01-30 12:40:31,https://www.google.com/search?q=Machine+Learning+Jobs+Ukraine&ibp=htl;jobs&sa=X&ved=2ahUKEwjTwo6ZhvD8AhXXFzQIHbBaBvMQutcGKAF6BAgeEAU#htivrt=jobs&htidocid=Sm0IyRvlIuIAAAAAAAAAAA%3D%3D&fpstate=tldetail,LoopMe,Full-time,"US$80,036–US$129,300 a year","Lviv, Lviv Oblast, Ukraine","The Role:Building and scaling AI software to target ads to individual users in a high-traffic environmentA full-time Machine Learning Engineer / Data Scientist position for an exceptional candidate who has a keen interest in applying AI systems at scale. You will be designing and building machine learning systems that will operate on real-world data. You will be working in the highly exciting area of real-time ad targeting. The work involves handling billions of ad-serving requests.LoopMe has a significant investment in AI. We are interested in pushing the boundaries and staying ahead of the competition rather than reapplying tired old systems. We do this by developing genuinely new AI systems and applying it in exciting and novel ways, please see our publications in the About the Data Science Team section below. (The second won the best paper at adKDD 2021.)This is a rare opportunity to be involved in creating an automated system to optimize thousands of real-time bidding... interactions per second with online customers, and to quantify the benefits created against control groups in a live environment. It is also an opportunity to become part of a high growth, UK tech start-up and get first-hand experience into how tech start-ups operate. You will be working in an exciting and fast-paced environment in one of the most innovative companies in the present adtech space.Key Responsibilities:You will join a team of 17 data scientists and data engineers led by an experienced Chief Data Scientist (https://www.linkedin.com/in/leonardnewnham/). See About the Data Science Team section below to check out who we are. You will help to solve tough (but never dull) problems, such as:- Analysis of new data streams for inclusion in our real-time ad targeting engine- Scaling systems to handle many terabytes of data whilst still maintaining millisecond-level response times- Working to support the following steps in the analytical process with large (multi-million record) data sets:o Basic data cleansing and preparationo Variable preprocessing/transformationo Performing statistical testso Preparation of data sets for predictive modelingo Robust predictive model building, validation, and applicationWe are a small, highly interactive team working in an Agile environment. You will need strong communication skills. You will also be expected to care deeply about the quality of your code: its clarity, documentation, and testing.Key Skills & Experience:- A minimum of a Bachelor’s degree in a mathematical discipline such as Computer Science, Applied Statistics, Maths, Engineering or Physics from a respected University. An MSc or PhD is a bonus- 4 or more years’ experience of Python and good solid knowledge of R- Experience developing machine learning pipelines that read and process large amounts of data- Experience of Airflow- Experience of Spark- Experiencing line managing small teamBonus Qualifications:- Experience of scrum / agile software development- Practical knowledge of infrastructure for running high-availability systems. (ElasticSearch, Kafka, ClickHouse, etc.)About you:- Demonstrates a high level of initiative- Has an enquiring mind and a disciplined scientific approach to extracting facts and understanding observed behaviour- Excellent communication skills - you will be working with colleagues in the UK and other locations- Consistently delivers high-quality answers- Want to be part of a high-growth start-up company with global ambitions- We like to make work enjoyable, so a good sense of humour is requiredThe ideal candidate will examine data from many perspectives, be able to think out of the box, and efficiently communicate ideas and findings to technical and non-technical peers equally. A passion for new technologies and a drive to find simple and elegant ways to implement simple solutions to complex problems is key.Benefits:- Competitive compensation package- Hundreds of millions of people see your work and use our products worldwide- A transparent work environment- Friendly team environment where learning and acquiring new skills is encouraged- Joining a stable, high-growth companyAbout the Data Science Team:- We are a team of 17 data scientists and data engineers building systems to apply the latest AI methods and research to real-world problems. LoopMe has over 200 employees, 100 of which are technical.- We are a distributed team with offices in London, Poland, and Ukraine. We are NOT an outsourcing team, we are a truly distributed team, where everyone’s ideas are listened to.- We are open to new ideas and actively strive to improve both our systems and our development practices. It is a team where anyone can have a real impact.- We are an inclusive and welcoming team in which people enjoy working with their colleagues and feel valued.- We are doing genuinely novel and cutting-edge work. We occasionally publish papers that may give a flavour of our work in automated bidding, for example:o Gradient Boosting Censored Regression for Winning Price Prediction in Real-Time Bidding, P Paliwal, O Renov, International Conference on Database Systems for Advanced Applications 2019o Hybrid Dual Censored Joint Learning of Reserve Prices and Bids for Upstream Auctioneers, P Paliwal, L Stavrogiannis, ADKDD 2021(winner of best paper award)http://papers.adkdd.org/2021/papers/adkdd21-paliwal-hybrid.pdfAbout LoopMe:LoopMe was founded with the mission of closing the loop on brand advertising. Our full-stack tech platform harnesses mobile data, using a powerful combination of attribution, Artificial Intelligence and analytics to deliver outstanding campaign performance against brand outcomes - consideration, purchase intent, foot traffic and offline sales.The company was founded by experienced mobile advertising executives Stephen Upstone (CEO) and Marco Van de Bergh (CTO) in 2012. LoopMe has global offices in New York, London, Chicago, LA, Atlanta, Boston, Dallas, Detroit, San Francisco, Dnipro, Singapore, Beijing, Dubai and Johannesburg"
+"Machine Learning Engineer, Ukraine",2023-01-05,2023-01-30 12:40:32,https://www.google.com/search?q=Machine+Learning+Jobs+Ukraine&ibp=htl;jobs&sa=X&ved=2ahUKEwjTwo6ZhvD8AhXXFzQIHbBaBvMQutcGKAF6BAgeEAU#htivrt=jobs&htidocid=D5u8RcPHMOAAAAAAAAAAAA%3D%3D&fpstate=tldetail,Lyft,Full-time,NA,"Kyiv, Ukraine","At Lyft, our mission is to improve people’s lives with the world’s best transportation. To do this, we start with our own community by creating an open, inclusive, and diverse organization.
+
+With over half a billion rides and counting, Lyft is solving hard problems in a rapidly growing domain with a lot of data and creative solutions in multiple domains, including Mapping and Search. While traditional approaches to optimization and problem decomposition are sufficient to disrupt transportation, building next-generation platform for low-cost, ultra-immersive transportation to improve people’s lives warrants modern ML utilizing peta-byte scale data. We are building an in-house search engine to help our riders and drivers find the right spots and places to efficiently get to their destinations.
+
+If you are a critical thinker with experience in machine learning workflows, passionate about solving business problems using data and working in a dynamic, creative, and collaborative... environment, we are searching for you.
+
+Responsibilities:
+• Design, build, train, evaluate and test Machine Learning models, focusing on Search applications
+• Write production-level code to convert your ML models into working pipelines
+• Work closely with Product Managers, Data Scientists, and fellow ML Engineers to frame Machine Learning problems within the business context
+• Analyze experimental and observational data, communicate findings, and facilitate launch decisions
+• Participate in code reviews to ensure code quality and distribute knowledge
+
+Experience:
+• B.S., M.S. or Ph.D. in Computer Science, related technical field or relevant work experience
+• 3+ years of industry or research experience developing ML models
+• Deep knowledge of ML libraries like scikit-learn, Tensorflow, PyTorch, Keras, MXNet, etc
+• Proven ability to quickly and effectively turn research ML papers into working code
+• Practical knowledge of how to build efficient end-to-end ML workflows
+• “Engineer at heart” with a high degree of comfort in designing software systems and producing high-quality code
+• Strong oral and written interpersonal skills
+• Nice to have: Search experience
+
+Benefits:
+• Health insurance, life and personal accident insurance benefits
+• Mental health benefits
+• 28 days of paid time off in addition to 12 observed holidays
+• 1 Friday per month is company-wide Recharge day
+• Family building benefits
+• 18 weeks of paid parental leave. Biological, adoptive, and foster parents are all eligible"
+Deep Learning Research Engineer,NA,2023-01-30 12:40:32,https://www.google.com/search?q=Machine+Learning+Jobs+Ukraine&ibp=htl;jobs&sa=X&ved=2ahUKEwjTwo6ZhvD8AhXXFzQIHbBaBvMQutcGKAF6BAgeEAU#htivrt=jobs&htidocid=Kv7YK-ujh14AAAAAAAAAAA%3D%3D&fpstate=tldetail,Respeecher,Full-time,NA,Ukraine,"We are looking for open-minded middle/senior engineers to join us. We really enjoy the stuff we do. We are a team of 15 people. The technical core is based in Kyiv.
+
+Please peruse our job descriptions below, and if you think you could fit into our team do not hesitate to contact us!
+
+Benefits
+• Do real research with deep generative models of audio in a small, scientifically-minded team
+• Freedom to try out ideas of your own
+• There might be publication opportunities
+• Office in the center
+
+Duties
+• Implement and maintain deep learning models in PyTorch
+• Train models, keep track of performance, and tune hyperparameters
+• Proactively read relevant literature and generate ideas for model enhancements
+• Help with deployment and ops as needed
+
+Respeecher focuses on Global. Their company has offices in California and United States. They have a small team that's between 11-50 employees.
+
+You can view their website at https://www.respeecher.com/ or find them on Twitter, Facebook, and... LinkedIn"
+Data Engineer (Preferably Ukrainians in Europe),2023-01-26,2023-01-30 12:40:32,https://www.google.com/search?q=Machine+Learning+Jobs+Ukraine&ibp=htl;jobs&sa=X&ved=2ahUKEwjTwo6ZhvD8AhXXFzQIHbBaBvMQutcGKAF6BAgeEAU#htivrt=jobs&htidocid=z5414wVE0-cAAAAAAAAAAA%3D%3D&fpstate=tldetail,Data Science UA,Full-time,NA,Ukraine,"About us: We are Data Science UA, and we are a fast-growing IT service company. We are proud of developing the Data Science community in Ukraine for more than 6 years. Data Science UA unites all researchers, engineers, and developers around Data Science and related areas. We conduct events on machine learning, computer vision, intelligence, information science, and the use of artificial intelligence for business in various fields.
+
+About the client: Our client is a global provider of professional digital production and IT development services. As a trusted partner of leading software companies and digital agencies worldwide, they ensure the technological prerequisites for a timely and effective implementation of their clients’ web projects and custom development solutions. Their result-oriented approach, coupled with attention to detail, warrants a streamlined client experience and high-quality deliverables.
+
+About the role: We are looking for a Data Engineer, leader in consulting... services with excellence competences in Digital Transformation and Data Strategy, focusing on Data Analytics and Artificial Intelligence.
+
+Requirements:
+
+Proficiency in modelling and optimizing Data warehouses with SQL – preferred basis.
+Experience in Cloud Data warehousing (e.g. Snowflake, Amazon Redshift, Google BigQuery, Azure Synapse).
+Ability to model and optimize workflows (e.g. Apache Airflow, DBT).
+Analytical, innovative and solution-oriented mindset.
+Teamwork, strong communication and interpersonal skills.
+Rigor and organizational skills.
+Fluency in English (spoken and written).
+We offer:
+
+Competitive salary and perks.
+Good work/life integration (flexible working).
+Great culture-helping all employees to learn, grow and develop their skill set.
+,
+
+About Data Science UA
+We understand that you need more than just a search engine to find IT and technical professionals or to progress your own career, that is why we established Data Scientist UA.
+One place connecting business and developers.
+
+Company website:
+
+DOU company page:
+
+,
+
+Job posted on
+26 January 2023
+
+6 views
+
+0 applications"
+Data Scientist / ML research (QAI),NA,2023-01-30 12:40:33,https://www.google.com/search?q=Machine+Learning+Jobs+Ukraine&ibp=htl;jobs&sa=X&ved=2ahUKEwjTwo6ZhvD8AhXXFzQIHbBaBvMQutcGKAF6BAgeEAU#htivrt=jobs&htidocid=Jv6nACpssD0AAAAAAAAAAA%3D%3D&fpstate=tldetail,Roosh,Full-time,NA,Ukraine,"Hello, future Rooshmate.
+
+Pawa is a venture studio that helps startups turn an idea into a product. Proud to be a part of business-ecosystem of Roosh — a Ukrainian company that creates and invests in AI and ML-focused projects, aiming to build Ukraine as the European center for artificial intelligence.
+
+We are looking for a skilled Machine Learning Engineer part-time who dares to go beyond average in our product QAI.
+
+We make games more fun for every player. Our solution uses Machine Learning to personalize the gaming experience, and improve players’ retention and lifetime value.
+
+You will join a team of game-changers. 🎮
+
+We are inherently different from any accelerator or incubator because we start working on a project as early as the idea stage. If you are passionate about moving startups from zero to one as we are, hurry up and send us your CV.
+
+Who are we looking for:
+• We are looking for someone passionate about researching and building novel AI/ML solutions to improve game... experiences.
+• You will be responsible for the research and implementation of ML pipelines, associated with gameplay data.
+• Your daily tasks will be evaluating ideas and concepts, conducting research, and doing experiments.
+• You should have a strong problem-solving ability and be in love with a true R&D lifestyle.
+
+Requirements:
+• Strong Python skills;
+• 4 + years experience in Data Science (pandas, numpy, scikit-learn etc);
+• Data preparation, feature engineering, ml algorithms applying;
+• 1 + years experience in Deep Learning (Pytorch etc.);
+• DL models pipeline development;
+• Experience with cloud(AWS);
+• Work with cloud instances.
+
+Nice to have:
+• Experience in Gaming
+• Experience with Reinforcement Learning algorithms
+
+How’s the hiring process going:
+
+Our hiring process is designed to ensure that we are a perfect match. So be ready to come across:
+
+— interview with Recruiter: we’ll talk about Roosh and answer all your questions,
+— intro call with your future Manager: we’ll discuss the role and the project in detail,
+— tech interview: we want to see how you think, bring ideas, and work with info. Then we’ll give you feedback.
+
+Still not sure whether to go for Roosh or not? Check our values to resonate with yours first here. Anyway, thanks for your interest.
+
+We’ll review your CV and everything you have sent us within five working days. If your background meets our needs — we’ll set up a call to get to know each other better. Otherwise, we aren’t quite ready to get along with you at this moment. But no worries — our journey has just started, and we’d love to stay in touch as our team grows and more opportunities emerge. We wish you the best of luck with your aspiration"
+Machine Learning Engineer (Zibra AI),NA,2023-01-30 12:40:33,https://www.google.com/search?q=Machine+Learning+Jobs+Ukraine&ibp=htl;jobs&sa=X&ved=2ahUKEwjTwo6ZhvD8AhXXFzQIHbBaBvMQutcGKAF6BAgeEAU#htivrt=jobs&htidocid=7jvT2FINczIAAAAAAAAAAA%3D%3D&fpstate=tldetail,Roosh,Full-time,NA,Ukraine,"Hello, future Rooshmate.
+
+ZibraAI is an ecosystem of the AI-assisted complementary tools for virtual content creation. Here at ZibraAI, we develop a system of tools that bring a new level of realistic visual effects, improve and speed up the development process, and provide a hyper-personalized in-game experience to everyone, working along three main tracks — data compression, visual effects creation, and 3d content generation.
+
+Proud to be a part of Roosh — a Ukrainian company that creates and invests in AI and ML-focused projects, aiming to build Ukraine as the European center for artificial intelligence.
+
+We are looking for a skilled and experienced Machine Learning Engineer who dares to go beyond average. You will join a team of 6 game changers led by Vladyslav Zavadskyi. If you are all into making the virtual universe more real than reality and bringing cutting-edge features — hurry up to join us.
+
+It’s all about you:
+
+— have practical expertise in Deep Learning,
+— know how to... find best possible baseline and how to conduct your own research to improve it,
+— have a problem-solving mindset and focused on obtaining the result,
+— love challenges and are able to learn and move fast,
+
+— proficient in C++, Python and DL/ML libs.
+
+Would be a plus:
+
+— experience with CG pipelines (3D graphics and geometry) esp. in connection with ML,
+— practical knowledge of CUDA and GPU programming.
+
+Perks:
+
+— make an impact on a global scale,
+— lots of challenges and growth opportunities,
+— high degree of professional freedom & autonomy,
+— team of skilled experts, who are also your friends,
+— stock options.
+
+How’s the hiring process going?
+
+Our hiring process is designed to ensure that we are a perfect match. So be ready to come across:
+
+— interview with Recruiter: we’ll talk about Roosh and answer all your questions,
+
+— intro call with your future Manager: we'll discuss the role and the project in detail,
+
+— test task and tech interview: we want to see how you think, bring ideas, and work with info. Then we’ll give you feedback,
+
+— culture fit interview: a final call with the team to make sure our culture and values click,
+
+— reference check: during the process, we’ll contact your previous workplaces to hear something even more exciting about you.
+
+Still not sure whether to go for Roosh or not? Check our values to resonate with yours first here. Anyway, thanks for your interest.
+
+We’ll review your CV and everything you have sent us within five working days. If your background meets our needs — we’ll set up a call to get to know each other better. Otherwise, we aren’t quite ready to get along with you at this moment. But no worries — our journey has just started, and we’d love to stay in touch as our team grows and more opportunities emerge. We wish you the best of luck with your aspiration"
+Machine Learning Engineer,NA,2023-01-30 12:40:33,https://www.google.com/search?q=Machine+Learning+Jobs+Ukraine&ibp=htl;jobs&sa=X&ved=2ahUKEwjTwo6ZhvD8AhXXFzQIHbBaBvMQutcGKAF6BAgeEAU#htivrt=jobs&htidocid=oDJaFA0qAk4AAAAAAAAAAA%3D%3D&fpstate=tldetail,It-Jim,Full-time,NA,Ukraine,Machine Learning Engineer
+"Computer Vision Engineer, Ukraine",2023-01-06,2023-01-30 12:40:34,https://www.google.com/search?q=Machine+Learning+Jobs+Ukraine&ibp=htl;jobs&sa=X&ved=2ahUKEwjTwo6ZhvD8AhXXFzQIHbBaBvMQutcGKAF6BAgeEAU#htivrt=jobs&htidocid=22mxqx2nYK4AAAAAAAAAAA%3D%3D&fpstate=tldetail,Lyft,Full-time,NA,Ukraine,"At Lyft, our mission is to improve people’s lives with the world’s best transportation. To do this, we start with our own community by creating an open, inclusive, and diverse organization.
+
+Our key ML projects are:
+
+Card Scan Model - Use Computer vision & ML to develop models that can verify actual physical credit cards for Lyft customers to confirm the ownership for credit cards and deter stolen card usage to prevent chargebacks.
+
+Face Auth Model - Use Computer vision & ML to improve models that can detect human faces and accurately match against existing or new pictures and help verify identity & mitigate abuse at Lyft.
+
+Responsibilities:
+
+• Own the ML roadmap for the Computer Vision ML initiatives (Card scan, Face Auth)
+• Improve our model's ability to read cards correctly and distinguish between real vs. fake cards.
+• Extract facial features to create a unique embedding that can be compared with another embedding. Match extracted features with ground truth embedding.
+• Check the... liveness of the person and card in real-time i.e. ensure there is a real person, card behind the camera to defeat recapture/spoofing
+• Develop the methodology, thresholds and assessment criteria to measure model performance.
+• Evaluate the productionzed model performance against product & biz OKRs.
+
+Experience:
+
+• 4+ years of programming experience in Python.
+• Proficiency in frameworks like Pytorch, Tensorflow, or Keras.
+• Experience with CV is desirable but not mandatory
+• Strong programming skills, familiarity with software development cycles, solid understanding of software concepts - data structures and algorithms.
+• Strong business sense and understanding of experimentation methodologies.
+
+Benefits:
+
+• Health insurance, life and personal accident insurance benefits
+• Mental health benefits
+• 28 days of paid time off in addition to 12 observed holidays
+• 1 Friday per month is company-wide Recharge day
+• Family building benefits
+• 18 weeks of paid parental leave. Biological, adoptive, and foster parents are all eligible"
+QA Automation (Machine Learning) — ISsoft Ukraine,2023-01-12,2023-01-30 12:40:34,https://www.google.com/search?q=Machine+Learning+Jobs+Ukraine&ibp=htl;jobs&sa=X&ved=2ahUKEwjTwo6ZhvD8AhXXFzQIHbBaBvMQutcGKAF6BAgeEAU#htivrt=jobs&htidocid=zpEhbcAljI0AAAAAAAAAAA%3D%3D&fpstate=tldetail,Coherent Solutions,Full-time,NA,Ukraine,"We are looking for engineer QA Automation for our team in Ukraine.
+
+About client:
+
+The project was founded through a Stanford University grant to fill a need to carry out advanced medical imaging research in a better way. The system captures images from MRI scanners, organizes those images, and integrates them for computation and sharing. Leveraging cloud scalability and automating research workflows, helps organizations scale research data and analysis, improve scientific collaboration and accelerate discoveries.
+
+Technologies:
+
+● Robot frawework
+● Selenium
+● UI testing
+● Python
+● CI GitLab
+● Docker
+● Requests(Python lib)
+● MongotDB(good to know)
+
+Job requirements:
+
+● Test development with Robot Framework API and Python
+● Direct communication with the customer:
+- Receiving requirements from the customer.
+- Submission of status and report on the work done.
+- Meeting with the customer twice a week
+● Analysis of functionality and test cases development in the test management system... ""Qase""
+● Regression testing
+● Support current tests in working
+● Adding new TC
+● Fixing and updating failed CI Pipeline
+
+ISsoft offers:
+
+● Opportunity to share experiences at internal meetings and conferences
+● 100+ technical and non-technical training for development and broadening of horizons
+● Career growth and development
+● Regular salary review based on employee performance
+● Medical insurance from the first working day
+● 15 sick leave are fully compensated
+● 18 working days of paid leave
+● IT Club Loyalty program gives a lot of discounts and bonuses
+● English courses
+● Remote work
+● Team sports activities, and corporate events
+
+Get to know us via video and send your CV.
+Join us! ,
+
+About Coherent Solutions
+We Build Software That Drives Business Results
+We build software solutions that reduce development costs and bring complex applications to market faster. Since 1995, we’ve delivered on 100% of our projects, and 90% of our clients come back to us for future projects.
+
+Company website:
+
+,
+
+Job posted on
+12 January 2023
+
+122 views
+
+13 applications"
+"Senior Software Engineer, Machine Learning Platform",NA,2023-01-30 12:40:35,https://www.google.com/search?q=Machine+Learning+Jobs+Ukraine&ibp=htl;jobs&sa=X&ved=2ahUKEwjTwo6ZhvD8AhXXFzQIHbBaBvMQutcGKAF6BAgeEAU#htivrt=jobs&htidocid=bgXWQYek29kAAAAAAAAAAA%3D%3D&fpstate=tldetail,Grammarly,Full-time,NA,Ukraine,"Grammarly empowers people to thrive and connect, whenever and wherever they communicate. Every day, over 30 million people and 50,000 teams around the world rely on our AI-powered communication assistance technology. All of this begins with our team collaborating in a values-driven and learning-oriented environment.
+
+To achieve our ambitious goals, we’re looking for a Lead ML Platform Engineer to join our ML Infra team. Our AI-powered writing assistant leverages the latest NLP and DL technologies for state-of-the-art Grammatical Error Correction and advanced semantic features to help our users communicate clearly and confidently.
+
+This role will be the technical and thought leader of a nimble and growing team that builds ML Platform, a set of technologies allowing our ML engineers, applied researcher scientists, and computational linguists to productively focus on their specialized expertise and spend less time on orchestration and infrastructure. This platform will accelerate the... development of flagship Premium features that help users improve their communication.
+
+Grammarly’s engineers and researchers have the freedom to innovate and uncover breakthroughs—and, in turn, influence our product roadmap. The complexity of our technical challenges is growing rapidly as we scale our interfaces, algorithms, and infrastructure. Read more about our stack or hear from our team on our technical blog.
+
+Your impact
+
+As Lead ML Platform Engineer, you will:
+• Architect and build a machine learning platform to accelerate the development of ML solutions across the company and serve multiple constituents and stakeholders: ML engineers, applied research scientists, computational linguists, and data scientists who build user-facing features that rely on machine learning.
+• Research existing open-source tools and MLOps and Platform approaches taken by other companies to ensure we are building best-in-class technology while leveraging available components.
+• Guide the organization through buy vs. build trade-offs.
+• Drive toward material reduction in time spent by internal stakeholders on infrastructure work developing and expanding new features and capabilities while coordinating across many teams using ML to ensure their core needs are addressed, minimal time is spent on migrations, and the platform increases productivity.
+• Scale our ability to reuse models, features, and code in ML systems across the company.
+• Produce system architectures and designs that balance the needs of multiple constituencies and make core scenarios seamless.
+• Enable researchers translate models they create into systems operating at scale.
+• Help make Grammarly’s diverse array of machine learning systems more maintainable by providing a common set of infrastructure, orchestration, and monitoring.
+
+We’re looking for someone who
+• Embodies our EAGER values—is ethical, adaptable, gritty, empathetic, and remarkable.
+• Is able to collaborate in person 2 weeks per quarter, traveling if necessary to the hub where the team is based.
+• Understands traditional machine learning algorithms as well as modern deep learning approaches.
+• Is aware of unique challenges with sparse feature sets and the Transformer-based pre-trained deep learning models central to NLP.
+• Understands data structures and algorithms at a level sufficient to write performant code when working with large datasets or large incoming data streams.
+• Has experience with system design and building internal tools.
+• Has a consistent record working with internal partners (data platform, analytics, and data science teams) and strategic stakeholders (product managers and security teams).
+• Stays up-to-date in the fast-moving field of ML, DL, NLP, and MLOps.
+• Is aware of existing ML cloud platforms and tools and of the excellent platforms others are using, such as Michelangelo or FBLearner Flow.
+
+Support for you, professionally and personally
+• Professional growth: We hire people we trust, and we give team members autonomy to do their best work. We also support professional development with training, coaching, and regular feedback.
+• A connected team: Grammarly builds a product that helps people connect, and we apply this mindset to our own team. We have a highly collaborative culture supported by our EAGER values. We also take time to celebrate our colleagues and accomplishments with global, local, and team-specific events and programs.
+• Comprehensive benefits: Grammarly offers all team members competitive pay along with a benefits package encompassing superior health care (including mental health benefits). We also offer support to set up a home office, ample and defined time off, gym and recreation stipends, admission discounts, and more"
+"Data Scientist, Ukraine",2023-01-06,2023-01-30 12:40:35,https://www.google.com/search?q=Machine+Learning+Jobs+Ukraine&ibp=htl;jobs&sa=X&ved=2ahUKEwjTwo6ZhvD8AhXXFzQIHbBaBvMQutcGKAF6BAgeEAU#htivrt=jobs&htidocid=pKxNnpsACJwAAAAAAAAAAA%3D%3D&fpstate=tldetail,Lyft,Full-time,NA,Ukraine,"At Lyft, our mission is to improve people’s lives with the world’s best transportation. To do this, we start with our own community by creating an open, inclusive, and diverse organization.
+
+Data Science is at the heart of Lyft’s products and decision-making. As a member of the Science team, you will work in a dynamic environment, where we embrace moving quickly to build the world’s best transportation. Data Scientists take on a variety of problems ranging from shaping critical business decisions to building algorithms that power our internal and external products. We’re looking for passionate, driven Data Scientists to take on some of the most interesting and impactful problems in ridesharing.
+
+As a Data Scientist, Decisions, you will leverage data and rigorous, analytical thinking to shape the company’s product and business decisions. You will identify and scope opportunities, shape priorities, recommend solutions, design experiments, and measure impact. You will bring a... quantitative mindset to decision-making in partnership with product, business, and operations stakeholders throughout the organization.
+
+Sample problems that we solve:
+
+• What’s the marginal effect of 1min of ETA to conversion and cancels ?
+• Where are our drivers and passengers ?
+• How can we get them from point A to point B ?
+• What defines good pick-up and drop-off spots ?
+• What do trips tell us about map defects ?
+
+Responsibilities:
+
+• Leverage data and analytic frameworks to identify opportunities for growth and efficiency
+• Partner with product managers, engineers, marketers, designers, and operators to translate data insights into decisions and action
+• Design and analyze experiments; communicate results and act on launch decisions
+• Develop analytical frameworks to monitor business and product performance
+• Establish metrics that measure the health of our products, as well as rider and driver experience
+
+Experience:
+
+• Degree in a quantitative field such as statistics, economics, applied math, operations research, engineering or relevant work experience. Advanced degrees are preferred
+• 3+ years of industry experience in a data science or analytics role
+• Proficiency in SQL - able to write structured and efficient queries on large data sets
+• Experience in programming, especially with data science and visualization libraries in Python or R
+• Strong oral and written communication skills, and ability to collaborate with and influence cross-functional partners
+
+Benefits:
+
+• Health insurance, life and personal accident insurance benefits
+• Mental health benefits
+• 28 days for paid time off in addition to 12 observed holidays
+• 1 Friday per month is company-wide Recharge day
+• Family building benefits
+• 18 weeks of paid parental leave. Biological, adoptive, and foster parents are all eligible"
+Senior Software Engineer - ML&DS team,NA,2023-01-30 12:40:36,https://www.google.com/search?q=Machine+Learning+Jobs+Ukraine&ibp=htl;jobs&sa=X&ved=2ahUKEwjTwo6ZhvD8AhXXFzQIHbBaBvMQutcGKAF6BAgeEAU#htivrt=jobs&htidocid=PaCGArAHu0IAAAAAAAAAAA%3D%3D&fpstate=tldetail,Sift,Full-time,NA,"Kyiv, Ukraine","Our Team:
+
+Our ML teams are part of our core Data Science and Machine Learning group and consist of Online and Offline ML teams.
+
+The Online ML team is responsible for building and operating low-latency and data-intensive systems such as a feature store, feature extraction, ML model serving, and versioning systems.
+
+The Offline ML team is responsible for ML model release process, ML pipelines, model training, and validation.
+
+Tech stack:
+
+- Java
+
+- GCP
+
+- Spark
+
+- Flink
+
+- Dataflow
+
+- Dataproc
+
+- Airflow
+
+Opportunities for you:
+• Professional growth: quarterly Growth Cycles instead of performance review;
+• Experience: knowledge sharing through biweekly Tech Talks sessions. You will learn how to build projects that handle petabytes of data and have small latency and high fault tolerance;
+• Business trips and the annual Sift Summit, in 2022, Summit took place in California;
+• Remote work approach: you can choose where you work better.
+
+What would make you a strong fit:
+• 7+ years of... professional software big data development experience;
+• Experience building highly available low-latency systems using Java, Scala, or other object-oriented languages;
+• Knowledge of GCP or AWS cloud stack for web services and big data processing;
+• B.S. in Computer Science (or related technical discipline), or related practical experience.
+
+Bonus points:
+• Experience working with large datasets and data processing technologies for both stream and batch processing, such as Apache Spark, Apache Beam, Flink, and MapReduce;
+• Experience solving problems with production systems, and building solutions and automation to prevent them from reoccurring;
+• Familiarity with practical challenges in ML systems such as feature extraction and definition, data validation, training, monitoring, and management of features and models;
+• Practical knowledge of how to build end-to-end ML workflows;
+• Experience with building an ML feature store for batch and real-time aggregation/serving.
+
+What you’ll do:
+• Building and operating low-latency and data-intensive systems;
+• Designing, implementing, and operating large-scale distributed systems;
+• Collaborate with US-based ML teams and work with them in close partnership on core components of Sift products.
+
+A little about us:
+
+Sift is the leading innovator in Digital Trust & Safety. Hundreds of disruptive, forward-thinking companies like Doordash, Binance, and Twitter trust Sift to deliver an outstanding customer experience while preventing fraud and abuse.
+
+Sift is a series E company with a valuation of $1.7 billion as a unicorn. In 2021, Sift acquired 2 startups: Chargeback and Keyless to extend the company's product portfolio. Sift was nominated as the Best Employer in 2020 in Seattle.
+
+Sift is a big data ML-based platform that processes 70B API requests per month, processes 1PB of data, and tens of thousands of transactions per second.
+
+Benefits and Perks:
+• A compensation package that consists of financial compensation, a biannual 5% bonus, and stock options;
+• Medical, dental, and vision coverage;
+• 50$ for sports and wellness;
+• Education reimbursement: books, education courses, conferences;
+• Flexible time off: we follow an unlimited vacation approach;
+• Tuned work schedule to Ukraine timezone despite US offices location: biweekly demo sessions are optional for our team and we watch them from recording;
+• Mental Health Days: additional 4 day-offs;
+• English courses and social activities inside the company that allow improving your public speaking and language.
+
+Let’s Build It Together
+
+At Sift, we are intentionally building a diverse, equitable, and inclusive workplace. We believe that diversity drives innovation, equity is a fundamental right, and inclusion is a basic human need. We envision a place where all Sifties feel secure sharing their authentic selves and diverse experiences with their teams, their customers, and their community – ultimately using this empowerment and authenticity to build trust and create a safer Internet.
+
+This document provides transparency around the way in which Sift handles personal data of job applicants: https://sift.com/recruitment-privacy"
+"Product Manager, Machine Learning at Grammarly",NA,2023-01-30 12:40:36,https://www.google.com/search?q=Machine+Learning+Jobs+Ukraine&ibp=htl;jobs&sa=X&ved=2ahUKEwjTwo6ZhvD8AhXXFzQIHbBaBvMQutcGKAF6BAgeEAU#htivrt=jobs&htidocid=ytB9Gmogc1UAAAAAAAAAAA%3D%3D&fpstate=tldetail,Grammarly,Full-time,NA,"Kyiv, Ukraine","You seem a little late
+
+Most likely, this vacancy is closed because it has already made someone's Mondays happy.
+But don't worry - we have something to offer you!
+See other open features on the site
+
+look
+
+Grammarly offers a remote-first hybrid working model. Team members can work primarily remotely. Teams will meet in person every quarter in one of Grammarly’s hubs, currently in San Francisco, Vancouver, New York, and Kyiv. To ensure that teams are able to overlap in their working hours and to meet face-to-face when needed, all team members need to live within three time zones of their direct team.
+
+Grammarly team members who will be collaborating at our Kyiv hub must be based in Ukraine.
+
+The opportunity
+
+Grammarly empowers people to thrive and connect, whenever and wherever they communicate. Every day, 30 million people and 30,000 teams around the world use our AI-powered writing assistant. All of this begins with our team collaborating in a values-driven and learning-oriented... environment.
+
+To achieve our ambitious goals, we’re looking for a Senior Product Manager, Machine Learning, to join our Product team. The Senior Product Manager will oversee a strong group of ML engineers, research scientists, computational linguists, and data scientists owning critical, zero-to-one product initiatives. Initial focus areas will include developing ML capabilities in the space of natural language understanding and generation to bring writing assistance to millions of users. This includes understanding and applying cutting-edge technologies around large language models (think BERT or Pegasus) and semantics to rethink the future of communication. The Senior Product Manager, Machine Learning, will be responsible for setting short- and long-term strategies leading execution, experimentation, and productionizing while also working cross-functionally to influence roadmaps across Grammarly.
+
+Your impact
+
+As Senior Product Manager, Machine Learning, you will apply an immense amount of creativity to figure out how to leverage the emerging technology of language understanding and generation to solve real communication problems that affect millions of people every day. The unique challenge of this position is to be incredibly empathetic to be able to understand the difficulties people have with communication—while staying at the forefront of the rapidly changing AI/NLP field.
+
+In this role, you will:
+• Lay the technical foundation to use state-of-the-art ML approaches to help users communicate better, operating at a massive scale.
+• Be accountable for the data and ML quality of Grammarly’s differentiated user experiences that help millions of users achieve their communication goals.
+• Be able to generate business impact at a massive scale through rapid iteration and hypothesis-driven experimentation.
+
+Within your first thirty days, you will familiarize yourself with the existing foundation that powers Grammarly. Over time you will start to validate product and technology hypotheses in the space of machine learning and NLP. In your first six months, you will deliver impactful product experiences to millions of users every single day.
+
+We’re looking for someone who
+• Embodies our EAGER values—is ethical, adaptable, gritty, empathetic, and remarkable.
+• Appreciates complex and technical products, elegant user experiences, and how product impacts metrics and growth.
+• Understands the complexities of building ML and NLP products and has experience prototyping, iterating on, evaluating, and scaling large-scale ML/NLP systems.
+• Can connect ML value propositions to actual user problems.
+• Understands engineering complexity and has solid tech literacy and pattern recognition for discussing solutions and estimates.
+• Can build exceptional, cross-functional relationships across Marketing, Applied Research, Engineering, Computational Linguistics, and Analytics teams.
+• Has developed and successfully owned key product metrics/indicators that map directly or indirectly to company performance, and can analyze and pull meaningful insights from both quantitative and qualitative data.
+
+Support for you, professionally and personally
+• Professional growth: We hire people we trust, and we give team members autonomy to do their best work. We also support professional development with training, coaching, and regular feedback.
+• A connected team: Grammarly builds a product that helps people connect, and we apply this mindset to our own team. We have a highly collaborative culture supported by our EAGER values. We also take time to celebrate our colleagues and accomplishments with global, local, and team-specific events and programs.
+• Comprehensive benefits: Grammarly offers all team members competitive pay along with a benefits package encompassing superior health care (including mental health benefits). We also offer support to set up a home office, ample and defined time off, gym and recreation stipends, and more.
+• Relocation support: We can help you relocate to Kyiv and make the experience smooth and easy. Grammarly provides a relocation bonus, legal and visa support, temporary housing, moving support and travel expenses, assistance in finding schools for your kids—and all other information you might need.
+
+We encourage you to apply
+
+At Grammarly, we value our differences, and we encourage all—especially those whose identities are traditionally underrepresented in tech organizations—to apply. Grammarly is an equal opportunity company. We do not discriminate on the basis of race, religion, color, gender expression or identity, sexual orientation, national origin, citizenship, age, marital status, veteran status, disability status, criminal prosecution, judgment in a criminal case, or any other characteristic protected by law.
+
+Please note that Grammarly’s COVID-19 vaccination policy requires that all team members in North America be vaccinated against COVID-19 to meet in person for Grammarly business or to work from a North America hub location. It is expected that this will be a requirement for this role. Qualified candidates in North America who cannot be vaccinated for medical reasons or because of a sincerely held religious belief may request a reasonable accommodation to this policy. For Ukraine, this policy requires team members to be vaccinated or produce a daily negative COVID-19 test administered at the Kyiv hub to work from the hub or attend in-person meetings.
+
+#LI-Remote
+
+Job information
+
+Published: 15 березня 2022
+
+Up to: 15 квітня 2022
+
+Do you want to apply?
+
+Please, login or register to see details how to apply for this job.
+
+Grammarly"

@@ -1,0 +1,1787 @@
+Job-Title,Date-Posted,Date-Scraped,Url,Company,Job-Type,Salary,Location,Description
+Senior Machine Learning Engineer,NA,2023-01-30 12:22:12,https://www.google.com/search?q=Machine+Learning+Jobs+Greece&ibp=htl;jobs&sa=X&ved=2ahUKEwizlvCNgvD8AhVXJDQIHTZvCggQutcGKAF6BAgWEAU#htivrt=jobs&htidocid=MWhdMethLRIAAAAAAAAAAA%3D%3D&fpstate=tldetail,Captify®,Full-time,NA,Greece,"ABOUT CAPTIFY
+
+Captify is the leading Search Intelligence Platform for the open web and the largest independent holder of first-party search data outside of Google, connecting the real-time searches from over 2 billion devices globally. Its Search Intelligence technology powers omnichannel programmatic advertising and real-time insights for the world’s biggest brands, such as Disney, Unilever, eBay, Mercedes-Benz, Microsoft, Nestlé, GSK, Uber, Mars, P&G, Sony and Toyota—without reliance on third-party cookies. Captify brings brands more customers, publishers greater yield and consumers the most relevant digital experiences.
+
+OUR CULTURE AND VALUES:
+
+Here at Captify we are proud of our culture - It’s contagious. Pass it on.
+
+Step inside any of our global offices and one thing that is blissfully obvious is that while we’re putting blood, sweat and tears into disrupting the Search game, we’re having a seriously good time doing it. We’ve travelled the world together, enjoyed Captify... Festivals, parties and our famous events across every market. We always take time to stop to celebrate milestones and wins.
+
+We champion diversity and inclusion. Our 'BeTheChange' programme and internal D&I Taskforce brings our teams together to challenge, learn and build a more equal Captify.
+
+We live by our core values:
+• Building this together
+• Give a shit
+• Fail fast to succeed faster
+• Unlimited potential
+
+Find out more about our culture here: https://careers.captify.co.uk/
+
+ABOUT YOU
+
+We are looking for a Machine Learning Engineer with experience in natural language processing and/or video analysis and a passion for innovation to join a recently established Contextual TV team. The team is researching, designing and developing cutting-edge Deep Learning data fusion technology to classify television content into Captify’s taxonomy of intent segments; finding the best program for each audience segment. The role offers exceptional opportunities to help develop new product lines from the ground up, and have ownership of both R&D and deployment processes. With exciting projects, technologies and services in the pipeline now is a great time to be part of our journey.
+
+KEY RESPONSIBILITIES
+
+What you’ll be doing:
+• Researching, designing, developing, maintaining and supporting Captify’s TV classification product, including:
+• Researching video / audio classification algorithms
+• Designing training and evaluation protocols
+• Implementing models in Jupyter Notebooks
+• Working with Software/DevOps engineers to productionise and scale classification and segmentation pipelines (this is not a research-only role)
+• Producing insight and performance metrics to share with internal and external stakeholders
+• Setting up monitoring for performance metrics and overall system behaviour including alerts for any anomaly detected
+• Working with the product manager to scope, plan, and deliver the roadmap
+• Working with data science and the performance team to build hypotheses, design tests, monitoring and KPIs
+• Join Captify’s company wide Machine Learning chapter and share experiences and learnings with the wider team
+
+REQUIREMENTS:
+
+What you need to be successful:
+• Experience building production quality machine learning systems
+• Have experience in video analysis and / or NLP and research in general
+• Good working knowledge of Python and Deep Learning frameworks (we use Pytorch)
+• Some experience in Spark and Databricks is a plus
+• Passionate team player with a desire to share knowledge and learn from others
+• Bachelor degree in a STEM field; Research degree is a plus
+• Excellent communication skills in English
+• Some experience in the AdTech sector is advantageous
+
+YOU WILL ENJOY
+• 25 days holiday + bank holidays + your birthday + volunteer day
+• Regular shut down days, including the festive period
+• Access to SPILL - instant therapy support
+• Access to Mental Health First Aiders
+• Financial wellbeing support
+• Work from home and flexible/core working hours
+• Work from any Captify office in the world
+• Eyecare vouchers
+• Legendary Summer and End of Year Festive parties
+
+EQUAL OPPORTUNITIES
+
+You are welcome at Captify for who you are, no matter where you come from, what you look like, or what your search history says about you. At Captify, equality is at the core of our culture and we are committed to building an inclusive global team that represents a variety of backgrounds, perspectives, beliefs, and experiences. The more diverse we are, the richer our community and the broader our impact. We don’t want you to fit in with our culture, we want you to add to our culture.
+
+For candidates, view our EU HR Candidate Privacy Notice here"
+Natural Language Processing (NLP) Engineer (Greece),NA,2023-01-30 12:22:13,https://www.google.com/search?q=Machine+Learning+Jobs+Greece&ibp=htl;jobs&sa=X&ved=2ahUKEwizlvCNgvD8AhVXJDQIHTZvCggQutcGKAF6BAgWEAU#htivrt=jobs&htidocid=m7x8AFifrdIAAAAAAAAAAA%3D%3D&fpstate=tldetail,Causaly,Full-time,NA,"Athens, Greece","About us
+
+Causaly accelerates how humans acquire knowledge and develop insights in Biomedicine. We enable researchers and decision-makers to discover evidence from millions of academic publications, clinical trials, regulatory documents, patents and other data sources... in minutes. Using our AI technology, we are developing the world’s biggest knowledge platform in Biomedicine powered by a high-precision Knowledge Graph.
+
+We work with some of the world's largest biopharma companies and institutions on use cases spanning Drug Discovery, Safety and Competitive Intelligence. For example, read how Causaly is used in Target Identification here: AI-supported-target-identification-for-systemic-lupus-erythematosus.
+
+We are backed by top VCs including Index Ventures, Pentech and Marathon.
+
+What we are looking for
+
+We are looking for two NLP engineers, mid-level or senior, to help us grow our NLP team and develop our core products. In this role, NLP engineers will:
+• Collaborate with a... multicultural team of engineers whose focus is in building information extraction pipelines operating on various biomedical texts
+• Leverage a wide variety of techniques ranging from linguistic rules to transformers and deep neural networks in their day to day work
+• Research, experiment with and implement state of the art approaches to named entity recognition, relationship extraction entity linking and document classification
+• Work with professionally curated biomedical text data to both evaluate and continuously iterate on NLP solutions
+• Collaborate with data engineers to understand the structure and parse an ever-increasing volume and diversity of biomedical texts
+• Produce performant and production quality code following best practices adopted by the team
+• Improve (in performance, accuracy, scalability, security etc...) existing solutions to NLP problems
+• Champion a product mentality; balancing finding solutions that deliver high precision/recall, with iterating over simpler approaches that can give value to our customers in regular intervals
+• Drive the team forward with passion, excitement, and genuine interest in what we do while being respectful of others and fun to work with
+
+Requirements
+
+Minimum Requirements
+
+At a bare minimum, successful candidates will have:
+• Master’s degree in Computer Science, Mathematics or a related technical field
+• 2+ years experience working as an NLP or ML Engineer solving problems related to text processing
+• Excellent knowledge of Python and related libraries for working with data and training models (e.g. pandas, PyTorch)
+• Solid understanding of modern software development practices (testing, version control, documentation, etc…)
+• Excellent knowledge of modern natural language processing tools and techniques
+• Excellent understanding of the fundamentals of machine learning
+• A product and user-centric mindset
+• Excellent problem solving, ownership, organizational skills, high attention to detail and quality
+• Excellent knowledge of verbal and written English
+
+Bonus Requirements
+
+Any of the following requirements will be considered a plus:
+• PhD degree or equivalent level academic research in Machine Learning, Natural Language Processing or Computational Linguistics
+• Experience with deploying machine learning and/or NLP products in production
+• Knowledge of linguistics and/or foreign languages
+• Experience working with transformers and deep neural networks for NLP problems
+• Experience in building complex grammars for rule based NLP approaches
+• Experience working with biomedical texts and ontologies
+• Knowledge of ontologies and related semantic data tools such as SPARQL
+• Experience with MLOps and tools for orchestrating data pipelines (e.g. Airflow)
+• Knowledge of Scrum and agile practices
+• UNIX scripting skills
+
+Benefits
+• Competitive Salary (see below)
+• Hybrid working (home + office)
+• Apple or Dell equipment (based on your OS preference)
+• Annual training budget for professional development (e.g. books, video tutorials)
+• Excessive sick-leave package
+• Plenty of opportunity to take on more responsibility as we grow
+• Be part of a multinational, diverse and exceptional team to build a transformative knowledge product that has real impact
+• Annual team retreat to secret destination
+
+The salary we offer is based on skills, professional experience and team fit. The applicant will be required to prove their qualifications via interview and written assignment.
+
+Causaly welcomes applications from all backgrounds. We are committed to diversity regardless of gender, religion or belief, ethnic or national origin, disability, age, citizenship, marital, domestic or civil partnership status, sexual orientation or gender identity. If you have a disability or additional need that requires accommodation, please do not hesitate to let us know.
+
+Causaly focuses on Healthcare, Pharmaceuticals, Machine Learning, Bioinformatics, and Artificial Intelligence. Their company has offices in London, Athens, and Remote. They have a mid-size team that's between 51-200 employees. To date, Causaly has raised $4.8M of funding; their latest round was closed on November 2019.
+
+You can view their website at https://www.causaly.com or find them on Twitter and LinkedIn"
+Machine Learning Engineer,NA,2023-01-30 12:22:13,https://www.google.com/search?q=Machine+Learning+Jobs+Greece&ibp=htl;jobs&sa=X&ved=2ahUKEwizlvCNgvD8AhVXJDQIHTZvCggQutcGKAF6BAgWEAU#htivrt=jobs&htidocid=K4ub_XhHSy8AAAAAAAAAAA%3D%3D&fpstate=tldetail,Kaizen Gaming,Full-time,NA,"Athens, Greece","The Team
+
+At Kaizen, our aim is to make data driven decisions in order to automate our servicers while also focusing on offering tailored customer experiences to our customers. Our machine learning team is dedicated towards this mission by building a variety of models, from binary classification tasks up to recommendation systems. We focus on transforming business needs into production applications and we cover a wide range of business sectors utilizing different data types and handling a broad project diversity.
+
+Our teams comprise of three different roles, data scientists, machine learning engineer and data engineers so that they include the full skillset to deliver projects to production.
+
+The Role
+
+We are looking for experienced machine learning engineers to support our teams. The role should combine software engineering skills with strong knowledge of MLOps and machine learning algorithmic understanding.
+
+Responsibilities:
+• Develop production ready pipelines;
+• Write CI/CD... pipelines;
+• Implement model diagnostics such as evaluation, monitoring flows etc.;
+• Automate model deployment, enable REST API model endpoints;
+• Develop scalable model serving flows;
+• Work on cluster optimisation and scalability;
+• Develop and maintain internal tools and libraries.
+
+Requirements
+
+Must have:
+• A background in Computer Science, Statistics, Math or related field;
+• Solid software background in OOP;
+• 3+ years of hands-on experience in Python;
+• Understanding of the ML project lifecycle;
+• Hands on experience with MLOps;
+• Knowledge of version control tools and application development processes;
+• Understanding of machine learning algorithms;
+• Experience with Spark (PySpark or scala);
+• Strong skills in teamwork, communication and analytical thinking;
+• Fluency in English, both oral and written.
+
+Nice to have:
+• Experience with Azure / Databricks, Azure DevOps;
+• Knowledge of SQL;
+• Knowledge of MLflow and/or Kuberflow.
+
+Kaizen Gaming Perks
+
+🕑We offer both work from the office (hybrid model) & remote working options.
+🏃 A buddy will support you with your onboarding.
+💸Competitive salary package and bonus scheme.
+👩‍⚕️ Health and life insurance for you and your family.
+💰 Monthly allowance for lunch & commuting expenses.
+💻Nice rigs - 2.5K monitor, latest i7, tons of RAM, fast SSD.
+📚 Pluralsight, unlimited access to Udemy & continuous training for all your learning and development needs.
+⭐Clear career paths & a developmental 360° feedback framework.
+✈️ Relocation package and ""Brain Gain"" relocation bonus for Greek expats"
+Machine Learning Engineer,2023-01-26,2023-01-30 12:22:13,https://www.google.com/search?q=Machine+Learning+Jobs+Greece&ibp=htl;jobs&sa=X&ved=2ahUKEwizlvCNgvD8AhVXJDQIHTZvCggQutcGKAF6BAgWEAU#htivrt=jobs&htidocid=ob9SmUuP40wAAAAAAAAAAA%3D%3D&fpstate=tldetail,Agroknow,Full-time,NA,"Athens, Greece","About
+
+Agroknow is the food safety intelligence company that predicts food risks to help prevent product recalls. Our mission is to ensure safer and more sustainable food for consumers worldwide.
+• We are a global expert in food & agriculture data, specializing in AI and big data applications in the food supply chain since 2008.
+• We have been trusted by household brands like The Coca-Cola Company, McDonald's & Unilever, as well as international organizations like FAO of the United Nations.
+• We have received awards for our work from the Stelios Foundation, Elastic.co, the European Commission, the European Food Safety Authority, the Greek Federation of Enterprises (SEV), and others.
+• Proudly based in Greece, working with partners & clients around the world.
+• We are a culture-driven organization that is strongly committed to a work environment that puts forward teamwork, respects everyone, speaks openly, demands accountability, and celebrates walking the extra mile.
+
+Job Purpose
+
+We... are currently seeking a knowledgeable and enthusiastic Machine Learning Engineer with strong skills to join our Data Science team in Athens. We are looking for people with professional experience in advanced Predictive Analytics, Machine Learning, Neural Networks and having an urge to understand deeper algorithms, datasets, and business needs. The right candidate should have a solid technical background, a business-oriented mindset, and enthusiasm to learn and apply new technologies.
+
+As a Machine Learning Engineer, you will report to the Data Science Team Lead. You will be joining a talented team of Engineers, Data Scientists, and Data Engineers working on state-of-the-art technology products and solutions.
+• The mission of our Machine Learning Engineer is to assist in the development, evaluation, and deployment of food risk prediction models that will help food safety professionals worldwide to prevent recalls and foodborne diseases.
+• Uses state-of-the-art software and machine learning technologies to develop a library of reliable prediction models for hazards, fraud issues, ingredients, raw materials, and finished products.
+• Helps the Data Science team and contributes to our company's strategy in becoming the global market leader in food risk intelligence solutions, being part of our Data Science team and reporting directly to the Data Science Manager.
+• Helps the elaboration and implementation of the critical development milestones of Agroknow's 3 years predictions development roadmap.
+• Works with other engineers in the company (i.e., data science, data services, innovation, software engineering) to help all teams contribute expertise and insights to our predictions’ suite activities.
+• Within the next 3 years, improves and enriches the assets and the performance of the Data Science team to produce state-of-the-art solutions and insights.
+
+Responsibilities
+• Elaborates data analysis and feature engineering in time-series data to define the golden features and datasets for the forecasting models of the predictions.
+• Develops and applies cutting-edge machine learning and prediction algorithms for the forecasting models of global and tailor-made predictions.
+• Sets up and builds experimental pipelines for the forecasting models along with Quality Assurance standards and processes of the predictions
+• Participates in the deploying and scaling of the forecasting models and predictions into a production environment as microservices utilizing Rest API frameworks.
+• Develops and maintains an extendable code standard for the team and keeps up to date with state-of-the-art software technologies.
+• Ensures the high quality and performance of the predictions by implementing understandable and clear documentation for the new features along with the appropriate unit tests of the codebases.
+• Help to ensure that the prediction pipelines are up, working, and operating in a secure environment.
+• Helps the development and guidance of engineers within the team.
+
+Required Qualifications
+• Being self-driven, flexible, and having a big smile
+• Dedicated problem-solver who can work in a fast-paced environment that requires fresh thinking and the capacity to successfully manage a pipeline of duties
+• 3+ years of working experience with Python and object-oriented design concepts
+• 2+ years of relevant experience in the fields of Predictive Modeling, Machine Learning, and Neural Networks
+• Hands-on experience working with algorithms, computational complexity, statistics, and ML/AI techniques
+• Hands-on experience with applying statistical techniques such as regression, feature engineering, time-series forecasting, experimental and design, etc. to solve business problems
+• Experience with Deep Learning frameworks like Keras and TensorFlow
+• Familiarity with relational and NoSQL databases, including MySQL and MongoDB
+• Experience working with UNIX-based environments
+• Familiarity with code management tooling such as Git, GitHub, Gitlab, Bitbucket
+• Excellent oral and written skills in English
+
+Nice To Have
+• Familiarity with deploying and scaling models into a production environment as microservices
+• Familiarity with the Machine Learning lifecycle (i.e., MLFlow) is a plus
+• Working experience with agile methodologies
+
+What We Offer:
+• A remote-first working environment with flexible working hours, an open vacation policy, and 4-days working weeks during July & August.
+• A competitive compensation package that combines base salary with company-wide performance bonuses.
+• Additional benefits, such as private health insurance, and other perks that can make your work life easier.
+• Role-based training & development.
+• An exceptional team spirit & culture with wonderful people doing amazing things"
+Data Scientist/ AI Developer,NA,2023-01-30 12:22:14,https://www.google.com/search?q=Machine+Learning+Jobs+Greece&ibp=htl;jobs&sa=X&ved=2ahUKEwizlvCNgvD8AhVXJDQIHTZvCggQutcGKAF6BAgWEAU#htivrt=jobs&htidocid=GpgAKkT8nH8AAAAAAAAAAA%3D%3D&fpstate=tldetail,Incelligent,Full-time,NA,"Nea Smyrni, Greece","We are looking for a bright Machine Learning Engineer to join our growing engineering team in Athens.
+
+Who We Are
+
+Incelligent provides software solutions to help large corporations achieve digital transformation through the usage of Big Data and ML-powered Analytics. Our platform enables industrial deployment of AI models as part of integrated predictive analytics solutions for various domains such as Banking/Financial Institutions (Risk, Marketing), Retail (Recommendation), Telecommunications (Forecasting, KPI modelling), Compliance (Image Processing). We also perform research and development activities that involve state-of-the-art ML techniques (e.g. LSTM, CNN, GAN, ODENet, GNN) for our product roadmap.
+
+What You Will Be Doing
+• Design and develop new predictive machine learning and artificial intelligence algorithms for multiple industrial domains
+• Integrate ML models into the production pipeline of our solutions
+• Analyze datasets to identify patterns and extract insights
+•... Visualize and present dataset findings and features
+
+Minimum requirements:
+• MSc in Artificial Intelligence, Data Science, Statistics or other related fields
+• Minimum 3 years of experience in data science/ML using at least one of Python, Scala & Java
+• Strong SQL knowledge is required for data probing/preparation
+• Verified knowledge of descriptive statistics, correlation analysis and hypotheses testing
+• Experience in applied traditional/shallow learning techniques for supervised and unsupervised tasks (scikit-learn, other)
+• Verified model tuning experience including model performance analysis, error KPIs and hyperparameter tuning via cross validation techniques
+• Experience at least one python deep learning framework for neural networks: TensorFlow, Keras, PyTorch
+• Industrial or academic experience with at least one deep-learning model family (RNN, CNN, GAN, DRL, DBN, etc.)
+• Knowledge of code version control via Git
+
+Nice to have:
+• PhD in Artificial Intelligence, Data Science, Deep learning or related fields.
+• Experience with ML-Ops framework adaptation (e.g. ML-Flow-Tracking, PyCaret)
+• Knowledge of data science and data visualization tools (Jupyter, Superset, Zeppelin or other)
+• Experience with Big Data - infrastructure & query engines (Spark, HDFS, Hive, Impala, Trino) as well as Big ML tools (e.g. SparkML)
+• Familiarity in deploying ML models as REST APIs (MLFlow Serve, PyCaret, FastAPI)
+• Familiarity with Docker and application packaging
+
+Other qualifications
+• Strong oral and written communication skills
+• Fluent in English
+• Eagerness to learn modern technologies
+• Ability to deliver in time-critical situations in an organized way
+• Analytical capabilities and attitude to problem solving
+• Team motivation
+• Highly competitive salary based on your skills, reviewed upwards on a regular basis, based on your performance.
+• Participation in state-of-the-art projects and tech challenges
+• Personal and professional development, amongst industry experts and talented people
+• Continuous learning, having access to broad resources for professional and personal development
+• Friendly environment and fun team members
+• Modern workspace, at a very good location
+• Commitment to Equal Employment Opportunity
+
+All applications will be treated with strict confidentiality"
+Data scientist - Machine Learning,2023-01-20,2023-01-30 12:22:14,https://www.google.com/search?q=Machine+Learning+Jobs+Greece&ibp=htl;jobs&sa=X&ved=2ahUKEwizlvCNgvD8AhVXJDQIHTZvCggQutcGKAF6BAgWEAU#htivrt=jobs&htidocid=Qq7s3xpUUScAAAAAAAAAAA%3D%3D&fpstate=tldetail,EY,Full-time,NA,"Athens, Greece","At EY, you’ll have the chance to build a career as unique as you are, with the global scale, support, inclusive culture and technology to become the best version of you. And we’re counting on your unique voice and perspective to help EY become even better, too. Join us and build an exceptional experience for yourself, and a better working world for all.
+
+The opportunity
+
+We are currently seeking highly motivated people for our Consulting practice, which is a leading provider of services to financial industry and large corporate clients of all industries. Being part of our Data & Analytics Center of Excellence you will work with multi-disciplinary teams across the entire EMEIA region to support global clients.
+
+Your Key Responsibilities
+
+You will identify appropriate modeling techniques to answer the most critical business questions and use your analysis to infer well substantiated business insights in support of your clients’ decision making. To do that, you will use clients’ in-house... data as well as appropriate external data-sources.
+
+You will also resort to various data management and visualization techniques to provide insight into the data. Your portfolio of skills covers a wide range of advanced statistical and machine learning techniques for classification, prediction, recommendation, clustering, forecasting, as well as data management, data visualization, and optimization, applied in a commercial context.
+
+You will build valued relationships with external clients and internal peers and contribute to the development of a portfolio of business by focusing on high-impact opportunities. You will contribute to presentations of modeling results and project proposals. Bringing experience and unique insight on one or more industry, you will use your knowledge and experience to shape solutions to client problems.
+
+To qualify for the role you must have
+• Excellent academic background, including at minimum a master degree in Data Science, Business Analytics, Statistics, Mathematics, Econometrics, Engineering, Operational Research, Computer Science, or other related field with strong quantitative focus
+• 2+ years of working or related research experience (evidenced by PhD and/or relevant publications, awards, or completed project credentials) preferably in a commercial/industrial context’
+• Hands on development experience with R/Python or related statistical software package including programming skills in building and deploying machine learning models (supervised & unsupervised, time series) and mathematical programming algorithms in supervised, unsupervised and semi-supervised learning techniques
+• Good understanding of machine learning, predictive modeling and optimization algorithms
+• Good understanding of data modeling and evaluation
+• Experience in designing, building, testing and validating highly customized statistical models using a large number of statistical and other quantitative techniques
+• Exposure with scalable big data based advanced analytics software will be considered
+• Strong written and verbal communication, presentation, client service and technical writing skills in English for both technical and business audiences
+• Strong analytical, problem solving and critical thinking skills
+• Ability to work under tight timelines for multiple project deliveries
+• Ability/flexibility to travel and work abroad for international projects
+
+What We Look For
+
+What’s most important is that you’re dedicated to working with your colleagues as part of a high-performing team. You’ll need to demonstrate enthusiasm, high motivation and passion to develop fast in a multinational working environment. You’ll need to thrive in picking up new skills and talents as you go, so natural curiosity, a lot of questions and the confidence to speak up when you see something that could be improved are essential. If you’ve got the right combination of technical knowledge and communication skills, this role is for you.
+
+What We Offer
+
+We offer a competitive compensation package where you’ll be rewarded based on your performance and recognized for the value you bring to our business. Plus, we offer:
+• Continuous learning: You’ll develop the mindset and skills to navigate whatever comes next.
+• Success as defined by you: We’ll provide the tools and flexibility, so you can make a meaningful impact, your way.
+• Transformative leadership: We’ll give you the insights, coaching and confidence to be the leader the world needs.
+• Diverse and inclusive culture: You’ll be embraced for who you are and empowered to use your voice to help others find theirs.
+
+If you can demonstrate that you meet the criteria above, please contact us as soon as possible.
+
+The Exceptional EY Experience. It’s Yours To Build.
+
+EY | Building a better working world
+
+EY exists to build a better working world, helping to create long-term value for clients, people and society and build trust in the capital markets.
+
+Enabled by data and technology, diverse EY teams in over 150 countries provide trust through assurance and help clients grow, transform and operate.
+
+Working across assurance, consulting, law, strategy, tax and transactions, EY teams ask better questions to find new answers for the complex issues facing our world today"
+Machine Learning Specialist,2023-01-25,2023-01-30 12:22:14,https://www.google.com/search?q=Machine+Learning+Jobs+Greece&ibp=htl;jobs&sa=X&ved=2ahUKEwizlvCNgvD8AhVXJDQIHTZvCggQutcGKAF6BAgWEAU#htivrt=jobs&htidocid=35dn-35ac7YAAAAAAAAAAA%3D%3D&fpstate=tldetail,HUK-COBURG Versicherungsgruppe,Full-time,NA,"Thessaloniki, Greece","Cloud Computing, Künstliche Intelligenz, Datenanalytik, PyTorch, Infrastructure as a Service, Kubernetes, Machine Learning, Amazon Web Services, Python, Softwareentwicklung, TensorFlow, Docker, Objektorientierte Programmierung, Deployment, Hadoop, Microsoft Azure, openShift, DevOps, Datenbanken, Platform as a Service, Data Engineering, Clustering, Data Science, Design Patterns
+
+Machine Learning Operations (MLOps) Engineer (f / m / d).
+
+Full-time, starting immediately in Coburg, unlimited duration.
+
+The intelligent use of data allows us to generate real added value for our customers - we at HUK-COBURG are firmly convinced of this.
+
+The targeted expansion of our data analytics activities is therefore a central, strategic goal of our company. Become part of our newly created, group-wide Data Analytics program and feel the special team spirit that defines our corporate culture.
+
+As Germany's largest motor insurance company, we are a data company at heart with a strong customer focus and... strong values.
+
+With the strength of our tradition and the power of implementation of the people in our company, we are moving together towards a digital future.
+
+Our agile data analytics teams use data-driven models to intelligently manage processes, calculate fair prices, optimize and digitally manage claims, create custom-fit quotes and develop new types of insurance products, among other things.
+
+As a MLOps Engineer (f / m / d) in our central Data Analytics department, you will have the opportunity to enrich these various Analytics teams with your expertise and actively help shape the company's Data Analytics strategy.
+
+This is what you can look forward to
+• Support the Data Science teams in all phases of new use case development, especially further development and maintenance of a modern MLOps infrastructure.
+• MLOps : design, build and further develop DevOps pipelines for Data Science teams (OpenShift or Cloud deployment).
+• Software engineering : conception, system design as well as iterative solution development of modular software packages according to object-oriented design patterns for sustainable use in the Analytics program.
+• Data Engineering : Integration of data sources and models in the HUK software landscape, building an operational concept and preparation of post-training.
+• Containerization : building Docker environments for our Data Scientists (f / m / d) with the goal of deploying in an OpenShift cluster or in the cloud.
+• Close coordination to take into account the requirements of colleagues in the roles of Product Owner (f / m / d), Data Scientists (f / m / d) as well as Subject Matter Expert : s.
+
+What you bring with you
+• Very good degree in a STEM subject with practical relevance to Data Science, Machine Learning or Artificial Intelligence.
+• Several years of professional experience in Machine Learning Engineering, MLOps or DevOPs with a focus on Python applications.
+• Solid experience in programming (preferably Python), software development, and common database technologies.
+• Solid experience in processing large datasets on a cluster (spark, hadoop) and using common data science frameworks (pytorch, tensorflow, sklearn, pandas).
+• Relevant experience in creating and using virtual environments (K8s, Docker, Conda).
+• Experience with deploying ML applications in the cloud (AWS, Azure) using IaaS or PaaS.
+
+What we offer you
+• Flexible working : As part of our hybrid work concept, you can work from home, on the road or at our headquarters in Coburg.
+• Competence : We promote your consistent professional development in the form of training, conferences and everything that brings you further.
+• Creative freedom : We trust your abilities and give you the space to drive your own ideas and solutions.
+• Performance-based compensation : We see and appreciate your contribution to the success of the company and let you share in it.
+• Security : with the strength of our tradition, we focus on success and offer you security.
+
+Have we aroused your interest?
+
+Then apply now!
+
+If you have any questions, please do not hesitate to contact Malina Gorny
+
+under the e-mail address malina.gorny huk-coburg.de at your disposal"
+Machine Learning Engineer,2023-01-27,2023-01-30 12:22:15,https://www.google.com/search?q=Machine+Learning+Jobs+Greece&ibp=htl;jobs&sa=X&ved=2ahUKEwizlvCNgvD8AhVXJDQIHTZvCggQutcGKAF6BAgWEAU#htivrt=jobs&htidocid=3TBdSacJIqYAAAAAAAAAAA%3D%3D&fpstate=tldetail,EPAM Systems,Full-time,NA,Greece,"Description
+
+We are looking for a Senior or Lead Machine Learning Engineer who can design and implement standardized processes and technology capabilities for building, deploying and operating ML systems rapidly and reliably. To provide leadership in defining and implementing strategies and tools, working with internal and external stakeholders.
+
+The ideal candidate has:
+• Experienced in enterprise software development for more than 5 years
+• Solid background in data science / machine learning
+• Experience with cloud native services: GCP, AWS, Azure
+• Experienced and highly self-motivated professional with outstanding analytical and problem solving skills
+• Able to work closely with customers and other stakeholders
+• Experience in development of highly available, largely scalable, ML driven applications and systems
+• Able to play Tech Lead / coordinating role on a project and ensure that solutions meet business requirements and user expectations
+• Experienced in working with modern... Agile developing methodologies and tools
+
+Responsibilities:
+• Be responsible for the transition of machine learning algorithms to production environment and integration with enterprise ecosystem
+• Design, create, maintain, troubleshoot, and optimize the complete end-to-end machine learning life cycle, which includes:
+• Machine-learning model optimization
+• Data preparation
+• Feature extraction
+• Model performance monitoring
+• AB/Canar/Bluegreen/etc. testing
+• Integration with Enterprise ecosystem/IoT devices/Mobile devices
+• Write specifications, documentation, and user guides for developed solutions
+• Build frameworks for data scientists to accelerate the development of production-grade machine learning models
+• Collaborate with data scientists and engineering team to optimize the performance of ML pipeline
+• Constant improvement of SDLC practices
+• Exploration of new tools and techniques and propose improvements
+• Establish and configure CI/CD/CT processes
+• Design and maintain ML models continuous training
+• Provide capabilities for early detection of various drifts (data, concept, schema., etc,)
+• Promote and support MLOps practices
+• Continuously identify technical risks and gaps, devise mitigation strategies
+• Identify and eliminate technical debt in machine learning systems
+
+Requirements:
+• 3+ years experience as ML engineer or Data Engineer of designing, building and deploying production applications and data pipelines
+• Strong knowledge and experience in Python development
+• Deep understanding of Python ML ecosystem (pytorch, tensorflow, numpy, pandas, sklearn, XGBoost, etc.)
+• Hands-on experience in implementation of Data Products
+• Understanding of Machine Learning fundamentals
+• Deep understanding of data preparation and feature engineering
+• Understanding of Apache Spark Ecosystem (Spark SQL, MLlib/Spark ML)
+• Deep hands-on experience with implementation of SDLC best practices in complex IT projects
+• Experience with automated data pipeline and workflow management tools, i.e. Airflow
+• Knowledge and experience in computer science disciplines such as data structures, algorithms, and software design patterns
+• Hands-on experience in different data processing paradigms (batch, micro-batch, streaming)
+• Deep understanding of MLOps concepts and best practices.
+• Experience with some of the MLOps related platform/technology such as AWS SageMaker, Azure ML, GCP Vertex AI / AI Platform, Databricks MLFlow, Kubeflow, Airflow, Argo Workflow, TensorFlow Extended (TFX), etc.
+• Production experience in integrating ML models into complex data-driven systems/IoT device/Mobile devices
+• Experience with basic software engineering tools, e.g., git, CI/CD environment (such as Jenkins or Buildkite), PyPi, Docker, Kubernetes, unit testing, and general object-oriented design.
+• Experience with one of the infrastructure as a code (IoC) frameworks (e.g.: Terraform / CDK TF, Ansible, AWS CloudFormation / AWS CDK, etc.)
+• Strong sense of ownership and growth mindset
+• Several years of experience working with one of the major Cloud (AWS, Azure, GCP)
+
+Technology Stack:
+• Programming Languages: Java/ Scala; Python; SQL; Bash.
+• Data stack: Databricks, Spark, AWS Glue, GCP DataFlow, Kafka, Kafka Streams, Snowflake, BigQuery, Azure Synapse
+• Machine Learning Frameworks: Tensorflow, Pytorch, SparkML, Xgboost
+• Cloud Machine Learning Services: AWS SageMaker, Azure ML, GCP Vertex AI / AI Platform
+• MLOps frameworks: Databricks MLFlow, Kubeflow, Airflow, Argo Workflow, TensorFlow Extended (TFX)
+• Data Visualization: Tableau, QlikView.
+• Data Pipelines: Apache Airflow, NiFi; Streamsets
+• Search: Solr, Elasticsearch/ELK
+• Solid Cloud experience with 2 or more leading cloud providers (AWS/Azure/GCP): Storage; Compute; Networking; Identity and Security;.
+• Development Methods (TDD, BDD, DDD).
+• Version Control Systems (Git).
+• Testing: Component/ Integration Testing, Unit testing (JUnit).
+• Deep understanding of SQL queries, joins, stored procedures, relational schemas; SQL optimization.
+• Experience in various messaging systems, such as Kafka, ZeroMQ/ RabbitMQ.
+• Infrastructure as a code (IoC) frameworks: Terraform / CDK TF, Ansible, AWS CloudFormation / AWS CDK, etc.
+• Build Systems: Maven, SBT, Ant, Gradle.
+• Containerization: Docker, Kubernetes.
+
+We offer
+• We trust our people. We believe in team distribution and that you know what you are doing, which is why you will be able to work remotely and have a flexible schedule
+• We are both proud of working within a diverse and inclusive environment and acting in our role as an equal opportunities’ employer. You are welcome at EPAM for who you are
+• You will be challenged while working side-by side with the best talent globally. We work with top-notch technologies, constantly seeking out new industry trends and best practices
+• We are a global design community eager to share knowledge, experiences, and mentoring. You will learn, contribute, and grow with us
+• How does it sound to know you can have a 20+year career with us constantly growing and without the need to look elsewhere? We offer access to learning platforms, classes, and workshops to support your development. You will be set up for success with our clear career paths and support in helping you achieve the goals you set for yourself, both personal and professional
+• We seek improvement in a proactive manner. You have the freedom to make recommendations, suggestions or simply comment on things without the pressure of adhering to hierarchy or strict processes
+• We work with a broad range of clients: Media, Entertainment, Life Sciences, Automotive, Finance, Technology, and Travel. You will play a key role in growing their business and potentially work in multiple new industries"
+Machine Learning Engineer,NA,2023-01-30 12:22:15,https://www.google.com/search?q=Machine+Learning+Jobs+Greece&ibp=htl;jobs&sa=X&ved=2ahUKEwizlvCNgvD8AhVXJDQIHTZvCggQutcGKAF6BAgWEAU#htivrt=jobs&htidocid=OJPmFTaDVzUAAAAAAAAAAA%3D%3D&fpstate=tldetail,Behavioral Signals,Full-time,NA,Greece,"Is machine learning and audio processing your passion? Can you work well in teams? Want to join a well funded and innovative startup? Then come join us at Behavioral Signals as a member of the ML team.
+
+As a member of the ML Team, you will work on building supervised and semi-supervised models for emotion and behavior recognition from audio and speech signals. You will use and expand our existing pipelines and methodologies for continuously integrating vast amounts of speech data into our emotion and behavior estimation models. Based mostly on how something is being said (therefore using audio information) but also using information from what is being said (based on textual analytics) you will work along with our Core Product team on embedding the ML algorithms on various applications and demos, ranging from call center analytics to human-robot interaction and virtual assistants.
+
+What you will do
+• Use existing and develop new methods for training models that predict the emotional... states and speaking styles of a speaker based on what and how something is said.
+• Work on building algorithms for complex behavioral analytics in human interactions and discover high-level semantics such as empathy and humour.
+• Use and develop intelligent engineering workflows that continuously make use of huge amounts of annotated and weakly-annotated audio data, in order to build more robust models
+• Deploy robust and scalable deep learning models for speech analytics
+• Work closely with designers and product managers towards building new demos and products that help our clients benefit from our emotion and behavioral analytics
+
+Please note that since our Engineering team is primarily located in Greece currently, this position is only open to people residing in UTC to UTC + 3 timezones.
+
+In order to be considered you must have:
+• Bachelor on computer science or related subject
+• Solid and demonstrable knowledge of ML principles: supervised learning, classifier evaluation / tuning, regression, clustering, deep neural nets, and active learning
+• Experience in building, reporting, communicating, deploying, and integrating machine learning methods to production
+• At least 2 years of experience with real-world machine learning problem solving
+• Excellent programming skills in Python
+• Experience with: pytorch, sklearn
+• Experience with one or more from audio analysis, speech recognition and/or text mining
+• Sense of ownership of your work
+• Ability to independently work on multi-domain projects and products
+
+Extra credits will be given if you have one or more of the following:
+• Experience with MLOps tools for data and pipeline versioning, hyperparameter tuning, and experiment tracking and model serving, such as Kubeflow and Neptune
+• Experience in using Kubernetes, Docker, Flask, or other similar solutions for ML/DL model deployment
+• Postgraduate degree in machine learning, data science, or data mining
+• Competitive salary package
+• Work from your favorite place
+• Work with highly-skilled engineers who enjoy autonomy, mentoring, and are aiming for exciting and challenging high goals
+• Flexible working hours"
+ML Engineer @Thessaloniki,NA,2023-01-30 12:22:16,https://www.google.com/search?q=Machine+Learning+Jobs+Greece&ibp=htl;jobs&sa=X&ved=2ahUKEwizlvCNgvD8AhVXJDQIHTZvCggQutcGKAF6BAgWEAU#htivrt=jobs&htidocid=V4vaUNJ-NJwAAAAAAAAAAA%3D%3D&fpstate=tldetail,Deloitte,Full-time,NA,"Thessaloniki, Greece","What Impact will you make?
+
+YOUR OPPORTUNITY
+Deloitte in collaboration with Chubb insurance, the world’s largest publicly traded property & casualty insurance company, are currently looking for a ML Engineer to join our dynamic and highly motivated Technology team in Thessaloniki. As a ML Engineer, you will have the opportunity to work directly with Chubb on innovative international projects.
+YOUR ROLE AND RESPONSIBILITIES
+As a ML Engineer you will be working closely with other experienced Data Scientists, Product Manager and Data Engineers and you will be responsible for developing and delivering AI/ML models into production. You should have superb MLOps experience, good ML model and algorithms developing, training, tuning and optimizing skills to be able to work with business and technology leaders to build AI/ML systems to support the needs. This role requires an individual with strong MLOps, AI computer vision, NLP, semantic analysis and time-series predication skills. It also... requires some cloud engineering skills and experience implementing complex real-time data and AI/ML applications to capture and codify knowledge and automate decisions. The successful candidate will be a proven AI/ML engineer who is comfortable with ambiguity, attention to detail, and thrives in a fast-paced environment.
+You will commit to personal learning and development by actively seeking opportunities for growth, you will share knowledge and experience with others.
+To fulfill this role, you will have to be able to:
+• Deliver AI/ML models to production following high standard MLOps process.
+• Develop AI/ML models for business teams along with metrics to track their accuracy and performance.
+• Own the full lifecycle of AI development from ideation and data exploration, algorithm design and testing, algorithm development and deployment, to algorithm monitoring and tuning in production.
+• Evaluating ML algorithms that could be used to solve a given problem and ranking them by their success probability.
+• Develop ML/AI models to support data collection/ingestion/migration work.
+OUR REQUIREMENTS
+To be successful in this role, you will need to demonstrate the following:
+• Proven experience as a Machine Learning Engineer or similar role
+• Deep knowledge of math, probability, statistics and algorithms
+• Bachelor Degree with over 3 years MLOps experience, Master Degree or Ph.D. in Mathematics, Data Analytics, Statistics, Computer Science, Electrical Engineering, Physics, Economics, Bioengineering or another quantitative field preferred.
+• Experience working on cloud platforms such as Azure
+• Deep expertise in Python for ML, writing Pythonic code and related aspects of software design and implementation. Proficiency with machine learning libraries for Python (FastAPI, FlaskAPI, scikit-learn, Pandas, SciPy, NumPy, etc).
+• Strong understanding of machine learning techniques and algorithms, such as GLM, k-NN, Naive Bayes, SVM, Random Forest, Gradient Boosting, etc.
+• Expertise in natural language processing, such as topic modelling, entity extraction, etc.
+• Proficiency with a deep learning framework such as TensorFlow, PyTorch, CNTK, etc.
+
+Additional soft skills required:
+• Familiarity in working with k8s
+• Experience working in parallel, distributed systems with technologies such as Spark / PySpark, etc.
+• Familiarity with insurance industry business processes
+• Confident in decision making and the ability to explain processes or choices as needed
+• Strong motivation
+• Excellent communication and interpersonal skills
+• Flexibility, willingness to travel
+• Fluency in English
+WHAT WE OFFER
+At Deloitte, we know that great people make a great organization. We value our people and offer employees a broad range of benefits.
+• Modern hybrid workplace, characterized by flexibility and Smart Working
+• Empowered well-being: We provide multiple program offerings to support your well-being needs (flexible working arrangements, extra days of leave, parental allowances)
+• Engagement within international large-scale teams and projects, with opportunities to travel for training or client purposes.
+• Constant opportunities for learning with unlimited access to internal and external learning platforms and sponsored certificates aligned with business needs and technology trends
+• Challenging and innovating environment where personal development and growth are encouraged, always with transparency and trust
+• Diverse culture and active communities that enable you to bring yourself to work
+• Team Building and Corporate Social Responsibility Activities
+• Private medical health insurance plan
+• Ticket restaurant card
+• Exclusive Discounts to several retail providers, restaurants, and others
+• Fresh fruits and unlimited coffee every day at our offices
+ABOUT CONSULTING
+
+Five core competency areas make up our Consulting service line:
+• Strategy, Analytics and M&A
+• Customer and Marketing
+• Core Business Operations
+• Human Capital
+• Enterprise Technology and Performance
+
+We exist to solve complex problems
+Our consultants are renowned for their straightforward approach to solving some of the world’s largest and most complex business challenges. Each member of our Consulting team is energized by the challenge a seemingly inscrutable problem presents. Our distinctiveness lies in our refusal to accept a problem at face value - we draw on the depth of our shared insight to ask the right questions, and it’s these questions that uncover answers - answers with impact.
+
+We are committed to collaboration
+Our role is to unlock potential for growth and innovation. We believe this requires real collaboration – with our own networks and with our clients. It is why we commit to truly getting under the skin of our client’s needs, developing a full appreciation for their environment, goals and ambitions. We are also unafraid to challenge. In so doing, we build long-term and trusted affinities.
+
+We create long-term, sustainable impact
+We often work hand-in-hand with our clients to help find the right solution and to help apply that solution. Our aim is to leave behind ambassadors who are equipped to continue the transformation we began. For us, it is about embedding sustainable change, allowing the impact of our insight to be felt for a long time to come.
+
+How you will grow
+At Deloitte, our professional development plan focuses on helping people at every level of their career to identify and use their strengths to do their best work every day. From entry-level employees to senior leaders, we believe there is always room to learn. We offer opportunities to help sharpen skills in addition to hands-on experience in the global, fast-changing business world. From on-the-job learning experiences to formal learning programs, our professionals have a variety of opportunities to continue to grow throughout their career.
+
+Recruiter tips
+We want job seekers exploring opportunities at Deloitte to feel prepared and confident. To help you with your interview, we suggest that you do your research: know some background about the organization and the business area you are applying to. Check out recruiting tips from Deloitte professionals.
+
+About Deloitte
+
+Our services
+Deloitte offers integrated services that include Audit, Consulting, Financial Advisory, Risk Advisory, Tax and Legal. Our approach combines insight and innovation from multiple disciplines with global business and industry expertise to help our clients excel anywhere in the world. We deliver outstanding impact on the reputation and success of our clients, in Greece and globally. In pursuing this, we contribute to a sustainable and prosperous society, and are firm believers in the positive impact business can and should have on the world it operates within.
+
+Our purpose
+We are led by a purpose, to make an impact that matters with clients, people and society. This purpose defines who we are and what we stand for. It's not about being the biggest. It’s about being the first choice for the largest and most influential clients, and the first choice for the best talent.
+
+Our values
+At Deloitte we foster a collaborative culture where talented individuals can produce their best work. We value innovative thinking, diverse insights and a genuinely distinctive level of customer service through our expertise and professionalism. We value difference, with respect at the heart of our inclusive culture.
+
+Our talent experience
+From day one at our firm, practitioners are part of a community. Our development and career progression framework will help them develop the skills and capabilities to succeed. The wellness of our people and the ability to offer agile working arrangements is at the center of our unique talent experience. We create a workplace that encourages collaboration, creativity, inclusiveness to ensure our staff are supported, encouraged and feel a sense of purpose and meaning in what they do each day.
+
+Deloitte is a leading global provider of audit and assurance, consulting, financial advisory, risk advisory, tax and related services. Our global network of member firms and related entities in more than 150 countries and territories serves four out of five Fortune Global 500® companies. Learn how Deloitte’s approximately 312,000 people make an impact that matters at www.deloitte.com. Deloitte refers to one or more of Deloitte Touche Tohmatsu Limited (“DTTL”), its global network of member firms and their related entities (collectively, the “Deloitte organization”). DTTL (also referred to as “Deloitte Global”), and each of its member firms and related entities are legally separate and independent entities, which cannot obligate or bind each other in respect of third parties. DTTL and each DTTL member firm and related entity is liable only for its own acts and omissions, and not those of any of each other. DTTL does not provide services to clients. Please see www.deloitte.com/ about to learn more. Deloitte Alexander Competence Center Single Member Societe Anonyme of Business Consultants, a Greek company, registered in Greece with registered number 144724504000 and its registered office at Thessaloniki, Municipality of Pylaia - Chortiatis of Thessaloniki, Vepe Technopolis Thessaloniki (5th and 3rd street), is one of the Deloitte Central Mediterranean S.r.l. (“DCM”) countries. DCM, a company limited by guarantee registered in Italy with registered number 09599600963 and its registered office at Via Tortona no. 25, 20144, Milan, Italy is one of the Deloitte NSE LLP geographies. Deloitte NSE LLP is a UK limited liability partnership and member firm of DTTL, a UK private company limited by guarantee.
+This communication and any attachments to it is for internal distribution among personnel of the Deloitte organization. It may contain confidential information and is intended solely for the use of the individual or entity to whom it is addressed. If you are not the intended recipient, please notify us immediately by replying to this email and then please delete this communication and all copies of it on your system. Please do not use this communication in any way. None of DTTL, its member firms, related entities, employees or agents shall be responsible for any loss or damage whatsoever arising directly or indirectly in connection with any person relying on this communication.
+© 2022 For information contact Deloitte Central Mediterranea"
+AWS AI/Machine Learning Specialist,2023-01-05,2023-01-30 12:22:16,https://www.google.com/search?q=Machine+Learning+Jobs+Greece&ibp=htl;jobs&sa=X&ved=2ahUKEwizlvCNgvD8AhVXJDQIHTZvCggQutcGKAF6BAgWEAU#htivrt=jobs&htidocid=4cwTZ-QL3RIAAAAAAAAAAA%3D%3D&fpstate=tldetail,Netcompany-Intrasoft,Full-time,NA,"Athens, Greece","Company Description
+
+About Netcompany-Intrasoft
+
+We are Netcompany-Intrasoft, a leading European IT Solutions and Services Group with strong international presence and expertise, offering innovative and added-value solutions of the highest quality to a wide range of international and national public and private organizations. More than 500 organizations in over 70 countries worldwide have chosen the company's services and solutions to fulfill their business needs.
+
+For more information regarding our company, current projects, and openings around Europe, please consult our website: www.netcompany-intrasoft.com.
+
+Job Description
+
+A day in the life of an AWS AI / Machine Learning Specialist
+
+As an AWS AI / Machine Learning Specialist, you will be involved in the analysis, design, implementation and deployment of AWS Artificial Intelligence and Machine Learning technology-based business solutions to improve our clients’ delivery approach.
+
+Your main duties will be to:
+• Apply cutting edge... Machine Learning (ML), Artificial Intelligence (AI) and statistical techniques addressing complex multi-modal sensor data processing workflow challenges
+• Train custom machine learning / deep learning models based on structured/ unstructured data
+• Involve in rapid lab prototyping, field testing, technical benchmarking, and modeling and simulation related to AI/ML applications
+• Design and implement feature engineering and machine learning pipelines, deploy machine learning solutions into production
+• Optimize machine learning solutions for performance and scalability
+• Develop AI/ML algorithms and models to deploy into production
+• Develop and use modern software engineering tools and techniques
+• Explain machine learning solutions to both technical and non-technical audiences
+• Engage with stakeholders and sponsors to analyze operational requirements, address key technical challenges, and apply sound AI/ML technology solutions
+• Establish scalable, efficient, automated processes for data analyses, model development, validation and implementation
+• Write efficient and well-organized software to ship products in an iterative, continual-release environment
+
+By joining Netcompany - Intrasoft, the leading IT company in Greece, you will be part of a hub of 1.700+ tech enthusiasts. You will work using cutting-edge technologies that contribute to the design and delivery of solutions and products for challenging, large-scale IT projects, that affect the lives of millions of citizens around the globe. 
+
+Qualifications
+
+If you have :
+• Master's and Bachelor's degree in Computer science/ Software engineering/ Data science/ Statistics, Mathematics or equivalent field
+• At least 7 years of working experience in ICT sector
+• At least 3 years of working experience in the implementation of AWS AI/ML solutions
+• Experience in Perl, Python, Matlab, R and/or NLP/ML libraries
+• Experience with machine learning techniques and algorithms, such as SVM, Decision Forests, Neural Network, and/or artificial intelligence frameworks
+• Experience with Data Management
+• Excellent knowledge of AWS AI/ML Services
+• Very good knowledge of Linux, Unix and Bash
+• Experience with MT quality procedures, testing methodologies and tools, such as automatic quality metrics (BLEU scores and similar) and human evaluation of MT quality
+• Experience with query languages, such as SQL, Hive, etc.
+• Experience with NoSQL databases, such as MongoDB, Cassandra, HBase, etc.
+• Experience with data visualization tools, such as D3.js, GGplot, etc.
+• Experience with alignment models and classification methods.
+• Experience with data analytics over big datasets, non-structured databases as well as data lakes
+• AWS relevant certification (e.g. AWS Certified Machine Learning - Specialty Certification)
+• Excellent command of the English language (written & verbal)
+• Excellent interpersonal and communication skills
+• Results-oriented mindset, focused on delivering
+
+…then this position is suitable for you!
+
+This position comes with
+• Competitive compensation packages
+• Continuous learning (with the most modern methods - unlimited access to Udemy for Business) and fast career growth
+• Interesting and challenging tasks within large-scale projects
+• An international dynamic within a fast-paced working environment
+• The opportunity to work in a diverse environment with talented colleagues
+
+Additional Information
+
+We ensure equal opportunities, treatment, and consideration to all candidates. Discrimination based on sex, racial or ethnic origin, religion or belief, disability, age, sexual orientation or marital status, physical or mental disability, or any other factor protected by applicable laws and regulations is prohibited. At Netcompany-Intrasoft we respect human rights as part of our culture, and we focus on creating a positive workplace in which all employees are valued and where diversity and inclusivity are welcomed.
+
+The safety and well-being of our employees remain our top priority. Please note that Netcompany-Intrasoft’s recruitment process is being conducted virtually due to preventive measures against the Covid-19 pandemic.
+
+#BePartOfSomethingGreat!
+• Please submit your CV in English
+
+All applications will be treated as strictly confidential
+
+#LI-IO1
+
+Our culture
+
+Our people are the most important element of our success. Our work life is well defined by our set of fundamental Values: https://bit.ly/3SSbBzU
+
+#BePartOfSomethingGreat!
+• Please submit your CV in English
+
+All applications will be treated as strictly confidential"
+Senior Data Engineer (SQL/ETL/Cloud) (Greece),NA,2023-01-30 12:22:17,https://www.google.com/search?q=Machine+Learning+Jobs+Greece&ibp=htl;jobs&sa=X&ved=2ahUKEwizlvCNgvD8AhVXJDQIHTZvCggQutcGKAF6BAgWEAU#htivrt=jobs&htidocid=av2yj4eQvQAAAAAAAAAAAA%3D%3D&fpstate=tldetail,Causaly,Full-time,NA,"Athens, Greece","About us
+
+Causaly accelerates how humans acquire knowledge and develop insights in Biomedicine. We enable researchers and decision-makers to discover evidence from millions of academic publications, clinical trials, regulatory documents, patents and other data sources... in minutes. Using our AI technology, we are developing the world’s biggest knowledge platform in Biomedicine powered by a high-precision Knowledge Graph.
+
+We work with some of the world's largest biopharma companies and institutions on use cases spanning Drug Discovery, Safety and Competitive Intelligence. For example, read how Causaly is used in Target Identification here: AI-supported-target-identification-for-systemic-lupus-erythematosus.
+
+We are backed by top VCs including Index Ventures, Pentech and Marathon.
+
+What we are looking for
+
+We are looking for a Senior Data Engineer to join our Applied AI team. In this role, the senior data engineer will:
+• Gather and understand data based on business requirements.
+•... Import big data (millions of records) from various formats (e.g. CSV, XML, SQL, JSON) to BigQuery.
+• Process data on BigQuery using SQL, i.e. sanitize fields, aggregate records, combine with external data sources.
+• Implement and maintain highly performant data pipelines with the industry’s best practices and technologies for scalability, fault tolerance and reliability.
+• Build the necessary tools for monitoring, auditing, exporting and gleaning insights from our data pipelines
+• Work with multiple stakeholders including software, machine learning, NLP and knowledge engineers, data curation specialists, and product owners to ensure all teams have a good understanding of the data and are using them in the right way.
+• Manage backend data processes related to data delivery, curation and machine learning operations
+
+Minimum Requirements
+
+At a bare minimum, successful candidates will have:
+• Master’s degree in Computer Science, Mathematics or a related technical field
+• 5+ years experience in backend data processing and data pipelines
+• Excellent knowledge of Python and related libraries for working with data (e.g. pandas, Airflow)
+• Excellent SQL and database skills
+• Solid understanding of modern software development practices (testing, version control, documentation, etc…)
+• Excellent knowledge of data processing principles
+• A product and user-centric mindset
+• Proficiency in Git version control
+• Excellent problem solving, ownership, organizational skills, high attention to detail and quality
+• Excellent knowledge of verbal and written English
+
+Preferred Qualifications
+
+Any of the following requirements will be considered a plus:
+• Experience with NoSQL and big data technologies (e.g. Spark, Hadoop)
+• Experience working with Full-Text search databases, such as ElasticSearch
+• Experience with Knowledge Graphs and graph databases, such as Neo4J
+• Experience with MLOps and machine learning in production
+• Knowledge of Terraform, Kubernetes and or/Docker Containers
+• Experience with cloud computing providers (especially GCP or AWS)
+• UNIX scripting skills
+• Experience with TypeScript or JavaScript
+• Competitive Salary (see below)
+• Hybrid working (home + office)
+• Apple or Dell equipment (based on your OS preference)
+• Annual training budget for professional development (e.g. books, video tutorials)
+• Extensive sick-leave package
+• Plenty of opportunity to take on more responsibility as we grow
+• Be part of a multinational, diverse and exceptional team to build a transformative knowledge product that has real impact
+• Annual team retreat to secret destination
+
+The salary we offer is based on skills, professional experience and team fit. The applicant will be required to prove their qualifications via interview and written assignment.
+
+Causaly welcomes applications from all backgrounds. We are committed to diversity regardless of gender, religion or belief, ethnic or national origin, disability, age, citizenship, marital, domestic or civil partnership status, sexual orientation or gender identity. If you have a disability or additional need that requires accommodation, please do not hesitate to let us know"
+Data Scientist,NA,2023-01-30 12:22:17,https://www.google.com/search?q=Machine+Learning+Jobs+Greece&ibp=htl;jobs&sa=X&ved=2ahUKEwizlvCNgvD8AhVXJDQIHTZvCggQutcGKAF6BAgWEAU#htivrt=jobs&htidocid=-9iibFmrgl4AAAAAAAAAAA%3D%3D&fpstate=tldetail,HOMLI (YC S22),Full-time,NA,"Athens, Greece","OUR STORY
+
+HOMLI is a tech startup based out of New York and Athens, with the vision to modernize the European Real Estate market. We help property owners make the most out of their homes through increased transparency and improved service. We achieve this by using cutting-edge technology, data science, and machine learning.
+
+HOMLI was founded in New York in 2021 by 3 co-founders. Everyone in our team is an engineer by training with extensive studies in Greece (NTUA, AUTH) and the US (MIT), and has a combined professional experience of ~15 years through organizations such as McKinsey, Amazon, and Morgan Stanley.
+
+WHY JOIN HOMLI
+
+Are you passionate about modernizing one of the largest industries in the world? Does bringing change through innovation excite you?
+
+At HOMLI, we are building and growing fast; this means you will have significant responsibilities, build strong tech and business skills, and grow your career at a rapid pace. You will be joining a startup which is backed by a... group of prominent international investors, and you will become part of a flexible, casual, and fun team working out of New York, London, and Athens.
+
+Last but not least, we want our success to be your success. As such, in addition to a competitive compensation and health insurance, we also create a setup that allows you to earn more as we grow through cash and equity-based rewards.
+
+RESPONSIBILITIES
+• Work as part of our data science, machine learning, and analytics team
+• Help build and maintain data science and machine learning models
+
+REQUIRED SKILLS
+• Completed or pursuing a Bachelor’s degree in Informatics, Computer Science, Math/Statistics, or related field
+• Linux experience
+• Understanding of code versioning tools, such as Git
+• Good knowledge of python
+• Some basic knowledge of database design (SQL, No-SQL)
+• Experience with data science techniques, data wrangling and machine learning modeling
+• Familiarity with python packages used in data science such as pandas, scikit-learn and tensorflow or pytorch (optional)
+• 1-3 years of experience (optional)
+• Strong communication skills
+
+HOMLI (YC S22) focuses on Real Estate, Technology, and Fin Tech. Their company has offices in New York City and Athens. They have a small team that's between 1-10 employees.
+
+You can view their website at https://thehomli.com/ or find them on LinkedIn"
+Business Development Manager,2023-01-27,2023-01-30 12:22:17,https://www.google.com/search?q=Machine+Learning+Jobs+Greece&ibp=htl;jobs&sa=X&ved=2ahUKEwizlvCNgvD8AhVXJDQIHTZvCggQutcGKAF6BAgWEAU#htivrt=jobs&htidocid=ob8QCY68wZ4AAAAAAAAAAA%3D%3D&fpstate=tldetail,Machine Learning Intelligence,Full-time,NA,Greece,"Group 8 Security Solutions Inc, DBA Machine Learning Intelligence is a financial technology and capital markets research company offering computational finance engineering as applied to buy side retail and institutional segments. Quantitative strategies, risk models, research tools with advanced functionalities, that allow traders and investors to participate and invest across all markets and make better decisions in following changes across asset classes, market shock and risk. Empowering private investors to diversify from PE, VC, RE and other industries to follow markets accurately without the fear of taking part of a non traditional industry. Supporting the capital markets toward better performance through regulation and transparency. Emphasizing the liquidity available in the capital markets over other traditional industries. Our goal is to open doors to accredited and non accredited investors by creating collaboration between retail segments, institutions, quantitative... developers, strategy managers, and academics; Connecting data, analytics, implementation and application with a focus on performance, risk management and account control. Quantitative strategies that can be delivered in a variety of ways, often with lower capital requirements. With a focus on regulation and compliance, we aim to explore all possibilities on the table and offer investors access to better science. We aim to offer proprietary data, analytics, and feeds, standard market data, visualization and most importantly, direct access to state of the art quantitative strategy development built by the top engineers, statisticians, professors and managers. Beyond education to interpretation, beyond interpretation to application, beyond application to performance.
+
+We are in search of a Sales Director (Performance Based) with knowledge of the German and other European markets.
+
+Our company is looking for a sales expert, with high level domain expertise in selling and representing software based solutions, in our case SaaS web based solutions for our clients;
+
+We have developed a platform that allows global users to keep track of a variety of critical market data that is relevant to both retail and institutional investors, traders, academics, and quantitative developers;
+
+As an expert in representing similar platforms, online or software based, ideally, you are an influencer with a large network that understands the process of client acquisition;
+
+Our online based solutions are low cost, and you understand the value in representing a platform with low cost solutions for our subscribers;
+
+Compensation: Performance based
+
+Process - Acquisition target of up to 1000 monthly or yearly subscribers per month, or up to 12000 per year; Recurring or non recurring, with direct compensation of 10% of the monthly revenue;
+
+Salary range MINIMUM: $3000-36000 USD monthly or more depending on the combination of monthly or yearly clients, and recurring revenues and number of acquired clients per month; 12000 recurring monthly clients would equal to a compensation of $36.000/month; 12000 yearly clients would equal to a compensation of $32.333/month; Calculations are in USD values as subscription cost is also calculated in USD;
+
+Additional compensation: Bonuses based on performance, base salary at later stages plus revenue sharing;
+
+This is a project based role where salary is directly based on performance. It requires an advanced manager with a large network that is able to tap into it, and acquire clients with a target. Since clients are recurring so is the salary. Meaning if you decide to pause working after a year you continue to receive your salary based on the recurring amount and all work performed creates LONG term value.
+
+Agreement Type: Independent Contractor
+
+Recurring revenues: as recurring revenues increase, so does your performance based salary; all new recurring revenue represents a salary increase in addition of previous month recurring revenue;
+
+Work Schedule: flexible, part time or full time depending on abilities;
+
+Work Place: Remote
+
+Payment schedule: End of month
+
+Payment Method: Paypal (Primary merchant), or wire transfer where applicable
+
+Responsibilities:
+
+Engage with a variety of global clients and present the platform
+
+Ability to understand all aspects of consumer/retail grade tools as well as some aspects of institutional grade tools;
+
+Collect information from clients, present brochures, follow up with clients and keep track of prospects;
+
+Instruct prospects how to subscribe to the company's services
+
+Ability to understand online payment processing systems
+
+Highly organized, capable of working on multiple projects at once
+
+Must be familiar with Google spread sheets and other data entry tools
+
+Minimum University or College Graduation required with a preference of a Masters Degree or PhD
+
+Highly organized, capable of working on multiple projects at once
+
+Important to have: Advanced knowledge of international financial markets such as asset allocation, equity ratings, macroeconomic conditions, quantitative and algorithmic trading, retail and institutional brokerages, investment management, macroeconomic forecasts, capital market assumptions and outlook, as well as overall fundamental and technical research and ability to identify prospects in search for our research; understanding of local brokers and investment mangers, wealth managers, RIA's and others based on each jurisdiction; strong understanding of risk across all asset classes, across local and international instruments;
+
+Good to have: Brokerage accounts with multiple institutions for a clear understanding of local offering, such as local market data, investment research and other offerings; a track record of either having participated, or currently participating in short term, medium term, long term investments in public markets; knowledge of a variety of instruments such as futures, options, derivatives;
+
+Also good to have: certifications such as CFA, CFP, CIM, RFP, FMVA, CAIA, CPA, FRM and former or current work experience in the investment management field at both the institutional level as well as the retail level;
+
+Follow us:https://www.linkedin.com/company/mlearningintelligence/
+
+URL: https://machinelearningintelligence.com
+
+Solutions sheet:
+
+https://mlearningintelligence.blob.core.windows.net/machinelearning/mli.pdf
+
+Please register and review the platform (for free) before your interview, as well as review the FAQ and solutions sheet in order to fully understand the nature of our company"
+Senior Data Scientist,NA,2023-01-30 12:22:18,https://www.google.com/search?q=Machine+Learning+Jobs+Greece&ibp=htl;jobs&sa=X&ved=2ahUKEwizlvCNgvD8AhVXJDQIHTZvCggQutcGKAF6BAgWEAU#htivrt=jobs&htidocid=4LvVdMLEutAAAAAAAAAAAA%3D%3D&fpstate=tldetail,Accenture,Full-time,NA,"Thessaloniki, Greece (+1 other)","Are you ready to be a part of the digital reinvention of industry and revolutionize your career?
+
+In today’s world, business leaders want to rapidly and confidently reinvent to increase resilience, mitigate risk, and grow with sustainable value.
+
+That’s where Accenture Strategy & Consulting comes in. We bring together strategic visionaries, industry experts, practitioners from across every enterprise function, business intelligence professionals, change specialists, data and AI authorities, and many other specialized skills to co-create each client’s unique path to reinvention. You will be a trusted partner to business leaders, working with a diverse team of experts to deliver successful tech-enabled transformation and new kinds of value for your clients.
+
+Strategy and Consulting is one of four services –the others are Accenture Song, Technology and Operations
+
+WORK YOU’LL DO
+
+As part of Applied Intelligence practice, you will combine AI & ML with data, analytics and automation under... a bold strategic vision to transform business in a very pragmatic way, sparking digital metamorphoses. There will never be a typical day and you will continuously learn and grow. The opportunities to make a difference within exciting client initiatives are unlimited in the ever-changing technology landscape. You will be part of a global team of data scientists, data engineers, and experts in AI & ML, who are highly collaborative taking on today’s biggest, most complex business challenges across a range of industries.
+
+Responsibilities:
+• Understand client requirements and translate them into actions that will be used to drive Data Science components, design and configuration (data model, advanced analytics, consumption/visualization)
+• Support the development and delivery of Data Science & ML solutions, working closely with data science, engineering and operations teams (from data acquisition/manipulation and exploratory analysis, to DS/ML models and interpretation of results)
+• Lead a team of 2-4 people, working in a multicultural environment with fixed deadlines and changing priorities
+• Provide guidelines on best practices to development teams and ensure high-quality of deliverables
+• Communicate solutions & results to senior management and client stakeholders
+• Contribute to internal R&D and business development activities through AI & ML expertise"
+Mid/senior machine learning engineer,2023-01-26,2023-01-30 12:22:18,https://www.google.com/search?q=Machine+Learning+Jobs+Greece&ibp=htl;jobs&sa=X&ved=2ahUKEwizlvCNgvD8AhVXJDQIHTZvCggQutcGKAF6BAgWEAU#htivrt=jobs&htidocid=NJE8wIFBMrEAAAAAAAAAAA%3D%3D&fpstate=tldetail,GWI,Full-time,NA,"Athens, Greece","We’re looking for enthusiastic and passionate data scientists and machine learning engineers to join us here at GWI. Not just anyone though. Someone ambitious and genuine, who works best in the midst of a collaborative and forward-thinking team. That’s because as a GWIer you’ll be immersed in the fast-moving world of data tech. We think big to make an impact, we’re not afraid to ask why, and we always show respect. Those values are what got us where we are today, and they’re a big part of what we’re looking for in you.
+
+About The Job
+
+Our Data Science department at GWI is committed to maintaining the highest quality in our survey data and to helping our customers arrive at the insights they need to understand their audiences. From automated testing and intelligent product features to custom analytical solutions and data observability, we are supporting the business at every level as data is at the very core of what we do. We are actively engaged throughout the entire data life cycle... including data cleaning, data processing, data validation, designing and automating data workflows as well as automatically identifying and recommending insights and unexpected findings to our users.
+
+Our team values learning and keeping abreast of the latest research very highly and as a result we’re applying a wide range of techniques across machine learning, statistical analysis and natural language processing to the services and features we build. We are a diverse team with different backgrounds spread across two locations, Athens and London, and growing rapidly.
+
+What You’ll Be Doing
+
+Depending on your background and interest, you will help us shape and realise our data science strategy. Contributing either to building our AI platform - which facilitates the surfacing of relevant and timely consumer insights to our platform users - or developing our data platform - which ingests and augments consumer survey data from around the world.
+
+You will report to the Machine Learning Team Lead, as well as working closely with Engineering and Product leads on long-term initiatives.
+
+About You
+
+First things first, as a disruptor in the global market research industry, we haven’t come this far without entrepreneurial spirit and a get-up-and-go attitude. So if you think we’ll see that in you, then you’re already halfway there. Here’s the rest of what we’d like you to bring to the table.
+
+Technical
+
+This role requires someone combining a product-oriented mindset, strong technical skills and programming experience, who is confident working with large, complex datasets and has a good understanding of a range of statistical techniques. Familiarity with cloud data wrangling and data analytics services is beneficial.
+
+The Essentials
+• Suitable educational qualifications in mathematical / computational / statistical sciences or engineering.
+• Professional experience in designing and delivering data science solutions end-to-end, from ideation, design and prototyping through to evaluation, productionisation and continuous, step-by-step improvement.
+• Strong product-oriented mindset: Being able to translate business requests into incremental Data Science solutions and evaluate their business value.
+• Excellent communication and presentation skills. Proven experience and interest in working with cross-functional teams (e.g. Engineering, Product Management, User Research) for delivering data solutions responding to business needs, taking into account technical and business / usability constraints.
+• High level of coding proficiency in a technical language such as Python (preferably) and R.
+• A good understanding of the relevant software stacks for either data analytics, statistics or machine learning.
+• Experience with information retrieval (e.g. search, ranking) and recommender systems, as well as statistical techniques used in market research is nice to have.
+
+Competencies
+• Gain a strong understanding of the business strategy and be able to apply it to your own projects. Be curious to understand how the business works, how the product fits in, and what its goals are.
+• Be the voice of Data Science in cross-functional teams and work closely with Product leads to recommend and design alternative solutions, challenging existing specifications when appropriate, always being empathetic about how the product makes users feel. Besides using pure ML metrics, dive into business and user metrics to evaluate performance.
+• Enjoy working as part of a team, enjoy collaborating and spearhead open and honest communication. Have a can do attitude and a willingness to learn and grow continuously through constructive, 2-way feedback.
+• Working knowledge of agile delivery tools such Trello and Jira, and other collaborative tools is nice to have.
+
+Our Benefits
+
+Great benefits make a big difference. Not just to employees, but to the whole vibe of a business. That’s why when you work for us, you’ll enjoy a full spectrum of generous perks, rewards and office benefits.
+• Competitive salary and performance-based bonus
+• Generous training budget, including a fully paid international conference each year
+• 25 days holiday and Christmas office closure days on top
+• No meeting Fridays
+• Allocated shares according to GWI’s share scheme
+• Accredited learning and development programs
+• Enhanced primary caregiver and co-caregiver’s benefits
+• Flexitime and a great work-life balance
+• Private health insurance plan
+• Referral bonus scheme
+• Mobile phone contract [Greece only]
+• Early finishes on Fridays
+• A well-stocked fridge and plenty of snacks (some healthy, some not so healthy)
+• Restaurant Ticket card option [Greece only]
+• Commit a working day to charity each year
+• Social activities and team outings
+
+Who We Are
+
+GWI was founded with the knowledge that understanding your audience is really important for business. When you know who you’re speaking to and why, you can create content and campaigns that stand out to the people that matter.
+
+Through our global online survey, we gather data on the behaviour and perceptions of consumers across the world. This provides businesses with deep, actionable insights on their audience, revealed from data they trust.
+
+It’s been going well, too. Since launching in 2009, we’ve become one of the UK’s fastest growing target audience companies. We’re not about to stop growing any time soon. As a business, we’re on a mission to re-engineer data-driven marketing, and we’re on the lookout for talented people to join us.
+
+Diversity & Inclusion
+
+Imagine if our data came from just one kind of person. We’d get a very nuanced view of the world. And we definitely wouldn’t have got off the ground as a business.
+
+We’re so lucky to live in a society where differences are celebrated – so we’d expect nothing else from our teams. In fact, the GWI office is as diverse as our global data, it’s really important to us that it stays that way. That means whatever your race, religion, sexual orientation or gender, this is a place to feel at home, express yourself freely and make your mark"
+ML Ops and Data Engineer,NA,2023-01-30 12:22:19,https://www.google.com/search?q=Machine+Learning+Jobs+Greece&ibp=htl;jobs&sa=X&ved=2ahUKEwizlvCNgvD8AhVXJDQIHTZvCggQutcGKAF6BAgWEAU#htivrt=jobs&htidocid=4x6HOoZ6aQoAAAAAAAAAAA%3D%3D&fpstate=tldetail,Accenture,Full-time,NA,"Thessaloniki, Greece (+1 other)","Are you ready to be a part of the digital reinvention of industry and revolutionize your career?
+
+In today’s world, business leaders want to rapidly and confidently reinvent to increase resilience, mitigate risk, and grow with sustainable value.
+
+That’s where Accenture Strategy & Consulting comes in. We bring together strategic visionaries, industry experts, practitioners from across every enterprise function, business intelligence professionals, change specialists, data and AI authorities, and many other specialized skills to co-create each client’s unique path to reinvention. You will be a trusted partner to business leaders, working with a diverse team of experts to deliver successful tech-enabled transformation and new kinds of value for your clients.
+
+Strategy and Consulting is one of four services –the others are Accenture Song, Technology and Operations
+
+WORK YOU’LL DO
+
+As part of Applied Intelligence practice, you will combine AI & ML with data, analytics and automation under... a bold strategic vision to transform business in a very pragmatic way, sparking digital metamorphoses. There will never be a typical day and you will continuously learn and grow. The opportunities to make a difference within exciting client initiatives are unlimited in the ever-changing technology landscape. You will be part of a global team of data scientists, data engineers, and experts in AI & ML, who are highly collaborative taking on today’s biggest, most complex business challenges across a range of industries.
+
+Responsibilities:
+• Understand client requirements and translate them into data and architectural models
+• Support the development and delivery of data pipelines, working closely with data engineering, data science and operations teams
+• Research, design, build, and implement new Machine Learning systems, and maintain, and improve existing ones
+• Apply various techniques (NLP, MLOps, GraphML, audio & speech processing, reinforcement leadning, etc) to speed up and automate processes, and support decisions based on data-driven insights
+• Provide technical assessments and guidelines on best practices to development teams
+• Communicate solutions to senior client stakeholders and leadership
+• Contribute to sales activities through data and platform architecture expertise"
+Senior Machine Learning Engineer,2023-01-11,2023-01-30 12:22:19,https://www.google.com/search?q=Machine+Learning+Jobs+Greece&ibp=htl;jobs&sa=X&ved=2ahUKEwizlvCNgvD8AhVXJDQIHTZvCggQutcGKAF6BAgWEAU#htivrt=jobs&htidocid=Td4L1cnD5dAAAAAAAAAAAA%3D%3D&fpstate=tldetail,Maropost,Full-time,NA,Greece,"We’re Findify by Maropost, an agile team focused on delivering the industry’s best search and merchandising tool for ecommerce. A fully remote team with great experience & grand ambitions, spread around all over Europe.
+
+Headquartered in Downtown Toronto with offices also in Australia, India, and Europe, Maropost is the leader in unified commerce for the midmarket! Our Software as a Service platform provides organizations with the ability to connect with their customers across Ecommerce, Retail, Marketing, Service and Search Clouds to unify the customer experience as well as to provide efficiency, value, and ROI to their organizations.
+
+About the Position:
+
+As a Machine Learning Engineer, you'll be one of the owners of our personalisation and recommendations engine. It consists of many moving parts, starting with data collection, processing it via Flink and all the way to ML model development, training, serving and A/B testing.
+
+As an expert in your field, you will be empowered to... steer the future direction of our ML capabilities and will be, together with the help of the core backend team, responsible for serving the innovations to our customers in an efficient and reliable way.
+
+We’re an empowered product team, firmly committed to collaborative problem solving. We write specs and share the decision making. We work in two-week sprints to deliver greatness.
+
+The Opportunity:
+
+We are looking for an open minded and enthusiastic data scientist for our Senior Machine Learning Engineer position to join our Machine Learning team. If you are interested in personalization and information retrieval and have experience in this field, we would love to meet you! We are a product driven team, so we’re looking for someone who loves to be engaged in the product development process and appreciates being able to deliver a feature without depending on other engineers.
+
+About the Position:
+
+As a data scientist on our Machine Learning team, you'll be one of the owners of our personalisation and recommendations engine. It consists of many moving parts, starting with data collection, processing it via Flink and all the way to ML model development, training, serving and A/B testing.
+
+As an expert in your field, you will be empowered to steer the future direction of our ML capabilities and will be, together with the help of the core backend team, responsible for serving the innovations to our customers in an efficient and reliable way.
+
+We’re an empowered product team, firmly committed to collaborative problem solving. We write specs and share the decision making. We work in two-week sprints to deliver greatness.
+
+What You'll be Responsible for:
+• Designing and implementing maintainable ML services, and driving projects from start to finish.
+• Exploring explainable ML and control over it, we believe ML model's performance is already good and this has a huge growth potential.
+• Keeping up-to-date with advancements in the field of AI/ML to make sure our algorithms reflect the current state of the art.
+• Reading a lot of code, writing code with a focus on maintainability.
+• Contributing to technical and product specs, and collaborating on architecture and design decisions together with the other stakeholders.
+• Embracing feedback on your specs and your code as an opportunity for continuous improvement and collaborative design, and carrying out spec and code review for your coworkers.
+• Caring for knowledge transfer and mentoring others on the team, whether they're overall more junior or just less experienced in your specific domain of expertise.
+• Being an effective technical and non-technical communicator (our company language is English).
+
+What You'll need to bring to Maropost
+• Have previous experience developing and iterating on machine learning models (We use Python to train our Learn-to-Rank model).
+• Have previous experience with serving and maintaining the ML model (We use Scala for to serve our models).
+• Understand statistics and experimental design.
+• Are comfortable reading and writing SQL queries.
+• Have previous experience working with data processing pipelines (we use Flink, but experience with Spark or similar tools will be sufficient).
+• Appreciate good developer experience and make ours even better by introducing new tools and iterating on processes.
+• Are generous with your communication, whether it is about new ideas, praise, or very kindly phrased constructive feedback.
+• Like to learn new things, have an open mind and want to share your knowledge with your coworkers.
+
+What’s in it for you?
+
+You will not only have the freedom to make this role your own but be part of helping grow the Retail Global brand and expand it into all our markets globally as we currently operate in North America, Europe and ANZ (Australia/New Zealand). If you want to work with other brilliant people in an extraordinary work culture and are eager to learn (and have fun) along the way, then Maropost is the place for you!
+
+You'll also have access to these perks:
+• Extended Healthcare
+• Stock Options
+• Dental Care
+• Vision Care
+
+Impact and culture
+
+We are going into a growth phase so this is the perfect opportunity for you if you're excited about joining a team where you can have a lot of impact and take a lot of ownership over your work. The TypeScript team especially is a great opportunity for you if you want to leave your mark and contribute to the culture, as the team's position is becoming strategically more prominent with more of the core functionality of the software getting moved to the domain of the TypeScript team.
+
+Developer experience
+
+We are a high-tech company, and especially in the recent years we've focused a lot on developer experience. We have a cutting-edge tech stack (TypeScript and Scala with Kubernetes deployments) with no legacy tools and a keen interest in keeping it that way - so if you're excited about learning new technologies in a laid back, collaborative environment where quality software and engineering experience are among the first priorities, we are a good fit for you.
+
+Work life balance
+
+We're a remote team and have found this a recipe for success for the whole company. This has made us successful especially during the global pandemic where we've been able to grow the company and keep all positions intact while supporting our staff with young children and other family members to care for. We care about quality of work, collaborative processes and tangible results - we want you to be available and responsive during usual working hours in case your coworkers need something from you, but we’re very flexible when the circumstances arise. We have kids at home from daycare making appearances on calls sometimes, and you can book a slot in your work calendar for the appointment with your doctor or your dentist without feeling guilty. It’s important that we’re communicative and as responsive as possible when that happens, but sometimes we need some flexibility on when we get the focused work done and we understand that completely.
+
+Equal Employment Opportunist:
+
+Maropost is deeply committed to promoting diversity, advancing equity and fostering a culture of inclusion. Therefore, we invite applications from marginalized and equity-seeking groups. Individuals seeking employment at Maropost are considered without regards to race, color, religion, sex, sexual orientation, gender identification, national origin, age, marital status, ancestry, physical or mental disability, or veteran status. Accommodations are available on request for candidates taking part in all aspects of the selection process. Please feel free to alert us of any accommodations via hr@maropost.com"
+Data Scientist,NA,2023-01-30 12:22:19,https://www.google.com/search?q=Machine+Learning+Jobs+Greece&ibp=htl;jobs&sa=X&ved=2ahUKEwizlvCNgvD8AhVXJDQIHTZvCggQutcGKAF6BAgWEAU#htivrt=jobs&htidocid=lbjnCWx4ikgAAAAAAAAAAA%3D%3D&fpstate=tldetail,WeatherXM,Full-time,NA,"Athens, Greece","We are looking for a Data Scientist to analyze large amounts of raw information to find patterns that will help improve our company. We will rely on you to build data products to extract valuable business insights. In this role, you should be highly analytical with a knack for analysis, math and statistics. Critical thinking and problem-solving skills are essential for interpreting data. We also want to see a passion for machine-learning and research. Your goal will be to help our company analyze trends to make better decisions.
+
+Responsibilities
+• Identify valuable data sources and automate collection processes
+• Undertake preprocessing of structured and unstructured data
+• Analyze large amounts of information to discover trends and patterns
+• Build predictive models and machine-learning algorithms
+• Combine models through ensemble modeling
+• Present information using data visualization techniques
+• Propose solutions and strategies to business challenges
+• Collaborate with... engineering and product development teams
+
+Requirements
+• Proven experience as a Data Scientist or Data Analyst
+• Experience in data mining
+• Understanding of machine-learning and operations research
+• Experience using business intelligence tools (e.g. Tableau) and data frameworks (e.g. Hadoop)
+• Analytical mind and business acumen
+• Strong math skills (e.g. statistics, algebra)
+• Problem-solving aptitude
+• Excellent communication and presentation skills
+• BSc/BA in Computer Science, Engineering or relevant field; graduate degree in Data Science or other quantitative field is preferred
+
+You get bonus points, if you have:
+• Knowledge of R, SQL and Python; familiarity with Scala, Java or C++ is an asset"
+Junior Data Analytics & Machine Learning Consultant,2023-01-27,2023-01-30 12:22:20,https://www.google.com/search?q=Machine+Learning+Jobs+Greece&ibp=htl;jobs&sa=X&ved=2ahUKEwizlvCNgvD8AhVXJDQIHTZvCggQutcGKAF6BAgWEAU#htivrt=jobs&htidocid=SrEYg6nXiOkAAAAAAAAAAA%3D%3D&fpstate=tldetail,EY,Full-time,NA,"Athens, Greece","What if we didn’t focus on who you are now, but who you could become?
+
+Here at EY, you’ll have the chance to build a truly exceptional experience. We’ll empower you with the latest technology, surround you with high-performing teams, and provide the global scale and diverse and inclusive culture you need to discover your full potential. Through our coaching and training programs, you’ll develop the skillsets you need to stay relevant today and in the future – all while building a network of colleagues, mentors, and leaders who will be on the journey with you at EY and beyond.
+
+The Exceptional EY Experience. It's Yours To Build.
+
+The opportunity: your next adventure awaits
+
+Gain experience working with our highly motivated team for our Technology Consulting practice, which is a leading provider of services to large organizations of all industries. Being part of our Data & Analytics Center of Excellence, you will work with multi-disciplinary and international teams, in a multicultural... and fast- paced environment.
+
+Build your skills in Advanced Analytics, Machine Learning and Artificial Intelligence through multifaceted training to develop applications with diverse real-world datasets.
+
+Solve the business world’s most challenging problems alongside experienced professionals and subject matter experts.
+
+Your Key Responsibilities
+
+You will identify appropriate modeling techniques to answer the most critical business questions and use your analysis to infer business insights in support of your clients’ decision making.
+
+You will also resort to various data management and visualization techniques to provide insight into the data. Your portfolio of skills will cover a range of advanced statistical and machine learning techniques for classification, prediction, recommendation, clustering, forecasting, as well as data management, data visualization, and optimization, applied in a commercial context. You will contribute to presentations of modeling results and project proposals.
+
+Skills And Attributes For Success
+• Strong communication, presentation, client service and technical writing skills in English for both technical and business audiences.
+• Strong analytical, problem solving and critical thinking skills.
+• Ability to work under tight timelines for multiple project deliveries.
+• Ability/flexibility to travel and work abroad for international projects.
+
+To qualify for the role, you must have
+• Excellent academic background, including a BSc or a MSc degree in Data Science, Business Analytics, Statistics, Mathematics, Econometrics, Engineering, Operational Research, Computer Science, or another related field with strong quantitative focus.
+• Mathematical understanding of machine learning, predictive modeling and optimization algorithms
+• 1- 2 years of professional or research experience in some of the following:
+• ML/NLP tools like TensorFlow, PyTorch, scikit-learn, pandas, caret etc.
+• Coding and software engineering in mainstream programming languages, such as Python or Go.
+• Statistical packages for data manipulation and in development of predictive and prescriptive models (e.g. R, SAS, SPSS).
+• Data analysis and manipulation of large datasets using e.g. SQL, spark.
+
+What We Look For
+
+What’s most important is that you’re dedicated to working with your colleagues as part of a high-performing team. You’ll need to demonstrate enthusiasm, high motivation and passion to develop fast in a multinational working environment. You’ll need to thrive in picking up new skills and talents as you go, so natural curiosity, a lot of questions and the confidence to speak up when you see something that could be improved are essential. If you’ve got the right combination of technical knowledge and communication skills, this role is for you.
+
+What’s In It For You
+• Accelerate your technical capabilities and transformative leadership skills with future-focused courses and development programs.
+• Broaden your horizons by working on highly integrated teams across the globe and collaborate with people of diverse backgrounds — both professionally and culturally.
+• Bring out the best in yourself with continuous investment in your personal well-being and career development.
+• Develop your own personal purpose and help us create a positive ripple effect on our teams, our business, clients and society – building a better working world, together.
+
+If you can demonstrate that you meet the criteria above, please contact us as soon as possible.
+
+The Exceptional EY Experience. It’s Yours To Build.
+
+EY | Building a better working world
+
+EY exists to build a better working world, helping to create long-term value for clients, people and society and build trust in the capital markets.
+
+Enabled by data and technology, diverse EY teams in over 150 countries provide trust through assurance and help clients grow, transform and operate.
+
+Working across assurance, consulting, law, strategy, tax and transactions, EY teams ask better questions to find new answers for the complex issues facing our world today"
+Computer Vision / Machine Learning Engineer,2023-01-24,2023-01-30 12:22:20,https://www.google.com/search?q=Machine+Learning+Jobs+Greece&ibp=htl;jobs&sa=X&ved=2ahUKEwizlvCNgvD8AhVXJDQIHTZvCggQutcGKAF6BAgWEAU#htivrt=jobs&htidocid=7cR7gcjzFv0AAAAAAAAAAA%3D%3D&fpstate=tldetail,Information Technologies Institute (ITI),Full-time,NA,"Thessaloniki, Greece","ABOUT THE JOB
+
+VCL3D is looking to expand our team with new people interested in Computer Vision, Machine Learning and Deep Learning. We are doing research and development on a number of topics in this area, including:
+• 3D/4D vision
+• Deep learning for computer vision
+• Human centered eXtended Reality
+• Explainable AI
+• Computer graphics
+
+Our research is conducted in the context of projects funded by the European Commission.
+
+WORK YOU’LL DO
+
+New VCL3D team members will conduct research and development on new and emerging technology, combining computer vision with deep learning to push the state of the art on several tasks, such as:
+• 3D face modeling
+• 4D human capturing and reconstruction
+• Gesture recognition
+• Deepfake detection
+• Image enhancement
+• Depth estimation
+• Image/video encoding
+• Scene understanding
+• AI decision making based on visual input
+
+RESPONSIBILITIES
+• Study the state of the art in relevant methods and technologies
+• Research and develop new methods and... algorithms
+• Integrate the developed algorithms into user-friendly interfaces
+• Demonstrate and evaluate technologies in field trials, pilot exercises, and other events around Europe
+• Author papers, publish in scientific journals, and present your work in international conferences
+• Sync with European project partners by participating in online or physical meetings
+• Improve your own skills and those of co-workers through regular teaching/learning workshops
+
+WHO WE´RE LOOKING FOR?
+
+Prospective team members will need to have at least a Bachelor’s degree in Electrical and Computer engineering, computer science, or other related discipline. Good programming skills (Python and C++ in particular), and a very good knowledge of the English language is also necessary.
+
+It will be nice to have an MSc or PhD in Computer Engineering, Computer Science or related technical field, familiarity with computer vision, knowledge of deep learning frameworks (e.g. PyTorch), experience in writing scientific publications.
+
+BENEFITS
+
+The Information Technologies Institute offers a vibrant environment in advanced research through the involvement in large multi-national research projects involving state-of-the-art technologies in various fields of application. Every day (and week, and month) will be different, and the environment fosters continuous learning and growth, as you acquire new skills and become familiar with new concepts, tools, and methods. For high-potential candidates, we offer the option for PhD studies in combination with the research work.
+
+The Information Technologies Institute belongs to the Centre for Research and Technology Hellas, and all job opportunities follow an internal approval process before they are published at the official CERTH career page. This is a publication of an initial intent to invite applicants for these positions"
+Senior ML Engineer,NA,2023-01-30 12:22:21,https://www.google.com/search?q=Machine+Learning+Jobs+Greece&ibp=htl;jobs&sa=X&ved=2ahUKEwizlvCNgvD8AhVXJDQIHTZvCggQutcGKAF6BAgWEAU#htivrt=jobs&htidocid=qw3AHt0P1G0AAAAAAAAAAA%3D%3D&fpstate=tldetail,Dyania Health,Full-time,NA,"Athens, Greece","If you like to innovate at the forefront of technology and build software that solves important real-world problems, we'd love to hear from you! At Dyania Health we are transforming the way in which machines understand and process medical information. We are seeking senior ML/software engineers who are passionate about their craft to help us in that mission. As a senior ML engineer at Dyania, you'll assume a leading role in an agile team of ML and software engineering practitioners who collaborate closely with our product and clinical scientist teams. You'll have the opportunity to work with the latest NLP technologies and help to invent, implement, test, and release new technologies that push the state of the art in extracting sophisticated semantics from biomedical text sources, including anonymized EMRs (electronic medical records).
+
+Requirements
+
+Required Qualifications:
+• 4+ years of industry experience in ML-flavored software engineering (not counting internships or school... work)
+• Bachelor's or graduate degree in Computer Science or a related field (e.g., Mathematics or Electrical Engineering)
+• Experience in training, testing, deploying, and performing inference with ML models, preferably with transformer models and for NLP applications
+• Proficiency in Python and in Java (and/or Kotlin/Scala) or C++
+• Experience with designing and implementing microservices
+• Professional experience with Git
+• Experience with relational databases and/or NoSQL systems such as knowledge graphs
+• Excellent communication skills
+
+Preferred Qualifications:
+• Familiarity with AWS
+• Previous experience in computational linguistics
+• Experience with Jira and agile methodologies for software development
+
+Responsibilities:
+• Design, implement, and deploy software components in a microservice architecture that perform biomedical information processing
+• Mentor junior engineers
+• Work closely with product, UX, and clinical teams, analyze customer requirements, and rapidly implement prototypes introducing new functionality
+• Analyze performance results and convey your analyses to relevant stakeholders
+
+Team Culture:
+• We try every day to maintain empathy for patients and our teammates.
+• We value small egos, self-awareness, and humility in our teammates.
+• We appreciate flexible and adaptive attitudes towards solving problems, as strategic priorities may shift.
+• We love diversity of thought, perspective, working style, skill set, knowledge, and interests amongst our team.
+• We value open dialogue and brainstorming across multidisciplinary teams.
+
+Dyania Health is an equal opportunity employer that is committed to workplace diversity and inclusion. We do not discriminate on the basis of race, gender, gender identity, color, religion, national origin, sexual orientation, or any other legally protected characteristic as outlined by federal, state, or local laws"
+R&D Engineer (AI),NA,2023-01-30 12:22:21,https://www.google.com/search?q=Machine+Learning+Jobs+Greece&ibp=htl;jobs&sa=X&ved=2ahUKEwizlvCNgvD8AhVXJDQIHTZvCggQutcGKAF6BAgWEAU#htivrt=jobs&htidocid=mtIa_Rg12IAAAAAAAAAAAA%3D%3D&fpstate=tldetail,WINGS ICT Solutions,Full-time,NA,"Athens, Greece","WINGS ICT Solutions is seeking for an R&D Engineer, to be involved in the development of orchestration, management and diagnostic components for cloud-oriented platforms. As a research engineer, the successful candidate will work as part of a team, while also being independent, will investigate, resolve interesting research problems and gain expertise in beyond the state-of-the-art technologies. The successful candidate will have the opportunity to be heavily involved in the architectural design, implementation, and testing/verification of experimental prototypes, using Machine Learning techniques and Artificial Intelligence algorithms. Finally, she/he will configure and experiment with existing systems and in-house developed tools.
+
+Requirements
+• Candidate must have a Bachelor’s Diploma in Electrical & Computer/Electronic engineering, Computer Science, Network or Telecommunications Engineering.
+• MSc / PhD in the afore-mentioned areas will be considered as a plus.
+• Experience in... similar development activities, such as R&D projects and team-oriented projects is desirable.
+• Software design & development skills (Python and/or Go)
+• Deep understanding of ML techniques and AI algorithms
+• Experience with Linux and bash scripting
+• Familiarity with version control tools (Git)
+• Ability to contribute and lead technical reports and deliver technical presentations
+
+Other Qualifications
+• Excellent command of English
+• Excellent written and verbal communication skills
+• Ability to perform within a team
+• Creative and outside-of-the-box way of thinking
+• Motivated to investigate new technologies and solutions
+
+Benefits
+• Highly competitive salary, reviewed upwards on a regular basis, based on your performance
+• Participation in state-of-the-art projects and tech challenges
+• Personal and professional development, amongst industry experts and talented people
+• Continuous learning, having access to broad resources for professional and personal development
+• Work with state-of-the-art technologies
+• Friendly environment and fun team members, with fresh ideas"
+"Senior Machine Learning Engineer (Bangkok based, relocation provided)",2023-01-27,2023-01-30 12:22:22,https://www.google.com/search?q=Machine+Learning+Jobs+Greece&ibp=htl;jobs&sa=X&ved=2ahUKEwizlvCNgvD8AhVXJDQIHTZvCggQutcGKAF6BAgWEAU#htivrt=jobs&htidocid=IstntI7U28YAAAAAAAAAAA%3D%3D&fpstate=tldetail,Agoda,Full-time,NA,"Athens, Greece","About Agoda
+
+Agoda is an online travel booking platform for accommodations, flights, and more. We build and deploy cutting-edge technology that connects travelers with more than 2.5 million accommodations globally. Based in Asia and part of Booking Holdings, our 6,000+ employees representing 90+ nationalities foster a work environment rich in diversity, creativity, and collaboration. We innovate through a culture of experimentation and ownership, enhancing the ability for our customers to experience the world.
+
+Get to Know Our Team
+
+The Data department oversees all of Agoda’s data-related requirements. Our ultimate goal is to enable and increase the use of data in the company through creative approaches and the implementation of powerful resources such as operational and analytical databases, queue systems, BI tools, and data science technology. We hire the brightest minds from around the world to take on this challenge and equip them with the knowledge and tools that contribute to... their personal growth and success while supporting our company’s culture of diversity and experimentation. The role the Data team plays at Agoda is critical as business users, product managers, engineers, and many others rely on us to empower their decision making. We are equally dedicated to our customers by improving their search experience with faster results and protecting them from any fraudulent activities. Data is interesting only when you have enough of it, and we have plenty. This is what drives up the challenge as part of the Data department, but also the reward.
+
+The Opportunity
+
+As part of a Machine Learning – Data Platform team, you participate in building large scale ML backed solution to drive the business forward. You will split your time between working on our offline environment, where you will build Spark Jobs running on our Hadoop clusters Or on GPUs, and our Online environment, where dozens of models are predicting more than 1B predictions per day in a multi-DC, low latency environment.
+
+In This Role, You’ll Get to
+• Work alongside experienced engineers, data scientists and product owners to identify business opportunities, design and create new data pipelines from scratch, all the way to deploying them to production
+• Develop solutions for real world, large scale problems
+• Participate in cutting edge research in machine learning applications
+• Improve scalability, speed and performance of existing models
+• Contribute to the full life cycle of ML models – data analysis, modeling, tuning & productization
+
+What You’ll Need To Succeed
+• 5+ years of industry experience, including software development experience
+• Experience in one or more object-oriented languages, including Scala, Python, Java or C++
+• Experience working in an agile environment using test driven methodologies
+• Adherence to data driven development where decisions are based on data and A/B experimentation
+• Desire to learn the details of advance machine learning algorithms
+
+It’s Great If You Have
+• Work or educational experience in Machine Learning or Artificial Intelligence
+• Experience working with Apache Spark, Tensorflow, Caffe, Torch, Theano, or Scikit-Learn
+• Experience building large-scale distributed products
+• Passionate about functional programming
+
+#bangkok #tainan #istanbul #london #kiev #hcmc #sanaa #manila #warsaw #paris #berlin #athens #hongkong #budapest #jakarta #dublin #telaviv #milan #rome #tokyo #vancouver #shanghai #beijing #shenzhen #marrakech #wroclaw #taipei #ENG #IT #4
+
+Equal Opportunity Employer
+
+At Agoda, we pride ourselves on being a company represented by people of all different backgrounds and orientations. We prioritize attracting diverse talent and cultivating an inclusive environment that encourages collaboration and innovation. Employment at Agoda is based solely on a person’s merit and qualifications. We are committed to providing equal employment opportunity regardless of sex, age, race, color, national origin, religion, marital status, pregnancy, sexual orientation, gender identity, disability, citizenship, veteran or military status, and other legally protected characteristics.
+
+We will keep your application on file so that we can consider you for future vacancies and you can always ask to have your details removed from the file. For more details please read our privacy policy .
+
+To all recruitment agencies: Agoda does not accept third party resumes. Please do not send resumes to our jobs alias, Agoda employees or any other organization location. Agoda is not responsible for any fees related to unsolicited resumes"
+AI/Machine Learning Specialist - AWS,2023-01-03,2023-01-30 12:22:22,https://www.google.com/search?q=Machine+Learning+Jobs+Greece&ibp=htl;jobs&sa=X&ved=2ahUKEwizlvCNgvD8AhVXJDQIHTZvCggQutcGKAF6BAgWEAU#htivrt=jobs&htidocid=yFDqMRCFYGUAAAAAAAAAAA%3D%3D&fpstate=tldetail,Uni Systems,Full-time,NA,"Athens, Greece","Description
+
+Our UniQue Team is growing and in our amazing team, we are looking for an AI Machine Learning Specialist to join us. You will be working on a number of exciting projects in a challenging, dynamic and fast-paced environment.
+• Design and implement cloud solutions, build MLOps on cloud (AWS)
+• Data science model review, run the code refactoring and optimization, containerization, deployment, versioning, and monitoring of its quality
+• Ensure that algorithms generate accurate user recommendations
+• Select appropriate datasets and data representation methods
+• Run tests, perform statistical analysis, and interprete test results
+• Perform statistical analysis and fine-tuning using test results
+• Extend existing ML Platform and frameworks for scaling model training & deployment
+• Identify and evaluate new technologies to improve performance, maintainability, and reliability of our clients' machine learning systems
+
+Requirements
+• BSc in Computer Science, Data Science... Mathematics or similar field; Master’s degree is a plus
+• 2+ years of experience as a Machine Learning Specialist
+• Ability to design and implement cloud solutions and ability to build MLOps pipelines in the Cloud using Amazon SageMaker
+• Ability to understand tools used by data scientist and experience with software development and test automation
+• Ability to write robust code in Python, Java and R
+• Familiarity with machine learning frameworks (like Keras or PyTorch) and libraries
+• Hand on experience with Apache Spark
+• Container orchestration (Kubernetes preferred), Shell scripting & Linux knowledge
+• Exposure to Terraform
+• Excellent communication skills
+• Ability to work in a team
+• Outstanding analytical and problem-soklving skills
+• Excellent knowledge of English language
+• Capability of working in an international/ multicultural environment
+• Specific cloud qualification/certification (e.g. AWS Database Speciality, AWS Developer Associate, AWS Solution Architect, AWS Data Analytics Speciality, AWS Machine Learning Speciality)
+
+Benefits
+
+What are we offering to our UniQue IT people?
+• People-first approach and open environment to express your ideas
+• Ticket restaurant – meal vouchers
+• Corporate laptop and equipment
+• Corporate mobile phone subscription
+• Work-life balance and a hybrid work model
+• Health and insurance plan for you and your family members
+• Employee consulting and guidance support by Hellas EAP
+• Continuous training and certifications
+• Discounts on the services and products of our Group’s companies
+• Gift vouchers for major life milestones
+• Special work schedule on summer Fridays and your birthday"
+Senior Data and ML Ops Engineer,NA,2023-01-30 12:22:22,https://www.google.com/search?q=Machine+Learning+Jobs+Greece&ibp=htl;jobs&sa=X&ved=2ahUKEwizlvCNgvD8AhVXJDQIHTZvCggQutcGKAF6BAgWEAU#htivrt=jobs&htidocid=_f2fxf762yMAAAAAAAAAAA%3D%3D&fpstate=tldetail,LANGaware,Full-time,NA,Greece,"Our job is to help with a preliminary diagnosis of Dementia, with emphasis on Alzheimer’s Disease. We focus on helping healthcare experts, pharmaceutical companies and policy makers make informed decisions regarding patients and their cognitive status. We are a tech-based startup that focuses on data science, machine learning, and B2B solutions.
+
+Role
+
+As a Senior Python Software and Data Engineer, you help design, develop and deploy multiple features for the services offered. Leveraging your expertise to help implement a complex product while ensuring high-quality solutions and performance.
+
+The Person will be responsible for:
+• Work with the Machine Learning team to develop various language and audio features
+• Deploy and maintain our services in Google Cloud Platform
+• Scale and deploy ML pipelines in production
+• Work with the Frontend team to provide necessary analytics and interactive visualizations to the customer
+• Maintain the existing data architecture, and model new data to... be inserted into the system
+• Design, develop and adapt RESTful APIs for our products
+• Work with various stakeholders with different backgrounds (researchers, UX professionals, designers, etc)
+
+Job Qualifications
+
+Technical knowledge is critical, but attitude is even more important. We're looking for people that like to walk the uncertain path and want to discover how to do things that haven’t been done before. We are a team and are looking for team players. We are looking for people that only see challenges, not obstacles. We are disrupting the market so where others find problems we provide solutions.
+
+Minimum qualifications
+• BSc degree in Computer Science or related Engineering field
+• 5+ years of work experience in software engineering with medium to large projects
+• Experience with deploying software in production
+• Experience with data engineering and data driven development
+• Hands on experience with Python data management and ML frameworks (e.g. SQLAlchemy, Pandas, Numpy, Scikit Learn)
+• Understanding of Machine Learning algorithms and concepts
+• Hands-on experience in Python web frameworks (e.g. Flask)
+• Hands-on experience in working with relational databases (e.g. Postgres) and SQL
+• Hands-on experience with Docker
+• Familiarity with JSON and YAML
+• Familiarity with Git or similar version control systems
+• A strong sense of ownership in your work
+• Fluent English is a prerequisite
+• Strong analytical, problem-solving and critical thinking skills
+• Ability to work under tight timelines for multiple product deliveries
+• The desire to build, launch and iterate on products with limited direction
+• The ability to guide a team of developers according to the product design
+
+Nice to have:
+• Experience with cloud platforms (GCP, AWS, Azure, etc.)
+• Understanding of Deep Learning algorithms and concepts
+• Understanding of Natural Language Processing techniques"
+Data Engineer,2023-01-27,2023-01-30 12:22:23,https://www.google.com/search?q=Machine+Learning+Jobs+Greece&ibp=htl;jobs&sa=X&ved=2ahUKEwizlvCNgvD8AhVXJDQIHTZvCggQutcGKAF6BAgWEAU#htivrt=jobs&htidocid=8f8xwnf-ic8AAAAAAAAAAA%3D%3D&fpstate=tldetail,Netcompany-Intrasoft,Full-time,NA,"Athens, Greece","Company Description
+
+We are Netcompany-Intrasoft, a leading European IT Solutions and Services Group with strong international presence and expertise, offering innovative and added-value solutions of the highest quality to a wide range of international and national public and private organizations. More than 500 organizations in over 70 countries worldwide have chosen the company's services and solutions to fulfill their business needs.
+
+For more information regarding our company, current projects, and openings around Europe, please consult our website: www.netcompany-intrasoft.com.
+
+Job Description
+
+We are looking for a Data Engineer for our offices in Athens
+
+A day in the life of a Data Engineer
+
+You will be member of Netcompany-Intrasoft's Data Analytics Competence Center.
+
+You will be part of an international team of data engineers & data scientists implementing a state-of-the-art Big Data projects, that involve the deployment of massively parallel data store and processing... engines, the ingestion and analysis of multiple petabytes of data, and the implementation of Artificial Intelligence algorithms that will provide actionable intelligence to the customer.
+
+Your main duties will be:
+• Creating batch and streaming analytics implementations for very large data sets by utilizing distributed technologies
+• Optimizing ingestion and query performance on distributed data stores and SQL engines
+• Implementing data extraction, enrichment, processing, and load workflows.
+• Performing preliminary statistical analysis, training and implementation of inference engines based on formal modeling
+
+By joining Netcompany - Intrasoft, a leading IT company, you will be part of a hub of 1.700+ tech enthusiasts in Greece. You will work using cutting-edge technologies that contribute to the design and delivery of solutions and products for challenging, large-scale IT projects, that affect the lives of millions of citizens around the globe.
+
+Qualifications
+
+If you have
+• Solid experience as a Data Engineer
+• Degree in Computer Science, Technology, Engineering, Math or equivalent
+• Advanced experience with relational databases, query authoring (SQL) as well as working familiarity with a variety of databases (including noSQL).
+• Experience in building and optimizing ‘big data’ data pipelines, architectures and data sets. As well as in the development of Data Ingestion Pipelines and Data Analysis Applications
+• Experience performing root cause analysis on internal and external data and processes to answer specific business questions and identify opportunities for improvement.
+• Build processes supporting data transformation, data structures, metadata, dependency and workload management.
+• A successful history of manipulating, processing and extracting value from large and disconnected datasets.
+• Experience supporting and working with cross-functional teams in a dynamic environment.
+
+…then this position is suitable for you!
+
+It would also be a plus if you had one or more of the below
+• Experience with big data tools: Flume, nifi, Hadoop, Spark, Kafka, etc.
+• Experience with SQL and NoSQL databases (such as MongoDB, ElasticSearch, HDFS, Kudu, HBase, Impala, Hive etc)
+• Experience with object-oriented/object function scripting languages: Python, Java, C++, Scala, etc.
+
+This position comes with
+• Competitive compensation packages
+• Continuous learning (with the most modern methods - unlimited access to Udemy for Business), and fast career growth
+• Interesting and challenging tasks within large-scale projects
+• An international dynamic within a fast-paced working environment
+• The opportunity to work in a diverse environment with talented colleagues
+
+Additional Information
+
+We ensure equal opportunities, treatment, and consideration to all candidates. Discrimination based on sex, racial or ethnic origin, religion or belief, disability, age, sexual orientation or marital status, physical or mental disability, or any other factor protected by applicable laws and regulations is prohibited. At Netcompany-Intrasoft we respect human rights as part of our culture, and we focus on creating a positive workplace in which all employees are valued and where diversity and inclusivity are welcomed.
+
+The safety and well-being of our employees remain our top priority. Please note that Netcompany-Intrasoft’s recruitment process is being conducted virtually due to preventive measures against the Covid-19 pandemic.
+
+Our culture
+
+Our people are the most important element of our success. Our work life is well defined by our set of fundamental Values:
+
+Be the link of a great team that forms a unique network across departments, countries and business units and operates with trust, open communication, transparency and respect.
+
+We make it happen with our expertise, accountability and solution-driven attitude. We always strive for improvement, always with an eye on the big picture.
+
+We learn & evolve by embracing a culture of building on our experiences, sharing our knowledge and developing our skills. We are always open to new ideas and invite all our colleagues to contribute with theirs.
+
+We fuel creativity in every aspect of our everyday life at Netcompany - Intrasoft; in the solutions and products we design and the initiatives we undertake.
+
+We share customer success by understanding their unique needs, corresponding to their vision, and exceeding their expectations.
+
+#BePartOfSomethingGreat!
+• Please submit your CV in English
+
+All applications will be treated as strictly confidential"
+Part Time- Work From Home Opportunity for Greek Speakers,2023-01-03,2023-01-30 12:22:23,https://www.google.com/search?q=Machine+Learning+Jobs+Greece&ibp=htl;jobs&sa=X&ved=2ahUKEwizlvCNgvD8AhVXJDQIHTZvCggQutcGKAF6BAgWEAU#htivrt=jobs&htidocid=uOALrVJ_oz8AAAAAAAAAAA%3D%3D&fpstate=tldetail,TELUS International AI Data Solutions,Part-time,NA,Greece,"Our Company
+
+TELUS International AI-Data Solutions partners with a diverse and vibrant community to help our customers enhance their AI and machine learning models. The work of our AI Community contributes to improving technology and the digital experiences of many people around the world. Our AI Community works in our proprietary AI training platform handling all data types (text, images, audio, video and geo) across 500+ languages and dialects. We offer flexible work-from-home opportunities for people with passion for languages. The jobs are part-time, and there is no fixed schedule. Whoever you are, wherever you come from, come join our global AI community. www.telusinternational.com
+
+Who is suitable for this work?
+
+We are looking for dynamic people who have strong communication skills and use the Internet daily. This is a freelance, independent contractor position. You will have the flexibility and freedom to work from your own home, working your own hours.
+
+What does the work... involve?
+
+In this job you will be reviewing online advertisements in order to improve their content, quality and layout. You will be required to provide feedback and analysis on advertisements found in search engine results and provide ratings on their relevance to the search terms used. Another aspect of this opportunity will involve reviewing the language used in advertisements by examining grammar, tone and cultural relevance.
+
+As a Personalized Internet Ads Assessor your ultimate goal will be to contribute towards making internet search and online advertising more relevant and interesting for all Greek speakers in Greece.
+
+Requirements
+• You must be living in Greece for the last 3 consecutive years
+• Suitable candidates must have full professional proficiency in English and Greek
+• Access to and use of a broadband internet connection and associated computer and antivirus software to perform the work, all provided at your own expense
+• Experience in use of web browsers to navigate and interact with a variety of content
+• Access to and use of an Android (version 4.1 or higher) or IOS Smartphone (version 8 or higher) to complete tasks
+• A Barcode Scanner application must be installed on your smartphone to complete certain tasks
+• Active daily user of Gmail and other forms of Social Media
+
+Working on this project will require you to go through a standard recruitment process (including passing an open book assessment). This is a part time project and your work will be subject to our standard quality assurance checks during the term of this agreement.
+
+Why join the TELUS International AI Community?
+• Earn extra income
+• Access to our community wellbeing initiative
+• Remote work & Location Independence
+• Flexible Hours to work around home life
+• Better Work-Life Balance
+• Be a part of an amazing online community
+
+What’s next?
+
+If this sounds like a role you’d be interested in taking on, please apply below:
+
+https://www.telusinternational.ai/cmp/contributor/jobs/available/7
+• *NOTE**: All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or protected veteran status"
+"Credit Risk Data Scientist, Fintech",2023-01-05,2023-01-30 12:22:23,https://www.google.com/search?q=Machine+Learning+Jobs+Greece&ibp=htl;jobs&sa=X&ved=2ahUKEwizlvCNgvD8AhVXJDQIHTZvCggQutcGKAF6BAgWEAU#htivrt=jobs&htidocid=452QeaY9HmQAAAAAAAAAAA%3D%3D&fpstate=tldetail,Optasia,Full-time,NA,"Athens, Greece","Optasia is a fully-integrated B2B2X financial technology platform covering scoring, financial decisioning, disbursement & collection. We provide a versatile AI Platform powering financial inclusion, delivering responsible financing decision-making and driving a superior business model & strong customer experience with presence in 30 Countries anchored by 7 Regional Offices.
+
+We are seeking for enthusiastic professionals, with energy, who are results driven and have can-do attitude, who want to be part of a team of likeminded individuals who are delivering solutions in an innovative and exciting environment.
+As member of the Credit Risk team in Optasia, you will be a significant contributors of company's data driven automated decision making, risk management and profits optimization. They have extensive experience with credit and profit scoring, the development and deployment of advanced algorithms, and the day-to-day risk management of large portfolio of loans. They have the... capability (i) to perform advanced risk analytics, (ii) design and develop statistical and machine learning algorithms for credit issuance and risk management, and (iii) operationalize them in the daily risk management activities of large portfolios with the aim to optimize profits. Credit Risk Data Scientists are part of a large team of 10 people, working closely with Big Data Engineers and Analysts.
+
+What you will do
+• Manage large portfolios of micro-loans with the use of advanced algorithms and analytics to optimize profits
+• Develop and deploy advanced credit risk models and algorithms
+• Design, develop and implement scorecards for nano- and micro-finance
+• Analyze large data volumes to identify credit risk factors
+• Develop strategies for credit risk management and revenue maximization
+• Transfer knowledge on credit risk model development and management
+What you will bring
+• BSc and MSc in Mathematical Sciences, Computer Science or Finance from an accredited institution.
+• Minimum of 3 years' experience in a related role (e.g. credit risk analyst/manager and/or data scientist).
+• Strong analytical skills, evidence of statistical/machine learning models and algorithms development.
+• Hands-on experience at least in two of the following (with descending significance):Credit risk model development and deployment, Credit risk management, Risk analytics, Profits Optimization, Machine learning
+• Ability to set-up, organize and monitor pilots for testing and comparing risk models
+• Experience in and ability to gain risk insights analyzing large volumes of data.
+• Passion for learning new technologies and eagerness to collaborate with other creative minds
+• Strong desire for exploring, evaluating and understanding new technologies
+• Ability to hit tight deadlines and work under pressure and strict attention to detail
+• Excellent judgment, organizational and problem-solving skills
+• Strong interpersonal and communication skills
+Optional requirements (will be considered a plus):
+• PhD in Mathematical Sciences, Computer Science or Finance from an accredited institution.
+• Hands-on experience on big data processing and analytics.
+• Creative skills
+• Programming skills
+• Experience in working with secure code development guidelines and coding practices (i.e. OWASP, NIST)
+Why you should apply
+What we offer:
+👟 Flexible remote working
+💸 Competitive remuneration package
+🏝 Extra day off on your birthday
+💰 Performance-based bonus scheme
+👩🏽⚕️ Comprehensive private healthcare insurance
+📲 💻 All the tech gear you need to work smart
+Optasia's Perks:
+🎌 Be a part of a multicultural working environment
+🎯 Meet a very unique and promising business and industry
+🌌 🌠 Gain insights for tomorrow market's foreground
+🎓 A solid career path within our working family is ready for you
+📚 Continuous training and access to online training platforms
+   CSR activities and festive events within any possible occasion
+🍜 Enjoy comfortable open space restaurant with varied meal options every day
+🎾 🧘♀️ Wellbeing activities access such as free on-site yoga classes, plus available squash court on our premises"
+Mid/senior data scientist,2023-01-14,2023-01-30 12:22:24,https://www.google.com/search?q=Machine+Learning+Jobs+Greece&ibp=htl;jobs&sa=X&ved=2ahUKEwizlvCNgvD8AhVXJDQIHTZvCggQutcGKAF6BAgWEAU#htivrt=jobs&htidocid=iUR5PkQ70q0AAAAAAAAAAA%3D%3D&fpstate=tldetail,GWI,Contractor,NA,"Athens, Greece","We’re looking for enthusiastic and passionate data scientists to join us here at GWI. Not just anyone though. Someone ambitious and genuine, who works best in the midst of a collaborative and forward-thinking team. That’s because as a GWIer you’ll be immersed in the fast-moving world of data tech. We think big to make an impact, we’re not afraid to ask why, and we always show respect. Those values are what got us where we are today, and they’re a big part of what we’re looking for in you.
+
+About The Job
+
+Our Data Science department at GWI is committed to maintaining the highest quality in our survey data and to helping our customers arrive at the insights they need to understand their audiences. From automated testing and intelligent product features to custom analytical solutions and data observability, we are supporting the business at every level as data is at the very core of what we do. We are actively engaged throughout the entire data life cycle including data cleaning, data... processing, data validation, designing and automating data workflows, and investigating new trends and unexpected findings.
+
+Our team values learning and keeping abreast of the latest research very highly and as a result we’re applying a wide range of techniques across machine learning, statistics and natural language processing to the services and features we build. We are a diverse team with different backgrounds spread across two locations, Athens and London, and growing rapidly.
+
+What You’ll Be Doing
+
+There are a variety of data modelling tasks performed on our survey data necessary for extracting insights from our growing data assets. From forecasting forthcoming results, to constructing regressions and determining causalities between our different surveys, to understanding multi-scale clustering phenomena.
+
+You will report directly to our VP of Data Science as well as working closely with the rest of Data Science, Engineering and Product leads on long-term initiatives.
+
+About You
+
+First things first, as a disruptor in the global market research industry, we haven’t come this far without entrepreneurial spirit and a get-up-and-go attitude. So if you think we’ll see that in you, then you’re already halfway there. Here’s the rest of what we’d like you to bring to the table.
+
+Technical
+
+This role requires someone with strong technical coding proficiency, who is confident working with large, complex datasets, with understanding of a range of contemporary statistical techniques.
+
+The Essentials
+• Suitable educational qualifications in mathematical / computational / statistical sciences.
+• Excellent communication and presentation skills in English.
+• Familiarity working with high-dimensional categorical data, in particular panel and survey data
+• Experience with statistical methodologies including:
+• Hypothesis testing
+• Regression analysis
+• Correspondence analysis
+• Cluster analysis
+• Non-parametric statistics
+• Knowledge of the use of large language models for use in natural language processing.
+• High level of coding proficiency in a technical language.
+• A good understanding of the relevant software stacks for data analytics, statistics and machine learning.
+
+Competencies
+• Gain a strong understanding of the business strategy and be able to apply it to your own projects.
+• Escalate any problems to senior leaders in a timely fashion, and ensure all projects are appropriately resourced and managed.
+• Enjoy working as part of a team, enjoy collaborating and spearhead open and honest communication.
+• You really enjoy working with others to establish and maintain collaborative relationships, you value all feedback and you’re always eager to learn.
+• Working knowledge of delivery tools and other collaborative tools.
+• Familiarity with cloud data wrangling and data analytics services is beneficial.
+
+Our Benefits
+
+Great benefits make a big difference. Not just to employees, but to the whole vibe of a business. That’s why when you work for us, you’ll enjoy a full spectrum of generous perks, rewards and office benefits.
+• Competitive salary and performance-based bonus
+• Generous training budget, including a fully paid international conference each year
+• 25 days holiday and Christmas office closure days on top
+• Allocated shares according to GWI’s share scheme
+• A range of discounts and freebies
+• Accredited learning and development programs
+• Enhanced primary caregiver and co-caregiver’s benefits
+• Flexitime and a great work-life balance
+• Private health insurance plan
+• Referral bonus scheme
+• Mobile phone contract
+• Early finishes on Fridays
+• A well-stocked fridge and plenty of snacks (some healthy, some not so healthy)
+• Restaurant Ticket card option
+• Commit a working day to charity each year
+• Social activities and team outings
+
+Who We Are
+
+GWI was founded with the knowledge that understanding your audience is really important for business. When you know who you’re speaking to and why, you can create content and campaigns that stand out to the people that matter.
+
+Through our global online survey, we gather data on the behaviour and perceptions of consumers across the world. This provides businesses with deep, actionable insights on their audience, revealed from data they trust.
+
+Diversity & Inclusion
+
+Imagine if our data came from just one kind of person. We’d get a very nuanced view of the world. And we definitely wouldn’t have got off the ground as a business.
+
+Although things certainly aren’t perfect, we live in a society where differences are increasingly celebrated – so we’d expect nothing else from our teams. In fact, the GWI office is as diverse as our global data, it’s really important to us that it stays that way. This is a place to feel at home, express yourself freely and make your mark"
+Junior Data Scientist,2023-01-13,2023-01-30 12:22:24,https://www.google.com/search?q=Machine+Learning+Jobs+Greece&ibp=htl;jobs&sa=X&ved=2ahUKEwizlvCNgvD8AhVXJDQIHTZvCggQutcGKAF6BAgWEAU#htivrt=jobs&htidocid=4gPeLV5RjvcAAAAAAAAAAA%3D%3D&fpstate=tldetail,PeopleCert,Full-time,NA,"Athens, Greece","Are you interested in working with a leading education technology player, the global leader in the assessment and certification of professional skills industry with a presence in more than 200 countries worldwide? If so, this is the chance to apply now! 📥
+
+PeopleCert is looking for a Junior Data Scientist. The successful candidate will work directly alongside data scientists to identify patterns for software optimization, cost reduction, services improvement, data monetization, and market analysis. You will work with key stakeholders such as Sales & Marketing, Finance, and Accounting, Procurement and Logistics, Security, Operations, and Software Development leadership.
+
+As a Junior Data Scientist, your tasks will include the following:
+• Accelerate data analysis through the development and application of efficient machine-learning models
+• Visualize quality metrics in the areas of software development, finance, sales, marketing, operations, and security across a highly varied series... of real-world scenarios
+• Establish ETL (Extract, Transform and Load) and/or ELT pipelines between a wide variety of data input sources and output targets
+• Educate key stakeholders in interpreting all visualized metrics
+• Contribute to the data science technical roadmap of the DMO
+• Contribute to Power BI data models, BI reports, and data science deliverables.
+• Serve ad-hoc internal data analysis as-a-service requests
+• Contribute to the establishment of an internal cross-functional data science community of practice
+• Follow best practices in secure software development and comply with DMO software development guidelines
+• Report on performance and security issues and suggest improvements
+• Update relevant documentation in MS Teams
+
+What we look for:
+• Undergraduate and graduate degrees combining knowledge in the areas of Computer Science and Business Management.
+• Excellent command of the English language (C2 level certification desired, LanguageCert C2 LTE or C2 IESOL certificate would be a plus) and excellent interpersonal, verbal, and written communication skills.
+• Minimum 1 year of working experience or related academic experience (master’s degree) in software development and analytics within commonly used programming languages like Python or equivalent
+• Experience using data visualization tools such as Microsoft Power BI
+• Experience with cloud technologies (MS Azure is preferred)
+• Experience with big data technologies such as Apache Spark and Databricks
+• Experience with Machine learning methods (Regression, classification) and statistical methods.
+• Experience working within an agile environment
+• Strong commitment to quality and delivery timelines, proactive, team player.
+
+What we offer:
+• Competitive remuneration package
+• Work in an international, dynamic and fun atmosphere
+• Two free vouchers for all certifications from PeopleCert's Portfolio per year for all employees
+• Complimentary coffee and tea in all our premises
+• Huge learning experience in using best practices and global environment
+• Constant personal and professional development
+• 100% Virtual Hiring Process
+
+If you want to become a member of our international, dynamic and agile team that creates world leading software products, then we should certainly like to hear from you!
+
+About PeopleCert
+
+PeopleCert is a global leader in assessment and certification of professional skills, partnering with multi-national organizations and government bodies for the development & delivery of standardized exams. Delivering exams across 200 countries and in 25 languages over its state-of-the-art assessment technology, PeopleCert enables professionals to boost their careers and realize their life ambitions.
+
+Quality, Innovation, Passion, Integrity are the core values which guide everything we do.
+
+Our offices in UK, Greece, and Cyprus boast a culture of diversity, where everyone is different, yet everyone fits in. All of us at PeopleCert are committed to the reflection of the diversity and inclusion of our customers and the communities in which we do business.
+
+Working on Home Office (HO) Secure English Language Tests (SELTs)
+
+Any person who is engaged by PeopleCert to work on the SELT service must undergo a Background Check (the results of which must be acceptable to PeopleCert and the HO) prior to commencing their SELT duties. All SELT personnel will be required to complete a declaration (provided by PeopleCert) where the existence of any criminal record and/or bankruptcy must be declared.
+• If working on the SELT service in the UK, background checks will include:
+• A basic or enhanced Disclosure Barring Service (DBS) check
+• Right to Work in the UK check (including nationality, identity and place of residence)
+• HO security check (Baseline Personnel Security Standard (BPSS) or Counter Terrorist Check (CTC)
+• Financial background check
+• Employment reference check.
+• If working on the SELT service anywhere in the world (outside of the UK) personnel will undergo background checks that are equivalent to those stated for the UK.
+
+In addition, if personnel are required to speak to SELT candidates they must be appropriately skilled in English language and, where SELT services are provided anywhere in the world (outside of the UK), the official language of the relevant country.
+
+All applications will be treated with strict confidentiality"
+Data Scientist,2023-01-10,2023-01-30 12:22:25,https://www.google.com/search?q=Machine+Learning+Jobs+Greece&ibp=htl;jobs&sa=X&ved=2ahUKEwizlvCNgvD8AhVXJDQIHTZvCggQutcGKAF6BAgWEAU#htivrt=jobs&htidocid=ON9Az-KewDIAAAAAAAAAAA%3D%3D&fpstate=tldetail,Kaizen Gaming,Full-time,NA,"Athens, Greece","We are Kaizen Gaming
+
+Kaizen Gaming is the leading GameTech company in Greece and one of the fastest-growing in Europe, with the Stoiximan brand in Greece and Cyprus and Betano in Germany, Romania, Bulgaria, Czech Republic, Portugal, Brazil, Chile, Peru, Ecuador and Canada. Our aim is to leverage cutting-edge Technology in order to provide the optimum experience to those who trust us for their entertainment.
+
+Let's start with the role
+
+We are looking for a highly motivated professional to join our awesome Data Science team within the BI & Analytics department and drive better business decisions by leveraging impactful scientific techniques in a rapidly growing Big Data reality.
+
+Responsibilities:
+
+In this role you will:
+• Leverage your analytical, statistical and programming skills to collect, analyze, and interpret large data sets
+• Implement statistical and Machine Learning methodologies and data analysis techniques to address challenging business questions
+• Combine data science... with data engineering aspects in order to help the monitoring and maintenance of model pipelines (training, scoring, testing)
+• Translate data science concepts into business language through effective storytelling
+• Develop, deploy and maintain online tools and dashboards including analytical outputs, to be consumed by different parts of the business
+• Build strong relationships with a wide range of business partners, identify business problems and propose and implement data science methods to address them
+• Contribute to establishing a strong data culture across the organization
+
+Requirements:
+• Bachelor’s/Master’s degree in a quantitative discipline such as data science, statistics, mathematics, computer science, engineering, economics, operations research or similar
+• At least 2 years of working experience in an advanced analytics, statistical or quantitative role
+• Proficiency in Data Science scripting (in SQL / Python / Scala), with exposure to cloud technologies
+• Great knowledge of advanced analytics techniques that include both supervised and unsupervised learning algorithms for propensity/predictive modeling, forecasting, customer segmentation
+• Exceptional data storytelling skills and the ability to articulate technical information to a non-technical audience
+• Experience with Microsoft Power BI or other dashboarding tool, such as Tableau
+• The ability to prioritize, meet deadlines and identify opportunities with limited oversight
+• High drive, can-do attitude, proactive and flexible to changing business demands
+• Fast learner and easy adopter of new technologies, analytical tools and methods
+• Fluent in English
+
+Kaizen Gaming Perks
+
+🏃 A buddy will support you with your onboarding;
+
+💸 Competitive salary package and bonus scheme;
+
+📚 Unlimited access to Udemy & continuous training for all your learning and development needs;
+
+👩⚕️ Health and life insurance for you and your family;
+
+💰 Monthly allowance for lunch & commuting expenses;
+
+⭐Clear career paths and a developmental 360° feedback framework;
+
+✈️ Relocation package and ""Brain Gain"" relocation bonus for Greek expats"
+DevOps Engineer,2023-01-09,2023-01-30 12:22:25,https://www.google.com/search?q=Machine+Learning+Jobs+Greece&ibp=htl;jobs&sa=X&ved=2ahUKEwizlvCNgvD8AhVXJDQIHTZvCggQutcGKAF6BAgWEAU#htivrt=jobs&htidocid=JuCGGHM_nMoAAAAAAAAAAA%3D%3D&fpstate=tldetail,Cognitiv+ : Intelligent Document Review,Full-time,NA,"Athens, Greece","About Cognitiv+
+
+Cognitiv+ automates and accelerates document review and insight. We are experts in Natural Language Processing (NLP), Vision AI and Deep Learning (DL) for document analysis. We have a suite of products that automate document understanding and decision-making with a special focus on contract and regulatory analysis.
+
+The company is based in London and Athens and this role is for the Athens office, which is currently in a fantastic open space in the historic centre downtown.
+
+Your Role
+
+We are looking for a passionate DevOps professional that will help us to support the needs of our international customers and internally our Data science and Development team. The successful candidate will join our local team (based in Athens) and be responsible for operating, monitoring, deploying, supporting and improving the infrastructure, systems and processes used to run our product solution on cloud and clients' on-premise infrastructures.
+
+Candidates from all professional levels... are welcome!
+
+Our stack:
+• Sveltekit app (JS and node.js)
+• Python AI and NLP services
+• Go microservices
+• Rust ML serving
+• Build on Circle CI
+• Running on Azure cloud Kubernetes
+• NATS streams
+• Persisting data to ArangoDB and MinIO
+• Being monitored by Prometheus, Grafana and Loki for logs
+
+What you would be working on:
+• Deploying our platform to customers (on-premise)
+• Providing (technical) support regarding system-related issues
+• Monitoring and updating the platform
+• Keep track of production systems
+• Updating/Improving our CI system
+• Supporting the engineering and the data science team
+• Work with the team to further expand the platform and automate processes
+
+Need to have:
+• Docker Knowledge
+• GCP and/or Azure cloud services experience
+• Monitoring
+• Kubernetes experience
+• CI/CD experiences with any of Jenkins/circle ci/GitLab ci/ Travis
+• System Administration Skills
+• Scripting in bash
+• Knowledge and understanding of Web applications
+
+Nice to have:
+• Some experience with configuration management tools (Ansible)
+• Be able to understand some js and python code
+• Database Knowledge (Mongo)
+• Istio
+
+Skills and Competencies:
+
+- Bachelor's degree in Computer Science or equivalent subject.
+
+- Strong fundamental computer science skills
+
+- Strong problem-solving skills and analytical thinking.
+
+- Excellent communication skills in English (written and verbal).
+
+Benefits:
+• A competitive compensation plan with opportunity for advancement.
+• Direct interaction with some of the largest companies in Europe and the USA, where we change how people review documents using NLP and DL.
+• Professional Development through real projects, coaching and training.
+• Flexible working hours and ability to occasionally work from home
+• An incredible team that will challenge and respect you.
+• Our work location is at the heart of Athens.
+• Private Medical Insurance.
+
+Cognitiv+ Statement
+
+Cognitiv+ is an equal opportunity employer and considers qualified applicants for employment regardless of race, gender, gender identity, gender expression, age, colour, religion, disability, veteran's status, sexual orientation, or any other protected factor.
+
+Questions? Contact: jobs@cognitivplus.com"
+Data Engineer (Oracle ETL Specialist),NA,2023-01-30 12:22:26,https://www.google.com/search?q=Machine+Learning+Jobs+Greece&ibp=htl;jobs&sa=X&ved=2ahUKEwizlvCNgvD8AhVXJDQIHTZvCggQutcGKAF6BAgWEAU#htivrt=jobs&htidocid=__CYsQp3gvAAAAAAAAAAAA%3D%3D&fpstate=tldetail,Satori Analytics,Full-time,NA,"Athens, Greece","Satori is an Analytics Agency made with one simple vision: to give clarity in decision making through data analytics.
+
+Whether it’s a cloud-based big data ecosystem for a global fintech or a machine learning model predicting churn for a leading airline group, Satori develops cutting edge analytics solutions, providing real value to its clients. Services cover the whole data lifecycle from ingestion and warehousing to ML and AI applications.
+
+Satori is a scale-up, well on track to become the leading data and analytics company in South-Eastern Europe and already a team of a 50+ specialized tech team consisting of Data Scientists, Software Engineers, QAs, and CRM Specialists, delivering innovative data, tech, and customer experience solutions. The majority of our clients are household names and global brands in FMCG, retail, ecommerce, financial services, and travel, with a footprint in Greece but also across Europe and beyond.
+
+We are currently looking for a Data Engineer with... significant exposure in ETLs in the Oracle environment to work exclusively with one of our top clients, one of the largest and most well-respected Telco companies in the country.
+
+What’s your day-to-day
+
+You will be working in a vibrant, fast-paced environment, so you can never expect to have just another typical day at work. Sometimes you will feel out of your comfort zone, but you will probably never feel bored.
+
+On any particular day you will be doing several of the following:
+• Design and implement data flows and pipelines from various data sources (SAP, Data Warehouse, Legacy System) in order to feed data to Google Cloud Platform
+• Work closely with Solution Architects and Big Data Engineers to develop ETL processes and flows in order to transfer historical data to GCP.
+• Work closely with Product Owners and stakeholders to understand business needs and objectives.
+• Migrate existing data from database and legacy systems using ETL processes (Oracle, ODI, etc.).
+• Transfer already in-place procedures and flows from database/systems (e.g. Data Warehouse) to GCP.
+• Review existing architecture and processes for making recommendations to relevant stakeholders and implementing enhancements and optimizations.
+• Document your work and continuously improve your workflow.
+
+Your professional expertise
+
+In order to be considered for the role you would have:
+• A university degree or master’s degree in Information Technology, Computer Science, or another relative discipline
+• 1+ years of working experience in Engineering projects (Strong data warehouse understanding is a prerequisite)
+• Experience in Design and Architecture of solutions based on Oracle Technologies
+• Hands-on experience in Oracle RDBMS, SQL, and PL/SQL
+• Expertise in Oracle Data Integrator (ODI) and/or Oracle Data Warehouse Builder (DWB)
+• Strong knowledge in SQL, tuning skills and Oracle database design
+• Good knowledge of Data Marts, Data warehousing, OLAP, ODS, Data Modeling and Dimensions Tables using Oracle technologies
+• Knowledge of best practices around indexing and query performance
+• Business analysis and requirements gathering
+• Fluent English, spoken and written
+
+It will be considered a strong plus if you have some of the following:
+
+Experience in:
+• Big Data pipelines
+• Cloud Technologies (GCP, AWS, Azure, etc.)
+• ETL tools (SSIS, Azure Data Factory, AWS Glue, AWS Data Pipeline etc.
+
+Exposure to:
+• the Telco industry
+• Marketing automation platforms such as Pega, Unica, or Salesforce
+• Agile methodologies (Scrum/ Kanban etc)
+
+You’ll thrive in this role if you are a doer who enjoys getting your hands dirty; a go-getter who is the driving force pushing projects forward.
+
+You have a positive attitude; you care not only about your job but for the team.
+
+You proactively communicate with the team because you understand that communication is key to effective collaboration. Everyone wants to work with you!
+
+Benefits
+
+Our most important perk is offering you an energy-laden workplace, serving a big-brand client working with some of the market’s top talent, and an opportunity to see your work affecting big real-life business decisions.
+
+Apart from that, here are some highlights:
+• Opportunity to work as part of a leading brand in Greece and internationally
+• Competitive salary based on experience
+• Hybrid working conditions
+• Private Insurance
+• A great and fast laptop to do your magic"

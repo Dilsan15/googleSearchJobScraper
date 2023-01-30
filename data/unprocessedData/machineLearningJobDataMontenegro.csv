@@ -1,0 +1,60 @@
+Job-Title,Date-Posted,Date-Scraped,Url,Company,Job-Type,Salary,Location,Description
+Lead Machine Learning Engineer,NA,2023-01-30 12:30:35,https://www.google.com/search?q=Machine+Learning+Jobs+Montenegro&ibp=htl;jobs&sa=X&ved=2ahUKEwiY-Lb9g_D8AhXuHzQIHY7JCIsQutcGKAF6BAgXEAU#htivrt=jobs&htidocid=mF702V_IouMAAAAAAAAAAA%3D%3D&fpstate=tldetail,EPAM Systems,Full-time,NA,Montenegro,"Description
+
+You are strategic, resilient, engaging with people and a natural self-starter. You have a passion for solving complex problems. If this sounds like you, this could be the perfect opportunity to join EPAM as a Lead Machine Learning Engineer. Scroll down to learn more about the position’s responsibilities and requirements.
+
+WHAT YOU’LL DO
+• Responsible for the transition of machine learning algorithms to production environment and integration with enterprise ecosystem
+• Design, create, maintain, troubleshoot, and optimize the complete end-to-end machine learning life cycle, which includes
+• machine-learning model optimization
+• data preparation
+• feature extraction
+• model performance monitoring
+• AB/Canar/Bluegreen/etc. testing
+• Integration with Enterprise ecosystem/IoT devices/Mobile devices
+• Write specifications, documentation, and user guides for developed solutions
+• Build frameworks for data scientists to accelerate the development of production-grade machine... learning models
+• Collaborate with data scientists and engineering team to optimize the performance of ML pipeline
+• Aid In improvement of SDLC practices
+• Exploration of new tools and techniques and propose improvements
+• Establish and configure CI/CD/CT processes
+• Design and maintain ML models continuous training
+• Provide capabilities for early detection of various drifts (data, concept, schema., etc.)
+• Continuously identify technical risks and gaps, devise mitigation strategies
+• Identify and eliminate technical debt in machine learning systems
+
+WHAT YOU HAVE
+• Experience in Enterprise Software Development for 5+ years
+• Solid background in Machine Learning for 3+ Years
+• Experience with designing, building and deploying production applications and data pipelines
+• Experience in development of highly available, largely scalable, ML driven applications and systems
+• Experience with cloud native services: GCP, AWS, Azure
+• Able to work closely with customers and other stakeholders
+• Strong knowledge and experience in Python development
+• Deep understanding of Python ML ecosystem (pytorch, tensorflow, numpy, pandas, sklearn, XGBoost)
+• Hands-on experience in implementation of Data Products
+• Deep understanding of data preparation and feature engineering
+• Understanding of Apache Spark Ecosystem (Spark SQL, MLlib/Spark ML)
+• Deep hands-on experience with implementation of SDLC best practices in complex IT projects
+• Experience with automated data pipeline and workflow management tools (Airflow)
+• Knowledge and experience in computer science disciplines such as data structures, algorithms, and software design patterns
+• Hands-on experience in different data processing paradigms (batch, micro-batch, streaming)
+• Deep understanding of MLOps concepts and best practices
+• Experience with some of the MLOps related platform/technology such as AWS SageMaker, Azure ML, GCP Vertex AI / AI Platform, Databricks MLFlow, Kubeflow, Airflow, Argo Workflow, TensorFlow Extended (TFX), etc
+• Production experience in integrating ML models into complex data-driven systems/IoT device/Mobile devices
+• Experience with basic software engineering tools (CI/CD environments such as Jenkins or Buildkit, PyPi, Docker, Kubernetes)
+• Experience with one of the infrastructures as a code (IoC) framework (Terraform/CDK TF, Ansible, AWS CloudFormation / AWS CDK)
+
+WE OFFER
+• Outstanding career development opportunities with a transparent roadmap to accelerate your journey
+• Knowledge sharing within the community of 61,300+ industry’s top professionals worldwide
+• Wide range of professional training, workshops, and mentoring programs plus unlimited access to LinkedIn Learning
+• Learning resources and financial support for completing certification programs
+• Competitive salary plus annual bonuses for showing outstanding results
+• Flexible working schedule and opportunity to work remotely from any place in Montenegro
+• Friendly team, and enjoyable working environment
+• Relocation opportunities within our offices in 50+ countries
+• Corporate health insurance and the possibility of buying private health insurance for the family at a corporate price
+
+ABOUT EPAM
+• We are a team of 61,300+ technologists, strategists, and designers in 50+ countries. EPAMers help leading brands transform their business through our engineering expertise, design thinking, and business consulting. We foster creativeness and unconventional ways of doing things welcoming like-minded professionals. Our newly opened office in Montenegro is growing fast and offering myriad challenges for you to explore"
